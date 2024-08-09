@@ -1,0 +1,92 @@
+[
+    {
+        "Text": "Lens as a probe of sterile neutrino mediated oscillations",
+        "Context": "Sterile neutrino (s) conversion in meter scale baselines can be sensitively probed nusing mono-energetic, sub-MeV, flavor puree\u2019s from an artificial MCi source and the unique technology of the LENS low energy solar e detector. Active-sterile oscillations can be directly observed in the granular LENS detector itself to critically test and extend results of short baseline accelerator and reactor experiments.",
+        "Question": "What is the LENS low energy solar e detector?",
+        "Answer": "granular",
+        "BLEU_Score": 0.0022708218103435754,
+        "ROUGE_Score": 0.19444444444444445,
+        "BERTScore": 0.7890400886535645
+    },
+    {
+        "Text": "A superfluid helium converter for accumulation and extraction of ultracold neutrons.",
+        "Context": "We report the first successful extraction of accumulated ultracold neutrons (UCN) from a converter of superfluid helium, in which they were produced by downscattering neutrons of a cold beam from the Munich research reactor. Windowless UCN extraction is performed invertical direction through a mechanical cold valve. This prototype of a versatile UCN source is comprised of a novel cryostat designed to keep the source portable and to allow for rapid cooldown. We measured time constants for UCN storage and extraction into a detector at room temperature, with the converter held at various temperatures between 0.7 and 1.3 K.The UCN production rate inferred from the count rate of extracted UCN is close to the theoretical expectation.",
+        "Question": "What is the expected production rate of UCN?",
+        "Answer": "close to the theoretical expectation",
+        "BLEU_Score": 1.5063868418329933e-160,
+        "ROUGE_Score": 0.09523809523809525,
+        "BERTScore": 0.8436622023582458
+    },
+    {
+        "Text": "Magnetic field generation in planets and satellites by natural nuclear fission reactors",
+        "Context": "One of the most fundamental problems in physics has been to understand the nature of the mechanism that generates the geomagnetic field and the magnetic fields of other planets and satellites. For decades, the dynamo mechanism, thought to be responsible for generating the geomagnetic field and other planetary magnetic fields, has been ascribed to convection in each planet\u2019s iron-alloy core. Recently, I described the problems inherent in Earth-core convection and proposed instead that the geomagnetic field is produced by convection in the electrically conductive, fluid, fission-product sub-shell of a natural nuclear fission reactor at the center of the Earth, called the georeactor. Here I set forth in detail the commonality in the Solar System of the matter like that of the inside of the Earth, which is my basis for generalizing the concept of planetary magnetic field generation by natural planetocentric nuclear fission reactors.",
+        "Question": "What is the name of the dynamo mechanism that generates the geomagnetic?",
+        "Answer": "georeactor",
+        "BLEU_Score": 4.927393159520729e-06,
+        "ROUGE_Score": 0.09937888198757763,
+        "BERTScore": 0.7963588833808899
+    },
+    {
+        "Text": "The double chooz reactor neutrino experiment",
+        "Context": "The Double Chooz reactor neutrino experiment will be the next detector to search for a non vanishing 13 mixing angle with unprecedented sensitivity, which might open the way to unveiling CP violation in the leptonic sector. The measurement of this angle will be based in a precise comparison of the antineutrino spectrum at two identical detectors located at different distances from the Chooz nuclear reactor cores in France. Double Chooz is particularly attractive because of its capability to measure sin2(213) to 3 if sin2(213) > 0.05 or to exclude sin2(213) down to 0.03 at 90% C.L. for m2 = 2.5 \u00d7 10\u22123 eV2 in three years of data taking with both detectors. The construction of the far detector starts in 2008 and the first neutrino results are expected in 2009. The current status of the experiment, its physics potential and design and expected performance of the detector are reviewed.",
+        "Question": "What is the potential for a nonvanishing 13 mixing angle?",
+        "Answer": "unprecedented sensitivity",
+        "BLEU_Score": 8.608952246480869e-161,
+        "ROUGE_Score": 0.07317073170731707,
+        "BERTScore": 0.7938941717147827
+    },
+    {
+        "Text": "Climate control using nuclear energy",
+        "Context": "We examine implications of anthropogenic low pressure regions, - created by injecting heat from nuclear reactors, into atmosphere. We suggest the possibility that such artificially generated low pressure regions, near hurricanes could disrupt their growth, path, and intensity. This method can also create controlled tropical stroms, which lead to substantial rainfall in arid areas, such as - (1)Sahara desert, (2) Australian interior desert, and (3) Indian Thar desert. A simple vortex suction model is developed to study, effect on atmospheric dynamics, by such a nuclear heat injection system.",
+        "Question": "What is the effect of a nuclear heat injection system on atmospheric dynamics?",
+        "Answer": "vortex suction model",
+        "BLEU_Score": 0.0008158270256647406,
+        "ROUGE_Score": 0.14,
+        "BERTScore": 0.8321300148963928
+    },
+    {
+        "Text": "Estimating terrestrial uranium and thorium by antineutrino flux measurements",
+        "Context": "Uranium and thorium within the Earth produce a major portion of terrestrial heat along with a measurable flux of electron antineutrinos. These elements are key components in geophysical and geochemical models. Their quantity and distribution drive the dynamics, define the thermal history, and are a consequence of the differentiation of the Earth. Knowledge of uranium and thorium concentrations in geological reservoirs relies largely on geochemical model calculations. This research report describes the methods and criteria to experimentally determine average concentrations of uranium and thorium in the continental crust and in the mantle using site-specific measurements of the terrestrial antineutrino flux. Optimal, model-independent determinations involve significant exposures of antineutrino detectors remote from nuclear reactors at both a mid-continental and a mid-oceanic site. This would require major, new antineutrino detection projects. The results of such projects could yield a greatly improved understanding of the deep interior of the Earth.",
+        "Question": "What is the main reason for the study of uranium and thorium?",
+        "Answer": "",
+        "BLEU_Score": 4.686835422880665e-83,
+        "ROUGE_Score": 0.0736196319018405,
+        "BERTScore": 0.0
+    },
+    {
+        "Text": "Accumulation and extraction  of ultracold neutrons from a superfluid helium converter coated with fluorinated grease ",
+        "Context": "We report experiments on the production of ultracold neutrons (UCN) in a converter of superfluid helium coated with fluorinated grease. We employed our technique of window-free extraction of accumulated UCN from the helium, in which they were produced by downscattering neutrons of a cold beam from the Munich research reactor. The time constant for UCN passage through the same extraction aperture as in a previous experiment was a factor two shorter, despite a lower mean velocity of the accumulated UCN in the present experiments.A time-of-flight measurement of the cold neutron spectrum incident on the converter allowed us to estimate the multi-phonon contribution to the UCN production. The UCN production rate inferred from two methods agrees with the theoretical expectation.",
+        "Question": "What was the result of the window-free extraction of accumulated UCN from the heli?",
+        "Answer": "downscattering neutrons of a cold beam from the Munich research reactor",
+        "BLEU_Score": 0.0002782980966762278,
+        "ROUGE_Score": 0.14388489208633093,
+        "BERTScore": 0.859170138835907
+    },
+    {
+        "Text": "Diffraction coefficients of a semiinfinite planar crack embedded in a transversely  isotropic space.",
+        "Context": "We have considered a semi-infinite crack embedded in a transversely isotropic medium and studied two special cases, one, in which the axis of symmetry is normal to the crack face and the wave incidence is arbitrary and another, in which the axis lies in the crack plane normal to the edge and the incident wave vector is also normal to the edge. The problem is of interest in Non-Destructive Evaluation, because austenitic steels that are found in claddings and other welds in the nuclear reactors are often modeled as transversely isotropic. In both of cases, we have expressed the scattered field in a closed form and computed the corresponding diffraction coefficients.",
+        "Question": "What is the problem with non-destructive evaluation?",
+        "Answer": "austenitic steels that are found in claddings and other welds in the nuclear reactors are often modeled as transversely isotropic .",
+        "BLEU_Score": 5.201624138484964e-238,
+        "ROUGE_Score": 0.09917355371900827,
+        "BERTScore": 0.8782958388328552
+    },
+    {
+        "Text": "Energy Realpolitik: Towards a Sustainable Energy Strategy",
+        "Context": "A long-term strategy based on existing technological, ecological, economical, and geopolitical realities is urgently needed to develop a sustainable energy economy, which should be designed with adaptability to unpredicted changes in any of these aspects. While only a highly diverse energy portfolio and conservation can ultimately guarantee optimum sustainability, based on a comparison of current primary energy generation methods, it is argued that future energy strategy has to rely heavily on expanded coal and nuclear energy sectors. A comparison of relative potentials, merits and risks associated with fossil-fuel, renewable, and nuclear technologies suggests that the balance of technologies should be shifted in favor of new-generation, safe nuclear methods to produce electricity, while clean-coal plants should be assigned to transportation fuel. Novel nuclear technologies exploit fission of uranium and thorium as primary energy sources with fast-spectrum and transmutation (burner) reactors. A closed fuel cycle and waste transmutation resolve the strategic issues associated with nuclear power. Innovative reactor designs utilize spallation of heavy metalsin subcritical accelerator driven systems or molten-salt reactors. Importation and reconstruction of technical expertise already lost and aversion of further erosion are preconditions to any successful energy strategy.Research opportunities to perfect innovative nuclear, coal, and renewable energy technologies should be pursued.",
+        "Question": "What is the main reason for a sustainable energy economy?",
+        "Answer": "A long - term strategy based on existing technological , ecological , economical , and geopolitical realities",
+        "BLEU_Score": 1.923308412510914e-86,
+        "ROUGE_Score": 0.045662100456621,
+        "BERTScore": 0.8565137982368469
+    },
+    {
+        "Text": "Multiple Extremal Eigenpairs by the Power Method",
+        "Context": "We report the production and benchmarking of several refinements of the power method that enable the computation of multiple extremal eigenpairs of very large matrices. In these refinements we used an observation by Booth that has made possible the calculation of up to the th eigenpair for simple test problems simulating the transport of neutrons in the steady state of a nuclear reactor.\r\nHere, we summarize our techniques and efforts to-date on determining mainly just the two largest or two smallest eigenpairs. To illustrate the effectiveness of the techniques, we determined the two extremal eigenpairs of a cyclic matrix, the transfer matrix of the two-dimensional Ising model, and the Hamiltonian matrix of the one-dimensional Hubbard model.",
+        "Question": "What is the difference between the two extremal eigenpairs of a?",
+        "Answer": "cyclic matrix",
+        "BLEU_Score": 2.626461815683937e-05,
+        "ROUGE_Score": 0.10769230769230768,
+        "BERTScore": 0.794133186340332
+    }
+]
