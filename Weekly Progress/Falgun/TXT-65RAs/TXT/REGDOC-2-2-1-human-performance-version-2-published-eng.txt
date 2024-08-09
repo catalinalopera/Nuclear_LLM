@@ -1,0 +1,690 @@
+ 
+ 
+Human performance management 
+Human Performance  
+REGDOC-2.2.1, Version 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 2023 
+ 
+ 
+ 
+ 
+Human Performance 
+Regulatory document REGDOC-2.2.1, Version 2 
+© Canadian Nuclear Safety Commission (CNSC) 2023 
+Cat. No. CC172-207/2023E-PDF 
+ISBN 978-0-660-69078-0 
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the CNSC. 
+Également publié en français sous le titre : REGDOC-2.2.1, Performance humaine, version 2 
+Document availability 
+This document can be viewed on the CNSC website. To request a copy of the document in English or 
+French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, ON  K1P 5S9 
+Canada 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Fax: 613-995-5086 
+Email: cnsc.info.ccsn@cnsc-ccsn.gc.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+LinkedIn: linkedin.com/company/cnsc-ccsn 
+Publishing history 
+December 2023 
+, Version 2 
+October 2000, P-119, Policy on Human Factors 
+March 2019, REGDOC-2.2.1, Human Factors 
+ 
+ 
+December 2023 
+REGDOC-2.2.1, Human Performance, Version 2 
+ 
+ 
+i 
+  
+Preface 
+This regulatory document is part of the CNSC’s human performance management series, which also 
+covers personnel training, personnel certification, fitness for duty and minimum staff complement. The 
+full list of regulatory document series is included at the end of this document and can also be found on the 
+CNSC’s website. 
+Regulatory document REGDOC-2.2.1, Human Performance, clarifies requirements and provides 
+guidance for understanding and managing considerations related to the humans, technology and 
+organization within a business, with the aim of achieving safe and effective human performance.  
+This document is the second version and supersedes REGDOC-2.2.1, Human Factors, published in 
+March 2019. 
+A graded approach, commensurate with risk, may be defined and used when applying the requirements 
+and guidance contained in this regulatory document. The use of a graded approach is not a relaxation of 
+requirements. With a graded approach, requirements are applied in proportion to risks and particular 
+characteristics of the facility or licensed activity. 
+For information on the implementation of regulatory documents and on the graded approach, see 
+REGDOC-3.5.3, Regulatory Fundamentals [1]. 
+The words “shall” and “must” are used to express requirements to be satisfied by the licensee or 
+licence applicant. “Should” is used to express guidance or that which is advised. “May” is used to 
+express an option or that which is permissible within the limits of this regulatory document. “Can” is 
+used to express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+December 2023  
+REGDOC-2.2.1, Human Performance, Version 2 
+ 
+ 
+  
+Table of Contents 
+1. 
+Introduction 
+.................................................................................................................................... 1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant legislation 
+............................................................................................................. 1 
+1.4 
+National and international standards 
+................................................................................... 1 
+2. 
+Context 
+............................................................................................................................................ 2 
+2.1 
+Human performance program ............................................................................................. 2 
+2.2 
+Understanding the influences on human performance 
+........................................................ 2 
+2.3 
+Managing human performance to strengthen safety ........................................................... 3 
+2.4 
+Organizational learning 
+....................................................................................................... 4 
+3. 
+Requirements and Guidance 
+......................................................................................................... 4 
+3.1 
+Documenting the program’s strategy and practices 
+............................................................ 4 
+3.2 
+Implementing a systemic approach 
+..................................................................................... 5 
+3.3 
+Identifying responsibility for human performance ............................................................. 6 
+3.4 
+Developing and sustaining continual improvement 
+............................................................ 6 
+Glossary ....................................................................................................................................................... 8 
+References 
+.................................................................................................................................................. 10 
+ 
+December 2023 
+REGDOC-2.2.1, Human Performance, Version 2 
+ 
+1 
+ 
+Human Performance 
+1. 
+Introduction 
+1.1 Purpose 
+This regulatory document is part of the CNSC’s human performance management series. It 
+clarifies requirements and provides guidance and context on how to meet the requirements 
+associated with a licensee’s human performance program. 
+1.2 Scope 
+This regulatory document contains requirements and guidance applicable to all licensees of 
+Class I nuclear facilities and uranium mines and mills, and to all those applying for a licence for a 
+Class I nuclear facility or for a licence for a uranium mine and mill. For all other applicants and 
+licensees, this document serves as guidance. 
+Note: In this document, the term “licensee” is used to refer to both applicants and licensees.  
+1.3 Relevant legislation 
+The requirements and guidance outlined in this regulatory document are associated with the 
+Nuclear Safety and Control Act and its regulations, including the General Nuclear Safety and 
+Control Regulations, Class I Nuclear Facilities Regulations and Uranium Mines and Mills 
+Regulations. 
+1.4 National and international standards 
+The International Atomic Energy Agency (IAEA) has identified the need for regulators and 
+licensees to address considerations related to the humans, technology and organization (HTO) in 
+a systemic way. This regulatory document incorporates requirements and concepts from the 
+following IAEA standards and guidance: 
+• 
+IAEA Safety Standards Series No. SF-1, Fundamental Safety Principles [2] 
+• 
+IAEA Safety Standards Series No. GSR Part 2, Leadership and Management for Safety [3] 
+• 
+IAEA Safety Standards Series No. GSR Part 3, Radiation Protection and Safety of Radiation 
+Sources: International Basic Safety Standards [4] 
+• 
+IAEA Safety Standards Series No. GS-G-3.5, The Management System for Nuclear 
+Installations [5] 
+• 
+IAEA TECDOC No.1846, Regulatory Oversight of Human and Organizational Factors for 
+Safety of Nuclear Installations [6] 
+ 
+Other important standards that are relevant to this regulatory document include: 
+• 
+CSA Group, N286, Management system requirements for nuclear facilities [7] 
+• 
+ISO International Standard 27500:16 - The human-centred organization – Rationale and 
+general principles [8] 
+• 
+ISO International Standard 27501:2019 - The human-centred organization – Guidance for 
+managers [9] 
+December 2023 
+REGDOC-2.2.1, Human Performance, Version 2 
+ 
+2 
+ 
+2. 
+Context 
+2.1 Human performance program 
+Human performance relates to the work activities carried out by people and teams, as well as their 
+results [6], [10]. These work activities represent the work as it is actually performed, unlike tasks, 
+which are generic descriptions of the work [11], [10]. Improvements can be made by examining 
+the details of the work activities themselves – that is, the practical application of a given task in 
+the real world [12], [13]. 
+Human performance programs are broad in scope and are meant to foster a human-centric view of  
+work activities. In turn, this allows the business to form a better understanding of the work and its 
+context and to enable learning and continual improvement [8], [9], [14]. A well-designed human 
+performance program better enables a business to achieve and sustain desired outcomes by 
+considering the integration of work activities and how people are supported to carry out their 
+work. 
+Within a business, a human performance program provides an overarching view of the factors 
+that influence human performance, including how they are coordinated across the business to 
+support workers and teams in carrying out their work safely and successfully [4]. This includes 
+defining and implementing practices that contribute to excellence in worker performance [7].  
+By using the Safety and Control Area Framework, CNSC staff already consider various discrete 
+factors individually, such as training, human factors in design and fitness for duty. The human 
+performance program does not replace this consideration, but rather complements it by looking at 
+the connections and relationships between the factors that influence work activities. 
+2.2 Understanding the influences on human performance 
+To form a complete picture of human performance, licensees need to take a broad view, known as 
+the systemic1 approach. The systemic approach helps to establish and make explicit the 
+interactions between the humans, technology and organization (HTO) of the business, and is key 
+to understanding, supporting and improving human performance [2], [14], [10]. The HTO 
+concept was established in the nuclear power industry to emphasize the relationships and 
+interdependencies between 3 elements: 
+• 
+The human (H) sub-system includes a combination of physical, physiological, cognitive and 
+social aspects related to people carrying out work activities. 
+• 
+The technology (T) sub-system relates to the technology itself and how technology systems 
+transform inputs to outputs. 
+• 
+The organization (O) sub-system relates to the formal organizing arrangements and processes 
+of the business, which are continually coordinated to achieve the business’ goals, as well as to 
+the informal and social aspects of the work activities. 
+The systemic approach provides a framework for understanding the different perspectives and 
+influences on work activities, which can be explored to increasing degrees of complexity. The 
+ 
+ 
+1Systemic refers to something that is system-wide, affecting or relating to a group or system as a whole, instead of 
+its individual members or parts (not to be confused with systematic, which means methodical). 
+December 2023 
+REGDOC-2.2.1, Human Performance, Version 2 
+ 
+3 
+ 
+sub-systems can be used to describe, analyze and understand work as a dynamic system by 
+looking at what they do and how they interact, to reveal useful information about human 
+performance within the context of the work as it is performed. 
+Looking at the business at different levels can be useful in building a picture of the systems of 
+work, for example [13], [10]: 
+• 
+At an individual level, how a worker, in a given environment, with specific equipment, 
+training, procedures, protective equipment, etc., carries out work activities safely and to the 
+desired standards of performance. This level considers the activity. 
+• 
+At the group level, how teams/departments plan, organize, supervise and resource the work,  
+how they interpret policies and priorities, and how they interface and communicate within 
+their group and with other groups in the business. This level considers the process. 
+• 
+At the business level, how the priorities and policies promoted by management guide and 
+influence organizational culture within groups and among individuals. This level considers 
+the strategy. 
+By understanding the HTO interactions across these levels, licensees are better positioned to 
+move towards an approach to safety where people within a business are supported and 
+empowered to make things go right, rather than simply preventing them from going wrong [11].  
+Continually learning about the factors that influence human performance is one of the 
+fundamental purposes of a human performance program. By collecting information about 
+people’s work activities, and their ability to achieve desired outcomes, as well as the licensee’s 
+performance as a whole, the human performance program can provide a comprehensive, 
+integrated view of how the licensee is achieving or failing to meet its goals related to safety and 
+performance. This approach acknowledges that people are fundamental to safety because their 
+inherent adaptability and flexibility creates resilience, in particular where aspects of the 
+organization and technology are rigid [15] [10]. A key part of a human performance program is 
+recognizing where this human adaptability and flexibility can be leveraged to strengthen safety 
+[12]. 
+2.3 Managing human performance to strengthen safety   
+Analysis of events sometimes stops at the performer—that is, at the individual or team who are 
+seen to be responsible for errors. This stopping point does not allow for effective organizational 
+learning since errors, once analyzed using the systemic approach, are almost always found to be a 
+symptom of deeper issues [15], [13]. The factors that contribute to errors are usually found in 
+multiple places, at multiple levels and across various areas of the business, from design, planning 
+or maintenance to management’s supervision or decision making [16].  
+Licensees can enhance robustness by developing a strong foundation across the HTO system to 
+prevent errors from propagating into problems, at all levels of the business. It starts with 
+understanding error as a human characteristic within a situational context and considering “what 
+happened and why?”, rather than “who caused the problem?” [17], [14]. 
+In a work environment characterized by openness, trust and fairness, where provisions have been 
+made to support the work effectively, people can provide a constant detection and correction 
+function, which is a form of resilience [15]. Another way to introduce resilience within the 
+system is to learn from successful daily work activities, which leaves the business better prepared 
+to deal with the unexpected [18].  
+December 2023 
+REGDOC-2.2.1, Human Performance, Version 2 
+ 
+4 
+ 
+2.4 Organizational learning 
+Safe and successful work can be supported by making it easy for people to do the right thing and 
+difficult for them to do the wrong thing [13]. Actively understanding, learning and putting 
+measures in place to enable work to go well enhances safety. This includes having processes and 
+methods to learn from both success and failure in the business, to understand the work as it is 
+actually done and the system within which the work happens. Supporting the day-to-day work by 
+seeking out and addressing known factors that can disrupt the work and increase workload 
+provides workers with the increased capacity to identify and respond to any abnormal conditions, 
+unusual factors or disruptions. The people who perform the work are often in the best position to 
+offer suggestions for improving safety and performance, as well as to provide insight into how the 
+work is carried out [16], [13]. 
+Building capacity for safety throughout the business needs to be driven by management as a 
+strategic and intentional priority that is active and visible [12]. Management directly supports 
+human performance by providing workers with all that they need to carry out their work activities 
+– such as resources, training and equipment. Management should promote the importance of 
+organizational learning as an ever-present part of the business, as opposed to being a one-off 
+initiative or response to an event.  
+A good practice is to review a given situation with honest enquiry, accept the reality of what is 
+found and in turn to use the understanding gained to learn and improve. A strong foundation for 
+continual learning is created when management fosters an environment where workers are 
+encouraged to report concerns or suggestions for improvement and feel acknowledged when 
+voicing issues, without fear of reprisal [15], [17], [13]. Openness and sharing of information 
+regarding failures or problems is necessary in order to learn and improve.  
+3. 
+Requirements and Guidance 
+3.1 Documenting the program’s strategy and practices 
+The licensee shall document the strategy and practices of their systemic approach for managing 
+human performance by describing:   
+a. the goals and scope of the human performance program 
+b. how the licensee implements a systemic approach to human performance 
+c. how the licensee supports workers in day-to-day work  
+d. how the licensee supports and prepares workers to respond during accidents and emergencies 
+e. the ways in which the business learns about and seeks continual improvement of human 
+performance  
+f. 
+the ways in which the human performance program is monitored and evaluated for 
+effectiveness   
+Guidance 
+Documenting the human performance program can be done through: 
+• 
+a roadmap  
+• 
+an overview that references and describes how management system documents, such as 
+policies, processes, procedures or other documents, relate to human performance 
+December 2023 
+REGDOC-2.2.1, Human Performance, Version 2 
+ 
+5 
+ 
+• 
+a stand-alone document 
+ 
+Licensees are not required to designate a formal human performance program in their 
+management system. However, they should be able to identify the documents within their 
+management system that relate to their human performance measures and which they consider as 
+part of their human performance program. The approach taken should demonstrate that the 
+licensee is addressing the cross-cutting scope and integration of human performance 
+considerations across the business. This information only needs to be presented once. 
+ 
+The goals and scope of the human performance program should specify the departments, 
+processes and/or procedures to which the program applies, and where it applies to contractors and 
+vendors. This can also include the rationale for the program, which explains why a human 
+performance program is important to the licensee’s goals, as well as any risk management 
+framework that has been applied to guide implementation of the program. The application of a 
+risk-informed graded approach is described in REGDOC-3.5.3 [1]. 
+To document the licensee’s systemic approach to human performance, licensees may describe 
+how the collection of elements is taken into account as a whole, including their relationships and 
+influences, such as: 
+• 
+describing any systemic analyses across the business, such as self-assessments, event analyses 
+or audits 
+• 
+identifying any performance indicators and associated data, which should be periodically 
+analyzed 
+• 
+specifying any roles or responsibilities for oversight of human performance across the 
+business 
+ 
+Licensees can demonstrate that they support workers in day-to-day work through training, 
+procedures, supervision, tools, usable equipment, etc. 
+Note that the term workers indicates to anyone in the business who performs work that is referred 
+to in a licence [19], such as knowledge workers, supervisors, managers, front-end workers and 
+contractors. 
+3.2 Implementing a systemic approach 
+The licensee shall implement a systemic approach to managing the human performance program 
+that supports safe and effective work for all workers. 
+Guidance  
+The systemic approach considers human performance within the context in which people work, 
+viewing the business as a system [15], [20], [13], [14], [10]. Licensees should use a systemic 
+approach when analyzing, recording and evaluating the HTO factors associated with: 
+• 
+events and problems 
+• 
+work that is known to be difficult or challenging 
+• 
+work that went well (cases of performance excellence)   
+• 
+feedback and suggestions for improvement from a range of sources   
+• 
+proposed changes to be made  
+December 2023 
+REGDOC-2.2.1, Human Performance, Version 2 
+ 
+6 
+ 
+• 
+outcomes of the changes made 
+Examples of how this can be accomplished include: 
+• 
+establishing a team, made up of a diverse representation of key functions of the business, 
+which is tasked with reviewing events, opportunities for improvement and things that went 
+well from a systemic perspective  
+• 
+creating systems maps to model and illustrate the interconnections in the system 
+• 
+conducting periodic assessments of human performance by analyzing key work activities to 
+understand the gaps between tasks and activities 
+• 
+analyzing the goals, workflows, demands, pressures, conflicts, resources or uncertainties 
+within the system [20] 
+3.3 Identifying responsibility for human performance   
+The licensee shall identify a member of senior management who is responsible for the human 
+performance program and define and document their associated roles, responsibilities and 
+authorities.   
+Guidance 
+Roles and responsibilities for the human performance program should include: 
+• 
+establishing and communicating the goals, vision and core values related to human 
+performance  
+• 
+establishing and maintaining the measures to support the desired human performance, such as 
+policies and processes that enable personnel to raise safety concerns freely 
+• 
+encouraging feedback and suggestions for improvements from across the workforce 
+• 
+establishing the business requirements for the identification and systemic analysis of factors 
+related to human performance in events [3] 
+ 
+3.4 Developing and sustaining continual improvement 
+The licensee shall implement processes to enable the business to understand and learn about 
+factors that influence human performance and to ensure they are considered in continual 
+improvement. 
+Guidance 
+As part of the business’ learning, the licensee should consider goals, such as: 
+• 
+developing knowledge and understanding of work activities and the provisions that support 
+them, using a systemic approach 
+• 
+identifying and sharing results and knowledge across the business so that the systemic nature 
+of work is understood and leveraged 
+• 
+improving work activities to achieve the desired results   
+ 
+When analyzing past performance in order to learn and improve, licensees should consider work 
+as it was done in practice (activities) alongside work as prescribed in procedures (tasks). This can 
+be accomplished through interviews, workers’ feedback, procedure walkdowns or 
+supervisor/manager observations in the field, for example. Another good practice is to analyze the 
+December 2023 
+REGDOC-2.2.1, Human Performance, Version 2 
+ 
+7 
+ 
+context of prospective changes in the business during their development using the systemic 
+approach to understand the factors that influence human performance [14]. 
+Licensees’ processes for learning related to human performance and safety should include: 
+• 
+ways to collect feedback and data on the processes and factors supporting the desired human 
+performance  
+• 
+leadership training on supporting and improving human performance across the business 
+• 
+training for all workers on the aims of learning and improving their work and what this means 
+for their roles 
+• 
+a description of how an environment of openness and trust is fostered to encourage workers to 
+report concerns and problems   
+• 
+event analyses that identify the context of work activities and that are used to understand the 
+specific drivers of human performance 
+• 
+mechanisms for leveraging the knowledge and experience of workers to gain a deep 
+understanding of a given work activity, such as through the learning team approach [21] 
+• 
+evaluation of changes after implementation to measure their impact   
+ 
+ 
+ 
+December 2023 
+REGDOC-2.2.1, Human Performance, Version 2 
+ 
+8 
+ 
+Glossary 
+For definitions of terms used in this document, see REGDOC-3.6, Glossary of CNSC Terminology, which 
+includes terms and definitions used in the Nuclear Safety and Control Act and the regulations made under 
+it, and in CNSC regulatory documents and other publications. REGDOC-3.6 is provided for reference and 
+information. 
+The following terms are either new terms being defined or include revisions to the current definition for 
+that term. Following public consultation, the final terms and definitions will be submitted for inclusion in 
+the next version of REGDOC-3.6, Glossary of CNSC Terminology. 
+(new) 
+activity (activité) 
+with respect to human performance, the actual work carried out by people and teams in a work 
+environment. Also called work as done.  
+ 
+(add) 
+business (entreprise) 
+an organizational entity with accountability to implement all or some of the requirements of CSA-N286-
+12, Management system requirements for nuclear facilities. (Source: CSA-N286-12, Management system 
+requirements for nuclear facilities). 
+ 
+(modify) 
+human factors (HF) (facteurs humains [FH])  
+Factors that influence human performance as it relates to the safety of a nuclear facility or licensed 
+activities over all phases, including design, construction, commissioning, operation, maintenance and 
+decommissioning. Some examples are organizational and management structures; policies and programs; 
+allocation of  functions to humans and machines; the design of user interfaces; staffing provisions; job-
+design features; work schedules; design of procedures; training; and the physical work environment.  
+See HTO and systemic approach.  
+ 
+(modify) 
+human performance (performance humaine) 
+Human activities carried out in a work setting and the results of these activities. See activity and task.  
+(additional acronym) 
+HTO (HTO) 
+Humans, technology and organization  
+(new) 
+human performance program (programme de performance humaine) 
+A group of management system elements, such as policies, processes and procedures, which are related to 
+human performance and that are implemented and managed in a coordinated way.  
+(new) 
+systemic approach (approche systémique) 
+An approach in which an entity is considered to have the properties of a system, such as 
+interdependencyand connectedness. Note: An example of a systemic approach is where the interactions 
+across the human, technology and organizational aspects of a business are considered at various levels of 
+abstraction to understand, learn and improve performance. 
+December 2023 
+REGDOC-2.2.1, Human Performance, Version 2 
+ 
+9 
+ 
+(additional entry) 
+task (tâche) 
+With respect to human performance, a description of work to be done. Also called work as prescribed.  
+ 
+ 
+December 2023 
+REGDOC-2.2.1, Human Performance, Version 2 
+ 
+10 
+ 
+References 
+The CNSC may include references to information on best practices and standards such as those published 
+by CSA Group. With permission of the publisher, CSA Group, all nuclear-related CSA standards may be 
+viewed at no cost through the CNSC Web page “How to gain free access to all nuclear-related CSA 
+standards”. 
+ 
+[1]  CNSC, REGDOC-3.5.3, Regulatory Fundamentals, Ottawa, 2023.  
+[2]  IAEA, IAEA Safety Standards Series No. SF-1, Fundamental Safety Principles, Vienna, 2006.  
+[3]  IAEA, IAEA Safety Standards Series No. GSR Part 2, Leadership and Management for Safety, 
+Vienna, 2016.  
+[4]  IAEA, IAEA Safety Standards Series No. GSR Part 3, Radiation Protection and Safety of Radiation 
+Sources: International Basic Safety Standards, Vienna, 2014.  
+[5]  IAEA, IAEA Safety Series No. GS-G-3.5, The Management System for Nuclear Installations, 
+Vienna, 2009.  
+[6]  IAEA, IAEA TECDOC-1846, Regulatory Oversight of Human and Organizational Factors for 
+Safety of Nuclear Installations, Vienna, 2018.  
+[7]  CSA Group, CSA N286, Management system requirements for nuclear facilities, Mississauga, 
+2012.  
+[8]  ISO, ISO International Standard 27500:16 - The human-centred organization – Rationale and 
+general principles, 2016.  
+[9]  ISO, ISO International Standard 27501:2019 - The human-centred organization – Guidance for 
+managers, 2019.  
+[10]  
+Nuclear Energy Agency (NEA), Human Aspects of Nuclear Safety NEA No. 7579, Human and 
+Organizational Performance in Nuclear Installations, France, 2022.  
+[11]  
+F. Daniellou, M. Simard and I. Boissières, Number 2011-01 of the Cahiers de la Sécurité 
+Industrielle, Human and organizational factors of safety: a state of the art, France: Foundation for an 
+Industrial Safety Culture (FonCSI), 2011.  
+[12]  
+European Organization for the Safety of Air Navigation (EUROCONTROL), From Safety-I: to 
+Safety-II: A White Paper, 2013.  
+[13]  
+R. McLeod, "Approaches to Understanding Human Behavior When Investigating Incidents in 
+Academic Chemical Laboratories," ACS Chem. Health Saf., 3, 29, pp. 263-279, 2022.  
+[14]  
+M. Berglund, A. Karltun, J. Eklund and J. Karltun, HELIX Working Paper 20:002, HTO – A 
+Concept of Humans, Technology and Organization in Interaction, Sweden: Linköping University, 
+2020.  
+December 2023 
+REGDOC-2.2.1, Human Performance, Version 2 
+ 
+11 
+ 
+[15]  
+S. Dekker, The Field Guide to Understanding ‘Human Error’, Third edition, Australia: Ashgate, 
+2014.  
+[16]  
+T. Conklin, Pre-Accident Investigations: An Introduction to Organizational Safety, USA: CRC 
+Press, 2012.  
+[17]  
+B. Behn, "Just Culture basics for EMS," National EMS Management Association, 29 January 2018. 
+[Online]. Available: www.ems1.com/paramedic-chief/articles/just-culture-basics-for-ems-
+YJyp48gNvT33OELL/. 
+[18]  
+T. Conklin, Pre-Accident Investigation Media, The 5 Principles of Human Performance, USA, 
+2019.  
+[19]  
+CNSC, REGDOC 3.6, Glossary of CNSC Terminology, Canada, 2022.  
+[20]  
+EUROCONTROL, Systems Thinking for Safety: Ten Principles - A White Paper Moving towards 
+Safety II, 2014.  
+[21]  
+T. Conklin, Better questions: An applied approach to operational learning, USA: CRC Press, 2016.  
+ 
+ 
+ 
+ 
+ 
+ 
+December 2023 
+REGDOC-2.2.1, Human Performance, Version 2 
+ 
+12 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the CNSC. In addition to the 
+Nuclear Safety and Control Act and associated regulations, these facilities and activities may also be 
+required to comply with other regulatory instruments such as regulatory documents or standards. 
+CNSC regulatory documents are classified under the following categories and series: 
+1.0 
+Regulated facilities and activities 
+Series 1.1 
+Reactor facilities 
+1.2 
+Class IB facilities 
+1.3 
+Uranium mines and mills 
+1.4 
+Class II facilities 
+1.5 
+Certification of prescribed equipment 
+1.6 
+Nuclear substances and radiation devices 
+2.0 
+Safety and control areas 
+Series 2.1 
+Management system 
+2.2 
+Human performance management 
+2.3 
+Operating performance 
+2.4 
+Safety analysis 
+2.5 
+Physical design 
+2.6 
+Fitness for service 
+2.7 
+Radiation protection 
+2.8 
+Conventional health and safety 
+2.9 
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0 
+Other regulatory areas  
+Series 3.1 
+Reporting requirements 
+3.2 
+Public and Indigenous engagement 
+3.3 
+Financial guarantees 
+3.4 
+Commission proceedings 
+3.5 
+CNSC processes and practices 
+3.6 
+Glossary of CNSC terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. Visit the CNSC’s website for 
+the latest list of regulatory documents. 

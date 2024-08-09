@@ -1,0 +1,4523 @@
+Safety Analysis 
+Deterministic Safety Analysis 
+ 
+ 
+REGDOC-2.4.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 2014 
+ 
+ 
+ 
+ 
+Deterministic Safety Analysis  
+Regulatory Document REGDOC-2.4.1   
+© Canadian Nuclear Safety Commission (CNSC) 2014 
+PWGSC catalogue number CC172-108/1-2014E-PDF 
+ISBN 978-1-100-23790-9 
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+Également publié en français sous le titre : Analyse déterministe de sûreté 
+Document availability 
+This document can be viewed on the CNSC website at nuclearsafety.gc.ca. To request a copy of the 
+document in English or French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, Ontario K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Facsimile: 613-995-5086 
+Email: info@cnsc-ccsn.gc.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Publishing history 
+May 2014 
+ 
+Version1.0 
+ 
+ 
+i 
+May 2014 
+REGDOC 2.4.1, Deterministic Safety Analysis  
+Preface 
+This regulatory document is part of the CNSC’s Safety Analysis series of regulatory documents. The full 
+list of regulatory document series is included at the end of this document and can also be found on the 
+CNSC website. 
+Regulatory document REGDOC-2.4.1, Deterministic Safety Analysis, sets out requirements and guidance 
+for the preparation and presentation of a safety analysis that demonstrates the safety of a nuclear facility. 
+To the extent practicable, this document is technology-neutral. This document provides information on 
+preparing and presenting deterministic safety analysis reports, including the selection of events to be 
+analyzed, acceptance criteria, safety analysis methods, safety analysis documentation, and the review and 
+update of safety analysis. 
+The document is presented in two parts: Part I applies to nuclear power plants, and Part II addresses small 
+reactor facilities. A small reactor facility contains a reactor with a power level of approximately less than 
+200 megawatts thermal (MWt), used for research, isotope production, steam generation, electricity 
+production or other applications. 
+This document supersedes the following regulatory documents: RD-310, Safety Analysis for Nuclear 
+Power Plants; GD-310, Guidance on Safety Analysis for Nuclear Power Plants; and 
+RD-308, Deterministic Safety Assessment for Small Reactor Facilities. REGDOC-2.4.1 includes 
+amendments to reflect lessons learned from the Fukushima nuclear event of March 2011, and to address 
+findings from the CNSC’s Fukushima Task Force Report, as applicable to RD-310 and RD-308. 
+REGDOC-2.4.1 is intended to form part of the licensing basis for a regulated facility or activity within the 
+scope of the document. It is intended for inclusion in licences as either part of the conditions and safety 
+and control measures in a licence, or as part of the safety and control measures to be described in a 
+licence application and the documents needed to support that application. 
+For proposed new facilities: This document will be used to assess new licence applications for reactor 
+facilities.   
+Guidance contained in this document exists to inform the applicant, to elaborate further on requirements 
+or to provide direction to licensees and applicants on how to meet requirements. It also provides more 
+information about how CNSC staff evaluate specific problems or data during their review of licence 
+applications. Licensees are expected to review and consider guidance; should they choose not to follow it, 
+they should explain how their chosen alternate approach meets regulatory requirements.  
+For existing facilities: The requirements contained in this document do not apply unless they have been 
+included, in whole or in part, in the licence or licensing basis.  
+A graded approach, commensurate with risk, may be defined and used when applying the requirements 
+and guidance contained in this regulatory document. The use of a graded approach is not a relaxation of 
+requirements. With a graded approach, the application of requirements is commensurate with the risks 
+and particular characteristics of the facility or activity. 
+An applicant or licensee may put forward a case to demonstrate that the intent of a requirement is 
+addressed by other means and demonstrated with supportable evidence. 
+The requirements and guidance in this document are consistent with modern national and international 
+practices addressing issues and elements that control and enhance nuclear safety. In particular, they 
+i 
+May 2014 
+REGDOC 2.4.1, Deterministic Safety Analysis  
+establish a modern, risk-informed approach to the categorization of accidents – one that considers a full 
+spectrum of possible events, including events of greatest consequence to the public. 
+ 
+ 
+Important note: Where referenced in a licence either directly or indirectly (such as through licensee-
+referenced documents), this document is part of the licensing basis for a regulated facility or activity.  
+The licensing basis sets the boundary conditions for acceptable performance at a regulated facility or 
+activity and establishes the basis for the CNSC’s compliance program for that regulated facility or 
+activity.  
+Where this document is part of the licensing basis, the word “shall” is used to express a requirement, 
+to be satisfied by the licensee or licence applicant. “Should” is used to express guidance or that which 
+is advised. “May” is used to express an option or that which is advised or permissible within the limits 
+of this regulatory document. “Can” is used to express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+ii 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Table of Contents 
+1. 
+Introduction 
+........................................................................................................................1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant regulations ........................................................................................................... 1 
+1.4 
+National and international standards 
+................................................................................... 2 
+1.5 
+Background 
+......................................................................................................................... 3 
+Part I: Deterministic Safety Analysis for Nuclear Power Plants 
+...............................................4 
+2. 
+Introduction 
+........................................................................................................................4 
+3. 
+Deterministic Safety Analysis Objectives ........................................................................4 
+3.1 
+Guidance on roles of deterministic safety analysis 
+............................................................. 5 
+3.2 
+Guidance on objectives of deterministic safety analysis .................................................... 5 
+3.3 
+Guidance on deterministic safety analysis in confirmation of defence in depth 
+................. 6 
+4. 
+Requirements for Deterministic Safety Analysis ............................................................7 
+4.1 
+Responsibilities 
+................................................................................................................... 7 
+4.2 
+Events to be analyzed ......................................................................................................... 8 
+4.2.1 
+Identification of events .......................................................................................... 8 
+4.2.2 
+Scope of events ...................................................................................................... 9 
+4.2.3 
+Classification of events 
+........................................................................................ 12 
+4.3 
+Acceptance criteria ........................................................................................................... 16 
+4.3.1 
+Normal operation ................................................................................................. 16 
+4.3.2 
+Anticipated operational occurrences and design-basis accidents ........................ 17 
+4.3.3 
+Beyond-design-basis accidents ............................................................................ 18 
+4.3.4 
+Acceptance criteria for anticipated operational occurrences and design-basis 
+accidents .............................................................................................................. 19 
+4.4 
+Methods and assumptions for deterministic safety analysis ............................................. 21 
+4.4.1 
+General 
+................................................................................................................. 21 
+4.4.2 
+Method for deterministic safety analysis ............................................................. 21 
+4.4.3 
+Data for deterministic safety analysis .................................................................. 25 
+4.4.4 
+Assumptions for deterministic safety analysis 
+..................................................... 27 
+4.4.5 
+Computer codes ................................................................................................... 34 
+4.4.6 
+Conservatism in deterministic safety analysis ..................................................... 37 
+ 
+ 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+4.5 
+Deterministic safety analysis documentation 
+.................................................................... 38 
+4.6 
+Review and update of deterministic safety analysis ......................................................... 39 
+4.6.1 
+Review of deterministic safety analysis results ................................................... 39 
+4.6.2 
+Update of deterministic safety analysis ............................................................... 40 
+4.7 
+Quality of deterministic safety analysis 
+............................................................................ 40 
+Part II: Deterministic Safety Analysis for Small Reactor Facilities 
+........................................42 
+5. 
+Introduction 
+......................................................................................................................42 
+6. 
+Graded Approach ............................................................................................................42 
+6.1 
+Application of the graded approach to deterministic safety analysis 
+................................ 42 
+7. 
+Deterministic Safety Analysis .........................................................................................42 
+7.1 
+Deterministic safety analysis objectives ........................................................................... 43 
+8. 
+Requirements for Deterministic Safety Analysis ..........................................................43 
+8.1 
+Responsibilities 
+................................................................................................................. 44 
+8.2 
+Events to be analyzed ....................................................................................................... 44 
+8.2.1 
+Identifying events ................................................................................................ 44 
+8.2.2 
+Scope of events analyzed 
+..................................................................................... 44 
+8.2.3 
+Classification of events 
+........................................................................................ 45 
+8.3 
+Acceptance criteria ........................................................................................................... 45 
+8.3.1 
+Normal operations................................................................................................ 45 
+8.3.2 
+Anticipated operational occurrences and design-basis accidents ........................ 45 
+8.3.3 
+Beyond-design-basis accidents ............................................................................ 46 
+8.3.4 
+Application of safety requirements for anticipated operational occurrences and 
+design-basis accidents 
+.......................................................................................... 46 
+8.4 
+Methods and assumptions for deterministic safety analysis ............................................. 46 
+8.4.1 
+Method for deterministic safety analysis ............................................................. 47 
+8.4.2 
+Assumptions for deterministic safety analysis 
+..................................................... 47 
+8.4.3 
+Computer codes ................................................................................................... 48 
+8.4.4 
+Conservatism in deterministic safety analysis ..................................................... 48 
+8.5 
+Deterministic safety analysis documentation 
+.................................................................... 48 
+8.6 
+Review and update of deterministic safety analysis ......................................................... 48 
+8.6.1 
+Review of deterministic safety analysis results ................................................... 48 
+8.6.2 
+Update of deterministic safety analysis ............................................................... 49 
+ 
+ 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+8.7 
+Quality of deterministic safety analysis 
+............................................................................ 49 
+Appendix A: Outputs of Event Identification and Classification 
+............................................50 
+Appendix B: Examples of Derived Acceptance Criteria for Nuclear Power Plants 
+..............56 
+B.1 
+Anticipated operational occurrences 
+................................................................................. 56 
+B.2 
+Design-basis accidents 
+...................................................................................................... 56 
+Appendix C: Examples of Acceptance Criteria for Small Reactor Facilities 
+.........................60 
+Abbreviations ...............................................................................................................................62 
+Glossary ........................................................................................................................................63 
+References 
+.....................................................................................................................................69 
+CNSC Regulatory Document Series 
+...........................................................................................70 
+ 
+ 
+ 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Deterministic Safety Analysis  
+1. 
+Introduction 
+1.1 
+Purpose 
+This regulatory document sets out the requirements of the Canadian Nuclear Safety Commission 
+(CNSC) for deterministic safety analysis for nuclear power plants (NPPs) and small reactor 
+facilities. 
+The document is comprised of two parts: 
+• 
+Part I – Nuclear Power Plants 
+• 
+Part II – Small Reactor Facilities 
+The purpose of Part I of this regulatory document is to help assure that during the construction, 
+operation or decommissioning of an NPP, adequate safety analyses are completed by, or on 
+behalf of, the applicant or licensee in accordance with the Nuclear Safety and Control Act 
+(NSCA) and regulatory requirements.  
+Guidance is also provided in Part I to ensure that adequate deterministic safety analyses are 
+completed in order to demonstrate the safety of the NPP. This information facilitates the conduct, 
+review and approval of deterministic safety analyses. 
+Part II applies to small reactor facilities. The document allows the use of a graded approach to 
+determine the scope and depth of deterministic safety analysis for these facilities. 
+1.2 
+Scope 
+This regulatory document sets out the requirements and guidance for deterministic safety analysis 
+for NPPs and small reactor facilities. A small reactor facility is defined as a facility containing a 
+reactor with a power level of less than approximately 200 megawatts thermal (MWt), which is 
+used for research, isotope production, steam generation, electricity production or other 
+applications. 
+This regulatory document sets out the requirements and technical criteria related to deterministic 
+safety analysis, including the selection of events to be analyzed, acceptance criteria, deterministic 
+safety analysis methods, and safety analysis documentation, review and update, and quality 
+control. 
+1.3 
+Relevant regulations 
+The relevant sections of the Nuclear Safety and Control Act (NSCA) and the regulations made 
+under the NSCA to this regulatory document include: 
+• 
+Subsection 24(4) of the NSCA provides that the Commission may only issue, renew or 
+amend licences if the licensee or the applicant is (a) qualified to carry on the activity that the 
+licence authorizes the licensee to carry on, and (b), in carrying out that activity, make 
+adequate provision for the protection of the environment, the health and safety of persons and 
+the maintenance of national security and measures required to implement international 
+obligations to which Canada has agreed. 
+ 
+1 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+• 
+Subsection 24(5) of the NSCA authorizes the Commission to include in a licence any term or 
+condition that the Commission considers necessary for the purposes of the Act. 
+• 
+Paragraph 3(1)(i) of the General Nuclear Safety and Control Regulations stipulates that an 
+application for a licence shall contain, in addition to other information, “a description and the 
+results of any test, analysis or calculation performed to substantiate the information included 
+in the application”. 
+• 
+Paragraph 5(f) of the Class I Nuclear Facilities Regulations provides that an application for a 
+licence to construct a Class I nuclear facility shall contain, in addition to other information, “a 
+preliminary safety analysis report demonstrating the adequacy of the design of the nuclear 
+facility”. 
+• 
+Paragraph 5(i) of the Class I Nuclear Facilities Regulations provides that an application for a 
+licence to construct a Class I nuclear facility shall contain, in addition to other information, 
+“the effects on the environment and the health and safety of persons that may result from the 
+construction, operation and decommissioning of the nuclear facility, and the measures that 
+will be taken to prevent or mitigate those effects”. 
+• 
+Paragraph 6(c) of the Class I Nuclear Facilities Regulations provides that an application for a 
+licence to operate a Class I nuclear facility shall contain, in addition to other requirements, 
+information on “a final safety analysis report demonstrating the adequacy of the design of the 
+nuclear facility”. 
+• 
+Paragraph 6(h) of the Class I Nuclear Facilities Regulations stipulates that an application for 
+a licence to operate a Class I nuclear facility shall contain, in addition to other requirements, 
+information on “the effects on the environment and the health and safety of persons that may 
+result from the operation and decommissioning of the nuclear facility, and the measures that 
+will be taken to prevent or mitigate those effects”. 
+• 
+Paragraph 7(f) of the Class I Nuclear Facilities Regulations provides that an application for a 
+licence to decommission a Class I nuclear facility shall contain, in addition to other 
+requirements, information on “the effects on the environment and the health and safety of 
+persons that may result from the decommissioning, and the measures that will be taken to 
+prevent or mitigate those effects”. 
+• 
+Subsection 13(1) of the Radiation Protection Regulations prescribes the effective dose limits 
+to nuclear energy workers and persons who are not nuclear energy workers, including 
+members of the public. 
+1.4 
+National and international standards 
+This regulatory document is consistent with the philosophy and technical content of national and 
+international codes and standards. It is based in part on the following publications: 
+• 
+CSA Group, N286.7-99, (R2012), Quality Assurance of Analytical, Scientific and Design 
+Computer Programs for Nuclear Power Plants 
+• 
+International Atomic Energy Agency, IAEA Safety Reports Series No. 55, Safety Analysis for 
+Research Reactors, 2008 
+• 
+International Atomic Energy Agency, IAEA Safety Standards Series No. NS-R-4, Safety of 
+Research Reactors, 2005 
+• 
+International Atomic Energy Agency, IAEA Safety Standards Series No. SSG-2, 
+Deterministic Safety Analysis for Nuclear Power Plants Specific Safety Guide, 2012 
+• 
+International Atomic Energy Agency, IAEA Safety Standards Series No. GSR Part 4, Safety 
+Assessment for Facilities and Activities General Safety Requirements Part 4, 2009  
+ 
+ 
+2 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+1.5 
+Background 
+An overall safety assessment of the reactor facility design includes hazards analysis, deterministic 
+safety analysis and probabilistic safety assessment (PSA) techniques. This document focuses on 
+the deterministic safety analysis used in the assessment of event consequences.  
+This document focuses on deterministic safety analysis. PSA for nuclear power plants is 
+addressed in the regulatory document REGDOC-2.4.2, Probabilistic Safety Assessment (PSA) for 
+Nuclear Power Plants (formerly S-294). 
+Regulatory requirements and guidance for NPPs related to the safe handling of fissionable 
+materials outside the reactor core are provided in the regulatory document RD-327, Nuclear 
+Criticality Safety, and its associated guidance document GD-327, Guidance for Nuclear 
+Criticality Safety.  
+ 
+3 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Part I: Deterministic Safety Analysis for Nuclear Power Plants 
+2. 
+Introduction 
+Part I of this regulatory document sets out the requirements of the CNSC for deterministic safety 
+analysis for nuclear power plants (NPPs). 
+Guidance provides information on the preparation and presentation of deterministic safety 
+analysis reports, including the selection of events to be analyzed, acceptance criteria, safety 
+analysis methods, safety analysis documentation, and the review and update of safety analysis.  
+3. 
+Deterministic Safety Analysis Objectives 
+Safety analysis is an essential element of a safety assessment. It is an analytical study used to 
+demonstrate how safety requirements are met for a broad range of operating conditions and 
+various initiating events. Safety analysis involves deterministic and probabilistic analyses in 
+support of the siting, design, commissioning, operation or decommissioning of an NPP.  
+This document focuses on the deterministic safety analysis used in the evaluation of event 
+consequences. PSA and hazard analysis are outside the scope of this document – the requirements 
+for probabilistic safety assessments for NPPs are provided in regulatory document 
+REGDOC-2.4.2, Probabilistic Safety Assessment (PSA) for Nuclear Power Plants (formerly 
+S-294).  
+The objectives of deterministic analysis are to: 
+1. confirm that the design of an NPP meets design and safety requirements 
+2. derive or confirm operational limits and conditions that are consistent with the design and 
+safety requirements for the NPP 
+3. assist in establishing and validating accident management procedures and guidelines 
+4. assist in demonstrating that safety goals, which may be established to limit the risks posed by 
+the NPP, are met 
+This document identifies high-level requirements for conducting and presenting a safety analysis, 
+taking into account best national and international practices. 
+Guidance 
+Safety assessments are systematic processes to verify that applicable safety requirements are met 
+in all the lifecycle phases of an NPP. These assessments are performed for various aspects of 
+safety, security and safeguards (such as management practices, quality assurance, human 
+performance, safety culture, training, design adequacy, safety analysis, equipment fitness for 
+service, emergency preparedness, environmental protection, and radiation protection). 
+A safety assessment includes the performance of a safety analysis, which is an analytical 
+quantitative study performed mainly to demonstrate the safety of an NPP and the adequacy of its 
+design and performance. Deterministic safety analysis, probabilistic safety assessment (PSA) and 
+hazards analysis are three types of safety analyses.  
+ 
+4 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+PSA considers the likelihood and consequences of various plant transients and accidents. The 
+primary objectives of the PSA are to help with: 
+• 
+identifying the sequences of events and their probabilities, which lead to challenges to 
+fundamental safety functions, loss of integrity of key structures, release of radionuclides into 
+the environment and public health effects 
+• 
+developing a well-balanced NPP design 
+• 
+assessing the impact of changes to procedures and/or components on the likelihood of core 
+damage 
+For new NPPs, PSAs support deterministic safety analysis in identifying complementary design 
+features (internationally, these are also called additional safety features) for severe accidents, or 
+actions that operators can take during severe accidents to reduce risk. PSAs complement 
+deterministic safety assessments. 
+A hazards analysis (such as fire hazard assessment or seismic margin assessment) will 
+demonstrate the ability of the design to effectively respond to credible common-cause events. 
+This analysis is meant to confirm that the NPP design incorporates sufficient diversity and 
+physical separation to cope with credible common-cause events. It also confirms that credited 
+structures, systems and components (SSCs) are qualified to survive and function during credible 
+common-cause events, as applicable.  
+3.1 
+Guidance on roles of deterministic safety analysis 
+The deterministic safety analysis confirms that the design is capable of meeting the safety 
+analysis requirements listed above, as well as dose acceptance criteria. It also helps demonstrate 
+that safety goals are met, that the design reflects effective defence in depth, and that the plant 
+design and operation are acceptable and robust. 
+Deterministic safety analysis is used to analyze the behaviour of a plant following a postulated 
+failure of equipment, internal or external event, or operator error. For the analyzed event, the 
+deterministic safety analysis allows prediction and quantification of challenges to the plant’s 
+physical barriers, and the performance of plant systems (particularly safety systems), in order to 
+predict failures of barriers to radioactivity releases. 
+Deterministic safety analysis methods can be applied to a wide range of plant operating modes 
+and events, including normal operation and abnormal operation resulting from equipment failure, 
+operator errors and challenges arising from events like fires, floods or earthquakes. 
+3.2 
+Guidance on objectives of deterministic safety analysis 
+1. Confirm that the design of an NPP meets design and safety analysis requirements. This can 
+be achieved by: 
+• demonstrating that the plant as built can operate safely, taking the effect of aging into 
+consideration  
+• demonstrating that the design can withstand and effectively respond to identified 
+postulated initiating events (PIEs) 
+• demonstrating that the applicable expectations for defence in depth established in 
+REGDOC-2.5.2, Design of Reactor Facilities: Nuclear Power Plants are met  
+ 
+5 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+• predicting expected harsh environmental conditions due to anticipated operational 
+occurrences (AOOs), design-basis accidents (DBAs) and beyond-design-basis accidents 
+(BDBAs), including severe accidents 
+• demonstrating that the provisions for protection against severe accidents are adequate 
+(e.g., performance expectations for containment, biological shielding and re-criticality) 
+2. Derive or confirm operational limits and conditions that are consistent with the design and 
+safety requirements for the NPP. Guidance for this section can be found in CSA N290.15-10, 
+Requirements for the Safe Operating Envelope of Nuclear Power Plants, including: 
+• 
+safety limits for reactor protection and control  
+• 
+safety limits for engineered safety systems  
+• 
+operational limits and reference settings for the control systems 
+• 
+procedural constraints for operational control of processes  
+• 
+identification of the allowable operating configurations 
+3. Assist in establishing and validating accident management procedures and guidelines. Severe 
+accident management guidelines are an example. 
+4. Assist in demonstrating that safety goals – which may be established to limit the risks posed 
+by the NPP – are met (see section 4.2.3.3 for details). Deterministic safety analyses are also 
+performed to: 
+• assist in confirming or validating the strategies that have been selected to recover the 
+plant from an AOO or DBA 
+• assist in developing a strategy for the operator to follow, should the automatic actions 
+and emergency operating procedures fail to prevent a severe accident 
+• confirm that modifications to the design and operation of the NPP have no significant 
+adverse effects on safety 
+• understand operational transients and plant system response 
+• predict source term and doses during severe accidents 
+• support emergency programs 
+3.3 
+Guidance on deterministic safety analysis in confirmation of defence in depth 
+The application of the concept of defence in depth to the design of an NPP should be confirmed, 
+so the design will provide layers of overlapping provisions, such that any failure would be 
+compensated for – or corrected – without causing harm to individuals or the public. Deterministic 
+safety analysis is an important part of this confirmation. 
+Five levels of defence in depth are defined in REGDOC-2.5.2, Design of Reactor Facilities: 
+Nuclear Power Plants. The applicability of deterministic safety analysis to these levels is as 
+follows: 
+Level 1: The aim of the first level of defence is to prevent deviations from normal operation, and 
+to prevent failures of SSCs.  
+Good design and proven engineering practices are used to support first-level defence in 
+depth.  
+Level 2: The aim of the second level of defence is to detect and intercept deviations from normal 
+operation in order to prevent AOOs from escalating to accident conditions, and to return 
+the plant to a state of normal operation. 
+ 
+6 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+To support second-level defence in depth, AOOs are analyzed to demonstrate the 
+robustness of the control systems in arresting most AOOs and in preventing damage to 
+all SSCs that are not involved in the initiation of an AOO, to the extent that these SSCs 
+will remain operable following the AOO. 
+Level 3: The aim of the third level of defence is to minimize the consequences of accidents by 
+providing inherent safety features, fail-safe design, additional equipment, and 
+mitigating procedures.  
+To support third-level defence in depth, DBAs (including AOOs with failed second-
+level defences) are analyzed to demonstrate the capabilities of the safety systems to 
+mitigate any resulting radiological consequences; i.e., to demonstrate meeting the 
+prescribed dose limits for DBAs (and AOOs with failed second-level defences) and 
+related derived acceptance criteria for protecting fission product release barriers. AOOs 
+and DBAs are also analyzed to assist in developing emergency operating procedures 
+that define actions that should be taken during these events. 
+Note that the event combination of AOO plus independent failure of second-level 
+defence in depth should be considered a DBA. In such a case, the dose limit applicable 
+to DBAs should apply. 
+Level 4: The aim of the fourth level of defence is to ensure that radioactive releases caused by 
+severe accidents are kept as low as practicable.  
+Level 5: The aim of the fifth level of defence is to mitigate the radiological consequences of 
+potential releases of radioactive materials that may result from accident conditions.  
+In support of fourth- and fifth-level defence in depth, BDBAs are analyzed. This 
+analysis is to provide information in support of design and safety of NPPs, as it relates 
+to severe accidents, such as performance of complementary design features 
+(internationally, these are also called additional safety features) for severe accidents, or 
+actions that operators should take during severe accidents in order to mitigate the 
+consequences. The analysis also assists in the development of severe accident 
+management guidelines. 
+4. 
+Requirements for Deterministic Safety Analysis  
+4.1 
+Responsibilities 
+The licensee is responsible for ensuring that the safety analysis meets all regulatory requirements. 
+The licensee shall: 
+1. maintain adequate capability to perform or procure safety analysis 
+2. establish a formal process to assess and update safety analysis, which takes into account 
+operational experience, research findings and identified safety issues 
+3. establish and apply a formal quality assurance (QA) process that meets the QA standards 
+established for safety analysis in CSA Group N286.7-99, Quality Assurance of Analytical, 
+Scientific and Design Computer Programs for Nuclear Power Plants 
+ 
+7 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Guidance 
+As stated in this regulatory document, the licensee must maintain adequate capability to perform 
+or procure safety analysis in order to: 
+• 
+resolve technical issues that arise over the life of the plant 
+• 
+ensure the safety analysis requirements are met for the safety analysis developed by the 
+operating organization or procured from a third party 
+A formal process should be established to assess and update the safety analysis to ensure that the 
+safety analysis reflects: 
+• 
+current plant configuration (for existing plants) 
+• 
+current operating limits and conditions (for existing plants) 
+• 
+operating experience, including the experience from similar facilities 
+• 
+results available from experimental research, improved theoretical understanding or new 
+modelling capabilities to assess potential impacts on the conclusions of safety analyses 
+• 
+human factors considerations, to ensure that credible estimates of human performance are 
+used in the analysis 
+4.2 
+Events to be analyzed 
+4.2.1 Identification of events 
+The licensee shall use a systematic process to identify events, event sequences, and event 
+combinations (“events” hereafter in this document) that can potentially challenge the safety or 
+control functions of the NPP. The licensee shall also identify events that may lead to fission 
+product releases, including those related to spent fuel pools (also called irradiated fuel bays) and 
+fuel-handling systems. This process shall be based on regulatory requirements and guidance, past 
+licensing precedents, operational experience, engineering judgment, results of deterministic and 
+probabilistic assessments, and any other systematic reviews of the design. 
+The identification of events will include at-power and shutdown states. The deterministic analysis 
+should also be performed for other states where the reactor is expected to operate for extended 
+periods of time and that are not covered by the at-power and shutdown analysis. Common-cause 
+events affecting multiple reactor units on a site shall be considered. The list of identified events 
+shall be reviewed for completeness during the design and analysis process and modified as 
+necessary. 
+In addition to events that could challenge the safety or control functions of the NPP, safety 
+analysis shall be performed for normal operation. 
+Guidance 
+The safety analysis is performed for a set of events that could lead to challenges related to the 
+NPP’s safety or control functions. These include events caused by SSC failures or human error, 
+as well as human-induced or natural common-cause events. 
+The events considered in safety analysis could be single PIEs, sequences of several consequential 
+events, or combinations of independent events. 
+ 
+8 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+The set of events to be considered in safety analysis is identified using a systematic process and 
+by taking into account: 
+• 
+reviews of the plant design using such methods as hazard and operability analysis, failure 
+mode and effects analysis, and master logic diagrams  
+• 
+lists of events developed for safety analysis of other NPPs, as applicable 
+• 
+analysis of operating experience data for similar plants 
+• 
+any events prescribed for inclusion in safety analysis by regulatory requirements 
+(e.g., REGDOC-2.5.2, Design of Reactor Facilities: Nuclear Power Plants) 
+• 
+equipment failures, human errors and common-cause events identified iteratively with PSA 
+• 
+a cut-off frequency for common-cause events that is consistent across all events 
+The list of identified events should be iteratively reviewed for accuracy and completeness as the 
+plant design and safety analyses proceed. Reviews should also be periodically conducted 
+throughout the NPP lifecycle, to account for new information and requirements. 
+This regulatory document requires that, when identifying events, all permissible plant operating 
+modes be considered. All operating modes used for extended periods of time should be analyzed. 
+Modes that occur transiently or briefly can be addressed without a specific analysis, as long as it 
+can be shown that existing safety analyses bound the behaviour and consequences of those states.  
+NPP operating modes include, but are not limited to: 
+• 
+initial approach to reactor criticality 
+• 
+reactor start-up from shutdown through criticality to power 
+• 
+steady-state power operation, including both full and low power 
+• 
+changes in the reactor power level, including load follow modes (if employed) 
+• 
+reactor shutting down from power operation 
+• 
+shutdown in a hot standby mode 
+• 
+shutdown in a cold shutdown mode 
+• 
+shutdown in a refuelling mode or maintenance mode that opens major closures in the reactor 
+coolant pressure boundary 
+• 
+shutdown in other modes or plant configurations with unique temperature, pressure or coolant 
+inventory conditions 
+• 
+operation of limited duration, with some systems important to safety being unavailable 
+For events identified by the systematic process used for this purpose, a full range of 
+configurations and operating modes of equipment should be considered in the deterministic safety 
+analysis. 
+Special plant configurations may occur during major plant modifications such as plant 
+refurbishment, lay-up, or decommissioning. These configurations should be considered, and 
+potential events should be identified and included in the deterministic safety analysis. 
+4.2.2 Scope of events 
+The list of events identified for the safety analysis shall include all credible: 
+1. component and system failures or malfunctions 
+2. operator errors 
+ 
+9 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+3. common-cause internally and externally initiated events, including those affecting multiple 
+reactor units on a site 
+A cut-off frequency shall be selected so that events with a frequency of occurrence less than the 
+cut-off limit provide only a negligible contribution to the overall risk posed by the NPP. The 
+elimination of such events from the analysis scope shall be justified and the reasons for 
+eliminating them documented. 
+Guidance 
+4.2.2.1 Guidance for normal operation 
+During the design phase, the normal plant operation is analyzed as a separate class of event. This 
+allows sources of radiation or releases of radioactive materials to be assessed in various modes of 
+operation or transition between modes. 
+For an existing plant, a safety analysis for normal operation may be required if a new operational 
+mode is considered, or if significant design changes (any changes that may alter system 
+characteristics) are implemented. 
+4.2.2.2 Guidance for failures or malfunctions of structures, systems and components 
+SSC failures may include failure to operate when required, erroneous operation and partial 
+failures. Events to be considered include: 
+• 
+failures or malfunctions of active systems, such as pumps, valves, control systems or power 
+supply 
+• 
+failures of passive systems, such as breaks in the reactor’s pressure-retaining boundaries, 
+including pipes and rupture discs  
+4.2.2.3 Guidance for operator errors  
+As initiating events, operator errors normally produce the same results as events caused by 
+equipment failure. Therefore, they do not need to be considered separately in the models and 
+computer codes for deterministic safety analysis. However, the generic implications of human 
+errors as initiating events should be considered to identify any further potential system failures. 
+As such, if a specific operator error could result in a unique initiating event, it should be included 
+in the list of PIEs for the deterministic safety analysis.  
+4.2.2.4 Guidance for internally and externally initiated common-cause events 
+Common-cause events are multiple component failures that can be initiated by internal and 
+external events (these events could be human-induced or naturally occurring).  
+Internal common-cause events include fires, floods of internal origin, explosions, and equipment 
+failures (such as turbine breakup) that may generate missiles.  
+External, naturally occurring events (triggers for plant equipment failures) that are considered in 
+deterministic safety analysis include: 
+• 
+earthquakes 
+• 
+external fires 
+• 
+floods/tsunamis occurring outside the site 
+ 
+10 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+• 
+biological hazards (for instance, mussels or seaweed affecting cooling water flow and/or 
+temperature) 
+• 
+extreme weather conditions (temperature, precipitation, high winds, tornadoes etc.) 
+External initiating events may cause internal and/or external events. For example, an earthquake 
+could lead to plant equipment failures, loss of offsite power, flood, tsunami or fire. External 
+events may cause accidents in one or more of the units where there are multiple units at a site.  
+Human-induced external events that are considered in deterministic safety analysis include: 
+• 
+aircraft or missile impacts 
+• 
+explosions at nearby industrial facilities or transportation systems 
+• 
+release of toxic or corrosive chemicals from nearby industrial facilities or transportation 
+systems 
+• 
+electromagnetic interference 
+4.2.2.5 Guidance for combinations of events  
+Combinations of events (which may occur either simultaneously or sequentially while restoring 
+the plant to a stable state) should be considered.  
+Types of combinations include:  
+• 
+multiple independent failures in equipment important to safety 
+• 
+failure of a process system and system important to safety 
+• 
+multiple process system failures 
+• 
+equipment failures and operator errors 
+• 
+common-cause events and operator errors 
+Examples of event combinations include: 
+• 
+loss of coolant with subsequent loss of station electrical power, including station blackout 
+• 
+loss of coolant with loss of containment cooling  
+• 
+small loss-of-coolant accidents (LOCAs) with failure of primary or secondary 
+depressurization  
+• 
+main steam line break with failure of the operator to initiate a backup cooling system 
+4.2.2.6 Guidance for grouping of events 
+Many events will be identified by following the aforementioned guidance, although it may not be 
+practical or necessary to analyze all of these events. The identified events could be grouped into 
+categories based on similarity of the initiating failures, key phenomena, or system and operator 
+responses. Examples of event categories include decrease of the reactor coolant inventory, 
+reactivity and power anomalies, and increase/decrease of heat removal. Since plant responses to 
+an event depend on the design and availability of plant systems, the most suitable classification of 
+events may vary. 
+In the safety analysis of AOOs and DBAs for Level 3 defence in depth, bounding events should 
+be identified for each applicable acceptance criterion within each category of events. In some 
+cases, one accident scenario in the same category of events may be more severe in terms of one 
+acceptance criterion (for example, containment pressure limit) and another may be more severe in 
+ 
+11 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+terms of a different acceptance criterion (for example, public doses). All these scenarios should 
+be considered in the safety analysis process as bounding events for different acceptance criteria. 
+4.2.2.7 Guidance for subdivision of events 
+An event may be divided into sub-events for consideration in safety analysis, when there are 
+substantial differences between the subdivided events, such as: 
+• 
+phenomena occurring at the plant in response to the events 
+• 
+challenges to safety and systems important to safety 
+• 
+frequencies 
+For example, LOCAs are commonly sub-divided into small-break LOCAs and large-break 
+LOCAs because of significant differences in phenomena and challenges to the safety system. 
+An event should not be sub-divided without sufficient justification, for the purpose of 
+reclassifying one of the resulting sub-events from an AOO to a DBA, or from a DBA to a BDBA, 
+or for the purpose of attaining a frequency below the cut-off frequency limits used in PSA. 
+4.2.2.8 Guidance for cut-off frequency 
+When beginning to identify events, both those of low frequency (including earthquakes with 
+consequential tsunamis) and those of minor consequences should be included. In defining the 
+scope of events to be analyzed, the deterministic safety analysis should select the same cut-off 
+frequency as that used in the probabilistic analysis for the same facility. This frequency is chosen 
+so the deterministic analysis can be integrated with the probabilistic analysis. 
+Some events may be excluded from the detailed consideration (for example, because of their 
+negligible contribution to exceeding the safety goals, or because they are bounded by an analyzed 
+event). Such exclusion should be fully justified and the reasons well documented. 
+4.2.3 Classification of events 
+The identified events shall be classified, based on the results of probabilistic studies and 
+engineering judgment, into the following three classes of events: 
+1. anticipated operational occurrences : these include all events with frequencies of occurrence 
+equal to or greater than 10-2 per reactor year 
+2. design-basis accidents : these include events with frequencies of occurrence equal to or 
+greater than 10-5 per reactor year, but less than 10-2 per reactor year 
+3. beyond-design-basis accidents : these include events with frequencies of occurrence less than 
+10-5 per reactor year 
+Notes: 
+• 
+in accordance with REGDOC-2.5.2, Design of Reactor Facilities: Nuclear Power Plants, the 
+subset of BDBAs considered in the design of a new NPP is referred to as design-extension 
+conditions (DECs) 
+• 
+DECs do not replace BDBAs in most occurrences in REGDOC-2.4.1, since analysis will 
+consider events of lower frequency than DECs; for example, in searching for cliff-edge 
+effects, or in analyzing bounding events 
+Other factors to be considered in the event classification are any relevant regulatory requirements 
+or historical practices. Events with a frequency on the border between two classes of events, or 
+ 
+12 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+with substantial uncertainty over the predicted event frequency, shall be classified into the higher 
+frequency class. 
+Credible common-cause events shall also be classified within the AOO, DBA and BDBA classes. 
+Guidance 
+Events are classified because each plant state has different safety analysis requirements and 
+acceptance criteria. Safety analysis requirements reflect the level of protection in accordance with 
+the principle of defence in depth. The normal plant states and accident conditions are considered 
+in the safety analysis. Events are classified as follows:  
+• 
+AOOs: events that are more complex than the normal operation manoeuvres, with the 
+potential to challenge the safety of the reactor, and which might be reasonably expected to 
+happen during the lifetime of a plant 
+• 
+DBAs: events that are not expected to occur during the lifetime of a plant but, in accordance 
+with the principle of defence in depth, are considered in the design of the NPP; however, 
+certain groups of events with lower frequency may also be included in the plant design basis 
+• 
+BDBAs: events with low probabilities of expected occurrence, which may be more severe 
+than DBAs, and – due to multiple failures and/or operator errors – may result in safety 
+systems that fail to perform their safety functions, leading to significant core damage, 
+challenges to the integrity of the containment barrier, and, eventually, to the release of 
+radioactive material from the plant 
+Plant states include operational states (normal operation and AOOs) and accident conditions 
+(DBAs and BDBAs). However, as established in REGDOC-2.5.2, Design of Reactor Facilities: 
+Nuclear Power Plants, the design authority establishes the plant design envelope, which is the 
+subset of all plant states considered in the design: normal operation, AOOs, DBAs and DECs  
+(see figure 1). 
+Figure 1: Plant states 
+Operational states 
+Accident conditions 
+Normal operation 
+Anticipated 
+operational 
+occurrence 
+Design-basis 
+accident 
+Beyond-design-basis accidents 
+Design-extension 
+conditions 
+Practically 
+eliminated 
+conditions 
+No severe fuel 
+degradation 
+Severe accidents 
+Design basis 
+Design extension 
+Not considered as 
+design extension 
+Reducing frequency of occurrence  
+ 
+The assessed frequency of occurrence is the basis for event classification, but it is recognized that 
+such assessments may be characterized by significant uncertainty. Therefore, an event with a 
+predicted frequency that is on the threshold between two classes of events, or with substantial 
+uncertainty in the predicted event frequency, is classified into the higher frequency class.  
+ 
+13 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Other factors, such as relevant regulatory requirements or historical practices, may affect the 
+selection of certain events for inclusion. In order to establish an understanding of margins of 
+safety or the robustness of the design, the regulatory authority may request that certain events be 
+analyzed as design-basis accidents, or as representative severe accidents. Past practices and 
+experience may indicate that certain scenarios are more critical and should be analyzed as DBAs. 
+Some plant operating modes may be used only for short periods of time. Normally, events are 
+classified without regard to the frequency of these operating modes. However, in classifying 
+events, frequency of operating modes may be considered on a case-by-case basis.  
+Examples of events of different classes based on CANDU experience are provided in 
+Appendix A. These illustrate possible outputs of the event identification and classification 
+process described in section 4.2. This list is for illustration only, and is not meant to be 
+comprehensive. It should be noted that, in practice, such a list would normally be generated by 
+probabilistic methods. The list will be subject to grouping of events (see section 4.2.2.6). It is 
+expected that only representative or bounding events for each group of events would be analyzed.  
+4.2.3.1 Guidance for anticipated operational occurrences  
+Plant design is expected to be sufficiently robust, such that most AOOs would not require the 
+initiation of safety systems to prevent consequential damage to the plant’s SSCs. This is part of 
+Level 2 defence in depth, and helps to ensure that events requiring use of safety systems are 
+minimized. The plant control systems are expected to compensate for the event’s effects and to 
+maintain the plant in a stable state long enough for an operator to intervene. The operator 
+intervention may include, if deemed necessary, activation of safety systems and plant shutdown 
+according to established procedures. After addressing the initiating event, it should be possible to 
+resume plant operations.  
+For Level 3 defence in depth, in addition to meeting the above expectations for Level 2 defence in 
+depth, the design is also expected to demonstrate with high confidence that safety systems can 
+mitigate all AOOs without the assistance of plant control systems.  
+Examples of AOOs include those in table 1, which provides examples for a CANDU reactor and 
+a light-water reactor (LWR). The following list in table 1 is not exhaustive; a complete list would 
+depend on the type of reactor and the design of the plant systems. 
+Table 1: Examples of anticipated operational occurrences 
+Event category  
+Anticipated operational occurrences 
+increase in reactor heat removal  
+• 
+inadvertent opening of steam relief valves 
+• 
+secondary pressure control malfunctions leading to an 
+increase in steam flow rate 
+• 
+feedwater system malfunctions leading to an increase in 
+the heat removal rate 
+decrease in reactor heat removal 
+• 
+feedwater pump trips 
+• 
+reduction in the steam flow rate for various reasons (e.g., 
+control malfunctions, main steam valve closure, turbine 
+trip, loss of external load, loss of power, loss of 
+condenser vacuum) 
+changes in reactor coolant system 
+flow rate 
+• 
+trip of one main coolant pump 
+• 
+inadvertent isolation of one main coolant system loop (if 
+applicable) 
+ 
+14 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Event category  
+Anticipated operational occurrences 
+reactivity and power distribution 
+anomalies 
+• 
+inadvertent single control rod withdrawal 
+• 
+neutron poison concentration dilution due to a 
+malfunction in the volume control system 
+• 
+wrong placement of a fuel assembly (LWR), or refuelling 
+incorrect channel (CANDU) 
+increase in reactor coolant 
+inventory 
+• 
+malfunctions of the chemical and inventory control 
+system 
+decrease in reactor coolant 
+inventory 
+• 
+very small LOCA, due to the failure of an instrument line 
+release of radioactive material 
+from a subsystem or component 
+• 
+minor leakage from a radioactive waste system 
+ 
+4.2.3.2 Guidance for design-basis accidents 
+The events leading to DBAs are classified based on the estimated frequencies of equipment 
+failures, operator errors or common-cause events. All the events identified as initiators of AOOs 
+should also be considered as potential initiators for DBAs, given the relatively high likelihood of 
+AOOs and the possibility of additional equipment failures or operator errors.  
+Examples of DBAs include those in table 2, which provides examples for CANDU reactors, 
+pressurized water reactors (PWRs) and other LWRs. The following list in table 2 is not 
+exhaustive. A complete list of DBAs would depend on the type of reactor and actual design. 
+Table 2: Examples of design-basis accidents 
+Event category  
+Design-basis accidents 
+increase in reactor heat removal  
+• 
+steam line breaks 
+decrease in reactor heat removal 
+• 
+feedwater line breaks 
+changes in reactor coolant system 
+flow rate 
+• 
+trip of more than one main coolant pump 
+• 
+main coolant pump seizure or shaft break 
+• 
+fuel channel flow blockage (CANDU) 
+reactivity and power distribution 
+anomalies 
+• 
+uncontrolled control rod withdrawal 
+• 
+control rod ejection (LWR) 
+• 
+boron dilution due to the start-up of an inactive 
+loop (PWR) 
+increase in reactor coolant inventory 
+• 
+inadvertent operation of emergency core cooling 
+decrease in reactor coolant inventory 
+• 
+a spectrum of possible LOCAs 
+• 
+inadvertent opening of the primary system relief 
+valves 
+• 
+leaks of primary coolant into the secondary system 
+release of radioactive material from 
+a subsystem or component 
+• 
+overheating of, or damage to, used fuel in transit or 
+storage 
+• 
+break in a gaseous or liquid waste treatment system 
+ 
+15 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+4.2.3.3 Guidance for beyond-design-basis accidents 
+PSA allows systematic identification of event sequences leading to challenges to the fundamental 
+safety functions. Representative event sequences are then analyzed using deterministic safety 
+analysis techniques to assess the extent of fuel failures, damage to the reactor core, primary heat 
+transport system and containment, and releases of radionuclides. The use of any cut-off limit for 
+the frequency of occurrence of analyzed BDBAs should consider the safety goals established for 
+the plant and be consistent with the safety analysis objectives.  
+Examples of BDBAs include: 
+• 
+complete loss of the residual heat removal from the reactor core 
+• 
+complete loss of electrical power for an extended period 
+This class of events also includes massive failures of pressure vessels. Some massive failures of 
+pressure vessels can be exempted from the deterministic safety analysis, if it can be demonstrated 
+that these failures are sufficiently unlikely, and if all the following conditions are satisfied: 
+• 
+the vessel is designed, fabricated, installed, and operated in compliance with the nuclear 
+requirements of the applicable engineering codes and other requirements 
+• 
+an in-service inspection program is implemented 
+• 
+operating experience, with vessels of similar design and operating condition, support a low 
+likelihood of failure 
+• 
+the vessel has adequate restraints to limit propagation of damage to the plant 
+Note: Although the CANDU heat transport system header is considered a vessel, its failure 
+should be postulated in the safety analysis.  
+Events that have been excluded from the DBA analysis based on leak-before-break methodology 
+are to be considered in the BDBA sequences. For example, any large LOCA or main steam line 
+break that may have been excluded from the design basis accident set should be considered for 
+the BDBA analysis. 
+4.3 
+Acceptance criteria 
+Acceptance criteria are established to serve as thresholds of safe operation in normal operation, 
+AOOs, DBAs and, to the extent practicable, for BDBAs. The limits and conditions used by plant 
+designers and operators should be supported by adequate experimental evidence, and be 
+consistent with the safety analysis acceptance criteria as described in sections 4.3.1 to 4.3.4. 
+4.3.1 Normal operation 
+Analysis for normal operation of the NPP, performed during the design phase, shall demonstrate 
+that: 
+1. radiological doses to workers and members of the public are within the limits acceptable to 
+the CNSC 
+2. releases of radioactive material into the environment fall within the allowable limits for 
+normal operation 
+ 
+ 
+16 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Guidance 
+The deterministic safety analysis for normal operation should: 
+• 
+verify the set points of the safety systems, to demonstrate that their initiation would occur 
+only when needed 
+• 
+verify that process controls and alarms are effective in reducing (or avoiding) the need for 
+safety system actions 
+• 
+address all NPP conditions under which systems and equipment are operated as expected, 
+with no internal or external challenges, including all the operational configurations for which 
+the NPP was designed to operate in the course of normal operations over its life, both at 
+power and at shutdown 
+4.3.2 Anticipated operational occurrences and design-basis accidents 
+Analysis for AOOs and DBAs shall demonstrate that: 
+1. radiological doses to members of the public do not exceed the established limits 
+2. the derived acceptance criteria, established in accordance with section 4.3.4 are met 
+Guidance 
+The aim of safety analysis for AOOs and DBAs is to demonstrate the effectiveness of the 
+following key safety functions: 
+• 
+controlling the reactor power, including shutting down the reactor and maintaining it in a 
+shutdown state 
+• 
+removing heat from the core 
+• 
+preserving the integrity of fission product barriers 
+• 
+preserving component fitness for service for AOOs 
+• 
+ensuring that the consequences of radioactive releases are below the acceptable limits 
+• 
+monitoring critical safety parameters 
+Acceptance criteria for AOOs and DBAs should include:  
+• 
+acceptance criteria that relate to doses to the public 
+• 
+derived acceptance criteria that relate to the protection of the defence-in-depth physical 
+barriers (see section 4.3.4 and Appendix B for examples) 
+The committed whole-body dose for average members of the critical groups who are most at risk, 
+at or beyond the site boundary, is calculated in the deterministic safety analysis for a period of 
+30 days after the analyzed event. 
+This dose is less than or equal to one of the following dose acceptance criteria: 
+• 
+0.5 millisievert for any AOO 
+• 
+20 millisieverts for any DBA 
+These dose limits apply to new NPPs. For existing reactors, the dose limits specified in the 
+operating licences must be met.  
+ 
+17 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Note: New NPPs referenced in this section are effectively those first licensed after the issuance of 
+RD-337, Design of New Nuclear Power Plants, in 2008. 
+To demonstrate that the radiological consequences of an analyzed event do not exceed the limits, 
+the doses should be calculated according to the guidance in section 4.4.4.7.  
+Acceptance criteria for the class of events with higher frequencies of occurrence should be more 
+stringent than those for the class of events with lower frequencies of occurrence.  
+To demonstrate compliance with the public dose acceptance criteria for an AOO, the automatic 
+isolation and pressure suppression functions of the containment system should not be credited, 
+since these functions are normally considered part of Level 3 defence in depth. However, the 
+containment passive barrier capability and normally operating containment subsystems could be 
+credited, if they are qualified for the AOO conditions.  
+Derived acceptance criteria have two components: qualitative and quantitative. Quantitative 
+acceptance criteria should be developed, based on direct physical evidence and well-understood 
+phenomena, and should account for uncertainties. 
+Regarding the qualitative acceptance criteria (such as the examples provided in Appendix B), the 
+following guides are applied only to AOOs: 
+• 
+the qualitative acceptance criteria should be satisfied without reliance on the automatic 
+function of the safety systems, for a wide range of AOOs. The plant control systems should 
+normally be able to correct transients and prevent damage to the plant’s SSCs 
+• 
+the control systems should be able to maintain the plant in a stable operating state for a 
+sufficiently long time, to allow the operator to diagnose the event, initiate required actions 
+and, if necessary, shut the reactor down while following the applicable procedures 
+• 
+even though control systems may be shown to maintain the plant in a safe state following an 
+AOO without the initiation of safety systems (Level 2 defence in depth), it should also be 
+shown with high confidence, for all AOOs, that the safety systems can also mitigate the event 
+without beneficial actions by the control systems (Level 3 defence in depth) 
+Certain accidents with predicted frequency of occurrence less than 10-5 per reactor year could be 
+used as the design basis event for a safety system. In this case, DBA dose limits should still be 
+met, and the analysis should also consider meeting qualitative acceptance criteria relevant to this 
+particular safety system. The safety system performance margins should be sufficient to ensure 
+that the DBA dose limits are met. 
+4.3.3 Beyond-design-basis accidents 
+A safety assessment for BDBAs shall be performed to demonstrate that: 
+1. the NPP as designed meets the requirements for release limits established as the safety goals; 
+a deterministic safety analysis provides consequence data for accident sequences to use in the 
+PSA 
+2. the procedures and equipment put in place to handle the accident management needs are 
+effective, taking into account the availability of cooling water, material and power supplies; 
+consideration can be given to the plant’s full design capabilities, including the possible use of 
+safety, non-safety, and temporary systems beyond their originally intended function. 
+ 
+18 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Guidance 
+The deterministic and probabilistic safety assessment should demonstrate that the Level 4 defence 
+in depth prevents or mitigates the consequences of BDBAs (including severe accidents,) as 
+described in REGDOC-2.5.2, Design of Reactor Facilities: Nuclear Power Plants. The BDBA 
+deterministic analysis addresses a set of representative sequences, in which the safety systems 
+have malfunctioned and some of the barriers to the release of radioactive material may have 
+failed, or have been bypassed. The accident sequences for analysis should be relevant and 
+representative with respect to the objective of the analysis. In other words, representative BDBAs 
+can be selected among the dominant accident sequences from the probabilistic safety assessment, 
+or by adding safety system failures or incorrect operator responses to the DBA sequences. In 
+general, the results of the PSA studies can be used for this purpose, if they are applicable. 
+The aim of safety analysis for BDBAs is to: 
+• 
+evaluate the ability of the design to withstand challenges posed by BDBA and to identify 
+plant vulnerabilities 
+• 
+assess the effectiveness of those design features which were incorporated in the plant design 
+for the specific purpose to reduce the likelihood and/or mitigate the consequences of BDBAs, 
+(including the assessment of equipment for accident management and instrumentation to 
+monitor the accident) 
+• 
+evaluate the ability to restore and maintain the safety functions using alternative or diverse 
+systems, procedures and methods, including the use of non-safety-grade equipment 
+• 
+assist in the development of an accident management program for BDBAs and severe 
+accident conditions 
+• 
+provide input for offsite emergency planning  
+For events where there are multiple units at a site, as well as for single-unit events, the capacity of 
+essential cooling and power supplies should be evaluated.  
+The design for BDBAs is aimed to meet risk criteria such as safety goals related to frequency of 
+severe core damage and significant releases of radioactivity, as assessed by PSA.  
+Deterministic calculations of the source terms for BDBAs can also be performed in accordance 
+with the aim of the BDBA analysis. These calculations should demonstrate, for example, that: 
+• 
+containment failure will not occur in the short term following a severe accident (see 
+REGDOC-2.5.2, Design of Reactor Facilities: Nuclear Power Plants) 
+• 
+the public is provided a level of protection from the consequences of NPP operation, such 
+that there is no significant additional risk to the life and health of individuals 
+4.3.4 
+Acceptance criteria for anticipated operational occurrences and design-basis 
+accidents 
+Qualitative acceptance criteria shall be established for each AOO and DBA to confirm the 
+effectiveness of plant systems in maintaining the integrity of physical barriers against releases of 
+radioactive material. These qualitative acceptance criteria shall satisfy the following general 
+principles: 
+1. avoid the potential for consequential failures resulting from an initiating event. 
+2. maintain the structures, systems and components in a configuration that permits the effective 
+removal of residual heat. 
+ 
+19 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+3. prevent development of complex configurations or physical phenomena that cannot be 
+modelled with high confidence. 
+4. be consistent with the design requirements for plant systems, structures and components. 
+To demonstrate that these qualitative acceptance criteria applicable to the analyzed AOO or DBA 
+are met, quantitative derived acceptance criteria shall be identified prior to performing the 
+analysis. Such derived acceptance criteria shall be supported by experimental data. 
+The results of safety analysis shall meet appropriate derived acceptance criteria with margins 
+sufficient to accommodate uncertainties associated with the analysis. 
+The analysis shall be performed for the event that poses the most challenges in demonstrating the 
+meeting of derived acceptance criteria (i.e., the limiting event in an event category). 
+Guidance 
+In addition to the dose limits in section 4.3.2, the acceptance criteria for AOOs and DBAs also 
+include a set of derived acceptance criteria, such as those examples of qualitative acceptance 
+criteria identified in appendix B.  
+These acceptance criteria are established by the designer to limit the damage to different defence 
+barriers. Compliance with these requirements ensures that there are physical barriers preserved to 
+limit the release of radioactive material and prevent unacceptable radiological releases following 
+an AOO or DBA. The failure to meet a derived acceptance criterion does not necessarily mean 
+that dose limits will be exceeded. However, if the derived acceptance criteria are met with 
+significant margin, then the dose calculation can be simplified, because fission product releases 
+are expected to be limited. 
+The derived acceptance criteria are generally more stringent for events with a higher frequency of 
+occurrence. For example, for most AOOs, the actions of the control systems should be able to 
+prevent consequential degradation of any of the physical barriers to the extent that the related 
+SSCs are no longer fit for continued service (including fuel matrix, fuel sheath/fuel cladding, 
+reactor coolant pressure boundary or containment). 
+More demanding requirements may be set to demonstrate the availability of a margin between the 
+predicted value and the quantitative acceptance criteria, or to simplify an analysis (for example, to 
+avoid having to perform complex modelling). The conditions of applicability for each additional 
+criterion should be clearly identified. 
+For each of the qualitative acceptance criteria, as illustrated in appendix B, quantitative 
+acceptance criteria (or limits) should be established. These quantitative limits should: 
+• 
+be applicable to the particular NPP system and accident scenario 
+• 
+provide a clear boundary between safe states (when failure of an SSC is prevented with high 
+confidence,) and unsafe states (when a failure of an SSC may occur) 
+• 
+be supported by experimental data 
+• 
+incorporate margins or safety factors to account for uncertainty in experimental data and 
+relevant models 
+When there is insufficient data to identify the transition from a safe state to an unsafe state, or to 
+develop accurate models, then the quantitative limit for the corresponding safety requirement 
+ 
+20 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+should be set at the boundary of the available data, provided that the established limit is 
+conservative. 
+4.4 
+Methods and assumptions for deterministic safety analysis 
+4.4.1 General 
+The analysis shall provide the appropriate level of confidence in demonstrating conformity with 
+the acceptance criteria. To achieve the appropriate level of confidence, the safety analysis shall: 
+1. be performed by qualified analysts in accordance with an approved QA process 
+2. apply a systematic analysis method 
+3. use verified data 
+4. use justified assumptions 
+5. use verified and validated models and computer codes 
+6. build in a degree of conservatism 
+7. be subjected to a review process 
+Guidance 
+Section 4.4 mainly addresses analysis methods and assumptions for the deterministic safety 
+analysis of AOOs and DBAs for Level 3 defence in depth. Similar analysis methods and 
+assumptions can be applied for Levels 2 and 4 defence in depth (with appropriate levels of 
+conservatism). Certain conservative rules, such as the single-failure criterion, are not applied in 
+Level 2 and Level 4 analyses. 
+The safety analyst has the option of selecting safety analysis methods and assumptions, as long as 
+the regulatory requirements and expectations are satisfied. 
+The selection of the safety analysis methods and assumptions should be such that the appropriate 
+level of confidence can be achieved in the analysis results. 
+4.4.2 Method for deterministic safety analysis 
+The analysis method shall include the following elements: 
+1. identifying the scenarios to be analyzed as required to attain the analysis objectives 
+2. identifying the applicable acceptance criteria, safety requirements, and limits 
+3. identifying the important phenomena of the analyzed event 
+4. selecting the computational methods or computer codes, models, and correlations that have 
+been validated for the intended applications 
+5. defining boundary and initial conditions 
+6. conducting calculations, including: 
+a. performing sensitivity analysis and identifying, where necessary, margins to cliff-edge 
+effects 
+b. analyzing the event from the initial steady state up to a predefined long-term stable 
+state, considering the guidance for duration in section 4.4.2.6 
+7. accounting for uncertainties in the analysis data and models 
+8. verifying calculation results for physical and logical consistency 
+9. processing and documenting the results of calculations to demonstrate conformance with the 
+acceptance criteria 
+ 
+21 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Guidance 
+The basic elements included in the safety analysis method are described in sections 4.4.2.1 to 
+4.4.2.9. There are three main analysis methods used in the deterministic safety analysis: 
+• 
+conservative analysis method, such as the method used for Level 3 defence in depth 
+• 
+best-estimate-plus-evaluation–of-uncertainties method, such as the method used for Level 3 
+defence in depth 
+• 
+best-estimate analysis method, such as the method used for Level 2 and Level 4 defence in 
+depth 
+The first and second methods above are considered as part of the application of conservatism in 
+safety analysis, and are addressed in section 4.4.6. Evaluation of uncertainties is elaborated in 
+section 4.4.2.7. 
+4.4.2.1 Guidance for identifying the scenarios to be analyzed  
+The scenario to be analyzed, or the analyzed event, should be defined by including descriptions of 
+the following:  
+• 
+initial conditions 
+• 
+the initiating event and any additional events 
+• 
+expected actions of the plant systems and of the operator, in response to the initiating event 
+• 
+general description of the anticipated transient 
+• 
+associated safety concerns 
+• 
+long term stable state (including cold and depressurized shutdown) at the end of an event 
+4.4.2.2 Guidance for identifying applicable acceptance criteria  
+A set of applicable criteria should be identified, including any regulatory requirements. These 
+criteria should address all safety challenges while also demonstrating compliance with the dose 
+acceptance criteria given in section 4.3.2, as well as the derived acceptance criteria adopted by the 
+designer. In addition to these criteria, others may be defined – in order, for example, to simplify 
+the analysis by imposing more restrictive criteria, or to allow intermediate assessments in search 
+of bounding cases. 
+4.4.2.3 Guidance for identifying important phenomena  
+Key phenomena, key parameters, and the range of parameter values associated with the analyzed 
+event should be identified. The supporting experimental data should also be provided or 
+referenced, and theoretical understanding should be demonstrated. 
+If an event is characterized by sufficiently different stages, then key phenomena should be 
+identified for each stage. 
+The importance of the involved phenomena should be judged against each acceptance criterion, 
+separately. Key parameters are identified for each important phenomenon. These parameters are 
+then ranked for their importance in influencing the applicable acceptance criteria.  
+Sensitivity analyses can be used, in conjunction with expert judgment, to help identify and rank 
+the parameters by assessing their influence on analysis results for each acceptance criterion. 
+ 
+22 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Particular importance should be given to the identification of cliff-edge effects, such as any 
+abrupt changes in phenomena during any stage of the analysis. 
+The results of experiments should also be used to help identify important parameters, assist in 
+ranking the importance, and to identify if and where abrupt changes occur. 
+4.4.2.4 Guidance for models and computer codes 
+Safety analysis is performed using models of the plant systems and physical phenomena. 
+All the important phenomena, as identified in section 4.4.2.3, should be represented in the models 
+embedded in the computer code used for the calculations. 
+The models and computer code applicability to the analyzed event should be demonstrated. 
+Models of plant systems should be verified to reflect as-built plant condition, taking into account 
+plant states and aging effects (such as pump degradation, steam generator fouling, increased 
+roughness). Severe accidents may have a particular impact on NPPs with multiple units at a site; 
+this emphasizes the need for a model for severe accidents with multiple units at a site. Further 
+guidance is provided in section 4.4.5. 
+4.4.2.5 Guidance for defining boundary and initial conditions  
+The analysis should define the data characterizing the plant condition preceding the analyzed 
+event and plant performance during the event – such as, but not limited to: 
+• 
+plant operating mode 
+• 
+reactor power 
+• 
+fuel burnup and burnup distribution 
+• 
+fuel temperatures 
+• 
+coolant temperatures and pressures 
+• 
+trip set points and action set points for mitigating systems 
+• 
+instrumentation delays and uncertainties 
+• 
+safety system performance characteristics 
+• 
+performance of other plant equipment (such as pumps, valves, coolers, boilers, and turbine) 
+• 
+weather conditions 
+In the application of such data, the plant operating limits and conditions (OLCs) should be taken 
+into account. The plant condition used as the initial conditions for the analysis may reflect the 
+actual plant condition or (in many cases) reflect the limits selected for enforcement of the OLCs. 
+This would be done so that the analysis can confirm that the selection of an OLC value is 
+effective. Alternatively, the analysis results may be employed to derive a suitable value for use as 
+an operating limit. Care and good judgment are required to ensure that the set of OLCs derived 
+from such safety analyses are consistent with each other. 
+4.4.2.6 Guidance for conducting calculations  
+Comprehensive calculations are conducted to assess the plant performance against each 
+applicable acceptance criterion. Sensitivity studies are undertaken to assess the impact on analysis 
+results of key assumptions – for example, in identifying the worst single failures in various 
+systems, or to assess the impact of using simplified models instead of more accurate and 
+sophisticated approaches (requiring significant effort in the calculations). Sensitivity analysis, 
+with systematic variations in computer code input variables or modelling parameters, should 
+ 
+23 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+confirm that there are no “cliff-edge” effects. A systematic process should be used to identify 
+parameters with small margins to a cliff edge, such as fuel dryout, pressure boundary failure and 
+tank depletion. Where the likelihood is considered to be high and the potential impact large, 
+sensitivity calculations should explore the impact of passing these thresholds. 
+The duration of the transients considered in the analysis should be sufficient to determine the 
+event consequences. Therefore, the calculations for plant transients are extended beyond the point 
+where the NPP has been brought to shutdown and stable core cooling, as established by some 
+identified means (i.e., to the point where a long-term stable state has been reached and is expected 
+to remain as long as required). The analysis should take into account the capacity and limitations 
+of long-term makeup water and electrical power supplies. 
+In cases where the various stages of the transient are governed by different phenomena and/or 
+different time scales, different methods and tools can be applied to model the consecutive stages. 
+4.4.2.7 Guidance for accounting for uncertainties  
+In the deterministic safety analysis for Level 3 defence in depth, all key uncertainties should be 
+identified and accounted for. The safety analysis for Level 3 should incorporate appropriate 
+uncertainty allowances for the parameters relevant to the analyzed accident scenario. Such 
+uncertainties include modelling and input plant parameters uncertainties.  
+The modelling-relevant parameters include those used to start the action of a mitigating system 
+and/or those which can have a significant impact in challenging the integrity of a barrier 
+preventing the release of fission products. The modelling uncertainties are associated with the 
+models and correlations, the solution scheme, data libraries and deficiencies of the computer 
+programs. 
+The code accuracy obtained as the result of validation work should be used as a source for 
+uncertainties of relevant modelling parameters. The code accuracy is defined by the bias and the 
+variability in bias, and should be obtained from the comparison of code predictions with 
+experimental data, station data or other applicable data.  
+Input plant parameters (also referred to as operational parameters) are those parameters that 
+characterize the state of plant’s SSCs or are used to actuate a mitigating system. These are 
+measured using in-reactor instrumentation.  
+The measurement uncertainties are available from the plant instrumentation and control system 
+documentation or the OLCs. The systematic (“bias”) and random uncertainty components 
+(“standard deviation”) should be accounted for. 
+The measurement bias represents an element of measurement uncertainty arising from a 
+systematic error known to cause deviation in a fixed direction. The standard deviation represents 
+an element of measurement uncertainty which cannot be defined exactly, or which can cause 
+deviation in either direction, but can be estimated on the basis of a probability distribution. 
+The aforementioned uncertainties should be accounted for accordingly, either in the conservative 
+analysis or in the best-estimate-plus-evaluation-of-uncertainties methodologies.  
+In the safety analyses for Level 2 and Level 4 defence in depth (where a realistic, best-estimate 
+analysis method may be used) it is not necessary to account for uncertainties to the same extent. 
+ 
+24 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+4.4.2.8 Guidance for verification of results 
+Verification is performed to ensure that the deterministic safety analysis results are: 
+• 
+correctly extracted from the analysis codes’ output 
+• 
+physically and logically sound 
+• 
+consistent with experimental data from suitable integral tests, plant recorded data, previous 
+similar safety analyses or simulations with more advanced models 
+• 
+bounding predictions for each of the safety analysis acceptance criteria 
+4.4.2.9 Guidance for documentation of results 
+Results of deterministic safety analysis calculations are documented in such a way as to facilitate 
+their review and understanding. The documentation of safety analysis results should include: 
+• 
+objective of the analysis 
+• 
+analysis assumptions and their justification  
+• 
+plant models and modelling assumptions 
+• 
+any computer code user options that differ from the options used in code validation 
+• 
+analysis results in comparison with acceptance criteria 
+• 
+findings and conclusions from sensitivity and uncertainty analyses 
+Further guidance is provided in section 4.5. 
+4.4.3 Data for deterministic safety analysis 
+Assumptions made to simplify the analysis – as well as assumptions concerning the operating 
+mode of the NPP, the availability and performance of the systems, and operator actions – shall be 
+identified and justified.  
+The boundary and initial conditions used as the analysis input data shall: 
+1. accurately reflect the NPP configuration 
+2. account for the effects of aging of systems, structures and components 
+3. account for various permissible operating modes 
+4. be supported by experimental data, where operational data are not available 
+Significant uncertainties in analysis data, including those associated with NPP performance, 
+operational measurements, and modelling parameters, shall be identified. 
+Guidance 
+This regulatory document requires the safety analysis be based on plant design and complete and 
+accurate as-built information.  
+Operational historical recorded data (such as thermal power, flow rates, temperature and pressure) 
+should also be included, where applicable. This information should cover plant SSCs, 
+site-specific characteristics and offsite interfaces. 
+For an NPP in the design phase, the operational data, if needed, should be derived from generic 
+data from operating plants of similar design, or from research or test results. For an operating 
+NPP, the safety analysis should use plant specific operational data. 
+ 
+25 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+The safety analysis values for each plant input parameter should be determined based on: 
+• 
+design specifications 
+• 
+tolerances 
+• 
+permissible ranges of variability in operation 
+• 
+uncertainties in measurement or evaluation for that parameter 
+The operational data should include: 
+• 
+information on component and system performance, as measured during operation or tests 
+• 
+delays in control systems 
+• 
+biases and drift of instrumentation 
+• 
+system unavailability due to maintenance or testing 
+Applicable limits for NPP parameters that are used as initial and boundary conditions should be 
+identified. The NPP parameters assumed in the safety analysis should bound the ranges of 
+parameters allowed by the operating procedures or, in a statistical approach, cover a 
+predetermined high percentile of each range at a predetermined high confidence level. 
+The following NPP parameters may be used in analysis as input data, and should be specified in 
+the OLCs, as measured or evaluated during plant operation: 
+• 
+neutronic and thermal powers, including power distribution 
+• 
+pressures 
+• 
+temperatures 
+• 
+flows 
+• 
+levels 
+• 
+leakage or bypass of valves, seals, boiler tubes, and containment 
+• 
+inventory of radioactive materials 
+• 
+fuel sheath defects 
+• 
+flux shapes 
+• 
+isotopic purity of coolant and moderator (where relevant) 
+• 
+neutron poison concentration 
+• 
+core burnup and burnup distribution 
+• 
+instrument tolerances 
+• 
+instrument time constants and delays 
+• 
+parameters related to SSC aging (besides accounting for aging effects on other parameters)  
+• 
+position of rods, valves, dampers, doors, gates 
+• 
+number of operational components, such as pumps and valves 
+Note: In the preparation of the data in the list above, there are some parameters (such as core 
+burnup and burnup distribution) that are not measured directly. Core characteristics for all fuel 
+loads should be accounted for. In this example, they are evaluated and extracted from computer 
+simulation for which the accuracy of these tools is supported by station and experimental data. 
+There are generally some inputs to the safety analysis that are derived or inferred from data 
+obtained experimentally. 
+It should also be noted that the effects of aging include long-term mechanisms causing gradual 
+degradation as well as mechanisms causing rapid degradation. Degradation mechanisms include 
+ 
+26 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+thermal cycles, deformation, strain, creep, scoring, fatigue, cracking, corrosion and erosion. The 
+allowed aging limits are part of the safety analysis input data. 
+Uncertainties in plant data should be determined and recorded. These uncertainties should be 
+considered in the uncertainty and sensitivity analyses. 
+4.4.4 Assumptions for deterministic safety analysis 
+Assumptions made to simplify the analysis, as well as assumptions concerning the operating 
+mode of the nuclear power plant, the availability and performance of the systems, and operator 
+actions, shall be identified and justified. 
+The analysis of AOO and DBA shall: 
+1. apply the single-failure criterion to all safety systems and their support systems  
+2. account for consequential failures that may occur as a result of the initiating event 
+3. credit actions of systems only when the systems are qualified for the accident conditions, or 
+when their actions could have a detrimental effect on the consequences of the analyzed 
+accident  
+4. account for the possibility of the equipment being taken out of service for maintenance 
+5. show that the plant can be maintained in a stable, cold and depressurized state for a prolonged 
+period  
+6. credit operator actions only when there are: 
+a. unambiguous indications of the need for such actions 
+b. adequate procedures and sufficient time to perform the required actions 
+c. environmental conditions that do not prohibit such actions 
+For the analysis of a BDBA, it is acceptable to use a more realistic analysis methodology 
+consisting of assumptions that reflect the likely plant configuration, and the expected response of 
+plant systems and operators in the analyzed accident. 
+Guidance 
+Assumptions are made in the input data, such as those related to the design and operating 
+parameters, as well as in the physical and numerical models implemented in the computer codes.  
+Assumptions may be either intentionally realistic or deliberately biased in a conservative 
+direction. 
+The assumptions generally used for the Level 3 defence-in-depth analysis of AOOs and DBAs are 
+described in sections 4.4.4.1 to 4.4.4.7. It should be noted that some of these assumptions are not 
+necessary in the analysis of AOOs for assessing control system capability (Level 2 defence in 
+depth,) if such an approach can be justified. 
+For BDBA safety analysis, one objective is to demonstrate the capabilities of SSCs to meet the 
+design requirements specified for BDBA conditions. The analysis should account for the full 
+design capabilities of the plant, including the use of some safety and non-safety systems beyond 
+their originally intended function (to return the potential severe accident to a controlled state, or 
+to mitigate its consequences). The BDBA analysis assumptions on crediting and modelling plant 
+systems and their capability during a BDBA should be consistent with the objectives of the 
+analysis. If credit is taken for use of systems beyond their originally intended function, there 
+should be a reasonable basis to assume they can and will be used as assumed in analysis. This 
+ 
+27 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+basis can be obtained from the evaluation of effectiveness of these systems to operate in severe 
+accident conditions, if they are still available. 
+4.4.4.1 Guidance for single-failure criterion in safety group  
+The single-failure criterion stipulates that the safety group consisting of a safety system and its 
+support systems should be able to perform its specified functions even if a failure of single 
+component occurs within this group.  
+Expectations related to the application of the single-failure criterion in design can be found in 
+REGDOC-2.5.2, Design of Reactor Facilities: Nuclear Power Plants.  
+The analysis should assume a single failure to occur for each element of a safety group in turn, 
+and identify the worst single failure for each acceptance criterion. In addition to a single failure of 
+a component, the analysis should account for the impact of possible maintenance, testing, 
+inspection or repair on safety group performance.  
+Safety analysis of AOOs and DBAs for Level 3 defence in depth should apply the single-failure 
+criterion to each safety group. 
+The single-failure criterion does not need to be applied in the analysis of AOO for Level 2 
+defence in depth and BDBA. 
+4.4.4.2 Guidance for consequential failures 
+The analysis should take into account consequential failures that may occur as a result of an 
+initiating event. 
+Any failures that occur as a consequence of the initiating event are part of that event and are not 
+considered to be a single failure for the purpose of safety analysis. For example, equipment that is 
+not qualified for specific accident conditions should be assumed to fail unless its normal 
+operation leads to more conservative results. 
+ 
+28 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+4.4.4.3 Guidance on credit for actions of systems: Performance of structures, systems and 
+components 
+Guidance for availability of systems 
+The operation of systems should be credited only when they are designed or shown to be capable 
+of performing the intended function, and are qualified to withstand all challenges and cross-link 
+effects arising from the accident. 
+In the safety analysis of an AOO for Level 2 defence in depth, credit may be taken for the 
+operation of process and control systems whose actions could help mitigate the event, as long as 
+the credited systems are not impaired as a consequence of the initiating event. The status of these 
+systems and the values assigned to their parameters need to be justified. 
+In the safety analysis of AOOs and DBAs for Level 3 defence in depth, no credit should be taken 
+for the operation of the control systems in mitigating the effects of the initiating event. The 
+effects of control system actions should be considered, if these actions would aggravate the 
+transient or delay the actuation of the protection features. 
+If the operation of non-qualified equipment results in worse event consequences, this will lead to 
+the general assumption that such equipment is operated in a manner that makes the event worse. 
+Any process equipment that is operating prior to the event is assumed to continue operating, if it 
+is not affected by the initiating event. For example, boiler feed can be assumed to continue until 
+loss of electrical power, for those events which do not produce a harsh environment. 
+Guidance for partial and total failures  
+Partial and total failures of equipment should be considered in the analysis of each failure 
+sequence, to identify the worst failure for each acceptance criterion. 
+Guidance for worst piping failure 
+Various modes of piping failures should be considered in loss-of-coolant analyses. They include 
+circumferential, guillotine, and longitudinal failures at any location in a system.  
+For circumferential and guillotine failures, analysis should consider a discharge area up to, and 
+including, twice the cross-sectional area of the piping. 
+For longitudinal breaks, the analysis should justify the upper limit of the range of postulated 
+break size. 
+The worst break location, size, and orientation, in the context of posing the most challenges to a 
+safety analysis requirement, should be identified through analysis, including sensitivity analysis, 
+using a conservative break model. 
+For CANDU reactors, failures of reactor inlet and outlet headers are considered in the same way 
+as piping failures. 
+ 
+29 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Guidance for loss of offsite power  
+In addition to a single failure and any consequential failures, a loss of offsite power should be 
+assumed, unless a justification is provided.  
+The loss of offsite power may be assumed to occur either at the initiation of the event or as a 
+consequence of reactor and turbine trip. For example, when loss of Class IV power 
+(CANDU-type reactor) is assumed, the event should be analyzed both with and without the loss 
+of offsite power, and the most limiting results should be used. 
+4.4.4.4 Guidance for credit for actions of systems: safety system performance  
+Safety systems should be credited at their minimum allowable performance, in accordance with 
+the OLCs. 
+Guidance for shutdown means  
+The deterministic safety analysis should demonstrate the effectiveness of all credited shutdown 
+means by demonstrating that the design meets applicable acceptance criteria (see section 4.3). 
+This subsection contains different expectations, depending on the reactor’s design and inherent 
+characteristics, as described in REGDOC-2.5.2, Design of Reactor Facilities: Nuclear Power 
+Plants. Two broad categories of reactors are considered, as follows:  
+• 
+reactors with inherent safety: designs that demonstrate that any AOO or DBA with failure of 
+the fast-acting shutdown means (anticipated transient without reactor trip type analysis) does 
+not lead to severe core damage and a significant early challenge to containment  
+• 
+reactors with engineered safety: designs that cannot demonstrate that any AOO or DBA with 
+failure of the fast-acting shutdown means does not lead to severe core damage and a 
+significant early challenge to containment 
+The following are the applicable acceptance criteria for the two categories of reactors:  
+Guidance for shutdown means for reactors with inherent safety 
+For the first shutdown means, which is fast-acting, the analysis should demonstrate that the 
+criteria applicable to the initiating event class (AOO or DBA, as applicable) are met. Operator 
+actions to supplement the fast-acting shutdown means may be credited, provided that the 
+conditions for manual reactor trip are satisfied (see end of this subsection). 
+For the second shutdown means (that may be manually initiated), the frequency of occurrence of 
+an AOO and the failure frequency of the fast-acting shutdown means may result in a combined 
+frequency that falls in the DBA range, in which case the applicable limits are the DBA dose 
+limits. If the designer can demonstrate a very high reliability for the fast-acting shutdown means, 
+it may be acceptable to use BDBA limits (i.e., the safety goals). 
+The frequency of a DBA and the failure frequency for the fast-acting shutdown means may result 
+in a combined frequency that falls in the BDBA range, in which case the applicable limits are the 
+safety goals. 
+ 
+30 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Guidance for shutdown means for reactors with engineered safety 
+The design includes two redundant, fast-acting means of shutdown, both of which should be 
+demonstrated to be equally effective (see REGDOC-2.5.2, Design of Reactor Facilities: Nuclear 
+Power Plants). The criteria for both shutdown means will be the same, and will be AOO or DBA 
+criteria, as applicable to the event class. 
+To help better understand trip parameter expectations, table 3 can be used to determine the 
+performance objectives for the specific event under consideration. Objectives for reactor designs 
+with inherent safety and reactor designs with engineered safety are shown. 
+Table 3: Performance objectives for the number of trip parameters 
+Reactor 
+design 
+Means of 
+shutdown 
+(SD) 
+Ideal trip 
+parameter (TP) 
+expectation 
+Is a direct 
+trip 
+parameter 
+available? 
+Performance 
+objective 
+Trip 
+parameter 
+total 
+Reactors 
+with 
+inherent 
+safety 
+One 
+fast-acting SD 
+means 
+One direct TP 
+per event 
+Yes 
+One direct TP per 
+event 
+One TP 
+No 
+Two diverse 
+indirect TPs per 
+event 
+Two TPs 
+Second SD 
+means 
+One direct TP 
+per event 
+Yes 
+One direct TP per 
+event 
+One TPs 
+No 
+Two diverse 
+indirect TPs per 
+event 
+Two TPs 
+Reactors 
+with 
+engineered 
+safety 
+One 
+fast-acting SD 
+means 
+Two TPs per 
+event (at least 
+one direct) 
+Yes 
+Two TPs  
+(at least one 
+direct) 
+Two TPs 
+No 
+Two indirect TPs 
+Two TPs 
+Second 
+fast-acting SD 
+means 
+Two TPs per 
+event (at least 
+one direct) 
+Yes 
+Two TPs  
+(at least one 
+direct) 
+Two TPs 
+No 
+Two indirect TPs 
+Two TPs 
+Notes: 
+1. for accident scenarios with slow or no power increase, two-parameter trip coverage should be 
+demonstrated if practicable 
+2. or scenarios where analysis is being performed not to demonstrate trip coverage, but to 
+provide support such as environmental qualification (EQ) room conditions analysis for 
+equipment survivability, a backup trip parameter is demonstrated only if practicable  
+A manual reactor trip can be considered to be equivalent to a trip parameter if: the requirements 
+for crediting operator action from the main control room are met (see subsection 4.4.4.5); and the 
+reliability of manual shutdown meets the reliability requirements for an automatic trip. 
+ 
+31 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Guidance for emergency core cooling system 
+If the emergency core cooling system (ECCS) logic has an injection logic conditioned by the 
+presence of other indicators (i.e., conditioning signal), then the safety analysis should identify and 
+evaluate the consequences of situations where those conditioning signals may be blinded. 
+If the ECCS activation logic is complex (i.e., several different actions are required for the system 
+to be considered fully activated), then the safety analysis should consider the consequences if 
+some of these actions do not occur – for example, a failure to re-align the ECCS pump suction to 
+the containment sump. 
+For certain designs, the following considerations should be taken into account:  
+• 
+the potential for gas entrainment that could result in damage due to the occurrence of water 
+hammer 
+• 
+the impact on recirculation flows in the presence of filter plugging, debris blockage, heat 
+exchanger blockage, or pump cavitations 
+• 
+the effect of non-condensable gases on flow and heat transfer 
+The safety analysis should consider the impact on the effectiveness of the ECCS of the inaction, 
+partial action, and normal functioning of any other systems that supplement or degrade the 
+cooling capability of the ECCS. 
+Guidance for containment 
+The deterministic safety analysis should identify and evaluate consequences of situations when 
+the containment isolation instrumentation is blinded. For containment, “blinded” refers to 
+conditions for which a containment isolation actuation set point is approached, but not reached. 
+For example, the containment may be blinded by the inaction, partial action, or normal 
+functioning of other systems that supplement or degrade the containment performance. 
+Containment blinding scenarios are important, because an accident with a potential for 
+radioactivity release may not trigger the activation of containment isolation.  
+The containment leakage rate assumed in the analysis should be based on containment design 
+leak-tightness requirements, and confirmed by the leakage rate tests. 
+Guidance for equipment under maintenance 
+The analysis should account, where applicable, for the possibility of the equipment being taken 
+out of service for maintenance.  
+4.4.4.5 Guidance for operator action  
+Specific operator actions required in response to an accident should be identified. Operator 
+actions can be credited in the safety analysis for Level 3 defence in depth only if: 
+• 
+there is reliable instrumentation designed to provide clear and unambiguous indication of the 
+need to take action 
+• 
+the power plant has operating procedures that identify the necessary actions, operator 
+training, support personnel, spare parts, and equipment 
+• 
+environmental conditions do not prevent safe completion of operator actions 
+ 
+32 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Following the first clear and unambiguous indication of the necessity for operator actions, such 
+actions may normally be credited in the safety analysis (Level 3 defence in depth) to be started no 
+sooner than: 
+• 
+15 minutes for actions in the main control room 
+• 
+30 minutes for actions outside the main control room   
+Times for operator actions in new nuclear power plants are established in REGDOC-2.5.2, 
+Design of Reactor Facilities: Nuclear Power Plants. 
+Note: New nuclear power plants referenced in this section are those first licensed in 2014 and 
+beyond. 
+It should be shown by assessment that the specified times are sufficient for the operator to detect 
+and completely diagnose the event, and to carry out the required actions. Such assessment should 
+account for the following:  
+• 
+time starting from the occurrence of the initiating event to the receipt of the event indication 
+by the operator 
+• 
+time to carry out the diagnosis  
+• 
+time required to perform the action 
+• 
+time for the safety related function to be completed 
+In certain circumstances, which must be justified, a completion time shorter than 15 minutes for a 
+control room action might be assumed, provided that: 
+• 
+the operator is exclusively focused on the action in question 
+• 
+the required action is unique, and does not involve a choice from several options 
+• 
+the required action is simple and does not involve multiple manipulations 
+The assessment of the credited human action items should be formally documented. It should 
+include a validation process, which can encompass: 
+• 
+documented procedures that define specific operator action entry points and actions 
+• 
+training of personnel on those procedures (training outline, materials, records) 
+• 
+performing station drills, exercises or control room simulator studies, to confirm that human 
+actions can be completed and to assess response times 
+• 
+consideration of control room simulator data from training activities 
+• 
+analysis and assessment of the response times, to provide credible time estimates for safety 
+analysis usage 
+• 
+validation reports  
+4.4.4.6 Guidance for modelling assumptions  
+The assumptions incorporated in the computer codes, or made during code applications, should 
+be such that safety analysis results (whether best-estimate or conservative) remain physically 
+sound.  
+In performing safety analysis, justifications should be provided for all instances where the 
+assumptions used are different than those used in the validation. 
+ 
+33 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+4.4.4.7 Guidance for dose calculations  
+As mentioned in section 4.3, the committed whole-body dose for average members of the critical 
+groups who are most at risk (at or beyond the site boundary) is calculated in the deterministic 
+safety analysis for a period of 30 days after the analyzed event.  
+The effective dose should be used in dose calculations, and should include contributions from:  
+• 
+external radiation from cloud and ground deposits 
+• 
+inhaled radioactive materials 
+• 
+skin absorption of tritium 
+In dose calculations, the worst weather scenario in terms of predicted dose should be assumed. 
+All weather scenarios with probabilities of occurrences higher than 5 percent should be accounted 
+for.  
+No intervention in the form of decontamination or evacuation should be assumed. Intervention 
+against ingestion of radioactive materials and natural removal processes may be assumed.  
+Dose calculations should also be conducted for several time intervals, and up to one year after the 
+accident.  
+4.4.5 Computer codes 
+Computer codes used in the safety analysis shall be developed, validated, and used in accordance 
+with a quality assurance program that meets the requirements of CSA N286.7-99, Quality 
+Assurance of Analytical, Scientific, and Design Computer Programs for Nuclear Power Plants. 
+Guidance 
+The use of realistic computer codes in safety analysis is preferable, given that the use of 
+conservative codes may produce misleading or unrealistic results. However, an extensive 
+experimental database should be established to demonstrate the code applicability and to validate 
+the code, thereby providing a basis for confidence in code predictions.  
+Fully integrated models could give a more accurate representation of the event, and should be 
+used to the extent practicable. These models address all important phenomena within a single 
+code or code package. Sequential application of single-discipline codes is more likely to 
+misrepresent feedback mechanisms than fully integrated models, and should be avoided unless 
+there is a specific advantage. 
+The selection of computer codes should consider the code applicability, the extent of code 
+validation, and the ability to adequately represent the physical system. 
+4.4.5.1 Guidance for computer code applicability 
+For the safety analysis of an event, the applicability of computer codes used to predict the 
+consequences is established before conducting the analysis. The demonstration of code 
+applicability includes the following steps: 
+• 
+identification of all phenomena significantly influencing the key output parameters (see 
+section 4.4.2.3) 
+ 
+34 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+• 
+confirmation that the code implements adequate models for all key phenomena, and 
+demonstrating that these models have been verified and validated against separate effect tests  
+• 
+assessing the closure equations and constitutive relationships 
+• 
+assessing scaling effects; the scalability of the integral effects tests should be assessed to 
+confirm that there is no significant distortion in the database; scaling distortions and their 
+impact on the code assessment should be identified, evaluated and addressed in the safety 
+analysis 
+• 
+assessing the numerical stability of calculations and temporal and spatial convergence of 
+iterative approximations; the spatial and temporal convergence are achieved when an increase 
+or a reduction in the node or time step sizes (which includes changing the minimum time 
+step, if necessary) does not change simulation results significantly 
+• 
+addressing any gaps or deficiencies in the code applicability for the analyzed event 
+The code applicability assessment and relevant knowledge bases are documented in sufficient 
+detail to allow for an independent review. 
+To model behaviour involving many coupled phenomena, it should be demonstrated that data are 
+transferred through interfaces (i.e., from the calculation of one phenomenon to another) in a 
+manner which adequately captures the physical phenomena and feedback mechanisms. 
+4.4.5.2 Guidance for code validation and quantification of accuracy  
+This document requires all computer codes to be validated for their application in safety analysis. 
+The purpose of validation is to provide confidence in the ability of a code for a given application, 
+and also to determine the code accuracy.  
+The validation should: 
+• 
+demonstrate the capability and credibility of a computer code for use in specific analysis 
+application 
+• 
+quantify the accuracy of the code calculations (quantified through comparison of code 
+prediction with experimental data or other known solutions) 
+The codes used in safety analysis are validated by comparing code predictions with: 
+• 
+experimental data 
+• 
+commissioning data and operating data, where available 
+• 
+solutions to standard or benchmark problems 
+• 
+closed mathematical solutions  
+• 
+results of another validated computer program 
+The comparison of code predictions with solutions to standard problems or closed mathematical 
+solutions for the purposes of validation is acceptable, but they should normally be supplemented 
+with other types of comparisons. 
+The experimental database used for validation may encompass separate effects, as well as 
+component and integrated tests. Chosen test validation should satisfy the following criteria:  
+• 
+test data are obtained at physical and geometrical conditions and phenomena that are relevant 
+either to normal operation conditions, or to a postulated accident scenario in the reactor 
+ 
+35 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+• 
+tests used for validation are free of distortions due to geometry or other properties, to the 
+extent practicable 
+• 
+measurement uncertainties are quantified 
+• 
+systematic errors (bias) are minimized, and their sources are understood 
+• 
+the integrated tests used for validation should be specific to the reactor, and contain 
+components representative of those used in the NPPs 
+• 
+data used for model development is independent from data used for computer code validation 
+Accuracy of code predictions should be provided for the key modelling parameters, and for the 
+plant parameters used to control power generation or to initiate a mitigating system (see 
+section 4.4.2.7). 
+The bias and variability of bias in the computer code can be obtained from the comparison of 
+code predictions with experimental data. 
+The code models used during validation should be identified and recommended for use in safety 
+analysis, so that the safety analysis is consistent with the validation. Otherwise, the impact of 
+using different models on the simulation results (code accuracy) should be assessed.  
+Clear recommendations should be made on the use of a code beyond the conditions for which 
+validation has been performed, and all the effects of such extrapolations should be assessed and 
+accounted for.  
+The effect of the modelling assumptions on the validation results should be assessed, including 
+confirmation that a spatial and temporal convergence of the solution is achieved.  
+Documentation of the computer tools should be clear and easy to follow, so the uncertainties due 
+to user effects would be negligible. The use of different computer hardware or operating systems 
+should also have negligible effects. Means such as user training and compliance with quality 
+assurance procedures should be clearly stated. 
+Computer code validation should be performed by qualified persons. Validation reports should be 
+reviewed by qualified persons who had not participated in the validation.  
+The guidance given above is consistent with and complements the requirements in 
+CSA N286.7-99, Quality Assurance of Analytical, Scientific, and Design Computer Programs for 
+Nuclear Power Plants. 
+4.4.5.3 Guidance for physical representations 
+Data are also prepared to provide a mathematical representation of the physical components, and 
+how their arrangements are to be represented by the computer simulation. This input data should 
+be prepared in accordance with the following principles: 
+• 
+a systematic method for representing components and connections should be developed 
+• 
+the basis for the methodology should be documented; the methods used are usually based on 
+experience in representing experimental facilities and other plants of similar configurations 
+• 
+the representation should be verified and validated 
+• 
+in some cases, plant tests (sometimes as commissioning tests) are required to establish the 
+precision of such representations 
+ 
+36 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+In general, representations used for plant simulations should be created using the same principles 
+as the representation used for code validation to minimize the related user effects.  
+4.4.6 Conservatism in deterministic safety analysis 
+The safety analysis shall build in a degree of conservatism to off-set any uncertainties associated 
+with both NPP initial and boundary conditions and modelling of NPP performance in the 
+analyzed event. This conservatism shall depend on event class and shall be commensurate with 
+the analysis objectives. 
+Guidance 
+Safety analysis needs to incorporate a degree of conservatism that is commensurate with the 
+safety analysis objectives and is dependent on the event class. Conservatism in safety analysis is 
+often necessary to cover the potential impact of uncertainties, and may be achieved through 
+judicious application of conservative assumptions and data. 
+The concept of conservatism is applied to Level 3 defence-in-depth safety analysis. This is to 
+ensure that limiting assumptions are used when knowledge of the physical phenomena is 
+insufficient.  
+For Level 2 and Level 4 defence in depth, the safety analysis should be carried out using 
+best-estimate assumptions, data and methods. Where this is not possible, a reasonable degree of 
+conservatism (appropriate for the objectives of these levels) should be used, to compensate for the 
+lack of adequate knowledge concerning the physical processes governing these events.  
+While it is permissible – and sometimes encouraged – to use conservative codes, it is usually 
+preferable to apply realistic (best-estimate) computer codes. Where conservative analysis results 
+are required for Level 3 defence-in-depth (AOO and DBA) analysis, best-estimate computer 
+codes should be used along with the assessment of modelling and input plant parameter 
+uncertainties.  
+The deterministic safety analysis for AOO and DBA (conservative analysis for Level 3 defence in 
+depth) should: 
+• 
+apply the single-failure criterion to all safety groups, and ensure that the safety groups are 
+environmentally and seismically qualified 
+• 
+use minimum allowable performance (as established in the OLCs) for safety groups 
+• 
+account for consequential failures that may occur as a result of the initiating event 
+• 
+credit the actions of process and control systems only where the systems are passive and 
+environmentally and seismically qualified for the accident conditions 
+• 
+include the actions of process and control systems when their actions may have a detrimental 
+effect on the consequences of the analyzed accident  
+• 
+credit the normally running process systems that are not affected by the analyzed accident 
+• 
+if operator actions are credited, demonstrate that credible “worst case” operator performance 
+has been considered in the analysis and assessment  
+Independent selection of all parameters at their conservative values can lead to plant states that 
+are not physically feasible. When this could be the case, it is recommended to select 
+conservatively those key parameters that have the strongest influence on the results in comparison 
+with the acceptance criterion under consideration. The remaining parameters can be specified 
+ 
+37 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+more consistently in the ensuing calculations. Each calculation should account for the impact of a 
+particular parameter, so that the effects of all parameters can be assessed. 
+4.5 
+Deterministic safety analysis documentation 
+The safety analysis documentation shall be comprehensive and sufficiently detailed to allow for a 
+conclusive review. The document shall include: 
+1. the technical basis for the analyzed event and key phenomena and processes 
+2. A description of the analyzed facility, including important systems and their performance, as 
+well as operator actions 
+3. information describing the analysis method and assumptions 
+4. a description of the assessments of code applicability for the analyzed event and computer 
+code uncertainty 
+5. an easily understood description of the results of the analysis, and the drawing of conclusions 
+with respect to conformance with acceptance criteria 
+Analysis documentation shall facilitate the update of the analysis when new results become 
+available. 
+Guidance 
+The review should be an independent review and conducted by suitably qualified experts. In 
+particular, the following elements need to be included in the safety analysis documentation: 
+• 
+a technical basis that includes: 
+o 
+the objective(s) of the analysis 
+o 
+a description of the analyzed event, which should include a description of the NPP 
+operating mode, action of SSCs, operator actions and significant phases of the analyzed 
+event (note that other events bounded by the analyzed event should also be identified) 
+o 
+a description of safety concerns, challenges to safety, and applicable safety analysis 
+criteria, requirements and numerical limits 
+o 
+identification of key phenomena significantly affected by the key parameters for the 
+analyzed event, along with a description of the systematic process used for identification 
+of key parameters 
+• 
+a description of the analyzed facility, including important systems and their performance, as 
+well as operators actions 
+• 
+information on the analysis method and assumptions 
+• 
+information demonstrating the code applicability, including (when available) evidence that 
+codes have been validated against prototypical experiments and assessment of code accuracy, 
+as well as references to the relevant experimental results; demonstration that the analysis 
+assumptions are consistent with the plant operating limits (with evidence from NPP operation 
+and experiments demonstrating the assumed observed variances in operating parameters, and 
+uncertainties in modelling parameters, respectively) 
+• 
+a description of the results of analysis, including results of sensitivity and uncertainty studies 
+with sufficient detail to show dominant phenomena; evidence of independent verification of 
+the inputs and the results; evidence of analysis review, including an assessment of the impact 
+(if any) on the plant’s operating limits, conditions, manuals, etc. 
+Safety analysis documentation should be written in a manner that can be easily understood by the 
+station staff controlling the plant’s OLCs. 
+ 
+38 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+4.6 
+Review and update of deterministic safety analysis  
+4.6.1 Review of deterministic safety analysis results 
+The licensee shall systematically review the safety analysis results to ensure that they are correct 
+and meet the objectives set for the analysis. The results shall be assessed against the relevant 
+requirements, applicable experimental data, expert judgment, and comparison with similar 
+calculations and sensitivity analyses. 
+The licensee shall review the analysis results using one or more of the following techniques, 
+depending on the objectives of the analysis: 
+1. supervisory review 
+2. peer review 
+3. independent review by qualified individuals 
+4. independent calculations using alternate tools and methods to the extent practicable 
+Guidance 
+Procedures should be developed to determine the extent of the independent review to be applied 
+at each step of the safety analysis.  
+To review the safety analysis and identify potential deficiencies, reviewers should be familiar 
+with:  
+• 
+safety standards, analytical methods, and technical and scientific research 
+• 
+changes in power plant data, design, operating envelope and operating procedures 
+• 
+information on operating experience from other NPPs 
+In reviewing the safety analysis, the following review elements should be considered: 
+• 
+plant design information, supported by layout, system and equipment drawings, and design 
+manuals 
+• 
+operating limits and permitted operational states 
+• 
+information about the functional capability of the plant, systems and major items of 
+equipment 
+• 
+the findings of tests which validate the functional capability 
+• 
+the results of inspection of components 
+• 
+site characteristics, such as flood, seismic, meteorological, and hydrological databases 
+• 
+offsite characteristics, including population densities 
+• 
+results of similar analyses 
+• 
+developments in analytical methods and computer codes 
+• 
+regulatory rules for safety analysis 
+• 
+safety analysis standards and procedures 
+The extent and method of the review should be commensurate with: 
+• 
+the analysis complexity and novelty 
+• 
+similarity to previously reviewed analyses 
+• 
+predicted margins to acceptance criteria 
+ 
+39 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+For novel and complex analysis, the use of alternative methods should be considered to confirm 
+analysis results. Alternative methods used for confirmation may be simplified, but should be 
+capable of demonstrating that the original analysis results are reasonable. 
+4.6.2 Update of deterministic safety analysis 
+The safety analysis shall be periodically reviewed and updated to account for changes in NPP 
+configuration, conditions (including those due to aging), operating parameters and procedures, 
+research findings, and advances in knowledge and understanding of physical phenomena, in 
+accordance with CNSC regulatory standard S-99, Reporting Requirements for Operating Nuclear 
+Power Plants, or successor documents.  
+In addition to periodic updates, the safety analysis shall also be updated following the discovery 
+of information that may reveal a hazard that is different in nature, greater in probability, or greater 
+in magnitude than was previously presented to the CNSC in the licensing documents. 
+Guidance 
+The periodic update of the safety analysis report should: 
+• 
+incorporate new information 
+• 
+address identified new issues 
+• 
+use current tools and methods 
+• 
+address the impact of modifications to the design and operating procedures that might happen 
+over the life of the NPP 
+Updating the safety analysis ensures that it remains valid, while taking into account: 
+• 
+the actual status of the NPP 
+• 
+permitted plant configuration and allowable operating conditions 
+• 
+predicted plant end-of-life state  
+• 
+changes to analytical methods, safety standards and knowledge that invalidate existing safety 
+analysis   
+In order to achieve the above objective, the following guidelines can be used in updating safety 
+analyses: 
+• 
+review safety analysis methods against the applicable standards, and research findings 
+available in Canada and internationally, to identify the elements that should be taken into 
+account 
+• 
+review the changes made in the NPP data, design, operating envelope, and operating 
+procedure, to identify the elements that need to be updated 
+• 
+review information on NPP commissioning and operating experience, both in Canada and 
+worldwide, to identify relevant information that should be accounted for  
+• 
+review the progress in the resolution of previously identified safety analysis issues, to identify 
+the impact on the safety analysis methods and results 
+4.7 
+Quality of deterministic safety analysis 
+Safety analysis shall be subject to a comprehensive QA program applied to all activities affecting 
+the quality of the results. The QA program shall identify the management system or quality 
+ 
+40 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+assurance standards to be applied and shall include documented procedures and instructions for 
+the complete safety analysis process, including, but not limited to: 
+1. collection and verification of NPP data 
+2. verification of the computer input data 
+3. validation of NPP and analytical models 
+4. assessment of simulation results 
+5. documentation of analysis results 
+Guidance 
+All sources of data should be referenced and documented, and the various steps of the process 
+should be recorded and archived, to allow independent checking. 
+The safety analysis QA program should comply with regulatory requirements, codes and 
+standards, and be consistent with the best international practices. 
+ 
+41 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Part II: Deterministic Safety Analysis for Small Reactor Facilities 
+5. 
+Introduction 
+Part II of this regulatory document sets out the requirements of the Canadian Nuclear Safety 
+Commission (CNSC) for deterministic safety analysis for small reactor facilities. 
+6. 
+Graded Approach 
+The graded approach is a method in which the stringency of the design measures and analyses 
+applied are commensurate with the level of risk posed by the reactor facility. 
+The breadth and depth of analyses and magnitude of accepted uncertainties in the safety analyses 
+shall demonstrate that the safety analysis objectives and the requirements in this document are 
+met. 
+Licensees or applicants may find further guidance on use of the graded approach in International 
+Atomic Energy Agency (IAEA) NS-R-4, Safety of Research Reactors. 
+6.1 
+Application of the graded approach to deterministic safety analysis 
+The scope, content and detail of the safety analysis for small reactor facilities may not be the 
+same as for power reactors. Different accident scenarios may apply and some scenarios may need 
+only a limited safety analysis. The application of the graded approach to safety analysis shall be 
+commensurate with the level of risk of the reactor facility. 
+When a graded approach is applied, factors to be considered include: 
+1. reactor power 
+2. reactor safety characteristics 
+3. amount and enrichment of fissile and fissionable material 
+4. fuel design 
+5. type and mass of moderator, reflector and coolant 
+6. utilization of the reactor 
+7. presence of high-energy sources and other radioactive and hazardous sources 
+8. safety design features 
+9. source term 
+10. siting 
+11. proximity to populated areas 
+7. 
+Deterministic Safety Analysis 
+The overall assessment of the reactor facility design includes hazards analysis, deterministic 
+safety analysis and probabilistic safety analysis techniques. This document focuses on 
+deterministic safety analysis. 
+These analyses identify all radiation sources, in order to evaluate potential radiation doses to 
+reactor facility workers and to the public, and to evaluate potential effects on the environment. 
+ 
+42 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+These analyses confirm that the design is capable of meeting the safety requirements, dose 
+acceptance criteria and safety goals. These analyses also contribute to demonstrating that the 
+reactor facility provides defence in depth (as defined in RD-367, Design of Small Reactor 
+Facilities). 
+The safety analyses shall: 
+1. confirm the assumptions and intent of the design for normal operation of the reactor facility 
+to establish the operational limits and conditions (OLCs) of the reactor facility, to assist in 
+establishing and validating accident management procedures and guidelines 
+2. characterize the events that are applicable to the site and reactor facility design (as described 
+in section 8.2) 
+3. analyze and evaluate event sequences that result from failure of structures, systems and 
+components (SSCs) 
+4. compare the results of the safety analyses with design limits and dose acceptance criteria 
+5. confirm the range of conditions and events taken into account in the design basis 
+6. demonstrate that anticipated operational occurrences (AOOs), design-basis accidents (DBAs) 
+and, to the extent practicable, beyond-design-basis accidents (BDBAs) can be managed by 
+automatic response of safety systems in combination with operating procedures 
+7.1 
+Deterministic safety analysis objectives 
+The deterministic safety analysis shall: 
+1. confirm that the design of a reactor facility meets design and safety requirements and the 
+applicable requirements for defence in depth established in RD-367; in particular, the 
+deterministic safety analysis shall: 
+a. demonstrate Level 2 defence in depth by providing reasonable confidence that control 
+systems acting alone can mitigate a wide range of AOOs without damage to SSCs 
+b. demonstrate Level 3 defence in depth by providing high confidence that the safety 
+systems acting alone can mitigate all AOOs and DBAs such that the facility meets the 
+dose acceptance criteria established in RD-367 
+c. assist in demonstrating Level 4 defence in depth by supporting probabilistic safety 
+analysis to demonstrate that facility meets the safety goals established in RD-367 
+2. derive or confirm OLCs that are consistent with the design and safety requirements for the 
+reactor facility 
+3. assist in establishing and validating accident management procedures and guidelines 
+4. confirm that modifications to the design or operation of the reactor facility have no 
+significant adverse impact on safety 
+8. 
+Requirements for Deterministic Safety Analysis  
+The following sections outline the detailed requirements of the deterministic safety analysis that 
+must be submitted to the CNSC. 
+ 
+43 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+8.1 
+Responsibilities 
+The licensee or applicant is responsible for ensuring that the deterministic safety analysis meets 
+the following requirements. The licensee or applicant shall: 
+1. maintain adequate capability to either perform deterministic safety analysis or competently 
+oversee deterministic safety analysis by an external resource 
+2. ensure that a formal process is followed to assess and update a deterministic safety analysis, 
+taking into account the impact of design modifications, operational experience, research 
+findings and known safety issues 
+3. ensure that a documented quality assurance (QA) process is applied in conducting a 
+deterministic safety analysis 
+8.2 
+Events to be analyzed 
+8.2.1 Identifying events 
+The licensee or applicant shall use a systematic process to identify postulated initiating events 
+(including criticality events), event sequences and event combinations (referred to as “events” 
+hereafter in this document) that can potentially challenge the safety functions of the reactor 
+facility. This process must consider regulatory requirements and guidance, past licensing 
+precedents, operational experience, engineering judgment, results of deterministic analysis and 
+probabilistic safety assessment (PSA), and a systematic review of the design. 
+The licensee shall also identify events that may lead to fission product releases, including those 
+related to spent fuel pools (also called irradiated fuel bays) and fuel-handling systems.  
+The identification of events shall account for: 
+1. all operating configurations, such as start-up, at-power operation, shutdown, maintenance, 
+testing, surveillance, and refuelling 
+2. configurations and uses of the reactor facility 
+3. interactions between the reactor and any experimental devices, including: 
+a. administrative procedures 
+b. controls 
+c. additional equipment related to the experimental devices 
+Common-cause events affecting multiple reactor units on a site, or a reactor unit and related 
+facilities nearby, shall be considered. 
+The list of identified events shall be reviewed for completeness during the design and 
+deterministic safety analysis process. After construction of a new reactor facility, the list of events 
+shall be verified for the “as-built” state. Subsequent design changes or experiment designs shall 
+also be reviewed and the list of identified events modified as necessary. 
+8.2.2 Scope of events analyzed 
+The list of events to be developed for the deterministic safety analysis shall include: 
+1. failures or malfunctions of SSCs 
+2. operator errors 
+ 
+44 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+3. common-cause failures initiated by internal and external events, including those affecting 
+multiple reactor units on a site 
+A cut-off frequency shall be selected such that the events with a frequency of occurrence less than 
+the cut-off limit provide only a negligible contribution to the risk. Events of lower frequency than 
+the cut-off limit are not considered to be credible. The elimination of such events from the 
+deterministic safety analysis scope shall be justified, and the reasons for eliminating them must be 
+documented. 
+8.2.3 Classification of events 
+The identified events shall be classified, based on the results of PSA and engineering judgment, 
+into the following three classes of events: 
+1. anticipated operational occurrences (AOOs), which include all events with frequencies of 
+occurrence equal to or greater than 10-2 per reactor year 
+2. design-basis accidents (DBAs), which include all events with frequencies of occurrence equal 
+to or greater than 10-5 per reactor year but less than 10-2 per reactor year. This class of events 
+also includes any events that are used as a design basis for a safety system, regardless of 
+whether the estimated frequencies are less than 10-5 per reactor year. 
+3. beyond-design-basis accidents (BDBAs), which include events with frequencies of 
+occurrence less than 10-5 per reactor year 
+Events with a frequency near the threshold between two classes of events, or with substantial 
+uncertainty over the predicted event frequency, should be classified into a higher frequency class. 
+Credible common cause events shall also be classified within the AOO, DBA and BDBA classes. 
+8.3 
+Acceptance criteria 
+8.3.1 Normal operations 
+Safety analysis for normal operation of the reactor facility shall demonstrate that: 
+1. radiological doses to workers and members of the public are within the limits prescribed in 
+the Radiation Protection Regulations 
+2. releases of radioactive materials into the environment are within the regulatory limits 
+8.3.2 Anticipated operational occurrences and design-basis accidents 
+Safety analysis for AOOs and DBAs shall demonstrate that: 
+1. radiological doses to members of the public do not exceed the dose acceptance criteria as 
+established in RD-367, Design of Small Reactor Facilities 
+2. the applicable safety requirements established in accordance with section 8.3.4 are met, 
+unless otherwise justified 
+ 
+45 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+8.3.3 Beyond-design-basis accidents 
+Safety analysis for BDBAs shall demonstrate that: 
+1. the reactor facility, as designed, is capable of meeting the safety goals as established in 
+RD-367 
+2. the procedures and equipment put in place to take accident management needs into account 
+are effective, considering the availability of cooling water, material and power supplies; 
+consideration can be given to the plant’s full design capabilities, including the possible use of 
+safety, non-safety and temporary systems beyond their originally intended function  
+Note that deterministic safety analysis supports PSA in evaluating the reactor facility against the 
+safety goals. 
+8.3.4 
+Application of safety requirements for anticipated operational occurrences and 
+design-basis accidents 
+Qualitative acceptance criteria shall be established for each AOO and DBA to confirm the 
+effectiveness of reactor facility systems in maintaining the integrity of physical barriers against 
+releases of radioactive material. These qualitative acceptance criteria shall: 
+1. avoid the potential for consequential failures resulting from an initiating event 
+2. maintain the SSCs in a configuration that permits the effective removal of residual heat 
+3. prevent development of complex configurations or physical phenomena that cannot be: 
+a. modelled with high confidence 
+b. demonstrated with suitable experiments 
+c. reliably bound by conservative assumptions 
+4. be consistent with the design requirements for the reactor facility’s SSCs 
+To demonstrate that the safety requirements are met, acceptance criteria for AOOs and DBAs 
+shall be established by the licensee or applicant prior to performing the deterministic safety 
+analysis. Such acceptance criteria shall ensure that the safety functions are met, justified and 
+supported by appropriate evidence. 
+Examples of acceptance criteria for AOOs and DBAs are provided in appendix C. Licence 
+conditions may contain additional requirements to reflect events resulting from unique reactor 
+facility design or experiments. 
+The results of a deterministic safety analysis shall meet acceptance criteria, with sufficient 
+margins to accommodate uncertainties associated with the deterministic safety analysis. 
+The deterministic safety analysis shall include the event that poses the most challenges in meeting 
+the acceptance criteria (i.e., the limiting event in an event category). 
+8.4 
+Methods and assumptions for deterministic safety analysis 
+The deterministic safety analysis must demonstrate that acceptance criteria will be met. To 
+provide adequate confidence in the results, the deterministic safety analysis shall: 
+1. be performed in accordance with a QA process that meets the requirements specified in 
+section 8.7 
+2. be performed by qualified analysts 
+ 
+46 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+3. apply a systematic deterministic safety analysis method 
+4. use verified and validated models and computer codes 
+5. use justified assumptions 
+6. be subjected to a review process 
+8.4.1 Method for deterministic safety analysis  
+The deterministic safety analysis method shall include: 
+1. identifying the scenarios to be analyzed to attain the deterministic safety analysis objectives, 
+including sensitivity cases 
+2. identifying the applicable acceptance criteria and limits 
+3. collecting the information that describes the analyzed reactor facility and its permissible 
+operating modes 
+4. defining the assumptions about the operating state, the availability and performance of reactor 
+facility systems, and the actions of operators 
+5. identifying the important phenomena of the analyzed event 
+6. selecting the computational methods or computer codes, models and correlations that have 
+been validated for the intended applications 
+7. preparing the input data for the deterministic safety analysis 
+8. conducting calculations, including: 
+a. performing sensitivity analysis and identifying, where necessary, margins to cliff-edge 
+effects 
+b. analyzing the event from the initial steady state up to a predefined long-term stable 
+state 
+10. verifying the calculation results for physical and logical consistency 
+11. processing and documenting results of the calculations to demonstrate conformance with the 
+acceptance criteria and limits 
+8.4.2 Assumptions for deterministic safety analysis  
+Deterministic safety analysis shall be based on complete and accurate reactor facility design and, 
+where available, operational information. Assumptions made to simplify the deterministic safety 
+analysis, as well as assumptions concerning the availability and performance of the systems and 
+operators, shall be identified and justified. 
+The deterministic safety analysis for AOOs and DBAs (conservative analysis for level 3 defence 
+in depth) shall: 
+1. incorporate the key input modelling parameter uncertainties, the key input plant parameters 
+measurement uncertainties, and the measurement uncertainties for the actuation of mitigating 
+systems; the uncertainties shall be properly estimated, following best national and 
+international practices 
+2. apply the single-failure criterion to all safety, groups and ensure that the safety groups are 
+environmentally qualified 
+3. use minimum allowable performance (as established in the OLCs) for safety groups 
+4. account for consequential failures that may occur as a result of the initiating event 
+5. credit the actions of process and control systems only where the systems are passive and 
+environmentally qualified for the accident conditions 
+6. credit process systems only if they are already running and are not affected by the event 
+7. include the actions of process and control systems when their actions may have a detrimental 
+effect on the consequences of the analyzed accident 
+ 
+47 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+8. consider the effects of aging on SSCs 
+9. account for the possibility of equipment being taken out of service for maintenance 
+10. show that the plant can be maintained in a stable, cold and depressurized state for a prolonged 
+period 
+11. credit operator actions only when there are: 
+a. unambiguous indications of the need for such actions 
+b. adequate procedures and operator training for such actions 
+c. sufficient time to perform the credited actions 
+d. environmental conditions that do not prohibit such actions 
+8.4.3 Computer codes 
+Computer codes used in the deterministic safety analysis shall be developed, validated and used 
+in accordance with a quality assurance program that meets or exceeds the CSA Group standard 
+CSA-N286.7-99. G-149, Computer Programs Used in Design and Safety Analyses of Nuclear 
+Power Plants and Research Reactors, provides guidance on computer code expectations. 
+8.4.4 Conservatism in deterministic safety analysis 
+A degree of conservatism shall be incorporated in the analysis, to demonstrate a level of 
+confidence in conformance with the analysis objectives (established in accordance with 
+section 7.1). 
+8.5 
+Deterministic safety analysis documentation 
+The deterministic safety analysis documentation shall be comprehensive and sufficiently detailed 
+to allow for an independent verification. The documentation shall include: 
+1. the objective of the safety analysis 
+2. the technical basis for each event, and key phenomena and processes 
+3. a description of the analyzed event 
+4. a description of safety concerns, challenges to safety, and applicable safety criteria, 
+requirements and numerical limits 
+5. identification of key phenomena taking place during the analyzed event for each of the 
+identified safety concerns 
+6. demonstration of the code applicability, including evidence that codes have been validated 
+against prototypical experiments and assessment of the code accuracy 
+7. demonstration that the analysis assumptions are consistent with the reactor facility operating 
+limits 
+8. the results of sensitivity analysis and uncertainty analysis 
+9. the data and information to be provided to other programs at the reactor facility 
+10. a summary of significant results and conclusions regarding acceptability 
+8.6 
+Review and update of deterministic safety analysis 
+8.6.1 Review of deterministic safety analysis results 
+The licensee or applicant shall systematically review the deterministic safety analysis results, to 
+ensure that they are correct and meet the initial objective of the deterministic safety analysis. The 
+results shall be assessed against the relevant CNSC requirements, applicable experimental data, 
+expert judgment, comparison with similar calculations and sensitivity analyses. 
+ 
+48 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+The licensee or applicant shall review the deterministic safety analysis results using one or more 
+of the following techniques, depending on the objectives of the deterministic safety analysis: 
+1. supervisory review 
+2. peer review 
+3. independent review by qualified individuals 
+4. independent calculations using alternate tools and methods to the extent practicable 
+8.6.2 Update of deterministic safety analysis 
+The deterministic safety analysis shall be periodically reviewed and updated to account for 
+changes in the reactor facility configuration, conditions (including those due to aging), operating 
+parameters and procedures, new research findings, and advances in knowledge. The graded 
+approach applies to the frequency of updates. 
+In addition to periodic updates, the deterministic safety analysis shall also be updated when there 
+are major design changes, and/or refurbishments or both. It shall also be updated following the 
+discovery of information that may reveal a hazard that is significantly different in nature, greater 
+in probability or greater in magnitude than was previously presented to the CNSC in the licensing 
+documents. Such information includes: 
+1. changes due to new research findings 
+2. the occurrence of an event that was not considered in the deterministic safety analysis 
+8.7 
+Quality of deterministic safety analysis 
+Deterministic safety analysis shall be subjected to a comprehensive QA program that is applied to 
+all activities affecting the quality of the results. The QA program shall identify the quality 
+assurance standards to be applied and shall include documented procedures and instructions for 
+the complete deterministic safety analysis process, including, but not limited to: 
+1. collection and verification of reactor facility data 
+2. verification of the computer input data 
+3. validation of codes used in deterministic safety analysis 
+4. assessment of results of simulations 
+5. documentation of deterministic safety analysis results
+ 
+49 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Appendix A: Outputs of Event Identification and Classification 
+This table provides grouping of the events into anticipated operational occurrences (AOOs), design-basis 
+accidents (DBAs) and beyond-design-basis accidents (BDBAs), and illustrates the outputs of the event 
+identification and classification process described in section 4.2. This list is for illustration only and is not 
+meant to be comprehensive. 
+Initiating event  
+Additional failures 
+AOO 
+DBA 
+BDBA 
+LOCA inside containment 
+Very small LOCA (leak): 
+• heat transport system (HTS) leak inside 
+containment (within the D2O feed pump 
+capacity up to 50 kg/s) 
+No additional failures 
+√ 
+ 
+ 
+Small LOCA: 
+• small HTS pipe failure (range of 
+50-1,000 kg/s) 
+• pipe failure at the top of pressurizer 
+• end-fitting failure 
+• pressure tube failure with calandria tube 
+intact 
+• pressure tube/calandria tube failure 
+(in-core LOCA) 
+No additional failures 
+ 
+√ 
+ 
+Failure of D2O recovery/D2O feed 
+ 
+√ 
+ 
+Failure of Class IV power 
+ 
+√ 
+ 
+Failure of containment isolation 
+ 
+ 
+√ 
+Failure of all vault coolers  
+ 
+ 
+√ 
+Failure of containment pressure relief 
+valves (PRV) 
+ 
+ 
+√ 
+Failure of containment pressure 
+suppression 
+ 
+ 
+√ 
+Failure of filtered containment discharge 
+ 
+ 
+√ 
+Failure of steam generator (SG) 
+cooldown 
+ 
+ 
+√ 
+Failure of emergency core cooling 
+system (ECCS) 
+ 
+ 
+√ 
+Transition break LOCA: 
+• HTS pipe failure (1,000–3,000 kg/s) 
+No additional failures 
+ 
+√ 
+ 
+Failure of Class IV power 
+ 
+√ 
+ 
+Failure of containment isolation 
+ 
+ 
+√ 
+Failure of all vault coolers  
+ 
+ 
+√ 
+Failure of containment PRV 
+ 
+ 
+√ 
+Failure of containment pressure 
+suppression 
+ 
+ 
+√ 
+Failure of filtered containment discharge 
+ 
+ 
+√ 
+Failure of SG cooldown 
+ 
+ 
+√ 
+Failure of ECCS 
+ 
+ 
+√ 
+Large-break LOCA 
+• (>3,000 kg/s) 
+No additional failures 
+ 
+√ 
+ 
+Failure of Class IV power 
+ 
+√ 
+ 
+Failure of containment isolation 
+ 
+ 
+√ 
+Failure of all vault coolers  
+ 
+ 
+√ 
+Failure of containment PRV 
+ 
+ 
+√ 
+Failure of containment pressure 
+suppression 
+ 
+ 
+√ 
+Failure of filtered containment discharge 
+ 
+ 
+√ 
+Failure of SG cooldown 
+ 
+ 
+√ 
+ 
+50 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Initiating event  
+Additional failures 
+AOO 
+DBA 
+BDBA 
+Failure of ECCS 
+ 
+ 
+√ 
+LOCA outside containment 
+Very small LOCA (leak) outside 
+containment: 
+• HTS instrument tubing rupture outside 
+containment 
+No additional failures 
+√ 
+ 
+ 
+Failure of shutdown cooling system 
+(SDCS) 
+ 
+√ 
+ 
+SG tube chronic leak (<50kg/h) with high 
+Iodine-131 concentration 
+No additional failures 
+√ 
+ 
+ 
+Single SG tube rupture 
+No additional failures 
+√ 
+ 
+ 
+Failure of SDCS 
+ 
+√ 
+ 
+Failure of condenser steam discharge 
+valves (CSDV) 
+ 
+√ 
+ 
+Failure of affected SG main steam 
+isolation valves (MSIV)  
+ 
+√ 
+ 
+Failure of SDCS and CSDV 
+ 
+ 
+√ 
+Multiple (≤10) SG tube rupture 
+No additional failures 
+ 
+√ 
+ 
+Multiple (>10) SG tube rupture 
+No additional failures 
+ 
+ 
+√ 
+HTS gland seal failure 
+No additional failures 
+√ 
+ 
+ 
+Failure of SDCS 
+ 
+√ 
+ 
+HTS bleed line failure 
+No additional failures 
+ 
+√ 
+ 
+Bleed valve failed open 
+ 
+√ 
+ 
+HTS feed line failure  
+No additional failures 
+ 
+√ 
+ 
+Bleed valve failed open 
+ 
+√ 
+ 
+Failure to close HTS check valve  
+No additional failures 
+ 
+√ 
+ 
+Loss of flow 
+Minor flow blockage in one channel  
+No additional failures 
+√ 
+ 
+ 
+ECCS or containment impairment 
+ 
+√ 
+ 
+Severe flow blockage in one channel 
+No additional failures 
+ 
+√ 
+ 
+ECCS or containment impairment 
+ 
+ 
+√ 
+Stagnation feeder break 
+No additional failures 
+ 
+√ 
+ 
+Failure of Class IV power 
+ 
+ 
+√ 
+Failure of containment isolation 
+ 
+ 
+√ 
+Failure of all vault coolers  
+ 
+ 
+√ 
+Failure of containment PRV 
+ 
+ 
+√ 
+Failure of containment pressure 
+suppression 
+ 
+ 
+√ 
+Failure of filtered containment discharge 
+ 
+ 
+√ 
+Failure of SG cooldown 
+ 
+ 
+√ 
+Failure of ECCS 
+ 
+ 
+√ 
+ 
+51 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Initiating event  
+Additional failures 
+AOO 
+DBA 
+BDBA 
+Fuelling failures 
+Fuel ejection from fuelling machine into 
+containment 
+No additional failures 
+ 
+√ 
+ 
+Failure of class IV power 
+ 
+ 
+√ 
+Failure of containment isolation 
+ 
+ 
+√ 
+Failure of all vault coolers  
+ 
+ 
+√ 
+Failure of containment PRV 
+ 
+ 
+√ 
+Failure of containment pressure 
+suppression 
+ 
+ 
+√ 
+Failure of filtered containment discharge 
+ 
+ 
+√ 
+Failure of SG cooldown 
+ 
+ 
+√ 
+Failure of ECCS 
+ 
+ 
+√ 
+Feedwater system failures 
+Total loss of feedwater 
+No additional failures 
+ 
+√ 
+ 
+Failure of SDCS  
+ 
+√ 
+ 
+Failure of steam generator emergency 
+cooling system (SGECS) or emergency 
+secondary water supply system (ESWS) 
+ 
+ 
+√ 
+Feedwater line failure upstream of the last 
+check valve 
+No additional failures 
+ 
+√ 
+ 
+Failure of SDCS  
+ 
+√ 
+ 
+Failure of SGECS or ESWS 
+ 
+ 
+√ 
+Feedwater line failure downstream of the 
+last check valve 
+No additional failures 
+ 
+√ 
+ 
+Failure of SDCS  
+ 
+ 
+√ 
+Failure of SGECS or ESWS 
+ 
+ 
+√ 
+Steam supply system failure 
+Inadvertent closing of one MSIV 
+No additional failures 
+√ 
+ 
+ 
+Turbine/generator load rejection and 
+turbine trip 
+No additional failures 
+√ 
+ 
+ 
+Spurious opening of one or more main 
+steam safety valves (MSSVs) 
+No additional failures 
+√ 
+ 
+ 
+Turbine trip with CSDV unavailable 
+No additional failures 
+√ 
+ 
+ 
+Large steam pipe failure: 
+• main steam line rupture 
+• main steam balance header failure 
+• SG steam nozzle rupture 
+No additional failures 
+ 
+√ 
+ 
+Failure of SDCS 
+ 
+ 
+√ 
+Failure of SGECS or ESWS 
+ 
+ 
+√ 
+Reheater drain line failure 
+No additional failures 
+√ 
+ 
+ 
+Failure of SDCS 
+ 
+√ 
+ 
+Failure of SGECS or ESWS 
+ 
+ 
+√ 
+Loss of deaerator pressure due to rupture of 
+extraction steam line 
+No additional failures 
+ 
+√ 
+ 
+Heat transport pump events 
+HTS pump trip 
+No additional failures 
+√ 
+ 
+ 
+HTS pump seizure 
+No additional failures 
+ 
+√ 
+ 
+HTS pump shaft failure 
+No additional failures 
+ 
+√ 
+ 
+ 
+52 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Initiating event  
+Additional failures 
+AOO 
+DBA 
+BDBA 
+Fuel-handling system failures 
+Loss of fuelling machine (FM) cooling in 
+transit 
+No additional failures 
+ 
+√ 
+ 
+Failure of containment isolation 
+ 
+ 
+√ 
+Failure of containment PRVs 
+ 
+ 
+√ 
+Loss of FM coolant on reactor 
+No additional failures 
+√ 
+ 
+ 
+Failure of containment isolation 
+ 
+√ 
+ 
+Failure of containment PRV 
+ 
+√ 
+ 
+Failure of filtered containment discharge 
+ 
+√ 
+ 
+Bundle crushed with FM latched to reactor 
+No additional failures 
+√ 
+ 
+ 
+Steam generator tube leak 
+√ 
+ 
+ 
+Fuel handling incidents at the irradiated 
+fuel port 
+No additional failures 
+√ 
+ 
+ 
+Off-gas system not available 
+ 
+√ 
+ 
+Irradiated fuel bay (IFB) incidents 
+No additional failures 
+√ 
+ 
+ 
+Loss of bay contaminated exhaust 
+system 
+ 
+√ 
+ 
+Loss of IFB cooling 
+No additional failures 
+√ 
+ 
+ 
+Loss of backup cooling 
+ 
+√ 
+ 
+Loss of bay contaminated exhaust 
+system 
+ 
+√ 
+ 
+Loss of IFB inventory 
+No additional failures 
+ 
+√ 
+ 
+Loss of bay contaminated exhaust 
+system 
+ 
+ 
+√ 
+Electrical failures 
+Loss of Class IV power 
+No additional failures 
+√ 
+ 
+ 
+Failure of Class III power 
+ 
+√ 
+ 
+Loss of unit Class I power 
+No additional failures 
+√ 
+ 
+ 
+Loss of unit Class II power 
+No additional failures 
+√ 
+ 
+ 
+Loss of unit emergency power supply 
+(EPS)  
+No additional failures 
+√ 
+ 
+ 
+Loss of common electrical power 
+No additional failures 
+√ 
+ 
+ 
+Control failures 
+Controlling computer failures 
+No additional failures 
+√ 
+ 
+ 
+Loss of reactivity control 
+No additional failures 
+√ 
+ 
+ 
+Loss of power reactor regulation 
+No additional failures 
+√ 
+ 
+ 
+Steam generator (SG) pressure low-
+spurious opening of atmospheric steam 
+discharge valves (ASDV) and CSDV 
+No additional failures 
+√ 
+ 
+ 
+Loss of SG level control 
+No additional failures 
+√ 
+ 
+ 
+Loss of dearator level control 
+No additional failures 
+√ 
+ 
+ 
+Loss of heat transport pressure control: 
+over-pressurization 
+No additional failures 
+√ 
+ 
+ 
+Loss of heat transport pressure control: 
+depressurization 
+No additional failures 
+√ 
+ 
+ 
+ 
+53 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Initiating event  
+Additional failures 
+AOO 
+DBA 
+BDBA 
+SDCS and shield cooling failures 
+Loss of cooling/temperature control 
+No additional failures 
+√ 
+ 
+ 
+Loss of flow 
+No additional failures 
+ 
+√ 
+ 
+Piping failure 
+No additional failures 
+ 
+√ 
+ 
+SDCS heat exchanger tube failure 
+No additional failures 
+ 
+√ 
+ 
+Shield cooling system loss of circulation  
+No additional failures 
+ 
+√ 
+ 
+Failure of SDCS 
+ 
+√ 
+ 
+Total loss of low-pressure service water 
+open system (LPSWOS)  
+No additional failures 
+√ 
+ 
+ 
+Loss of end shield inventory  
+No additional failures 
+√ 
+ 
+ 
+Failure of SDCS 
+ 
+√ 
+ 
+Loss of shield temperature control 
+No additional failures 
+√ 
+ 
+ 
+ 
+Failure of SDCS 
+ 
+√ 
+ 
+Moderator system failures 
+Loss of LPSWOS 
+No additional failures 
+√ 
+ 
+ 
+Failure of moderator high-level trip 
+ 
+√ 
+ 
+Failure of containment isolation 
+ 
+√ 
+ 
+Failure of PRVs 
+ 
+√ 
+ 
+Failure of containment filtered discharge 
+ 
+√ 
+ 
+Loss of moderator circulation 
+No additional failures 
+√ 
+ 
+ 
+Failure of moderator high level switch 
+ 
+√ 
+ 
+Failure of SDCS 
+ 
+√ 
+ 
+Loss of moderator temperature control low 
+No additional failures 
+√ 
+ 
+ 
+Loss of moderator inventory  
+No additional failures 
+ 
+√ 
+ 
+Failure of SDCS 
+ 
+√ 
+ 
+Moderator heat exchange tube failure 
+No additional failures 
+ 
+√ 
+ 
+Loss of cover gas pressure  
+No additional failures 
+√ 
+ 
+ 
+Loss of cover gas circulation  
+No additional failures 
+√ 
+ 
+ 
+Loss of LPSWOS to moderator heat 
+exchangers 
+No additional failures 
+√ 
+ 
+ 
+Failure of moderator high-level trip 
+ 
+√ 
+ 
+Failure of SDCS 
+ 
+√ 
+ 
+Support system failures 
+Loss of LPSWOS/recirculating cooling 
+water failure  
+No additional failures 
+√ 
+ 
+ 
+Failure of moderator high-level trip 
+ 
+√ 
+ 
+Failure of containment isolation 
+ 
+√ 
+ 
+Failure of PRV 
+ 
+√ 
+ 
+Failure of containment filtered discharge 
+ 
+√ 
+ 
+Failure of ESWS 
+ 
+√ 
+ 
+ESWS failure 
+No additional failures 
+√ 
+ 
+ 
+Instrument air system failure 
+No additional failures 
+ 
+√ 
+ 
+Loss of condensate flow to deaerators 
+No additional failures 
+ 
+√ 
+ 
+ 
+54 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Initiating event  
+Additional failures 
+AOO 
+DBA 
+BDBA 
+Common mode triggered events 
+(classification of these events would depend on the assumed parameters) 
+Internal fires 
+No additional failures 
+ 
+√ 
+√ 
+Tritium release 
+No additional failures 
+ 
+√ 
+√ 
+Hydrogen fire 
+No additional failures 
+ 
+√ 
+√ 
+Hydrogen explosion 
+No additional failures 
+ 
+√ 
+√ 
+Design-basis earthquake 
+No additional failures 
+ 
+√ 
+√ 
+Turbine breakup 
+No additional failures 
+ 
+√ 
+√ 
+Flood 
+No additional failures  
+ 
+√ 
+√ 
+Design-basis tornado 
+No additional failures 
+ 
+√ 
+√ 
+Design-basis rail line blast 
+No additional failures 
+ 
+√ 
+√ 
+Toxic/corrosive chemical rail line incident 
+No additional failures 
+ 
+√ 
+√ 
+ 
+ 
+55 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Appendix B: Examples of Derived Acceptance Criteria for Nuclear Power Plants 
+In accordance with this document, section 4.3.4, the licensee is to establish derived acceptance criteria. 
+The examples below are obtained from current Canadian and international practice. 
+B.1 
+Anticipated operational occurrences  
+The overall criteria for an anticipated operational occurrence (AOO) are as follows (see REGDOC-2.5.2, 
+Design of Reactor Facilities: Nuclear Power Plants):  
+• 
+the dose acceptance criterion for an AOO is met 
+• 
+SSCs that are not involved in initiating the event are to remain fit for continued operation 
+REGDOC-2.5.2, Design of Reactor Facilities: Nuclear Power Plants, states expectations that the 
+majority of AOOs will be mitigated by the control systems and will not need the action of the safety 
+systems to prevent damage.  
+Additionally, all AOOs should be mitigated by the safety systems, with no assistance from the control 
+systems. Only the criteria that show successful mitigation by the safety systems are shown here, in 
+table B.1. 
+B.2 
+Design-basis accidents 
+The overall criteria for a design-basis accident (DBA) are as follows: 
+• 
+the dose acceptance criterion for a DBA is met 
+• 
+the event does not progress to more severe conditions 
+Section 4.3.4 of this document states the following general principles to be met by derived acceptance 
+criteria: 
+• 
+avoid the potential for consequential failures resulting from an initiating event 
+• 
+maintain the SSCs in a configuration that permits the effective removal of residual heat 
+• 
+prevent development of complex configurations or physical phenomena that cannot be 
+modelled with high confidence 
+• 
+be consistent with the design requirements for the plant’s SSCs 
+Table B.2 provides examples of DBA acceptance criteria. 
+ 
+ 
+56 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Table B.1: Examples of acceptance criteria for anticipated operational occurrences for Level 2 
+defence in depth 
+Barrier to fission product 
+releases or fundamental safety 
+function 
+Qualitative acceptance criteria 
+Fuel matrix 
+• 
+Fit for service 
+Fuel sheath (fuel cladding) 
+• 
+No dryout / no departure of nucleate boiling (DNB) 
+Fuel assembly 
+• 
+Maintain fuel cooling ability 
+• 
+Retain rod-bundle geometry with adequate coolant channels to 
+permit removal of residual heat 
+• 
+No impediment to reactor shutdown means due to geometry 
+change (LWR) 
+Fuel channel (CANDU) 
+• 
+Fit for service: 
+o American Society of Mechanical Engineers (ASME) 
+service level B not exceeded 
+Primary coolant system (excluding 
+CANDU fuel channel) 
+• 
+Fit for service: 
+o ASME service level B not exceeded 
+Secondary coolant system 
+• 
+Fit for service: 
+o ASME service level B not exceeded 
+Containment 
+• 
+Fit for service: 
+o ASME service level B not exceeded  
+• 
+Leakage remains within design limit leakage 
+Control of reactivity 
+• 
+Reactivity controlled by safety system 
+• 
+After shutdown, there is no inadvertent return to criticality 
+Removal of residual heat 
+• 
+Heat removal by safety system effective 
+Monitoring of conditions 
+• 
+Fit for service: 
+o safety system instrumentation environmentally and 
+seismically qualified 
+Offsite dose 
+• 
+Within the dose acceptance criteria of REGDOC-2.5.2 for an 
+AOO 
+ 
+ 
+57 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Table B.2: Examples of acceptance criteria for design-basis accidents 
+Barrier to fission product 
+releases or fundamental safety 
+function 
+Qualitative acceptance criteria 
+Fuel matrix 
+• 
+No fuel centre line melting  
+• 
+No fuel breakup 
+• 
+No excessive energy deposition  
+Fuel sheath (fuel cladding) 
+• 
+Fuel elements (fuel rods) that exceed the critical heat flux 
+(CHF) or DNB criteria are assumed to rupture and contribute to 
+offsite dose  
+• 
+No excessive strain of fuel sheath  
+• 
+Fuel elements are to meet applicable limits for: 
+o sheath temperature  
+o local sheath oxidation  
+o oxygen embrittlement of fuel sheath 
+Fuel assembly 
+• 
+Maintain fuel coolability 
+• 
+Retain rod-bundle geometry or fuel assembly with adequate 
+coolant channels to permit removal of residual heat 
+• 
+No impediment to reactor shutdown means due to geometry 
+change (LWR) 
+Fuel channel 
+(CANDU) 
+• 
+Fuel channel remains intact 
+• 
+Local pressure tube strain below failure threshold 
+• 
+Moderator subcooling precludes failure 
+• 
+No constrained expansion 
+• 
+No fuel sheath melting 
+• 
+No fuel centreline melting 
+• 
+No fuel breakup 
+• 
+No fuel element bowing and/or sagging into pressure tube (PT) 
+contact  
+Primary coolant system 
+(excluding CANDU fuel channel) 
+• 
+Pressure boundary remains intact: 
+o ASME service level C not exceeded 
+o no consequential boiler tube leaks 
+Secondary coolant system 
+• 
+Pressure boundary remains intact: 
+o ASME service level C not exceeded 
+Calandria and moderator system 
+(not applicable to LWR) 
+• 
+Pressure boundary remains intact: 
+o ASME service level C not exceeded 
+ 
+58 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Barrier to fission product 
+releases or fundamental safety 
+function 
+Qualitative acceptance criteria 
+Containment  
+• 
+Containment conditions remain within design basis: 
+o pressure less than design pressure 
+o containment leakage remains within design leakage limit 
+o environmental qualification (EQ) conditions (temperature, 
+humidity, radioactive doses) on credited SSCs are met 
+o no break local effects (missiles, break jets, pipe whip, 
+hydrogen standing flame) that could fail confinement 
+function 
+o local hydrogen concentrations below flame acceleration 
+and deflagration to detonation transition criteria 
+o combustion loads from slow deflagration less than those 
+that could damage containment SSCs 
+Control of reactivity 
+• 
+Reactivity is controlled: 
+o no prompt criticality 
+o after shutdown, any return to power is limited in extent, 
+and does not lead to exceeding any other derived 
+acceptance criteria 
+Removal of residual heat 
+• 
+Continuous long term core cooling is possible: 
+o core geometry is coolable 
+o residual heat is removed from the core 
+o heat is transported to ultimate heat sink 
+Monitoring of conditions 
+• 
+Fit for service: 
+o safety system instrumentation environmentally and 
+seismically qualified 
+Offsite dose 
+• 
+Within the dose acceptance criteria of REGDOC-2.5.2 for a 
+DBA 
+ 
+ 
+ 
+ 
+59 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Appendix C: Examples of Acceptance Criteria for Small Reactor Facilities 
+Table C.1 provides examples of acceptance criteria for anticipated operational occurrences. Table C.2 
+provides examples of acceptance criteria for design-basis accidents. Justified exceptions to the criteria 
+shall be considered, provided that the equivalent level of safety is assured and demonstrated. 
+Table C.1: Acceptance criteria for anticipated operational occurrences 
+# 
+Acceptance criteria 
+Notes 
+1 
+No reliance on safety systems, to the 
+extent practicable 
+ 
+2 
+No consequential degradation of fuel 
+condition 
+• Degradation of fuel condition means that the fuel is 
+no longer fit for continuous use after being subjected 
+to the predicted conditions 
+3 
+No consequential degradation of 
+SSCs 
+• All structures, systems and components remain fit 
+for continued service 
+ 
+ 
+60 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+ 
+Table C.2: Acceptance criteria for design-basis accidents  
+# 
+Acceptance criteria 
+Notes 
+1 
+No reliance on control systems 
+• Where control systems make the event more severe, 
+this should be included in the analysis 
+2 
+Fuel configuration allows removal of 
+residual heat 
+ 
+3 
+No further fuel damage after 
+long-term cooling system re-
+establishes adequate cooling 
+ 
+4 
+No fuel break-up due to rapid energy 
+addition 
+ 
+5 
+No consequential failure of safety 
+systems functions 
+ 
+6 
+No consequential loss of primary 
+cooling system integrity 
+ 
+7 
+Containment and/or confinement 
+remains within design pressure range 
+ 
+8 
+No consequential hydrogen explosion 
+or deflagration in any system in the 
+reactor facility 
+ 
+9 
+Reactor remains subcritical after 
+shutdown 
+ 
+10 
+Fuel outside of the reactor core 
+remains subcritical 
+ 
+11 
+Spent fuel cooling is maintained 
+ 
+ 
+ 
+61 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Abbreviations 
+ALARA 
+as low as reasonably achievable 
+AOO 
+anticipated operational occurrence 
+ASDV 
+atmospheric steam discharge valves 
+ASME 
+American Society of Mechanical Engineers 
+BDBA 
+beyond-design-basis accident 
+CSDV 
+condenser steam discharge valves 
+CNSC 
+Canadian Nuclear Safety Commission 
+CSA 
+CSA Group (formerly Canadian Standards Association) 
+DBA 
+design-basis accident 
+ECCS 
+emergency core cooling system 
+EPS 
+emergency power supply 
+ESWS 
+emergency secondary water supply system 
+HTS 
+heat transport system 
+IAEA 
+International Atomic Energy Agency 
+IFB 
+irradiated fuel bay 
+LOCA 
+loss-of-coolant accident 
+LPSWOS 
+low-pressure service water open system 
+LWR 
+light-water reactor 
+MSIV 
+main steam isolation valves 
+NPP 
+nuclear power plant 
+NSCA 
+Nuclear Safety and Control Act 
+OLCs 
+operating limits and conditions 
+PIE 
+postulated initiating event 
+PRV 
+pressure relief valves 
+PSA 
+probabilistic safety assessment 
+PWR 
+pressurized water reactor 
+QA 
+quality assurance 
+SD 
+Shutdown 
+SDCS 
+shutdown cooling system 
+SGECS 
+steam generator emergency cooling system 
+SSCs 
+structures, systems and components 
+TP 
+trip parameter 
+ 
+62 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+Glossary 
+acceptance criteria 
+Specified bounds on the value of a functional indicator or condition indicator used to assess the ability of 
+a structure, system or component to meet its design and safety requirements. 
+acceptance parameter  
+A plant parameter that characterizes plant response and has a defined acceptance criterion as a limit for 
+the acceptable range of values.  
+accident 
+Any unintended event (including operating errors, equipment failures or other mishaps) the consequences 
+or potential consequences of which are not negligible from the point of view of protection or safety.  
+Note: For the purposes of this document, accidents include design-basis accidents and beyond-design-
+basis accidents. Accidents exclude anticipated operational occurrences, which have negligible 
+consequences from the perspective of protection or safety. 
+anticipated operational occurrence  
+An operational process deviating from normal operation that is expected to occur once or several times 
+during the operating lifetime of the reactor facility but that – in view of the appropriate design provisions 
+– does not cause significant damage to items important to safety or lead to accident conditions. 
+best estimate 
+Unbiased estimate obtained by the use of a mathematical model, calculation method or data to 
+realistically predict behaviour and important parameters. 
+best-estimate method 
+A method designed to give realistic results. 
+beyond-design-basis accident (BDBA) 
+An accident less frequent than a design-basis-accident. A beyond-design-basis accident may or may not 
+involve core degradation. 
+bias  
+Uncertainty arising from a systematic error that is known to cause deviation in a fixed direction. 
+blinding  
+Conditions for which an actuation or conditioning signal is approached but not reached, either because of 
+the small magnitude of the initiating event or the actions of other process or safety systems. 
+bounding event 
+The event with the smallest predicted margin to a specific acceptance criterion.  
+Class I nuclear facility 
+A Class IA or Class IB nuclear facility, as described in the Class I Nuclear Facilities Regulations. 
+cliff-edge effect 
+A small change of conditions that may lead to a catastrophic increase in the severity of consequences. 
+Note: Cliff-edge effects can be caused by changes in any of the following: characteristics of the 
+environment; the event; or the plant response.  
+ 
+63 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+commissioning 
+A process of activities intended to demonstrate that installed structures, systems and components perform 
+in accordance with their specifications and design intent before they are put into service. 
+code accuracy  
+The degree of closeness of a calculated quantity to its actual value. Comprised of the bias and variability 
+of bias of a computer code that are derived from the comparison of code predictions with experimental 
+data. 
+common-cause failure 
+A concurrent failure of two or more structures, systems or components due to a single specific event or 
+cause, such as natural phenomena (earthquakes, tornadoes, floods, etc.), design deficiency, manufacturing 
+flaws, operation and maintenance errors, and human-induced destructive events. 
+confinement boundary 
+A continuous boundary without openings or penetrations and that prevents the release of radioactive 
+materials out of the enclosed space. 
+conservatism 
+Use of assumptions, based on experience or indirect information, about a phenomena or behaviour of a 
+system being at or near the limit of expectation, which increases safety margins or makes predictions 
+regarding consequences more severe than if best-estimate assumptions had been made. 
+conservative method 
+A method deliberately leading to results that are intended to be limiting relative to specified acceptance 
+criteria. 
+containment 
+A method or physical structure designed to prevent the release of radioactive substances.  
+crediting 
+Assuming the correct operation of a structure, system or component or correct operator action, as part of 
+an analysis. 
+design basis 
+The range of conditions and events taken explicitly into account in the design of the facility, according to 
+established criteria, such that the facility can withstand them without exceeding authorized limits by the 
+planned operation of safety systems.  
+design-basis accident (DBA) 
+Accident conditions for which a reactor facility is designed according to established design criteria, and 
+for which damage to the fuel and the release of radioactive material are kept within authorized limits. 
+deterministic safety analysis 
+An analysis of a reactor facility’s response to an event performed using predetermined rules and 
+assumptions (e.g., those concerning the initial facility operational state, availability and performance of 
+the facility systems and operator actions). Deterministic safety analysis can use conservative or best-
+estimate methods. 
+ 
+64 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+dose acceptance criteria 
+Bounds for radiation doses that are established to protect workers and the public from harm due to the 
+release of radioactive material in normal operation, anticipated operational occurrences and design-basis 
+accidents.  
+emergency core cooling system (ECCS) 
+A safety system that transfers heat from the reactor core, following a loss of reactor coolant that exceeds 
+makeup capability. 
+external event 
+Events unconnected with the operation of a facility or the conduct of an activity that could have an effect 
+on the safety of the facility or activity. 
+Note: Typical examples of external events for nuclear facilities include earthquakes, tornadoes, tsunamis 
+and aircraft crashes. 
+event category 
+A group of events characterized by the same or similar cause and similarity in the governing phenomena. 
+fissile material 
+Material that is capable of sustaining a chain reaction of nuclear fission. 
+fissionable material 
+Any material that can undergo nuclear fission. 
+graded approach 
+A method or process by which elements such as the level of analysis, the depth of documentation and the 
+scope of actions necessary to comply with requirements are commensurate with: 
+• 
+the relative risks to health, safety, security, the environment, and the implementation of international 
+obligations to which Canada has agreed 
+• 
+the particular characteristics of a facility or activity  
+human error 
+Mistakes made in the performance of assigned tasks (i.e., some kind of deviation from the current 
+intention and/or from an appropriate route towards some goal). It usually refers to the omission of an 
+action, the selection of an incorrect action for the situation, or the incorrect implementation of an intended 
+action. 
+human factors  
+Factors that influence human performance as it relates to the safety of the nuclear power plant or reactor 
+facility, including activities during design, construction, and commissioning, operation, maintenance and 
+decommissioning phases. 
+human performance 
+The outcomes of human behaviours, functions and actions in a specified environment, reflecting the 
+ability of workers and management to meet the system’s defined performance under the conditions in 
+which the system will be employed. 
+items important to safety 
+An item that is part of a safety group and/or whose malfunction failure could lead to radiation exposure 
+ 
+65 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+licensing basis  
+A set of requirements and documents for a regulated facility or activity, comprising: 
+• 
+the regulatory requirements set out in the applicable laws and regulations 
+• 
+the conditions and safety and control measures described in the facility’s or activity’s licence and the 
+documents directly referenced in that licence 
+• 
+the safety and control measures described in the licence application and the documents needed to 
+support that licence application 
+measurement uncertainty 
+The amount by which a measured value may vary from the actual physical value of a parameter at the 
+time of measurement. 
+modelling uncertainties 
+Uncertainties associated with the models and correlations embedded in a computer code and that 
+represent the physics of the problem, the solution scheme, data libraries and inherent deficiencies of the 
+computer program. 
+nuclear power plant (NPP) 
+Any fission-reactor installation that has been constructed to generate electricity on a commercial scale. A 
+nuclear power plant is a Class IA nuclear facility, as defined in the Class I Nuclear Facilities Regulations. 
+normal operation 
+Operation of a nuclear power plant or a reactor facility within specified operational limits and conditions, 
+including start-up, power operation, shutting down, shutdown, maintenance, testing and refuelling. 
+operational limits and conditions  
+A set of rules setting forth parameter limits and the functional capability and performance levels of 
+equipment and personnel, which are approved by the regulatory body for safe operation of an authorized 
+facility. This set of limits and conditions is monitored by or on behalf of the operator and can be 
+controlled by the operator. 
+operational mode 
+A mode of operation that may include start-up, operation at various power levels, shutting down, 
+shutdown, maintenance, testing and refuelling. 
+plant parameters  
+Parameters that characterize the state of the plant’s structures, systems and components, or that are used 
+to actuate a mitigating system (also referred to as operational parameters). 
+postulated initiating event (PIE) 
+An event identified in the design as leading to either an anticipated operational occurrence or accident 
+conditions.  
+Note: A postulated initiating event is not necessarily an accident itself; rather, it is the event that initiates 
+a sequence that may lead to an anticipated operational occurrence, a design-basis accident or a beyond-
+design-basis accident, depending on the additional failures that occur. 
+ 
+66 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+probabilistic safety assessment (PSA) 
+A comprehensive and integrated assessment of the safety of the reactor facility. The safety assessment 
+considers the probability, progression and consequences of equipment failures or transient conditions, to 
+derive numerical estimates that provide a consistent measure of the safety of the reactor facility, as 
+follows: 
+• 
+A level 1 PSA identifies and quantifies the sequences of events that may lead to the loss of core 
+structural integrity and massive fuel failures 
+• 
+A level 2 PSA starts from the level 1 results, analyzes the containment behaviour, evaluates the 
+radionuclides released from the failed fuel, and quantifies the releases to the environment 
+• 
+A level 3 PSA starts from the level 2 results , analyzes the distribution of radionuclides in the 
+environment and evaluates the resulting effect on public health 
+Note: A PSA may also be referred to as a probabilistic risk assessment 
+reactor facility 
+Any fission reactor as described in the Class I Nuclear Facilities Regulations, including structures, 
+systems and components: 
+• 
+that are necessary for shutting down the reactor, ensuring that it can be kept in a safe shutdown state 
+• 
+that may contain radioactive material and which cannot be reliably isolated from the reactor 
+• 
+whose failure can lead to a limiting accident for the reactor 
+• 
+that are tightly integrated into the operation of the nuclear facility 
+• 
+that are needed to maintain security and safeguards 
+safety analysis  
+Analysis by means of appropriate analytical tools that establishes and confirms the design basis for the 
+items important to safety, and ensures that the overall reactor facility design is capable of meeting the 
+acceptance criteria for each plant state. 
+safety assessment 
+Assessment of all aspects of the siting, design, commissioning, operation or decommissioning of an 
+authorized facility that is relevant to safety. 
+safety goal 
+Objective to protect reactor facility staff, the public and the environment from harm, by establishing and 
+maintaining effective defences against the release of the radiological hazards. 
+safety group 
+Assembly of structures, systems and components designated to perform all actions required for a 
+particular postulated initiating event, and to ensure that the specified limits for anticipated operational 
+occurrences and design-basis accidents are not exceeded. It may include certain safety and safety support 
+systems, as well as any interacting process system. 
+safety system 
+A system provided to ensure the safe shutdown of the reactor or the residual heat removal from the core, 
+or to limit the consequences of anticipated operational occurrences and design-basis accidents. 
+sensitivity analysis 
+A quantitative examination of how the behaviour of a system varies with change, (usually in the values of 
+the governing parameters). 
+shutdown state  
+A subcritical reactor state with a defined margin to prevent a return to criticality without external actions. 
+ 
+67 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+single failure  
+A failure that results in the loss of capability of a component to perform its intended safety function(s), 
+and any resulting consequential failure(s).  
+single-failure criterion 
+The criterion used to determine whether a system is capable of performing its function in the presence of 
+a single failure. 
+small reactor 
+A reactor with a power level of less than approximately 200 megawatts thermal (MWt), which is used for 
+research, isotope production, steam generation, electricity production or other applications. 
+source term 
+The amount and isotopic composition of material released (or postulated to be released) from a facility. 
+structures, systems and components (SSCs)  
+A general term encompassing all of the elements of a facility or activity that contribute to protection and 
+safety.  
+Note: Structures are the passive elements: buildings, vessels, shielding, etc. A system comprises several 
+components, assembled in such a way as to perform a specific (active) function. A component is a 
+discrete element of a system. Examples are wires, transistors, integrated circuits, motors, relays, 
+solenoids, pipes, fittings, pumps, tanks and valves. 
+support features of safety systems 
+The collection of equipment that provides services such as cooling, lubrication and energy supply 
+required by the protection system and the safety actuation systems. 
+systematic review 
+A review in which specified and appropriate methods are used to identify, appraise and summarize studies 
+addressing a defined question. 
+uncertainty analysis 
+The process of identifying and characterizing the sources of uncertainty in the safety analysis, evaluating 
+their impact on the analysis results, and developing – to the extent practicable – a quantitative measure of 
+this impact. 
+ 
+68 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+References 
+• 
+Canadian Nuclear Safety Commission (CNSC), REGDOC-2.4.2 (formerly S-294), Probabilistic 
+Safety Assessment (PSA) for Nuclear Power Plants, 2013.  
+• 
+CNSC, REGDOC-2.5.2, Design of Reactor Facilities: Nuclear Power Plants, 2014 
+• 
+CNSC, RD-327, Nuclear Criticality Safety, 2010. 
+• 
+CNSC, GD-327, Guidance for Nuclear Criticality Safety, 2010. 
+• 
+CNSC, RD-337, Design of New Nuclear Power Plants, 2008.  
+• 
+CNSC, RD-367, Design of Small Reactor Facilities, 2011. 
+• 
+CNSC, G-149, Computer Programs Used in Design and Safety Analyses of Nuclear Power Plants 
+and Research Reactors, 2000. 
+• 
+CNSC, S-99, Reporting Requirements for Operating Nuclear Power Plants, 2003, or successor 
+documents. 
+• 
+CSA Group, N290.15-10, Requirements for the Safe Operating Envelope of Nuclear Power Plants, 
+2010. 
+• 
+CSA Group, N286.7-99, Quality Assurance of Analytical, Scientific and Design Computer Programs 
+for Nuclear Power Plants, 2003. 
+• 
+International Atomic Energy Agency, IAEA Safety Report Series No. 55, Safety Analysis for 
+Research Reactors, 2008. 
+• 
+International Atomic Energy Agency, IAEA Safety Standards Series No. NS-R-4, Safety of Research 
+Reactors, 2005. 
+• 
+International Atomic Energy Agency, IAEA Safety Standards Series No. SSG-2, Deterministic Safety 
+Analysis for Nuclear Power Plants Specific Safety Guide, 2012. 
+• 
+International Atomic Energy Agency, IAEA Safety Standards Series No. GSR Part 4, Safety 
+Assessment for Facilities and Activities General Safety Requirements Part 4, 2009. 
+ 
+ 
+69 
+ 
+May 2014 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the Canadian Nuclear Safety 
+Commission (CNSC). In addition to the Nuclear Safety and Control Act and associated regulations, there 
+may also be requirements to comply with other regulatory instruments such as regulatory documents or 
+standards. 
+Effective April 2013, the CNSC’s catalogue of existing and planned regulatory documents has been 
+organized under three key categories and twenty-five series, as set out below. Regulatory documents 
+produced by the CNSC fall under one of the following series: 
+1.0 
+Regulated facilities and activities 
+Series 1.1 
+Reactor facilities 
+1.2 
+Class IB facilities 
+1.3 
+Uranium mines and mills 
+1.4 
+Class II facilities 
+1.5 
+Certification of prescribed equipment 
+1.6 
+Nuclear substances and radiation devices 
+2.0 
+Safety and control areas 
+Series 2.1 
+Management system 
+2.2 
+Human performance management 
+2.3 
+Operating performance 
+2.4 
+Safety analysis 
+2.5 
+Physical design 
+2.6 
+Fitness for service 
+2.7 
+Radiation protection 
+2.8 
+Conventional health and safety 
+2.9 
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0 
+Other regulatory areas  
+Series 3.1 
+Reporting requirements 
+3.2 
+Public and Aboriginal engagement 
+3.3 
+Financial guarantees 
+3.4 
+Commission proceedings 
+3.5 
+Information dissemination 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. For the latest list of regulatory 
+documents, on the CNSC website   
+ 
+70 
+ 

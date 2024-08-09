@@ -1,0 +1,661 @@
+Juin 2013 
+REGDOC-2.2.1, Rendement humain : Gérer la fatigue et les heures de travail 
+ 
+Management System 
+Management System 
+ 
+ 
+REGDOC-2.1.1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 2019 
+ 
+ 
+ 
+ 
+Management System  
+Regulatory document REGDOC-2.1.1  
+© Canadian Nuclear Safety Commission (CNSC) 2019  
+Cat. No. CC172-208/2019E-PDF 
+ISBN 978-0-660-30754-1 
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+Également publié en français sous le titre : Système de gestion 
+Document availability 
+This document can be viewed on the CNSC website. To request a copy of the document in English or 
+French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, ON  K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Fax: 613-995-5086 
+Email: cnsc.info.ccsn@canada.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+LinkedIn: linkedin.com/company/cnsc-ccsn 
+Publishing history 
+May, 2019 
+ 
+Version 1.0 
+May 2019 
+REGDOC-2.1.1, Management System 
+ 
+ 
+ 
+ 
+Preface 
+This regulatory document is part of the CNSC’s Management system series of regulatory documents. The 
+full list of regulatory document series is included at the end of this document and can also be found on the 
+CNSC’s website. 
+Regulatory document REGDOC-2.1.1, Management System, provides licensees and applicants with 
+information on the CNSC’s “management system” safety and control area (SCA), along with 
+supplemental information on various current issues related to management systems.     
+The CNSC’s regulatory framework includes CNSC regulatory documents as well as national and 
+international standards. Specifically, CSA Group’s N-series of standards provides an interlinked set of 
+regulatory requirements for the management of nuclear facilities and activities. CSA standard N286-12 
+[1] provides an overall management framework and direction to develop and implement sound 
+management practices and controls for the licensing basis. This regulatory document does not duplicate 
+the generic requirements of CSA N286-12. 
+A document that shows the changes made from the public consultation draft is available from the CNSC 
+upon request. 
+For information on the implementation of regulatory documents referred to in the licensing basis, and on 
+the graded approach, see REGDOC-3.5.3, Regulatory Fundamentals. 
+The words “shall” and “must” are used to express requirements to be satisfied by the licensee or 
+licence applicant. “Should” is used to express guidance or that which is advised. “May” is used to 
+express an option or that which is advised or permissible within the limits of this regulatory document. 
+“Can” is used to express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+May 2019 
+REGDOC-2.1.1, Management System 
+ 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+........................................................................................................................1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant legislation 
+............................................................................................................. 2 
+2. 
+Management system information .....................................................................................2 
+3. 
+Specific regulatory topics ..................................................................................................4 
+3.1 
+Leadership 
+........................................................................................................................... 4 
+3.2 
+Safety culture ...................................................................................................................... 5 
+3.3 
+Supply chain ....................................................................................................................... 5 
+3.3.1 
+Counterfeit, fraudulent and suspect items 
+.............................................................. 6 
+3.3.2 
+Management of contractors ................................................................................... 6 
+3.4 
+Configuration management 
+................................................................................................. 6 
+3.5 
+Software quality assurance ................................................................................................. 6 
+4. 
+Radiation safety oversight: Nuclear substance licensees, radiation device licensees 
+and Class II nuclear facility licensees...............................................................................7 
+Glossary ..........................................................................................................................................8 
+References 
+.......................................................................................................................................9 
+Additional Information ...............................................................................................................10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 2019 
+REGDOC-2.1.1, Management System 
+ 
+ 
+1 
+ 
+1. 
+Introduction 
+The Canadian Nuclear Safety Commission (CNSC) defines “management system” as “the 
+framework of processes, procedures and practices used to ensure that an organization can fulfill 
+all tasks required to achieve its objectives safely and consistently.”1 Management system 
+requirements provide overall direction to the licensee organization for developing and 
+implementing sound management practices and controls for the organization. An effective and 
+well-implemented management system helps to assure the CNSC that licensees will conduct their 
+licensed activities safely.  
+1.1 Purpose 
+The purpose of this document is to provide information: 
+• 
+on management systems that are applicable to different types of CNSC licensees 
+• 
+related to CSA Group’s CSA standard N286-12, Management system requirements for 
+nuclear facilities [1] 
+• 
+on specific topics that have been the subject of recent developments in management system 
+standards, as well as those of recent regulatory interest with respect to management systems  
+• 
+on radiation safety oversight related to nuclear substances, radiation devices and Class II 
+nuclear facilities  
+1.2 Scope 
+The information in this document pertains to the following CNSC-licensed facility types that 
+have management system as a licence condition: 
+• 
+Class IA power and non-power nuclear reactors  
+• 
+Class IB nuclear facilities 
+• 
+uranium mines and mills  
+• 
+radioactive waste management facilities 
+The following classes of licensees and facility or activity types do not have management system 
+as a condition of their CNSC licences, but may also consult this document for information:    
+• 
+nuclear substance and radiation devices  
+• 
+Class II nuclear facilities and prescribed equipment  
+• 
+dosimetry services  
+• 
+packaging and transport of nuclear substances  
+ 
+ 
+                                                     
+ 
+ 
+1 REGDOC-3.6, Glossary of CNSC Terminology 
+May 2019 
+REGDOC-2.1.1, Management System 
+ 
+ 
+2 
+ 
+1.3 Relevant legislation 
+The following provisions of the Nuclear Safety and Control Act (NSCA) and regulations made 
+under the NSCA are relevant to this regulatory document:  
+• 
+Paragraph 3(d) of the Class I Nuclear Facilities Regulations states that an application for a 
+licence to operate a Class I nuclear facility shall contain “the proposed management system 
+for the activity to be licensed … ”.  
+• 
+Subparagraph 3(b)(v) of the Uranium Mines and Mills Regulations states that an application 
+for a licence in respect of a uranium mine or mill shall contain “the proposed management 
+system for the activity, including measures to promote and support safety culture … ”. 
+• 
+The General Nuclear Safety and Control Regulations, General Application Requirements 
+(section 3) and Application for Licence to Abandon (section 4), contain requirements that 
+form the basis of a management system. 
+• 
+The Nuclear Substances and Radiation Devices Regulations (sections 3 and 4) contain 
+similar and more specific conditions that are fundamental to a management system. 
+• 
+The Class II Nuclear Facilities and Prescribed Equipment Regulations, as follows:  
+• 
+For the construction of a Class II nuclear facility, paragraph 3(j) requires “the proposed 
+quality assurance program for the design and construction of the nuclear facility”, and for 
+the operation of such a facility, paragraph 4(h) requires “the proposed quality assurance 
+program”.  
+• 
+For Class II prescribed equipment, “Licence to Service” (section 7) details the 
+requirements that form the management system.  
+• 
+As per paragraph 11(n), the following information must be provided in order for the 
+equipment to be certified: “the quality assurance program that was followed during the 
+design of the equipment and that will be followed during the production of the 
+equipment.” 
+• 
+The Radiation Protection Regulations, paragraph 18(b) requires “the proposed quality 
+assurance program” for a licence to operate a dosimetry service.  
+• 
+The Packaging and Transport of Nuclear Substances Regulations, 2015, paragraph 24(a), 
+includes a requirement for a management system that is in accordance with IAEA 
+regulations.  
+2. 
+Management system information  
+The CNSC expects licensees to adhere to all CSA N286-12 [1] principles as the basis of their 
+management system. A management system implemented in accordance with these principles and 
+requirements has features to assure safe operations. The requirements for a management system 
+apply throughout the lifecycle of the licensed activity and extend to all safety and control areas 
+(SCAs).  
+For nuclear facilities that do not have a licence condition for management system, the principles 
+in CSA N286-12 can serve as guidance for establishing an effective management system. Further 
+guidance on this matter is also found in other industry standards such as CAN/CSA-ISO 9001:16, 
+Quality Management Systems – Requirements [2] and ISO 14001, Environmental management 
+systems [3]. 
+May 2019 
+REGDOC-2.1.1, Management System 
+ 
+ 
+3 
+ 
+CSA N286-12 structure and principles  
+CSA N286-12 [1] integrates requirements from other management system standards for quality, 
+health and safety, environment, economics and security. It therefore provides a basis upon which 
+a single management system may be implemented. 
+ 
+CSA N286-12 is based on a set of 12 principles described below. The first two principles are 
+aimed at ensuring that safety is properly considered in all decisions and actions, and that licensees 
+are expected to define, plan and control their activities in order to meet all requirements: 
+• 
+safety is the paramount consideration guiding decisions and actions 
+• 
+the business is defined, planned and controlled 
+As captured in the next three principles, to meet all requirements an organization must ensure that 
+it is aligned with top management direction and able to establish, communicate and achieve the 
+objectives and priorities it sets for itself:  
+• 
+the organization is defined and understood 
+• 
+resources are managed 
+• 
+communication is effective 
+The remaining principles ensure that processes are established for managing activities 
+consistently and for verifying that the desired objectives are achieved. Adherence to the following 
+remaining principles can ensure that measures are in place to address deficiencies and to provide 
+for continual improvement: 
+ 
+• 
+information is managed 
+• 
+work is managed 
+• 
+problems are identified and resolved 
+• 
+changes are controlled  
+• 
+assessments are performed 
+• 
+experience is sought, shared and used 
+• 
+the management system is continually improved 
+CSA N286-12 is organized for ease of use for applicable facility types mentioned in the standard. 
+The standard shows the generic requirements applicable to the facility types listed below, while 
+each section thereafter applies to one or a group of facilities identified in the title. The table below 
+shows the various facility types and corresponding sections containing CNSC management 
+system requirements. 
+ 
+May 2019 
+REGDOC-2.1.1, Management System 
+ 
+ 
+4 
+ 
+Table 1:  Management system requirements for various facility types 
+Facility type 
+Applicable sections of CSA N286-12 
+Uranium mines and mills 
+4.  Generic requirements for the management 
+system 
+5.  Specific requirements for uranium mines and 
+mills 
+Uranium processing and fuel 
+manufacturing facilities 
+4.  Generic requirements for the management 
+system  
+6.  Specific requirements for uranium processing 
+and fuel manufacturing facilities 
+High energy reactor facilities 
+4.  Generic requirements for the management 
+system  
+7.  Specific requirements for high energy reactor 
+facilities 
+Research and isotope processing 
+facilities 
+4.  Generic requirements for the management 
+system  
+8.  Specific requirements for research and isotope 
+processing facilities 
+Radioactive waste management 
+facilities 
+4.  Generic requirements for the management 
+system  
+9.  Specific requirements for radioactive waste 
+management facilities 
+The CSA’s Commentary on CSA N286-12, Management system requirements for nuclear 
+facilities (CSA N286.0.1-14) [4] provides background information concerning certain clauses and 
+requirements in CSA N286-12. This background information can help the user clarify the context 
+of CSA N286-12 requirements. Also, CSA N286.0.1-14 refers to research materials that were 
+used during the formulation of some of the requirements in CSA N286-12. The clause headings 
+and numbers used in CSA N286.0.1-14 correspond to those in CSA N286-12.  
+3. 
+Specific regulatory topics  
+3.1 
+ Leadership  
+The role and behavior of leaders in an organization are fundamental to achieving excellence in 
+safety. Through the development and implementation of an effective management system, the 
+organization can better understand and promote a healthy safety culture. 
+CSA N286-12 [1] recognizes leadership in its scope and through requirements specific to top 
+management. CSA N286-12 applies to top management, as defined in the standard, with overall 
+accountability for the nuclear facility. Top management defines, plans and controls the business 
+(licensed activities) through processes that define expectations for the organization and the means 
+to monitor performance. Top management makes use of effectiveness reviews to continuously 
+assess and improve its management system, as well as utilizing the latter to understand and 
+promote a healthy safety culture.  
+In addition to CSA N286-12, recently issued management system standards, such as CAN/CSA-
+ISO 9001:16, Quality Management Systems – Requirements [2], and the IAEA’s GSR Part 2, 
+Leadership and Management for Safety: General Safety Requirements [5], have further 
+May 2019 
+REGDOC-2.1.1, Management System 
+ 
+ 
+5 
+ 
+elaborated on the key role leaders have in an organization. For example, these standards include 
+demonstrating leadership and commitment to the management system by: 
+• 
+taking accountability for the effectiveness of the management system 
+• 
+ensuring the integration of the management system requirements into the organization’s 
+processes 
+• 
+communicating the importance of effective management and of conforming to the 
+management system requirements 
+• 
+ensuring that the management system achieves its intended results 
+• 
+engaging, directing and supporting persons in order to contribute to the effectiveness of the 
+management system 
+• 
+supporting other relevant management roles to demonstrate their leadership as it applies to 
+their areas of responsibility  
+• 
+establishing, advocating and adhering to an organizational approach to safety that stipulates 
+that issues relating to protection and safety receive the attention warranted by their 
+significance 
+• 
+acknowledging that safety encompasses interactions between people, technology and the 
+organization 
+• 
+establishing behavioral expectations and fostering a healthy safety culture 
+• 
+establishing the acceptance of personal accountability in relation to safety on the part of all 
+individuals in the organization and ensuring that decisions made at all levels take account of 
+the priorities and accountabilities for safety 
+3.2 
+Safety culture 
+The CSA N286-12 [1] safety culture requirement states the following: “Management shall use the 
+management system to understand and promote a safety culture … .”2 It is through the 
+management system that organizations understand their prevailing culture. Top management 
+communicates the vision and objectives of the organization while upholding the key principle that 
+“safety is the paramount consideration guiding decisions and actions”. Safety culture is 
+understood and improved through key management processes such as assessments and 
+continuous improvement. 
+For further information on the CNSC’s approach to safety culture, refer to REGDOC-2.1.2, 
+Safety Culture [6], which sets out specific requirements and guidance for assessing and fostering 
+a healthy safety culture.  
+3.3 
+Supply chain  
+The specific requirements for a supply chain described in CSA N286-12 [1] apply to the supply 
+of services as well as items. Licensees’ supply chain management processes implemented in 
+accordance with CSA N286-12 are sufficiently robust to provide assurance that non-compliant 
+items and services entering the supply chain are properly identified and dispositioned.  
+In addition to CSA N286-12, documents have been created by industry to lay out the management 
+system requirements for suppliers.  Some of these are contained in international, regional or 
+national standards, such as CSA N299, Quality assurance program requirements for the supply of 
+                                                     
+ 
+ 
+2 See CSA N286-12, Management system requirements for nuclear facilities, (4.2) 
+May 2019 
+REGDOC-2.1.1, Management System 
+ 
+ 
+6 
+ 
+items and services for nuclear power plants [7], while others are created through industry support 
+groups. These requirements are passed down by the licensee through contracts. 
+ 
+3.3.1 
+Counterfeit, fraudulent and suspect items 
+While not mentioned in any specific section of CSA N286-12 [1], effectively implemented supply 
+chain processes and adherence to the requirements of the management system can mitigate 
+against the introduction of counterfeit, fraudulent and suspect items (CFSI) into the supply chain 
+of a nuclear facility and/or activity.  
+The global supply chain is often long and complex, and the source of CFSI may be unknown. The 
+risks presented by CFSI can be reduced by the effective implementation of a management system 
+in accordance with CSA N286-12.  
+It is important to note that it is not only the supply chain that is affected by CFSI. Organizational 
+functions such as engineering, maintenance and operations also need to be cognizant of CFSI 
+issues and able to deal with them. 
+Additional CFSI information is available in IAEA TECDOC-1169, Managing suspect and 
+counterfeit items in the nuclear industry [8]. The Electric Power Research Institute’s (EPRI) 
+report 1019163, Plant Support Engineering: Counterfeit and Fraudulent Items ‒ Mitigating the 
+Increasing Risk [9], provides information for the prevention, detection and mitigation of CFSI.  
+3.3.2 
+Management of contractors 
+The nuclear industry has recently increased the practice of engaging the services of contractors 
+for a wide array of work, which includes not only the provision of lifecycle activities or specific 
+one-time jobs, but also the conduct of routine processes such as maintenance. Therefore, licensees 
+provide the oversight required to ensure the work performed by contractors meets regulatory 
+requirements for which they are responsible. A management system aligned with CSA N286-12 
+provides the necessary processes and practices to ensure this. 
+3.4 
+Configuration management 
+Adherence to a management system that meets the requirements of CSA N286-12 [1] will ensure 
+that the configuration of a facility is maintained. However, there has been a recognized need for 
+standardized processes and guidance to enhance the understanding of configuration management 
+at high-energy reactor facilities. As a result, CSA standard N286.10-16, Configuration 
+management for high energy reactor facilities [10], was issued to provide guidance on 
+maintaining configuration throughout the full lifecycle of a facility.  
+CSA N286.10-16 provides information that may also be used by other nuclear facility licensees 
+for maintenance and management of facility configuration.  
+3.5 
+Software quality assurance 
+CSA standard N286.7-16, Quality assurance of analytical, scientific, and design computer 
+programs [11], applies to high energy reactor facilities as defined in CSA N286-12. The standard 
+sets out the quality assurance requirements for software used in design, safety analysis, and 
+supporting activities. CSA N286.7-16 provides guidance for other classes of licensees who use 
+software programs for the purposes mentioned above, as well as for other operational needs.  
+May 2019 
+REGDOC-2.1.1, Management System 
+ 
+ 
+7 
+ 
+4. 
+Radiation safety oversight: Nuclear substance licensees, radiation device licensees 
+and Class II nuclear facility licensees 
+Licensees have the primary responsibility for safety of the licensed activities. Licensees are 
+expected to demonstrate that they are qualified to undertake the proposed activities and have 
+made adequate provision for the health and safety of persons and protection of the environment. 
+This includes demonstrating that they can manage and control the licensed activities. Licensees 
+must provide effective management support, including both human and financial resources, to 
+properly implement and maintain their radiation safety programs, meeting all of the programs’ 
+regulatory obligations. This includes addressing the requirements of section 4 of the Radiation 
+Protection Regulations. 
+When implementing safety and control measures, licensees should take into account the 
+management system principles outlined in section 2 of this regulatory document, recognizing that 
+measures should be appropriate to their unique structure and governance framework. Program 
+oversight should be comprehensive and integrate the roles and responsibilities of the applicant 
+authority, the radiation safety officer and the radiation safety committees, as applicable. 
+Oversight activities include assessing the effectiveness of the safety and control measures, 
+identifying opportunities for improvement and resolving any problems.  
+Licensees may have an existing system of controls and processes that govern their overall 
+operations. In such cases, radiation safety programs should be integrated within the licensees’ 
+existing management system. 
+The elements of leadership outlined in section 3.1 of this regulatory document should be 
+employed by licensees’ top management. Furthermore, the principles underpinning a healthy 
+safety culture, as described in section 3.2 of this document, should be considered by licensees 
+when implementing their safety and control measures. 
+May 2019 
+REGDOC-2.1.1, Management System 
+ 
+ 
+8 
+ 
+Glossary 
+For definitions of terms used in this document, see REGDOC-3.6, Glossary of CNSC Terminology, which 
+includes terms and definitions used in the Nuclear Safety and Control Act and the regulations made under 
+it, and in CNSC regulatory documents and other publications. REGDOC-3.6 is provided for reference and 
+information. 
+The following terms are either new terms being defined, or include revisions to the current definition for 
+that term. Following public consultation, the final terms and definitions will be submitted for inclusion in 
+the next version of REGDOC-3.6, Glossary of CNSC Terminology. 
+counterfeit item 
+An item that is intentionally manufactured or altered to imitate a product without the legal right to do so. 
+fraudulent item 
+An item whose material, performance or characteristics are knowingly misrepresented with intent to 
+deceive. Include items provided with incorrect identification, or falsified or inaccurate certification. Also 
+includes manufacturing overages sold by entities with the legal right to manufacture a specified quantity 
+of an item but that produce a larger quantity than authorized, which is then sold as legitimate inventory. 
+suspect item 
+An item that is suspected to be counterfeit, fraudulent or substandard. 
+ 
+ 
+ 
+May 2019 
+REGDOC-2.1.1, Management System 
+ 
+ 
+9 
+ 
+ 
+References 
+1. CSA Group, CSA N286-12, Management system requirements for nuclear facilities, Toronto, 2012. 
+2. CAN/CSA-ISO 9001:16, Quality Management Systems – Requirements, Toronto, 2015. 
+3. International Organization for Standardization, ISO 14001, Environmental management systems, 
+Geneva, 2015. 
+4. CSA Group, CSA N286.0.1-14, Commentary on CSA N286-12, Management system requirements for 
+nuclear facilities, Toronto, 2012. 
+5. IAEA GSR Part 2, Leadership and Management for Safety: General Safety Requirements, 
+Vienna, 2016. 
+6. Canadian Nuclear Safety Commission, REGDOC-2.1.2, Safety Culture, Ottawa, 2018. 
+7. CSA N299 standard series, Quality assurance program requirements for the supply of items and 
+services for nuclear power plants, Toronto, 2016. 
+8. International Atomic Energy Association, IAEA-TECDOC-1169, Managing suspect and counterfeit 
+items in the nuclear industry, Vienna, 2000. 
+9. Electric Power Research Institute, Inc. (EPRI), 1019163, Plant Support Engineering: Counterfeit and 
+Fraudulent Items - Mitigating the Increasing Risk, Palo Alto, 2014. 
+10. CSA Group, CSA N286.10-16, Configuration management for high energy reactor facilities, 
+Toronto, 2016. 
+11. CSA Group, CSA N286.7-16, Quality assurance of analytical, scientific and design computer 
+programs, Toronto, 2016. 
+May 2019 
+REGDOC-2.1.1, Management System 
+ 
+ 
+10 
+ 
+Additional Information 
+The following documents contain additional information related to management systems.  
+• 
+Canadian Nuclear Safety Commission (CNSC), REGDOC-3.1.1, Reporting Requirements for 
+Nuclear Power Plants, version 2, Ottawa, 2016. 
+• 
+CNSC, S-106, Technical and Quality Assurance Requirements for Dosimetry Services, Revision 1, 
+Ottawa, 2006.  
+• 
+CSA Group, CSA N290.12, Human factors in design for nuclear power plants, Toronto, 2014. 
+• 
+IAEA TECDOC 1740, Use of a Graded Approach in the Application of the Management System 
+Requirements for Facilities and Activities, Vienna, 2014. 
+May 2019 
+REGDOC-2.1.1, Management System 
+ 
+ 
+11 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the CNSC. In addition to the 
+Nuclear Safety and Control Act and associated regulations, these facilities and activities may also be 
+required to comply with other regulatory instruments such as regulatory documents or standards. 
+CNSC regulatory documents are classified under the following categories and series: 
+1.0 
+Regulated facilities and activities 
+Series 1.1 
+Reactor facilities 
+1.2 
+Class IB facilities 
+1.3 
+Uranium mines and mills 
+1.4 
+Class II facilities 
+1.5 
+Certification of prescribed equipment 
+1.6 
+Nuclear substances and radiation devices 
+2.0 
+Safety and control areas 
+Series 2.1 
+Management system 
+2.2 
+Human performance management 
+2.3 
+Operating performance 
+2.4 
+Safety analysis 
+2.5 
+Physical design 
+2.6 
+Fitness for service 
+2.7 
+Radiation protection 
+2.8 
+Conventional health and safety 
+2.9 
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0 
+Other regulatory areas  
+Series 3.1 
+Reporting requirements 
+3.2 
+Public and Aboriginal engagement 
+3.3 
+Financial guarantees 
+3.4 
+Commission proceedings 
+3.5 
+CNSC processes and practices 
+3.6 
+Glossary of CNSC terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. Visit the CNSC’s website for 
+the latest list of regulatory documents. 
+ 

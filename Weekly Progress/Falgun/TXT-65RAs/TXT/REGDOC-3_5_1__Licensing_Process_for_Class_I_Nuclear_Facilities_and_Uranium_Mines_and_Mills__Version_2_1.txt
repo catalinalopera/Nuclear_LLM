@@ -1,0 +1,1539 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Information Dissemination 
+Licensing Process for Class I 
+Nuclear Facilities and Uranium 
+Mines and Mills 
+ 
+ 
+REGDOC-3.5.1, Version 2.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+February 2022 
+ 
+ 
+Licensing Process for Class I Nuclear Facilities and Uranium Mines and Mills  
+Regulatory Document REGDOC-3.5.1, Version 2.1  
+ 
+© Canadian Nuclear Safety Commission (CNSC) 2022 
+PWGSC catalogue number CC172-121/2022E-PDF 
+ISBN 978-0-660-41631-1 
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+Également publié en français sous le titre : Processus d’autorisation des installations nucléaires de 
+catégorie I et des mines et usines de concentration d’uranium, version 2.1 
+Document availability 
+This document can be viewed on the CNSC at website nuclearsafety.gc.ca. To request a copy of the 
+document in English or French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, Ontario K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Facsimile: 613-995-5086 
+Email: consultation@cnsc-ccsn.gc.ca  
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+Publishing history 
+April 2015 
+ 
+Version 1.0 
+May 2017 
+ 
+Version 2.0 
+February 2022  
+Version 2.1 
+ 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+ 
+ 
+i 
+ 
+Preface 
+This regulatory document is part of the CNSC’s Processes and Practices series of regulatory documents. 
+The full list of regulatory document series is included at the end of this document and can also be found 
+on the CNSC’s website. 
+The Canadian Nuclear Safety Commission regulates the use of nuclear energy and materials to protect 
+health, safety, security and the environment; to implement Canada’s international commitments on the 
+peaceful use of nuclear energy; and to disseminate objective scientific, technical and regulatory 
+information to the public. Before any person or company can prepare a site for, construct, operate, 
+decommission or abandon a nuclear facility; or possess, use, transport or store nuclear substances, it must 
+obtain a licence issued by the CNSC. 
+This document provides an overview of the licensing process for Class I nuclear facilities and uranium 
+mines and mills in Canada, taking into consideration the requirements of the Nuclear Safety and Control 
+Act (NSCA) and associated regulations. 
+REGDOC 3.5.1 supersedes INFO-0756, Licensing Process for New Nuclear Power Plants in Canada 
+(May 2008) and INFO-0759 Revision 1, Licensing Process for New Uranium Mines and Mills in Canada 
+(August 2010). 
+Version 2.1 includes administrative updates to references to the Secretariat. As of January 1, 2022, the 
+Commission Secretariat was renamed the Commission Registry and the Commission Secretary became 
+the Commission Registrar. 
+ 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+........................................................................................................................1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+2. 
+The Canadian Nuclear Safety Commission’s role ..........................................................1 
+2.1 
+Nuclear regulatory framework 
+............................................................................................ 1 
+3. 
+Involving Stakeholders in the Licensing Process ............................................................2 
+3.1 
+Pre-licensing communication with the CNSC, the public and Aboriginal groups ............. 3 
+3.2 
+Involving the public in the licensing process 
+...................................................................... 3 
+3.3 
+Involving Aboriginal groups in the licensing process ........................................................ 3 
+3.4 
+Participant funding program ............................................................................................... 4 
+4. 
+Environmental Assessment ...............................................................................................4 
+5. 
+Overview of the Licensing Process ...................................................................................5 
+6. 
+Licensing Process for Class I Nuclear Facilities..............................................................6 
+6.1 
+Application to prepare site for a Class I facility ................................................................. 6 
+6.2 
+Application to construct a Class I facility 
+........................................................................... 7 
+6.3 
+Application to operate a Class I facility 
+.............................................................................. 8 
+6.4 
+Application to decommission a Class I facility .................................................................. 9 
+7. 
+Licensing Process for Uranium Mines and Mills ..........................................................10 
+7.1 
+Application to prepare site and construct a mine or mill .................................................. 10 
+7.2 
+Application to operate a mine or mill ............................................................................... 11 
+7.3 
+Application to decommission a mine or mill .................................................................... 11 
+8. 
+Timelines for Regulatory Reviews of Licence Applications 
+.........................................12 
+8.1 
+Regulated timelines for initial regulatory approvals 
+......................................................... 12 
+8.2 
+Expected regulatory review timelines for subsequent licensing stages ............................ 13 
+8.2.1 
+Class I nuclear facilities: Timelines for regulatory reviews of applications 
+........ 13 
+8.2.2 
+Uranium mines and mills: Timelines for regulatory reviews of applications 
+...... 14 
+Appendix A: Process for Obtaining a Licence for Class I Nuclear Facilities and Uranium 
+Mines and Mills ................................................................................................................15 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+ 
+ 
+Appendix B: Licensing timelines for Class I Nuclear Facilities and Uranium Mines and 
+Mills 
+...................................................................................................................................17 
+B.1 
+Class IA nuclear facilities ................................................................................................. 17 
+B.2 
+Class IB nuclear facilities ................................................................................................. 18 
+B.3 
+Uranium mines and mills .................................................................................................. 19 
+Appendix C: Regulatory Process for the Transition of a Reactor Facility from Operation to 
+Decommissioning End State 
+............................................................................................20 
+C.1 
+Lifecycle of a Reactor 
+....................................................................................................... 20 
+C.2 
+Regulatory Requirements.................................................................................................. 20 
+C.3 
+Regulatory Process and Timeframe .................................................................................. 21 
+C.3.1 
+End-of-Commercial Operation (ECO) 
+................................................................. 21 
+C.3.2 
+Storage with Surveillance .................................................................................... 22 
+C.3.3 
+Dismantling 
+.......................................................................................................... 23 
+C.3.4 
+Release from CNSC Regulatory Control 
+............................................................. 23 
+C.4 
+Environmental Assessment and Licensing ....................................................................... 23 
+C.5 
+Examples of Implementation of the Regulatory Process .................................................. 24 
+C.5.1 
+Pickering .............................................................................................................. 24 
+C.5.2 
+Gentilly-2 
+............................................................................................................. 24 
+Glossary ........................................................................................................................................25 
+References 
+.....................................................................................................................................27 
+ 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+1 
+ 
+Licensing Process for Class I Nuclear Facilities 
+and Uranium Mines and Mills 
+1. 
+Introduction 
+1.1 
+Purpose 
+This document provides an overview of the licensing process for Class I nuclear facilities and 
+uranium mines and mills in Canada, taking into consideration the requirements of the Nuclear 
+Safety and Control Act (NSCA) and associated regulations. 
+1.2 
+Scope 
+This document is applicable to Class I nuclear facilities and uranium mines and mills and 
+provides information on the licensing process for all stages of licensing, from initial application 
+to abandonment. This document does not describe the process for other licensing activities such 
+as amendments or renewals. 
+2. 
+The Canadian Nuclear Safety Commission’s role 
+Those wishing to carry out activities related to the site preparation, construction, operation, 
+decommissioning and abandonment of nuclear facilities and uranium mines and mills in Canada 
+must first obtain a licence from the CNSC. These activities are regulated under the Nuclear Safety 
+and Control Act (NSCA) which establishes the CNSC’s authority to set regulatory requirements 
+for all nuclear-related activities in Canada. 
+The Commission is the CNSC’s decision-making body and makes licensing decisions for all 
+major nuclear facilities. As an independent administrative tribunal, it makes its decisions based 
+on public input as well as CNSC staff’s recommendations. The Commission makes its decisions 
+transparently, guided by the Canadian Nuclear Safety Commission Rules of Procedure, which 
+define how public hearings and opportunities to be heard are conducted and the Canadian 
+Nuclear Safety Commission By-laws, which define the management and conduct of commission 
+meetings. 
+Staff perform technical assessments of licence application submissions against regulatory 
+requirements, make recommendations to the Commission, and verify compliance with the NSCA, 
+regulations, and any licence conditions imposed by the Commission. 
+2.1 
+Nuclear regulatory framework 
+The CNSC's regulatory framework consists of laws passed by Parliament that govern the 
+regulation of Canada's nuclear industry, and regulations, licenses and regulatory documents that 
+the CNSC uses to regulate the industry.  
+The following regulations made under the NSCA list the information applicants must submit to 
+the CNSC as part of their licence applications: 
+ 
+General Nuclear Safety and Control Regulations  
+ 
+Radiation Protection Regulations  
+ 
+Class I Nuclear Facilities Regulations  
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+2 
+ 
+ 
+Class II Nuclear Facilities and Prescribed Equipment Regulations  
+ 
+Uranium Mines and Mills Regulations  
+ 
+Nuclear Substances and Radiation Devices Regulations  
+ 
+Packaging and Transport of Nuclear Substances Regulations  
+ 
+Nuclear Security Regulations  
+ 
+Nuclear Non-proliferation Import and Export Control Regulations  
+A licence application must be accompanied by payment of the application fee as set by the 
+Canadian Nuclear Safety Commission Cost Recovery Fees Regulations.  
+Applicants must also be aware of, and comply with, other federal, provincial or territorial, and 
+municipal legislation that may also apply to their projects. Some examples include: 
+ 
+Nuclear Terrorism Act 
+ 
+Canadian Environmental Assessment Act, 2012 (CEAA 2012) 
+ 
+Canadian Environmental Protection Act 
+ 
+ Fisheries Act 
+ 
+Navigable Waters Protection Act 
+ 
+Transportation of Dangerous Goods Act 
+ 
+Canada Labour Code 
+ 
+Nuclear Energy Act 
+ 
+Nuclear Fuel Waste Act 
+ 
+Nuclear Liability and Compensation Act 
+ 
+Radiation Emitting Devices Act 
+ 
+Species at Risk Act 
+ 
+Migratory Birds Convention Act, 1994 
+ 
+Canada Water Act 
+ 
+The CNSC issues regulatory documents that set out requirements and guidance that many 
+applicants may use in preparing their licence applications. Regulatory documents form the basis 
+for the assessment of licence applications. These documents are developed through a transparent 
+consultative process with stakeholders, which include the general public, licensees, other 
+government agencies, and non-governmental organizations. 
+National standards – particularly the consensus standards produced by the CSA Group – set out 
+the necessary elements for acceptable design and performance at a regulated facility or for a 
+regulated activity. Standards are one of the tools the CNSC uses to evaluate whether licensees are 
+qualified to carry out licensed activities. 
+The CNSC’s regulatory framework is also informed by international standards and best practices, 
+including the guidance provided by the International Atomic Energy Agency’s publications. 
+Alignment with international standards and best practices allows the CNSC to build on the most 
+recent advancements in safety in order to enhance Canadian requirements. 
+3. 
+Involving Stakeholders in the Licensing Process 
+The CNSC operates with a high level of transparency and is committed to engaging stakeholders 
+through a variety of appropriate consultation processes, effective information sharing, participant 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+3 
+ 
+funding programs and communications. This commitment includes engaging potential applicants, 
+affected parties, the public and Aboriginal groups in the early stages of nuclear projects and 
+throughout the licensing process. 
+3.1 
+Pre-licensing communication with the CNSC, the public and Aboriginal groups 
+It is recommended to contact the CNSC as soon as the applicant has enough information from 
+preliminary activities to determine that a new nuclear project will proceed. Early communication 
+can help the applicant develop a good understanding of: 
+ 
+regulatory requirements  
+ 
+environmental assessment process 
+ 
+licensing process 
+ 
+information that must be included in a licence application 
+Early communication enables the CNSC to plan for consultation with various interested parties 
+including Aboriginal groups. Applicants are also encouraged to present the proposed project as 
+early as possible to local communities and Aboriginal groups in order to address any potential 
+interests and concerns. Early engagement in the planning and design stages of a proposed project 
+can benefit all concerned by enhancing relationships, building trust, improving the understanding 
+of the proposed project and its objectives. 
+3.2 
+Involving the public in the licensing process 
+Public participation is encouraged in all licensing decisions. The consideration of licence 
+applications for nuclear facilities by the Commission follows the public hearing process, as set 
+out in the Canadian Nuclear Safety Commission Rules of Procedure, which are available on the 
+CNSC’s website. One- or two-part public hearings for licensing applications typically take place 
+over a 90-day period.  
+These proceedings allow affected parties and the public to learn about nuclear facilities and 
+projects and to give an opportunity to be heard before the Commission. Aboriginal people and 
+members of the public can participate in public hearings via written submissions and/or oral 
+presentations. Commission hearings and meetings can also be viewed online as webcasts, and 
+transcripts of public hearings and meetings are also available to the public.  
+Throughout the lifecycle of a nuclear facility, licensees must provide information to the public 
+and stakeholders on their safety record and their nuclear facilities and related activities. CNSC 
+regulatory document RD/GD-99.3, Public Information and Disclosure, [1] sets out regulatory 
+requirements for licensees to proactively inform their public and stakeholders of their facilities’ 
+activities, as well as events or incidents that may occur. Its objective is to ensure that information 
+related to the health, safety and security of persons and the environment, and other issues 
+associated with the lifecycle of nuclear facilities are effectively communicated to the public. 
+3.3 
+Involving Aboriginal groups in the licensing process 
+The CNSC’s approach to involving Aboriginal groups includes commitments to uphold the 
+honour of the Crown (federal, provincial and territorial governments), through relationship 
+building and information sharing, as well as to meet the CNSC’s legal obligations under section 
+35 of the Constitution Act, 1982. Since 2004, the Supreme Court of Canada has held that the 
+Crown has a duty to consult and accommodate, where appropriate, when it contemplates conduct 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+4 
+ 
+that might adversely impact potential or established Aboriginal and/or treaty rights and related 
+interests, including Aboriginal title.  
+The CNSC respects these commitments by informing Aboriginal groups of proposed projects, 
+consulting with potentially impacted Aboriginal groups and encouraging participation throughout 
+the licensing process. Aboriginal peoples are also encouraged to bring their concerns before the 
+Commission. The CNSC also ensures that all recommendations or decisions pertaining to 
+licensing decisions under the NSCA and environmental assessments under the CEAA 2012 
+consider Aboriginal groups’ potential or established rights pursuant to the Constitution Act, 1982.  
+When developing and implementing consultation processes, the CNSC considers the guiding 
+principles that have emerged from Canada’s case law and best consultation practices as outlined 
+in the document Aboriginal Consultation and Accommodation – Updated Guidelines for Federal 
+Officials to Fulfill the Duty to Consult – March 2011. Further details on the CNSC’s approach to 
+Aboriginal consultation can be found in Codification of Practice: CNSC’s Commitment to 
+Aboriginal Consultation and Supplementary Information for Licensees: Aboriginal Consultation. 
+CNSC regulatory document REGDOC-3.2.2, Aboriginal Engagement, is currently under 
+development. See the CNSC’s website for more information. 
+3.4 
+Participant funding program  
+The CNSC administers a participant funding program to give the public, Aboriginal groups and 
+other stakeholders the opportunity to request funding to participate in matters related to licensing 
+for major nuclear facilities. The CNSC determines whether to offer participant funding as well as 
+the maximum amount available for each offering. The objectives of the participant funding 
+program are: 
+ 
+to enhance Aboriginal, public and stakeholder participation in the licensing process  
+ 
+to help stakeholders bring valuable information to the Commission through informed and 
+topic-specific interventions related to aspects of licensing 
+More information about the participant funding program is available on the CNSC’s website. 
+4. 
+Environmental Assessment  
+Protecting the environment is part of the CNSC’s mandate. The CNSC requires the environmental 
+effects of all licensed activities to be evaluated and considered when licensing decisions are 
+made. An environmental assessment (EA) is a review of information used to support the 
+Commission’s determination on whether the licensee will make adequate provisions for the 
+protection of the environment and the health and safety of persons while carrying out a licensed 
+activity. An EA is carried out at the beginning of a project and considers the entire lifecycle of a 
+project. 
+An EA includes information prepared by CNSC staff and comments received from Aboriginal 
+groups and the public. After reviewing the EA, the Commission determines whether a proposed 
+project is not likely to result in significant adverse environmental effects, taking into 
+consideration the implementation of mitigation measures. Licensing, compliance and verification 
+activities ensure that the licensee has implemented the mitigation and follow-up measures. 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+5 
+ 
+The proposed project may also require an EA by another provincial or territorial jurisdiction. To 
+the extent possible, these processes are harmonized to reduce duplication and provide regulatory 
+efficiency.  
+CNSC regulatory document REGDOC-2.9.1, Environmental Protection: Environmental 
+Assessments, is currently under development. See the CNSC’s website for more information. 
+5. 
+Overview of the Licensing Process 
+The CNSC initiates the licensing process once it receives an application from an applicant. The 
+Canadian Nuclear Safety Commission Rules of Procedure require the application to be filed with 
+the Commission Registrar, along with the prescribed fee, as set out in the Canadian Nuclear 
+Safety Commission Cost Recovery Fees Regulations. 
+For major resource projects such new uranium mines or a reactor facilities, Natural Resources 
+Canada’s Major Projects Management Office (MPMO) coordinates the work of all the federal 
+departments and agencies that have a role in the regulatory review of the project. The MPMO has 
+published the Guide to Preparing a Project Description for a Major Resource Project to assist 
+applicants, and more information is available on the MPMO website.  
+The licence application contains, at a minimum, the identity of the applicant, a project description 
+and a proposed schedule for completing the licensing process. Applicants are also encouraged to 
+submit a schedule of submissions of all required information.  
+Section 3 of the General Nuclear Safety and Control Regulations identifies information that must 
+be included in all licence applications. Some examples are: 
+ 
+management structure 
+ 
+radiation protection 
+ 
+security 
+ 
+waste management 
+Application requirements for specific licence types are listed in the Class I Nuclear Facilities 
+Regulations and Uranium Mines and Mills Regulations. For more information, see sections 6 and 
+7 of this document. 
+CNSC staff conduct technical assessments of the information submitted by an applicant to 
+determine if it meets the regulatory requirements of the NSCA and regulations, CNSC 
+requirements and expectations, international and domestic standards, and applicable international 
+obligations. The CNSC’s assessment includes input from other federal and provincial government 
+departments, including those responsible for regulating health and safety, environmental 
+protection, emergency preparedness, and the transportation of dangerous goods.  
+Once the assessment of an applicant’s information is complete, CNSC staff will make 
+recommendations on the licence application to the Commission. A licensing hearing is held to 
+take into account the views, concerns and opinions of interested parties and intervenors. These 
+hearings are open to the public and webcast live. The Commission considers the entirety of an 
+application and all information received in the course of the matter before making a decision. 
+Each decision to license is based on information that demonstrates that the activity or the 
+operation of a given facility can be carried out safely and that the environment is protected. 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+6 
+ 
+Following the hearing, the Commission members will deliberate and issue a decision, including 
+reasons for the decision. Typically, the decision and reasons for the decision are published within 
+six weeks after the close of the hearing. See Appendix A for the licensing process map for Class I 
+nuclear facilities and uranium mines and mills.  
+The timelines for regulatory reviews of licence applications are provided in section 8 of this 
+document. The following may influence the duration of the licensing process: 
+ 
+the EA process, depending on the jurisdictions involved and the amount of time required by 
+the applicant to prepare the necessary documentation  
+ 
+whether the information provided with the application is comprehensive and complete so the 
+review of the application can be carried out in an efficient and timely manner 
+ 
+the time required for the applicant to complete its activities at each licensing stage (prepare 
+the site, construct and commission the nuclear facility and train and certify facility personnel)  
+ 
+outstanding safety issues at each licensing stage, which will require resolution before CNSC 
+staff can prepare their recommendations to the Commission for the next stage 
+Once a licence is issued, the CNSC carries out compliance activities to verify that the licensee is 
+complying with the NSCA, associated regulations and its licence. 
+6. 
+Licensing Process for Class I Nuclear Facilities 
+Class I nuclear facilities include nuclear reactors, including nuclear power plants and research 
+reactors, high-energy accelerator facilities, as well as facilities that handle, process or store large 
+quantities of nuclear substances. The CNSC’s licensing process for Class I nuclear facilities 
+follows the stages laid out in the Class I Nuclear Facilities Regulations, proceeding progressively 
+through each stage of their lifecycle. The regulations list the required information to support an 
+application to conduct the following activities: 
+ 
+prepare site 
+ 
+construct 
+ 
+operate 
+ 
+decommission 
+ 
+abandon 
+If the necessary applications are filed with the required information, the Commission may, at its 
+discretion, issue a licence that includes multiple classes of licences (e.g., a licence to prepare site 
+and construct, or a licence to construct and operate). A single licence may also be issued for 
+multiple facilities, each at a different stage in their lifecycle. 
+See Appendix C, Regulatory Process for the Transition of a Reactor Facility from Operation to 
+Decommissioning End State, for additional guidance on the regulatory lifecycle of a reactor 
+facility. 
+6.1 
+Application to prepare site for a Class I facility 
+The objective of the site preparation stage is to assess whether the site is suitable for the 
+construction and operation of a nuclear facility. An application for a licence to prepare site 
+(LTPS) does not require detailed design information or specifications of a facility design but must 
+provide enough information to demonstrate that releases of radioactive and hazardous substances 
+are within limits claimed in the EA, and meet all applicable regulatory requirements.  
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+7 
+ 
+The specific information required for an application for a LTPS for a Class I nuclear facility is 
+listed in sections 3 and 4 of the Class I Nuclear Facilities Regulations. Examples of information 
+submitted in support of an application to prepare a site are: 
+ 
+the characteristics of the site and its environment, which could influence the transfer (to 
+persons and the environment) of radioactive and hazardous material that may be released 
+ 
+the potential effects of external events (such as seismic events, tornadoes and floods) and 
+human activity on the site 
+ 
+the population density, population distribution and other characteristics of the region, insofar 
+as they may affect the implementation of emergency measures and the evaluation of the risks 
+to individuals, the surrounding population and the environment 
+ 
+public information program to keep the public and Aboriginal groups informed of the 
+anticipated effects of the facility’s site preparation activities on their health and safety and on 
+the environment  
+ 
+preliminary decommissioning plan 
+ 
+proposed financial guarantee for the activities to be licensed under the licence to prepare site 
+ 
+the proposed protective zone for the purposes of land use planning by the surrounding 
+municipalities (reactor facilities) 
+The review of the application focuses on determining whether the site characteristics that have an 
+impact on health, safety, security and the environment have been identified, and that these 
+characteristics have been taken into consideration and will also be considered in the design, 
+operation and decommissioning of the proposed facility. The technical information arising from 
+the consideration of external events, site-specific characteristics and supporting assessments is 
+used as input into the design of the facility for the chosen site, which is submitted in the 
+construction licence application. 
+Before issuing an LTPS the Commission must be satisfied that the site preparation activities will 
+be carried out in a manner that will satisfy all health, safety, security and environmental 
+protection requirements.  
+The CNSC is developing requirements and guidance for this stage of licensing. See the website 
+for more information. 
+6.2 
+Application to construct a Class I facility 
+A licence to construct enables a licensee to construct, commission and operate some components 
+of the facility (e.g., security systems). Some commissioning activities may be allowed in order to 
+demonstrate the facility has been constructed in accordance with the approved design and that the 
+structures, systems and components (SSCs) important to safety are functioning as intended.  
+An application for a licence to construct contains more detailed information about the design of 
+the facility and the supporting safety case. The applicant must demonstrate that the proposed 
+design of the facility conforms to regulatory requirements and will provide for the safe operation 
+on the designated site over the proposed life of the facility.  
+The applicant is expected to address all follow-up activities identified during the EA, including 
+those relevant to the design, construction and commissioning stages and verify that any 
+outstanding issues from the site preparation stage have been resolved.  
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+8 
+ 
+The specific information required for an application for a licence to construct a Class I nuclear 
+facility is listed in sections 3 and 5 of the Class I Nuclear Facilities Regulations. Examples of 
+information submitted in support of an application to construct are: 
+ 
+a description of the proposed design of the facility, taking into consideration the physical and 
+environmental characteristics of the site 
+ 
+environmental baseline data about the site and surrounding area 
+ 
+a preliminary safety analysis report, showing the adequacy of the design 
+ 
+description of measures to mitigate the effects on the environment and health and safety of 
+persons that may arise from the construction, operation or decommissioning of the facility 
+ 
+information on the potential releases of nuclear substances and hazardous materials, and 
+proposed measures to control them 
+ 
+programs and schedules for recruiting and training for workers who conduct licensed 
+activities  
+ 
+public information and disclosure program to keep the public and target audiences informed 
+of the anticipated effects of the facility’s construction activities on their health and safety and 
+on the environment 
+ 
+updated preliminary decommissioning plan 
+ 
+proposed financial guarantee for the activities to be licensed under the licence to construct 
+The review of the application focuses on determining whether the proposed design, the safety 
+analysis and other required information meet regulatory requirements. The evaluation involves 
+rigorous engineering and scientific analysis, taking into consideration national and international 
+standards and best practices in nuclear facility design and operation. The CNSC also verifies that 
+any outstanding issues from the site preparation stage have been resolved. The protective zone set 
+at the time of the LTPS is also confirmed during review of the licence to construct.  
+For the latter part of construction, regulatory attention focuses on the commissioning program and 
+associated activities, to demonstrate to the extent practicable that all the SSCs have been built and 
+function as intended.  
+See CNSC regulatory document RD/GD-369, Licence Application Guide: Licence to Construct a 
+Nuclear Power Plant [2] for guidance on the information to be submitted for a licence to 
+construct. The CNSC is developing other requirements and guidance for this stage of licensing. 
+See the website for more information. 
+6.3 
+Application to operate a Class I facility 
+A licence to operate will enable a licensee to complete final commissioning activities and to 
+operate the facility. Commissioning activities provide assurance that the facility has been 
+properly designed and constructed and it is ready for safe operation.  
+The specific information required for an application for a licence to operate a Class I nuclear 
+facility is in sections 3 and 6 of the Class I Nuclear Facilities Regulations. Examples of 
+information submitted in support of an application to operate are: 
+ 
+a description of the structures, systems and equipment of the facility, including their design 
+and operating conditions 
+ 
+the final safety analysis report 
+ 
+the proposed measures, policies, methods and procedures for: 
+o 
+commissioning systems and equipment 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+9 
+ 
+o 
+operating and maintaining the nuclear facility 
+o 
+handling nuclear substances and hazardous materials 
+o 
+controlling the release of nuclear substances and hazardous materials into the 
+environment 
+o 
+preventing and mitigating the effects on the environment and health and safety that result 
+from the operation and subsequent decommissioning of the facility 
+o 
+assisting offsite authorities in emergency preparedness activities, including assistance to 
+deal with an accidental offsite release 
+o 
+developing and maintaining nuclear security 
+ 
+public information and disclosure program to keep the public and target audiences informed 
+of the anticipated effects of the facility’s operation on their health and safety and on the 
+environment 
+ 
+updated preliminary decommissioning plan 
+ 
+proposed financial guarantee for the activities to be licensed under the licence to operate 
+The first licence to operate the facility is typically issued with conditions (hold points). All the 
+relevant commissioning tests must be satisfactorily completed before the hold points can be 
+removed.  
+The CNSC is developing requirements and guidance for this stage of licensing. See the website 
+for more information. 
+6.4 
+Application to decommission a Class I facility 
+At the end of the useful life of a facility, the licensee may decide to apply for a licence to 
+decommission. Throughout the life cycle of the facility the preliminary decommissioning plan 
+has been reviewed and updated.  
+The specific information to be provided in support of an application for a licence to 
+decommission a Class I nuclear facility is in sections 3 and 7 of the Class I Nuclear Facilities 
+Regulations. Examples of information submitted in support of an application to decommission 
+are: 
+ 
+major components and systems within the facility which must be considered during 
+decommissioning planning 
+ 
+expected levels of radiation and contamination within the facility, following the end of 
+operation 
+ 
+assessment of structures, to ensure that they are capable of being maintained for the proposed 
+period of storage and monitoring 
+ 
+a public information and disclosure program to inform the public and target audiences of the 
+anticipated effects of the decommissioning activities on the health and safety of the public 
+and on the environment 
+ 
+disposal plans for nuclear materials and radiation devices (prescribed nuclear materials) 
+ 
+quantities, or volumes, of wastes of all types (radioactive and hazardous) expected during the 
+decommissioning activities 
+The licensee’s responsibility can be terminated once long-term monitoring has confirmed the 
+successful completion of decommissioning. The Commission may issue a licence to abandon or 
+an exemption from licensing, which will end the licensee’s responsibility for the site and then 
+transfer responsibility for regulatory oversight or institutional control from the CNSC to the 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+10 
+ 
+province or territory, if applicable. Information required to support the transfer agreement 
+includes: 
+ 
+results of decommissioning work 
+ 
+results of environmental monitoring programs 
+ 
+description of requirement for long-term institutional controls 
+ 
+a program to inform the public of the effects of the transfer of responsibility on the health and 
+safety of the public and on the environment 
+7. 
+Licensing Process for Uranium Mines and Mills 
+The Uranium Mines and Mills Regulations (UMMR) list the required information to support an 
+application to conduct the following activities: 
+ 
+prepare site and construct 
+ 
+operate 
+ 
+decommission 
+If the necessary applications are filed with the required information, the Commission may, at its 
+discretion, issue a licence that includes multiple classes of licences (e.g., one licence to prepare 
+site, construct, operate and decommission). A single licence may also be issued for multiple 
+facilities, each at a different stage in their lifecycle. 
+7.1 
+Application to prepare site and construct a mine or mill 
+During this stage a licensee may prepare the site, construct, commission and operate some 
+components of the facility (e.g., a mine water treatment plant). Some commissioning activities 
+may also be allowed in order to demonstrate the facility has been constructed in accordance with 
+the approved design and that the SSCs important to safety are functioning as intended. All 
+relevant commissioning tests must be satisfactorily completed and documented before an 
+operating licence is issued. 
+The specific information required to obtain a licence to prepare site and construct is listed in 
+sections 3, 4, and 5 of the UMMR. Examples of information submitted in support of an 
+application to prepare the site and construct are: 
+ 
+a description of the proposed design for the uranium mine or mill and its waste management 
+system, taking into consideration physical and environmental characteristics of the site 
+ 
+environmental baseline data on the site and surrounding area 
+ 
+for mines, a description of the site geology, ground support structures, and ground water 
+regime (local and regional) 
+ 
+the anticipated quantities and grade of ore and waste rock that will be removed and their 
+proposed storage and disposal locations 
+ 
+a description of the proposed mining and milling methods and their associated programs 
+ 
+results of the process-hazard analysis and the proposed quality assurance program for the 
+design of the mine or mill 
+ 
+a proposed commissioning plan for the components, systems and equipment to be installed in 
+the mine or mill 
+ 
+measures to mitigate the effects on the environment and health and safety of persons that may 
+arise from the construction, operation or decommissioning of the facility 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+11 
+ 
+ 
+information on the potential releases of nuclear substances and hazardous materials and 
+proposed measures to control them 
+ 
+a program and schedule for recruiting and training operations and maintenance staff 
+ 
+a public information and disclosure program to inform the public and target audiences of the 
+anticipated effects of the site preparation and construction of the facility on their health and 
+safety and on the environment 
+ 
+preliminary decommissioning plan 
+ 
+proposed financial guarantee for the activities to be licensed under a licence to prepare site 
+and construct 
+7.2 
+Application to operate a mine or mill 
+At this stage, the licensee completes final commissioning and is then able to fully operate the 
+facility including mining or milling the ore. The final commissioning activities will demonstrate 
+that the facility has been constructed in accordance with the approved design and that the SSCs 
+important to safety are functioning reliably and in accordance with design expectations. 
+The specific information required to obtain a licence to operate is listed in sections 3, 4, and 6 of 
+the UMMR. Examples of information submitted in support of an application to operate are: 
+ 
+a description of the structures, systems and equipment at the uranium mine or mill, including 
+the design and operating conditions 
+ 
+the results of any commissioning work 
+ 
+preliminary decommissioning plan 
+ 
+proposed financial guarantee for the activities to be licensed under a licence to operate 
+ 
+proposed measures, policies, methods and procedures for: 
+o 
+commissioning systems and equipment 
+o 
+operating and maintaining the nuclear facility 
+o 
+handling nuclear substances and hazardous materials 
+o 
+controlling releases of nuclear substances and hazardous materials into the environment 
+o 
+waste management systems 
+o 
+preventing and mitigating the effects on the environment and health and safety resulting 
+from operation of the facility 
+o 
+ground control measures for mines 
+o 
+assisting offsite authorities in emergency preparedness activities, including assisting 
+dealing with an accidental offsite release 
+o 
+nuclear security 
+ 
+a public information and disclosure program to inform the public and target audiences of the 
+anticipated effects of the facility’s operation on the health and safety of the public  and on the 
+environment 
+In addition to assessing the information included in the application, CNSC staff also verify that 
+any outstanding issues from the site preparation and construction stage have been resolved.  
+7.3 
+Application to decommission a mine or mill 
+The licence to decommission enables the licensee to decommission the mine or mill. The specific 
+information required to obtain a licence to decommission is found in sections 3, 4, and 7 of the 
+UMMR. Examples of information submitted in support of an application to decommission are: 
+ 
+a proposed schedule for the decommissioning work 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+12 
+ 
+ 
+land, buildings, structures, components, systems, equipment, nuclear substances and 
+hazardous substances that will be affected by decommissioning 
+ 
+the quantities or volumes of all other wastes (radioactive and hazardous) expected during the 
+decommissioning activities 
+ 
+measures, methods and programs for carrying out decommissioning 
+ 
+description of the planned state of the site upon completion of the decommissioning work 
+ 
+long-term management of some of the nuclear materials onsite (e.g., uranium tailings, special 
+waste rock, residues and sludge, contaminated equipment that cannot be released from the 
+site) 
+ 
+a public information and disclosure program to inform the public  and target audiences of the 
+anticipated effects of the decommissioning activities on their health and safety and on the 
+environment 
+The licensee’s responsibility can be terminated once long-term monitoring has confirmed the 
+successful completion of decommissioning. The Commission may issue a licence to abandon or 
+an exemption from licensing which will end the licensee’s responsibility for the site and then 
+transfer responsibility for regulatory oversight or institutional control from the CNSC to the 
+province or territory, if applicable. Information required to support the transfer agreement 
+includes: 
+ 
+results of decommissioning work 
+ 
+results of environmental monitoring programs 
+ 
+description of requirement for long-term institutional controls 
+ 
+a program to inform the public of the effects of the transfer of responsibility on the health and 
+safety of the public and on the environment 
+8. 
+Timelines for Regulatory Reviews of Licence Applications 
+A regulatory review is initiated once the Commission has determined that the applicant has 
+submitted sufficient information to begin the review. A notice that the regulatory review has 
+begun is then provided to the applicant and posted on the CNSC’s website. An initial application 
+may not include all the required information and the balance may be submitted based on a 
+schedule determined by the applicant. 
+8.1 
+Regulated timelines for initial regulatory approvals 
+The CNSC has established 24-month timelines in regulations for new nuclear facilities that 
+require its regulatory review and a Commission decision on:  
+ 
+a licence to prepare a site for a Class I nuclear facility 
+ 
+a licence to prepare site for and construct a uranium mine and mill 
+Timelines for regulatory reviews apply to CNSC activities only and include the time needed to:  
+ 
+ensure the initial licence application has sufficient information, including a comprehensive 
+set of documentation submitted in support of the application 
+ 
+complete a technical assessment of the application  
+ 
+conduct a public hearing for the licensing decision related to the application 
+ 
+publish the Commission’s decision 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+13 
+ 
+Where the CNSC will need to carry out an environmental assessment in addition to its regulatory 
+review, the timelines will accommodate the time needed to carry out the environmental 
+assessment within the 24 month timeline. 
+The timelines do not include the time: 
+ 
+that the CNSC waits for a response to a request for information that is required to complete 
+the review 
+ 
+to accommodate an applicant’s request to extend the schedule for submitting required 
+information 
+ 
+to address matters outside the CNSC’s control, such as the time for other jurisdictions to 
+participate in and complete an environmental assessment 
+8.2 
+Expected regulatory review timelines for subsequent licensing stages 
+Regulatory review timelines provide more predictable timing of regulatory reviews of 
+applications for licences for, while continuing to protect health, safety, security and the 
+environment. The regulatory review process includes measures to allow Aboriginal groups, the 
+public and interested parties to participate fully in the regulatory review of a licence application. 
+Timelines for the assessment of an application for a first licence for subsequent licensing stages 
+are provided for illustrative purposes in the following sections. These timelines: 
+ 
+assume that the CNSC will receive complete and comprehensive applications 
+ 
+include the time needed for resolution of CNSC’s comments on submissions 
+ 
+assume the CNSC is solely responsible for completing the EA  
+ 
+include the time required for the two-part licence hearing process, which is approximately 
+four months and the Commission decision-making process which is up to 90 days 
+8.2.1 
+Class I nuclear facilities: Timelines for regulatory reviews of applications 
+Timelines for Class IA nuclear facilities: 
+Licensing stage 
+Timeline 
+(months) 
+Licence to prepare site  
+24 
+Licence to construct  
+32 
+Licence to construct and operate 
+40 
+Licence to operate  
+24 
+Licence to decommission 
+24 
+See Appendix B.1 for a chart depicting licensing timelines for Class IA nuclear facilities (i.e., 
+nuclear power plants and research reactors), from the initial application to a licence to operate. 
+See Appendix C, Regulatory Process for the Transition of a Reactor Facility from Operation to 
+Decommissioning End State, for additional guidance on the regulatory lifecycle of a reactor 
+facility. 
+ 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+14 
+ 
+Timelines for Class IB nuclear facilities: 
+Licensing stage 
+Timeline 
+(months) 
+Licence to prepare site  
+24 
+Licence to construct  
+24 
+Licence to prepare site and construct  
+24 
+Licence to construct and operate  
+30 
+Licence to operate  
+20 
+Licence to decommission 
+24 
+See Appendix B.2 for a chart depicting licensing timelines for Class IB nuclear facilities (i.e., 
+facilities that handle, process, or store large quantities of nuclear substances). 
+For major Class I nuclear facilities it is unlikely that the licensing process will involve a 
+combined licence to prepare site and construct. The timelines are the same for a licence to 
+construct and for a licence to prepare site and construct because the site preparation, 
+characterization and evaluation are done in parallel with the review of the construction 
+information. 
+8.2.2 
+Uranium mines and mills: Timelines for regulatory reviews of applications  
+Timelines for uranium mines and mills: 
+Licensing stage 
+Timeline 
+(months) 
+Licence to prepare site and construct  
+24 
+Licence to operate  
+20 
+Licence to decommission 
+24 
+ 
+See Appendix B.3 for licensing timelines for uranium mines and mills, from initial application to 
+a licence to operate. 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+15 
+ 
+Appendix A: Process for Obtaining a Licence 
+for Class I Nuclear Facilities and Uranium Mines and Mills 
+Upon receipt of an application, the CNSC has the authority under section 24(2) of the Nuclear Safety and 
+Control Act to decide whether to issue a licence.  
+Licensing hearings usually take place through a one- or two-part process. Public hearings give the 
+applicant, CNSC staff, the public and Aboriginal groups an opportunity to be heard before the Commission. 
+Most decisions involving major nuclear facilities are made through the two-part public hearing process, 
+during which two hearings typically take place 60 days apart.   
+Figure 1 depicts the process for obtaining a licence for Class I nuclear facilities and uranium mines and 
+mills. 
+Figure 1. Licensing process for Class I nuclear facilities and uranium mines and mills 
+ 
+Notes: 
+Public and Aboriginal involvement and environmental monitoring are ongoing throughout the licensing 
+process. 
+(A) The scope of the licence application determines the complexity of the review by CNSC staff and the 
+Commission (see section 8 of this document for more information). If the environmental assessment 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+16 
+ 
+takes place at the same time as the regulatory review of the application, it will be presented to the 
+Commission for decision at Part 1 of the hearing. 
+(B) The applicant and CNSC staff present their submissions to the Commission at the public hearing, 
+which is open to the public and broadcast on the CNSC’s website. The public and Aboriginal groups 
+are also encouraged to present their views on the application to the Commission. 
+ 
+Submissions that are filed with the CNSC for public hearings are called Commission Member 
+Documents. For more details, see CNSC regulatory document G-379, Guide for Applicants and 
+Intervenors: Writing CNSC Commission Member Documents [3]. 
+(C) Following the hearing, the Commission deliberates and renders a decision. The CNSC issues the 
+Commission’s decision on the granting of the licence. The Commission's decision and its reasons for 
+decision are usually published within six weeks of the conclusion of the hearing. 
+ 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+17 
+ 
+Appendix B: Licensing timelines for Class I Nuclear Facilities 
+and Uranium Mines and Mills 
+B.1 
+Class IA nuclear facilities  
+(reactor facilities) 
+Figure 2 depicts the licensing timeline from the initial application to a licence to operate for Class IA 
+nuclear facilities. 
+Figure 2. Licensing timeline for Class IA nuclear facilities 
+ 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+18 
+ 
+B.2 
+Class IB nuclear facilities  
+(high-power accelerators and facilities that handle, process or store large quantities of 
+nuclear substances) 
+Figure 3 depicts the timeline for licensing, from the initial application to a licence to operate for Class IB 
+nuclear facilities. 
+Figure 3. Licensing timeline for Class IB nuclear facilities 
+ 
+ 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+19 
+ 
+B.3 
+Uranium mines and mills 
+Figure 4 depicts the timeline for licensing, from the initial application to a licence to operate for uranium 
+mines and mills. 
+Figure 4. Licensing timeline for uranium mines and mills 
+ 
+ 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+20 
+ 
+Appendix C: Regulatory Process for the Transition of a Reactor Facility from 
+Operation to Decommissioning End State 
+This appendix outlines the regulatory process that is followed when a reactor facility (reactor) transitions 
+from an operational state to a decommissioned state and is ready to be released from CNSC regulatory 
+control. 
+C.1 
+Lifecycle of a Reactor 
+There are five phases in a reactor’s lifecycle:  
+1. siting 
+2. construction 
+3. operation 
+4. decommissioning 
+5. release from CNSC regulatory control 
+Following decommissioning, and with the assumption that disposal repositories are in place to accept 
+low- and medium-level wastes as well as spent fuel, the site is released from CNSC regulatory control. 
+Without disposal repositories in place, a portion of the site would be maintained as a nuclear waste 
+management facility until final and offsite long-term management or permanent disposal solutions 
+become available.  
+C.2 
+Regulatory Requirements 
+At all phases except for the release from CNSC regulatory control, a decommissioning plan is required. 
+The decommissioning plan is developed and updated progressively (typically every five years at a 
+minimum) over the facility’s lifecycle to reflect the appropriate level of detail required for the respective 
+licensed activities.  
+For siting, construction and operation phases, the decommissioning plan (normally called a preliminary 
+decommissioning plan or PDP) is required to outline the decommissioning strategy in sufficient detail to 
+provide the basis for an estimation of the cost of decommissioning and hence the establishment of a 
+financial guarantee.  
+Additionally, during the operation phase and at the time the licensee makes a decision to cease 
+commercial operation, the CNSC requests an end-of-commercial operation (ECO) plan to outline the 
+steps for continued safe operation, shutdown and stabilization of the facility.  
+For the decommissioning phase, typically one of two strategies may be followed:  
+1. immediate decommissioning: comprises immediate dismantling of the facility 
+2. deferred decommissioning: comprises a period of storage with surveillance followed by dismantling 
+For either strategy, the decommissioning plan (normally called a detailed decommissioning plan or DDP) 
+provides more detail on the decommissioning strategy and the actual licensed activities that will be 
+undertaken. It is also used to verify the estimation of the cost of decommissioning and hence the 
+maintenance of the financial guarantee.  
+For immediate decommissioning, the decommissioning plan articulates the details of the execution of the 
+decommissioning strategy and the detailed work packages that will be used to guide the dismantling work 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+21 
+ 
+typically covering a 2- to 10-year period. For deferred decommissioning, the decommissioning plan is 
+initially focused on the storage with surveillance period, which typically covers 25 to 40 years. Then, 
+towards the end of storage with surveillance, it is revised to detail the work to be completed during the 
+dismantling of the installation. In both cases, there will be a typical period of 7 to 10 years where the 
+spent fuel will be stored in the irradiated fuel bays for cooling. After this initial cooling period, the spent 
+fuel is transferred to dry storage.  
+C.3 
+Regulatory Process and Timeframe 
+Figures 1 and 2 depict the respective regulatory steps for immediate and deferred decommissioning, 
+starting at the operation phase of the facility. 
+ 
+ 
+C.3.1 
+End of commercial operation  
+During operation, a licensee will identify a target date for end-of-commercial operation (ECO) of the 
+facility. Normally, this would occur several years in advance which allows plans to be developed and 
+implemented to assure continued safe operations over the final years and a smooth transition of the 
+facility into safe shutdown and eventual implementation of the planned decommissioning strategy. 
+At this point, the CNSC requires the licensee to develop a plan for the facility’s ECO. This is a broad plan 
+that comprises steps for approaching shutdown and the facility’s transition from shutdown to a stable state 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+22 
+ 
+(i.e. stabilization activities). For stabilization of the facility, key activities are: defueling the reactor, 
+draining and storing of the cooling water from the reactor main systems, draining water from secondary 
+and auxiliary cooling systems, cleaning and decontaminating, maintaining cooling for the irradiated fuel 
+bays (IFBs), transferring the spent fuel to dry storage, modifying the operating conditions /programs to 
+align with the state of the facility, performing extensive radiological surveys and maintaining routine 
+surveillance of the facility. 
+Stabilization activities can be performed under a CNSC licence for operation or for decommissioning 
+depending on how the licensee transitions the facility to storage with surveillance or dismantlement. For 
+example, the transfer of spent fuel from the IFB to dry storage could be started under operation but 
+completed under decommissioning. 
+C.3.2 
+Storage with surveillance 
+If deferred decommissioning is chosen, the facility is placed into a period of storage with surveillance 
+(nominally 25 to 40 years) prior to the dismantlement phase (note that if immediate decommissioning is 
+implemented, there will be no storage with surveillance period). During this period, the activities are 
+much reduced and focused on surveillance, inspection, servicing and maintenance to confirm that the 
+structures, systems and components needed to maintain safe storage are functioning as required. 
+Examples of physical systems needed for storage with surveillance include:  
+ 
+electrical power 
+ 
+emergency lighting 
+ 
+drainage, heating and ventilation 
+ 
+security monitoring 
+ 
+fire detection 
+ 
+safeguards 
+ 
+remote monitoring systems.  
+Examples of programs needed include:  
+ 
+radiation protection 
+ 
+environmental protection 
+ 
+occupational health and safety 
+ 
+training 
+ 
+aging management 
+During storage with surveillance, there will be opportunities for activities to reduce risks at the facility. 
+These include:  
+ 
+reduction or removal of combustibles 
+ 
+removal and recycling of non-contaminated or slightly-contaminated equipment (e.g., turbines, 
+pumps, heat exchangers) 
+ 
+reduction or isolation of asbestos 
+ 
+demolition of non-nuclear facilities 
+ 
+removal of radioactive waste to an off-site licensed storage facility 
+ 
+reduction or removal of hazardous wastes 
+The CNSC requires, at this point, a decommissioning plan that details the programs and activities that 
+will be maintained during storage with surveillance. This decommissioning plan would be later revised to 
+detail the dismantling work to be completed. The financial guarantee, covering the period of storage with 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+23 
+ 
+surveillance, eventual dismantlement of the facility, and any long-term monitoring, would be reviewed 
+and updated periodically (typically around five years) as per licence requirements. 
+C.3.3 
+Dismantling 
+Dismantling is one of the last steps in the decommissioning process (nominally 2 to 10 years to 
+dismantle). The facility is carefully dismantled, all resulting waste is disposed of appropriately and site 
+restoration activities are performed to achieve the end state objectives for the installation. 
+The CNSC requires, at this point, details of the strategy and schedule of the execution of the physical 
+work. In broad terms, this is called a detailed work breakdown structure (WBS). The following are 
+examples of what should be included in the WBS: 
+ 
+how the dismantled structures and components will be segregated and disposed of (e.g., clean vs 
+contaminated) 
+ 
+the measures to be taken to protect workers from conventional and radiological hazards 
+ 
+the post-dismantlement monitoring activities (e.g., radiation protection and environmental) to 
+demonstrate that the decommissioning objectives have been met 
+C.3.4 
+Release from CNSC regulatory control 
+Release from CNSC regulatory control occurs when the licensee has successfully decommissioned the 
+facility and restored the site to a state in which it can be released for future use (e.g., green field or brown 
+field [industrial]). If unrestricted release cannot yet be achieved (i.e., due to long-term presence of 
+contaminated systems, components or structures), a release under institutional controls (IC) could be done 
+if the host province has an appropriate IC regime in place. 
+The CNSC requires, at this point, a submission for a licence to abandon or exemption from licensing. The 
+submission needs to be supported by reports on the results of the decommissioning and site-restoration 
+activities as well as the results of the radiological and environmental monitoring to demonstrate that the 
+site no longer needs to be licensed under the Nuclear Safety and Control Act (NSCA). 
+C.4 
+Environmental Assessment and Licensing 
+For a proposed new reactor facility, an environmental assessment (EA) under the Canadian 
+Environmental Assessment Act, 2012 (CEAA 2012), would be conducted that covers the entire reactor 
+lifecycle.  
+For an existing reactor transitioning from an operational state to a decommissioned state, an EA under the 
+NSCA would be conducted. The EA under the NSCA would assess the impacts of all the planned 
+licensed activities and would be commensurate with the potential risks of those activities. An EA under 
+the NSCA is carried out at every phase throughout the lifecycle of a facility. At each phase (i.e., for each 
+licence application), CNSC staff consider all future phases of the lifecycle, taking into consideration 
+available information. 
+The EA under the NSCA informs the licensing decision on whether the applicant or licensee will, in 
+carrying on a licensed activity, make adequate provision for the protection of the environment and the 
+health of persons. An EA report for an EA under the NSCA is prepared by CNSC staff for each 
+subsequent licence application for an existing licensed facility or activity. 
+For licensing, the Commission would consider the qualifications of the applicant / licensee and the 
+effectiveness of measures being proposed against the requirements of the NSCA prior to rendering a 
+regulatory decision to allow the requested activities. Note that there is flexibility in the licensing approach 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+24 
+ 
+in that an applicant / licensee may choose to combine some or all of the lifecycle phases into a single 
+licence application rather than treating each separately. 
+Over the lifecycle of the facility, the licensing basis (i.e., licensed activities conducted under the 
+licensee’s programs which meet the relevant regulatory requirements) will be adjusted accordingly to 
+reflect the appropriate phase in the lifecycle. 
+C.5 
+Examples of Implementation of the Regulatory Process 
+C.5.1 
+Pickering 
+The CNSC is applying this approach to the Pickering Nuclear Generating Station (Pickering) where the 
+end of commercial operation (ECO) is currently targeted for the period between 2020 and 2024. As of 
+2016, Units 2 and 3 were in safe storage while units 1, 4, and 5 to 8 were continuing to operate safely. 
+OPG established an ECO strategy, which included a sustainable operations plan (SOP) for the approach to 
+shutdown of the remaining operating units, a stabilization activity plan (SAP) for transitioning to a stable 
+state, a decommissioning plan, and the associated financial guarantee under its operating licence. When 
+shutdown approaches, OPG will update its decommissioning plan to reflect the activities it plans to carry 
+out. 
+C.5.2 
+Gentilly-2 
+The provincial decision to shut down Gentilly-2 NPP was made just a few months before the actual 
+shutdown, so there was little opportunity for Hydro-Québec to develop an ECO strategy. Nonetheless, the 
+CNSC required Hydro-Québec to develop a plan to guide the safe shutdown and stabilization of the 
+facility. As of 2016, Hydro-Québec was granted a decommissioning licence for the facility under which 
+there was an updated decommissioning plan and associated financial guarantee. Under this licence, 
+Hydro-Québec continued to transfer spent fuel from the IFB to dry storage. Hydro-Québec chose a 
+deferred decommissioning strategy and therefore was required to update its detailed decommissioning 
+plan by 2019. It is anticipated that the plan will cover a 40-year storage-with-surveillance period, after 
+which it is expected to be updated to cover the planned five-year dismantlement period of the facility. 
+ 
+ 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+25 
+ 
+Glossary 
+applicant  
+An organization or person that has applied to the CNSC for a licence or for certification. For example, an 
+applicant that applies for a licence to construct a nuclear facility has the overall responsibility, and 
+controlling and coordinating authority, for overseeing the safe and satisfactory completion of all design, 
+procurement, manufacturing, construction and commissioning work. 
+Class I nuclear facility 
+A Class IA facility or a Class IB facility. (Source: Class I Nuclear Facilities Regulations) 
+Class IA facility 
+A Class IA facility is a nuclear fission or fusion reactor or subcritical nuclear assembly; and a vehicle that 
+is equipped with a nuclear reactor. (Source: Class I Nuclear Facilities Regulations)  
+Class IB facility 
+A Class IB facility means any of the following facilities:  
+(a) a facility that includes a particle accelerator, other than a particle accelerator described in paragraphs 
+(d) and (e) of the definition “Class II prescribed equipment” in section 1 of the Class II Nuclear Facilities 
+and Prescribed Equipment Regulations 
+(b) a plant for the processing, reprocessing or separation of an isotope of uranium, thorium or plutonium 
+(c) a plant for the manufacture of a product from uranium, thorium or plutonium 
+(d) a plant, other than a Class II nuclear facility as defined in section 1 of the Class II Nuclear Facilities 
+and Prescribed Equipment Regulations, for the processing or use, in a quantity greater than 1015 Bq per 
+calendar year, of nuclear substances other than uranium, thorium or plutonium 
+(e) a facility for the disposal of a nuclear substance generated at another nuclear facility 
+(f) a facility prescribed by paragraph 19(a) or (b) of the General Nuclear Safety and Control Regulations. 
+(Source: Class I Nuclear Facilities Regulations) 
+environmental assessment (EA) 
+An evaluation of the potential significant short-term and long-term adverse environmental effects of a 
+project on the surrounding environment. 
+intervenor 
+A person who is permitted to intervene at a public hearing under rule 19 of the Canadian Nuclear Safety 
+Commission rules of Procedure. Note: The intervenor is a person who has an interest, expertise or 
+information useful to the Commission in coming to a decision. 
+licensed activity 
+An activity described in paragraph 26(e) of the Act that a licence authorizes the licensee to carry on in 
+relation to a Class I nuclear facility. (Source: Class I Nuclear Facilities Regulations) 
+OR 
+An activity described in paragraph 26(e) of the Act that a licence authorizes the licensee to carry on in 
+relation to a uranium mine or mill. (Source: Uranium Mines and Mills Regulations) 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+26 
+ 
+licensee 
+Note: In the regulations below, a person may be an individual or organization. 
+A person who is licensed to carry on an activity described in paragraph 26(e) of the Nuclear Safety and 
+Control Act in relation to a Class I nuclear facility (Source: Class I Nuclear Facilities Regulations) 
+OR 
+A person who is licensed to carry on an activity described in paragraph 26(e) of the Nuclear Safety and 
+Control Act in relation to a uranium mine or mill. (Source: Uranium Mines and Mills Regulations). 
+licensing basis  
+A set of requirements and documents for a regulated facility or activity comprising: 
+ 
+the regulatory requirements set out in the applicable laws and regulations 
+ 
+the conditions and safety and control measures described in the facility’s or activity’s licence and the 
+documents directly referenced in that licence 
+ 
+the safety and control measures described in the licence application and the documents needed to 
+support that licence application 
+mill 
+A facility at which ore is processed and treated for the recovery of uranium concentrate, including any 
+tailings-handling and water treatment system associated with the facility (Source: Uranium Mines and 
+Mills Regulations). 
+mine 
+An excavation site and a removal site (Source: Uranium Mines and Mills Regulations). 
+Note: A mine includes both these sites. 
+structures, systems and components (SSCs)  
+A general term encompassing all of the elements of a facility or activity that contribute to protection and 
+safety. Structures are the passive elements: buildings, vessels, shielding, etc. A system comprises several 
+components, assembled in such a way as to perform a specific (active) function. A component is a 
+discrete element of a system. Some examples are wires, transistors, integrated circuits, motors, relays, 
+solenoids, pipes, fittings, pumps, tanks and valves. 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+27 
+ 
+References 
+1. Canadian Nuclear Safety Commission (CNSC), RD-99.3, Public Information and Disclosure, 
+Ottawa, 2012. 
+2. CNSC, RD/GD-369, Licence Application Guide: Licence to Construct a Nuclear Power Plant, 
+2011 
+3. CNSC, G-379, Guide for Applicants and Intervenors: Writing CNSC Commission Member 
+Documents, 2012. 
+February 2022 
+REGDOC-3.5.1, Licensing Process for Class I  
+Nuclear Facilities and Uranium Mines and Mills 
+ 
+ 
+28 
+ 
+ CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the Canadian Nuclear Safety 
+Commission (CNSC). In addition to the Nuclear Safety and Control Act and associated regulations, these 
+facilities and activities may also be required to comply with other regulatory instruments such as 
+regulatory documents or standards. 
+Effective April 2013, the CNSC’s catalogue of existing and planned regulatory documents has been 
+organized under three key categories and twenty-five series, as set out below. Regulatory documents 
+produced by the CNSC fall under one of the following series: 
+1.0  
+Regulated facilities and activities 
+Series 1.1  
+Reactor facilities 
+1.2  
+Class IB facilities 
+1.3  
+Uranium mines and mills 
+1.4  
+Class II facilities 
+1.5  
+Certification of prescribed equipment 
+1.6  
+Nuclear substances and radiation devices 
+2.0  
+Safety and control areas 
+Series 2.1  
+Management system 
+2.2  
+Human performance management 
+2.3  
+Operating performance 
+2.4  
+Safety analysis 
+2.5  
+Physical design 
+2.6  
+Fitness for service 
+2.7  
+Radiation protection 
+2.8  
+Conventional health and safety 
+2.9  
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0  
+Other regulatory areas  
+Series 3.1  
+Reporting requirements 
+3.2  
+Public and Aboriginal engagement 
+3.3  
+Financial guarantees 
+3.4  
+Commission proceedings 
+3.5  
+CNSC processes and practices 
+3.6  
+Glossary of CNSC terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. For the latest list of regulatory 
+documents, visit the CNSC's website.  

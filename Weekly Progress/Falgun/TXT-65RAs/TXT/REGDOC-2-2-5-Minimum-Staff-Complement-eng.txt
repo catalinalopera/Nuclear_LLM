@@ -1,0 +1,583 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Human Performance Management 
+Minimum Staff Complement  
+ 
+ 
+REGDOC-2.2.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+April 2019
+ 
+ 
+ 
+ 
+ 
+ 
+Minimum Staff Complement 
+Regulatory document REGDOC-2.2.5  
+© Canadian Nuclear Safety Commission (CNSC) 2019 
+Cat. No. CC172-206/2019E-PDF 
+ISBN 978-0-660-30141-9 
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+Également publié en français sous le titre : Effectif minimal 
+Document availability 
+This document can be viewed on the CNSC website. To request a copy of the document in English or 
+French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, ON  K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Fax: 613-995-5086 
+Email: cnsc.info.ccsn@canada.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+LinkedIn: linkedin.com/company/cnsc-ccsn 
+Publishing history 
+[April 2019] 
+ 
+Version 1.0 
+ 
+April 2019 
+REGDOC-2.2.5, Minimum Staff Complement 
+ 
+ 
+ 
+ 
+i 
+Preface 
+This regulatory document is part of the CNSC’s human performance management series of regulatory 
+documents, which also covers personnel training, personnel certification and fitness for duty. The full list 
+of regulatory document series is included at the end of this document and can also be found on the 
+CNSC’s website. 
+Regulatory document REGDOC-2.2.5, Minimum Staff Complement, provides guidance to assist Class I 
+nuclear facility licensees and licence applicants in demonstrating to the CNSC that they will ensure the 
+presence of a sufficient number of qualified workers to carry on the licensed activity safely and in 
+accordance with the Nuclear Safety and Control Act. 
+This document supersedes guidance document G-323, Ensuring the Presence of Sufficient Qualified Staff 
+at Class I Nuclear Facilities – Minimum Staff Complement, published in July 2007. 
+Note: In 2013, the CNSC adopted a revised regulatory framework structure with a new system for 
+naming and numbering regulatory documents. This document has been published as part of the CNSC’s 
+initiative to bring regulatory documents that were published before the current framework was adopted 
+into the new system. The requirements and guidance in this document have not changed. 
+For information on the implementation of regulatory documents in the licensing basis, and on the graded 
+approach, see REGDOC-3.5.3, Regulatory Fundamentals. 
+The words "shall" and "must" are used to express requirements to be satisfied by the licensee or 
+licence applicant. "Should" is used to express guidance or that which is advised. "May" is used to 
+express an option or that which is advised or permissible within the limits of this regulatory document. 
+"Can" is used to express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+ 
+ 
+April 2019 
+REGDOC-2.2.5, Minimum Staff Complement 
+ 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+........................................................................................................................1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+… 
+............................................................................................................................... 1 
+1.3 
+Relevant legislation 
+............................................................................................................. 1 
+2. 
+Background ........................................................................................................................2 
+3. 
+Expectations........................................................................................................................3 
+3.1 
+Basis for minimum staff complement of qualified workers ............................................... 3 
+3.1.1 
+Use of a systematic analysis .................................................................................. 3 
+3.1.2 
+Validation of minimum staff complement requirements ....................................... 3 
+3.1.3 
+Systematic approach to training 
+............................................................................. 4 
+3.1.4 
+Minimum staff complement for nuclear power plants 
+........................................... 4 
+3.2 
+Implementation of the minimum staff complement 
+............................................................ 5 
+3.2.1 
+Documentation… 
+................................................................................................... 5 
+3.2.2 
+Minimum staffing procedures 
+................................................................................ 5 
+3.2.3 
+Design-basis accident procedures .......................................................................... 5 
+3.3 
+Compliance with the minimum staff complement 
+.............................................................. 5 
+3.4 
+Periodic review of the minimum staff complement 
+............................................................ 6 
+3.5 
+Changes to minimum staff complement ............................................................................. 6 
+Glossary ..........................................................................................................................................7 
+References 
+.......................................................................................................................................8 
+Additional Information .................................................................................................................9 
+ 
+April 2019 
+REGDOC-2.2.5, Minimum Staff Complement 
+ 
+ 
+1 
+ 
+Minimum Staff Complement 
+1. 
+Introduction 
+1.1 Purpose 
+The purpose of this regulatory document is to assist Class I nuclear facility licensees and 
+applicants for a Class I nuclear facility licence to demonstrate to the CNSC that they will ensure 
+the presence of a sufficient number of qualified workers to carry on the licensed activity safely 
+and in accordance with the Nuclear Safety and Control Act (NSCA, the Act) [1], the regulations 
+made under the NSCA, and their licence.  
+1.2 Scope 
+This regulatory document sets out information related to the staffing of a Class I nuclear facility 
+that should typically be included in an application for the issuance, renewal, amendment, or 
+replacement of a licence to operate a facility. The document sets out the key factors that CNSC 
+staff will take into account when assessing whether the licensee has made or the applicant will 
+make adequate provision for ensuring the presence of a sufficient number of qualified staff. This 
+document addresses staffing levels required to respond to the most resource-intensive conditions 
+under all operating states, including normal operations, anticipated operational occurrences, 
+design-basis accidents, and emergencies.  
+Expectations for use of this document will vary with the complexity of facility operations and the 
+consequences of potential events on the environment, health and safety of persons, and 
+maintenance of national security and measures required to implement international obligations.  
+1.3 Relevant legislation 
+The following provisions of the NSCA and the regulations made under it are relevant to this 
+document: 
+1. Paragraph 24(4)(a) of the NSCA states “No licence shall be issued, renewed, amended or 
+replaced — and no authorization to transfer one given — unless, in the opinion of the 
+Commission, the applicant or, in the case of an application for an authorization to transfer the 
+licence, the transferee 
+(a) is qualified to carry on the activity that the licence will authorize the licensee to carry on;”  
+2. Subsection 24(5) of the NSCA states “A licence may contain any term or condition that the 
+Commission considers necessary for the purposes of this Act, including a condition that the 
+applicant provide a financial guarantee in a form that is acceptable to the Commission.”  
+3. Paragraph 12(1)(a) of the General Nuclear Safety and Control Regulations [2] states “Every 
+licensee shall 
+(a) ensure the presence of a sufficient number of qualified workers to carry on the licensed 
+activity safely and in accordance with the Act, the regulations made under the Act and the 
+licence;” 
+4. Section 5 of the General Nuclear Safety and Control Regulations states “An application for 
+the renewal of a licence shall contain 
+(a) the information required to be contained in an application for that licence by the 
+applicable regulations made under the Act; and 
+(b) a statement identifying the changes in the information that was previously submitted.”  
+April 2019 
+REGDOC-2.2.5, Minimum Staff Complement 
+ 
+ 
+2 
+ 
+5. Paragraph 3(1)(k) of the General Nuclear Safety and Control Regulations states “An 
+application for a licence shall contain the following information: […] 
+(k) the applicant’s organizational management structure insofar as it may bear on the 
+applicant’s compliance with the Act and the regulations made under the Act, including the 
+internal allocation of functions, responsibilities and authority;” 
+6. Paragraph 6(a) of the General Nuclear Safety and Control Regulations states “An application 
+for the amendment, revocation or replacement of a licence shall contain the following 
+information: 
+ 
+(a) a description of the amendment, revocation or replacement and of the measures that will 
+be taken and the methods and procedures that will be used to implement it;” 
+7. Paragraph 6(b) of the General Nuclear Safety and Control Regulations states “An application 
+for the amendment, revocation or replacement of a licence shall contain the following 
+information: […] 
+(b) a statement identifying the changes in the information contained in the most recent 
+application for the licence;”  
+8. Paragraph 6(d) of the Class I Nuclear Facilities Regulations [3] states “An application for a 
+licence to operate a Class I nuclear facility shall contain the following information in addition 
+to the information required by section 3: […] 
+ 
+(d) the proposed measures, policies, methods and procedures for operating and maintaining 
+the nuclear facility;”  
+9. Paragraph 6(m) of the Class I Nuclear Facilities Regulations states “An application for a 
+licence to operate a Class I nuclear facility shall contain the following information in addition 
+to the information required by section 3: […] 
+ 
+(m) the proposed responsibilities of and qualification requirements and training program for 
+workers, including the procedures for the requalification of workers;”  
+10. Paragraph 6(n) of the Class I Nuclear Facilities Regulations states “An application for a 
+licence to operate a Class I nuclear facility shall contain the following information in addition 
+to the information required by section 3: […] 
+ 
+(n) the results that have been achieved in implementing the program for recruiting, training 
+and qualifying workers in respect of the operation and maintenance of the nuclear facility.”   
+11. Subsection 9(2) of the Class I Nuclear Facilities Regulations states “The Commission or a 
+designated officer authorized under paragraph 37(2)(b) of the Act may certify a person 
+referred to in paragraph 44(1)(k) of the Act for a position referred to in a licence after 
+receiving from the licensee an application stating that the person 
+(a) meets the applicable qualification requirements referred to in the licence; 
+(b) has successfully completed the applicable training program and examination referred to in 
+the licence; and 
+(c) is capable, in the opinion of the licensee, of performing the duties of the position.” 
+2. 
+Background 
+All Class I nuclear facility licensees are required to ensure the presence of a sufficient number of 
+qualified workers to carry on the licensed activity safely and in accordance with the NSCA, the 
+regulations made under the NSCA, and the facility licence. One aspect of ensuring the presence 
+of a sufficient number of qualified workers is defining the minimum number of workers with 
+specific qualifications who will be available to the nuclear facility at all times, known as the 
+minimum staff complement. The number and qualifications of workers in the minimum staff 
+complement should be adequate to successfully respond to all credible events, including the most 
+resource-intensive conditions for any facility state.  
+April 2019 
+REGDOC-2.2.5, Minimum Staff Complement 
+ 
+ 
+3 
+ 
+3. 
+Expectations 
+3.1 Basis for minimum staff complement of qualified workers  
+3.1.1 
+Use of a systematic analysis  
+It is expected that the minimum staff complement is determined by the licensee through a 
+systematic analysis. An analysis of tasks should be performed to determine the minimum staff 
+complement requirements for personnel available to the nuclear facility. The analysis should 
+include those tasks carried out in the main control room (MCR) and in secondary control areas, 
+where they exist. For Class I nuclear facilities that modify their minimum staff complement for 
+different operational states, the most resource-intensive conditions for each operational state 
+should be analyzed.  
+The analysis to determine the minimum staff complement requirements should consider the 
+following:  
+1. The actions required in the facility and their timing for the full range of the most resource-
+intensive conditions under all operating states, including normal operations, anticipated 
+operational occurrences, design-basis accidents, and/or emergencies;  
+2. The most resource-intensive initiating events and credible failures considered in the safety 
+analysis report and the probabilistic safety assessment;   
+3. The operating strategies that define how the nuclear facility personnel respond to anticipated 
+operational occurrences, design-basis accidents, and emergencies;  
+4. The required interactions among facility personnel for the purpose of diagnosing, planning, 
+communicating, coordinating and controlling anticipated operational occurrences, design-
+basis accidents, and emergencies;  
+5. The staffing demands required for the possible concurrent use of procedures related to 
+anticipated operational occurrences, design-basis accidents, and emergencies;  
+6. The staffing demands required to monitor indicators, displays and alarms and to promptly and 
+effectively operate the facility’s equipment controls using procedures related to anticipated 
+operational occurrences, design-basis accidents, and emergencies;  
+7. The staffing demands required to perform tasks in field locations using procedures related to 
+anticipated operational occurrences, design-basis accidents, and emergencies;  
+8. The staffing demands required for the successful completion of any safety-critical human 
+actions using procedures related to anticipated operational occurrences, design-basis 
+accidents, and emergencies;  
+9. The additional staffing demands when independent verification of task completion is 
+specified in procedures related to anticipated operational occurrences, design-basis accidents, 
+and emergencies;  
+10. The staffing strategy to provide for qualified staff for unplanned situations under anticipated 
+operational occurrences, design basis-accidents, and emergencies;  
+11. The staffing strategy to ensure the provision of qualified relief for workers; and  
+12. The restrictions on the location of workers within the nuclear facility.  
+3.1.2 
+Validation of minimum staff complement requirements  
+It is expected that the minimum staff complement requirements are validated by the licensee to 
+provide assurance that there is, at all times, a sufficient number of qualified workers available to 
+operate the facility safely and to respond to the most resource-intensive conditions under all 
+operating states, including normal operations, anticipated operational occurrences, design-basis 
+accidents, and/or emergencies.  
+April 2019 
+REGDOC-2.2.5, Minimum Staff Complement 
+ 
+ 
+4 
+ 
+When designing the method of validation, licensees should meet the expectations found in the 
+CNSC’s G-278, Human Factors Verification and Validation Plans [4], and international 
+standards on human performance evaluation techniques, such as the Institute of Electrical and 
+Electronics Engineers’ IEEE Guide for the Evaluation of Human-System Performance in Nuclear 
+Power Generating Stations, as referenced in the “Additional Information” section of this 
+regulatory document.  
+3.1.2.1 Range of validation scenarios  
+Validation scenarios should include the most resource-intensive credible events, including those 
+that involve coincident anticipated operational occurrences, design-basis accidents and 
+emergencies.  
+For Class I nuclear facilities that modify their minimum staff complement for different 
+operational states, the most resource-intensive scenarios for each operational state should be 
+validated.  
+For multi-unit nuclear power plants, validation scenarios should include the most resource-
+intensive events that could affect more than one unit, such as, but not limited to, seismic events, 
+loss of off-site power and steam line or feedwater line breaks.  
+3.1.2.2 Objectives of validation exercises  
+The validation exercises should demonstrate that the following can be achieved by the minimum 
+staff complement for all validation scenarios:  
+1. The relevant procedures can be effectively implemented in a timely manner;  
+2. There is an effective and timely response to anticipated operational occurrences, design-basis 
+accidents, and emergencies;  
+3. The facility can be effectively monitored, controlled and stabilized;  
+4. There is effective communication and coordination of required actions;  
+5. Workers are able to maintain awareness of facility conditions;  
+6. The physical and mental workload of minimum staff complement is achievable; and  
+7. All safety-critical human actions are achievable.  
+3.1.3 
+Systematic approach to training  
+It is expected that the principles of a systematic approach to training are applied to all positions 
+included in the minimum staff complement.  
+3.1.4 
+Minimum staff complement for nuclear power plants  
+In addition to certified operations personnel, it is expected that the minimum staff complement at 
+nuclear power plants will include a number of workers with specialized qualifications, such as:  
+1. Fuel handling operators when fuelling;  
+2. Chemical, mechanical, and electrical maintainers;  
+3. Emergency response personnel; 
+A decision not to include any of these positions should be justified by the licensee.  
+April 2019 
+REGDOC-2.2.5, Minimum Staff Complement 
+ 
+ 
+5 
+ 
+3.2 Implementation of the minimum staff complement  
+3.2.1 
+Documentation  
+The method followed to determine the minimum staff complement requirements and the results 
+obtained from the analysis should be documented.  
+3.2.2 
+Minimum staffing procedures  
+Minimum staffing requirements should be formalized by the licensee in a procedure. This 
+minimum staff complement procedure should include the following:  
+1. The specific number of staff to be present onsite, in the facility, and in the MCR (if one 
+exists), and the composition of the minimum staff complement with reference to specific 
+positions or qualifications;  
+2. For nuclear facilities that modify their minimum staff complement for different operational 
+states, the specific number and composition of the minimum staff complement with reference 
+to specific positions or qualifications for each operational state;  
+3. Consistent terminology when referring to specific positions or staff qualifications;  
+4. The specific restrictions on the location of individuals in the facility (for example, it may be 
+necessary to limit the location of certain workers within the facility if they must be able to 
+return to the MCR within a specified time limit);  
+5. A description of the measures in place to monitor compliance with the minimum staff 
+complement and to prevent non-compliance with the minimum staff complement; and  
+6. Specific actions to be taken to reduce the risk to the facility in the event of non-compliance 
+with the minimum staff complement.  
+3.2.3 
+Design-basis accident procedures  
+There should be a documented basis for staffing requirements for each design-basis accident 
+procedure that is based on an analysis using sections 3.1.1 and 3.1.2 of this regulatory document. 
+The number of qualified workers required in the MCR (if one exists) and in the remainder of the 
+nuclear facility should be clearly stated on the coversheet of the design-basis accident procedure. 
+Where there are separate procedures for field actions, the number of qualified workers required to 
+successfully complete these actions should be clearly stated in each procedure.  
+3.3 Compliance with the minimum staff complement  
+Compliance with the minimum staff complement should be ensured by the following:  
+1. Licensees should have a process for shift scheduling and accounting that ensures that each 
+minimum staff complement position is filled at all times;  
+2. The shift scheduling process should ensure that planned and unplanned absences do not lead 
+to non-compliance with the minimum staff complement;  
+3. The shift turnover process should ensure that minimum staff complement positions are filled 
+at all times;  
+4. Licensees should have in place a documented fitness-for-duty program that provides 
+confirmation that any person filling a minimum staff complement position does not have a 
+physical or mental limitation that would make the person incapable of performing the duties 
+of the applicable position; and  
+5. Licensees should have adequate plans in place for addressing short-term (e.g., severe 
+weather) and long-term (e.g., pandemic) threats to the minimum staff complement.  
+April 2019 
+REGDOC-2.2.5, Minimum Staff Complement 
+ 
+ 
+6 
+ 
+3.4 Periodic review of the minimum staff complement  
+The adequacy of the minimum staff complement should be reviewed periodically for the 
+following:  
+1. There should be methods for ongoing testing of the adequacy of the minimum staff 
+complement. For example, emergency drills and exercises should be carried out regularly 
+using only minimum complement personnel;  
+2. Internal and external operating experience that identifies performance deficiencies, 
+coordination problems, communications problems, or inadequacies in the availability of 
+workers with the necessary skills should be considered; and  
+3. Relevant international standards and guidelines should be considered.  
+3.5 Changes to minimum staff complement  
+When a change in the minimum staff complement is required, an implementation plan should be 
+developed that demonstrates that the potential for adverse effects on facility operations is 
+minimized.  
+The plan for implementing changes to the minimum staff complement should consider the 
+following:  
+1. The basis for the modified staffing levels is analyzed, as described in section 3.1 of this 
+regulatory document;  
+2. The transition from existing to new requirements is effectively managed;  
+3. Any changes to documentation, staff qualifications, and training programs are effectively 
+implemented in a timely manner;  
+4. There is an appropriate allocation of time for regulatory review and approval of the proposed 
+changes; and  
+5. There is an application of lessons learned from the implementation of previous changes.  
+ 
+ 
+ 
+April 2019 
+REGDOC-2.2.5, Minimum Staff Complement 
+ 
+ 
+7 
+ 
+Glossary 
+For definitions of terms used in this document, see REGDOC-3.6, Glossary of CNSC Terminology, which 
+includes terms and definitions used in the Nuclear Safety and Control Act and the regulations made under 
+it, and in CNSC regulatory documents and other publications. REGDOC-3.6 is provided for reference and 
+information. 
+  
+ 
+ 
+ 
+April 2019 
+REGDOC-2.2.5, Minimum Staff Complement 
+ 
+ 
+8 
+ 
+References 
+1. Nuclear Safety and Control Act, S.C. 1997, c. 9. 
+2. General Nuclear Safety and Control Regulations, SOR/2000-202. 
+3. Class I Nuclear Facilities Regulations, SOR/2000-204. 
+4. CNSC. G-278, Human Factors Verification and Validation Plans, 2003. 
+ 
+April 2019 
+REGDOC-2.2.5, Minimum Staff Complement 
+ 
+ 
+9 
+ 
+Additional Information 
+The following documents provide additional information that may be relevant and useful for 
+understanding the requirements and guidance provided in this regulatory document: 
+• 
+IEEE Standard 845-1999, IEEE Guide for the Evaluation of Human-System Performance in 
+Nuclear Power Generating Stations. 
+• 
+Entec UK Ltd. for the Health and Safety Executive (2001). Assessing the Safety of Staffing 
+Arrangements for Process Operations in the Chemical and Allied Industries, Contract Research 
+Report 348/2001. 
+• 
+IP and Health and Safety Executive (2004). Safe Staffing Arrangements – User Guide for 
+CRR348/2001 Methodology. 
+• 
+Hallbert, B., Sebok, A. and Morisseau, D. (2000). A Study of Control Room Staffing Levels for 
+Advanced Reactors, NUREG/IA-0137. 
+• 
+United States Nuclear Regulatory Commission (2004). Technical Basis for Regulatory Guidance 
+for Assessing Exemption Requests from the Nuclear Power Plant Licensed Operator Staffing 
+Requirements Specified in 10 CFR 50.54(m), NUREG/CR-6838. 
+• 
+United States Nuclear Regulatory Commission (2012). Human Factors Engineering Program 
+Review Model, NUREG-0711, Rev. 3. 
+• 
+United States Nuclear Regulatory Commission (1995). Results of Shift Staffing Study, 
+Information Notice 95-48. 
+• 
+United States Nuclear Regulatory Commission (1997). Integrated System Validation: 
+Methodology, and Review Criteria, NUREG/CR-6393. 
+ 
+ 
+ 
+April 2019 
+REGDOC-2.2.5, Minimum Staff Complement 
+ 
+ 
+10 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the CNSC. In addition to the 
+Nuclear Safety and Control Act and associated regulations, these facilities and activities may also be 
+required to comply with other regulatory instruments such as regulatory documents or standards. 
+CNSC regulatory documents are classified under the following categories and series: 
+1.0 
+Regulated facilities and activities 
+Series 1.1 
+Reactor facilities 
+1.2 
+Class IB facilities 
+1.3 
+Uranium mines and mills 
+1.4 
+Class II facilities 
+1.5 
+Certification of prescribed equipment 
+1.6 
+Nuclear substances and radiation devices 
+2.0 
+Safety and control areas 
+Series 2.1 
+Management system 
+2.2 
+Human performance management 
+2.3 
+Operating performance 
+2.4 
+Safety analysis 
+2.5 
+Physical design 
+2.6 
+Fitness for service 
+2.7 
+Radiation protection 
+2.8 
+Conventional health and safety 
+2.9 
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0 
+Other regulatory areas  
+Series 3.1 
+Reporting requirements 
+3.2 
+Public and Aboriginal engagement 
+3.3 
+Financial guarantees 
+3.4 
+Commission proceedings 
+3.5 
+CNSC processes and practices 
+3.6 
+Glossary of CNSC terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. Visit the CNSC’s website for 
+the latest list of regulatory documents. 
+ 

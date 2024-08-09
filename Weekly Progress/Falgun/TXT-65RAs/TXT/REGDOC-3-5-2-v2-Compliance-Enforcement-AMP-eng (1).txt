@@ -1,0 +1,656 @@
+CNSC Processes and Practices 
+Compliance and Enforcement: 
+Administrative Monetary Penalties 
+ 
+ 
+REGDOC-3.5.2, version 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 2015 
+ 
+ 
+ 
+ 
+ 
+Compliance and Enforcement: Administrative Monetary Penalties 
+Regulatory Document REGDOC-3.5.2 version 2 
+© Canadian Nuclear Safety Commission (CNSC) 2015 
+PWGSC catalogue number CC172-103/2015E-PDF 
+ISBN 978-1-100-25863-8  
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+Également publié en français sous le titre : Conformité et application de la loi : Sanctions administratives 
+pécuniaires (version 2) 
+Document availability 
+This document can be viewed on the CNSC website at nuclearsafety.gc.ca. To request a copy of the 
+document in English or French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, Ontario K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Facsimile: 613-995-5086 
+Email: info@cnsc-ccsn.gc.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+Publishing history 
+March 2014 
+ 
+Version 1 
+August 2015 
+ 
+Version 2 
+ 
+ 
+ 
+ 
+ 
+August 2015 
+REGDOC 3.5.2, Administrative Monetary Penalties 
+Preface 
+This regulatory document is part of the CNSC’s Processes and Practices series of regulatory documents, 
+which also covers the CNSC’s licensing processes and regulatory approaches. The full list of regulatory 
+document series is included at the end of this document and can also be found on the CNSC’s website.  
+Under the Nuclear Safety and Control Act (NSCA) and its associated regulations, the CNSC applies 
+various compliance and enforcement measures, commensurate with risk, to protect the health, safety and 
+security of Canadians and the environment.  
+The CNSC seeks to achieve a balance between activities that encourage compliance and measures that 
+compel it. The CNSC conducts verification activities to confirm that regulated persons are complying 
+with regulatory requirements. It identifies where requirements are not being met and ensures that persons 
+implement corrective measures to restore compliance. The CNSC will take whatever action it deems 
+appropriate to encourage and/or compel compliance with regulatory requirements.  
+In 2012, the Jobs, Growth and Long-term Prosperity Act made several amendments to the NSCA. These 
+included the authorization for the CNSC to establish an administrative monetary penalties (AMPs) system 
+through regulations, providing a new enforcement option to promote compliance. Persons who do not 
+comply with the NSCA, regulations made under the NSCA, and licences may incur monetary penalties in 
+addition to other enforcement measures. 
+The Administrative Monetary Penalties Regulations came into force on July 3, 2013. The regulations set 
+out the schedule of violations that are subject to AMPs under the NSCA, the method by which the penalty 
+amounts are determined and how notices of violation must be served. 
+REGDOC-3.5.2, Administrative Monetary Penalties, provides information about the CNSC’s AMPs 
+program. It describes how and where AMPs fit into the CNSC’s approach to compliance, and provides an 
+overview of how they are administered. REGDOC-3.5.2, version 2 replaces version 1 which was 
+published in March 2014. Version 2 provides updated information on the CNSC’s AMPs program. A 
+form has also been developed by the Commission Secretariat to assist those wishing to request a review 
+of an AMP they have received. The Request for Review form is now available on the CNSC’s website. 
+ 
+ 
+i 
+ 
+August 2015 
+REGDOC 3.5.2, Administrative Monetary Penalties 
+ 
+Table of Contents 
+1. 
+Introduction 
+........................................................................................................................1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant legislation 
+............................................................................................................. 1 
+2. 
+Canadian Nuclear Safety Commission’s Approach to Compliance and  
+Enforcement .......................................................................................................................2 
+2.1 
+Enforcement options ........................................................................................................... 2 
+3. 
+Administrative Monetary Penalties..................................................................................3 
+3.1 
+How the penalty amount is determined .............................................................................. 3 
+3.2 
+Notice of violation .............................................................................................................. 4 
+3.3 
+Right to request a review .................................................................................................... 5 
+3.4 
+Recovery of penalties 
+.......................................................................................................... 5 
+3.5 
+Public disclosure ................................................................................................................. 6 
+Appendix A : Examples of penalty amount calculations 
+............................................................7 
+A.1 
+Example 1: Category C violation for a person other than an individual 
+............................. 7 
+A.2 
+Example 2: Category B violation for an individual ............................................................ 8 
+Glossary ..........................................................................................................................................9 
+ 
+ii 
+ 
+August 2015 
+REGDOC 3.5.2, Administrative Monetary Penalties 
+Administrative Monetary Penalties 
+1. 
+Introduction 
+Under the Nuclear Safety and Control Act (NSCA) and its associated regulations, the CNSC 
+applies various compliance and enforcement measures to protect the health and safety of 
+Canadians and the environment and to maintain national security and measures required to 
+implement international obligations to which Canada has agreed.  
+The CNSC’s approach to compliance has three principal components:  
+• 
+communication/awareness activities, such as industry-specific information sessions and 
+continued communication and discussion with regulated persons 
+• 
+compliance verification activities, such as onsite inspections and offsite evaluation of 
+documents 
+• 
+enforcement activities, such as meetings with regulated persons, written notices, orders, 
+administrative monetary penalties, licensing actions and prosecution 
+Through its compliance verification activities, the CNSC identifies persons who are not following 
+regulatory requirements and ensures they implement corrective measures. The CNSC takes 
+whatever action it deems appropriate to encourage and/or compel compliance with regulatory 
+requirements.  
+In 2012, the Jobs, Growth and Long-term Prosperity Act made a number of amendments to the 
+NSCA. These included the authorization for the CNSC to establish an administrative monetary 
+penalties (AMPs) program through regulations, giving it a new enforcement measure to promote 
+compliance. Persons who do not comply with the NSCA, regulations made under the NSCA, or 
+licences, may now incur administrative monetary penalties in addition to other enforcement 
+measures available to the CNSC. 
+1.1 Purpose 
+This document provides information about the CNSC’s AMPs program.  
+1.2 Scope 
+This document is intended for information only. It describes where AMPs fit into the CNSC’s 
+approach to enforcement, and provides an overview of how AMPs are administered.  
+1.3 Relevant legislation 
+Subsections 65.01 through 65.21 of the Nuclear Safety and Control Act establish: 
+• 
+the Commission’s powers with respect to the AMPs program 
+• 
+rules about violations  
+• 
+a review process 
+• 
+recovery of penalties 
+ 
+1 
+ 
+August 2015 
+REGDOC 3.5.2, Administrative Monetary Penalties 
+The Administrative Monetary Penalties Regulations (AMPR) provide: 
+• 
+a schedule of violations that are subject to an AMP 
+• 
+the factors used for determining a penalty amount 
+• 
+the penalty ranges of violations  
+• 
+details on the service of the notice of violation 
+2. 
+Canadian Nuclear Safety Commission’s Approach to Compliance and Enforcement  
+The CNSC’s licensing process includes a thorough assessment of an application submission. 
+The CNSC will only issue a licence when the applicant: 
+• 
+is deemed qualified to carry on the activity that the licence will authorize 
+• 
+has demonstrated that they will protect the health and safety of persons and the environment 
+• 
+has demonstrated that they will maintain national security 
+• 
+has confirmed that they will adhere to international obligations to which Canada has agreed 
+After a license is issued, CNSC verifies the licensee’s compliance performance against CNSC 
+requirements. Verification activities include site inspections, and the review of operational 
+activities and licensee documentation. The results of previous inspections, previous assessments, 
+reported incidents and events, and annual compliance report submissions are also reviewed. In 
+addition, the CNSC conducts communication/awareness activities, such as industry-specific 
+information sessions and continued discussions with licensees to promote compliance.  
+The CNSC responds to non-compliance by taking the appropriate action(s) necessary to restore 
+full compliance. The enforcement option(s) selected by the CNSC will depend on the severity of 
+the non-compliance and the associated risk. The CNSC uses a risk-informed regulatory approach 
+to managing and controlling regulated facilities and activities; appropriate levels of regulatory 
+monitoring and control are identified for specific classes of licensed facilities and types of 
+licensed activities.  
+2.1 Enforcement options 
+The CNSC has added AMPs to its existing enforcement options, which include: 
+• 
+discussions/meetings/letters 
+• 
+written notice or warning 
+• 
+more frequent inspections 
+• 
+an order by an inspector or designated officer 
+• 
+a request from the Commission or a person authorized by the Commission under subsection 
+12(2) of the General Nuclear Safety and Control Regulations  
+• 
+licensing action (limiting operations, suspension, revocation) 
+• 
+decertification  
+• 
+prosecution 
+Enforcement options may not necessarily be chosen in the order presented. An option can be used 
+independently or in combination with others, resulting in a wide range of enforcement options.  
+ 
+2 
+ 
+August 2015 
+REGDOC 3.5.2, Administrative Monetary Penalties 
+The CNSC considers the following factors when deciding which enforcement option(s) to use: 
+• 
+regulatory significance of the non-compliance 
+• 
+level of associated risk of the non-compliance 
+• 
+compliance history of the person 
+• 
+urgency of required action from the person 
+• 
+corrective/deterrent effect of the regulatory action 
+Regulatory judgment is applied and multiple factors are taken into account to determine the most 
+appropriate enforcement strategy for a given situation.  
+3. 
+Administrative Monetary Penalties 
+AMPs are monetary penalties imposed by the CNSC in response to a violation of a regulatory 
+requirement. The specific provisions against which an AMP may be applied are listed in the 
+AMPR’s schedule of violations. An AMP can only be issued for a non-compliance listed in the 
+schedule of violations.  
+AMPs can be issued to all persons subject to the NSCA. Most violations listed in the schedule 
+apply to licensees. 
+As per subsection 65.02 (2) of the NSCA, the purpose of a penalty is to promote compliance and 
+not to punish. An AMP is one of several enforcement tools the CNSC may use. Although any 
+violation listed in the AMPR can be subject to an AMP, in the context of the CNSC’s approach to 
+graduated enforcement, other options may be preferred for effecting compliance. Not all 
+non-compliances will result in an AMP, nor will an AMP necessarily be the first enforcement 
+option used in every situation. Each recommendation for an AMP undergoes a thorough internal 
+review.  
+3.1 How the penalty amount is determined  
+Once an AMP is chosen as the appropriate enforcement option, an established procedure is 
+followed to determine the penalty amount. For each case, CNSC staff will first identify the 
+category associated with the violation and the penalty range. 
+The AMPR classifies violations into three categories (A, B, and C). Within each category:  
+• 
+there are two minimum and maximum ranges for penalty amount – one for individuals and 
+one for persons other than individuals (i.e. corporations) 
+• 
+penalty amount ranges are higher for persons other than individuals 
+Once the category and its related penalty range are identified, the penalty amount is calculated by 
+considering each of the factors set out in section 5 of the AMPR. Based on the relevant facts of 
+the violation, each factor is assessed using a six-point scale and a score is applied. The more 
+severe the violation is the higher the score and the penalty amount will be. Table 1 lists the 
+factors and the six-point scale the CNSC has assigned to each. For example, a score of +5 has the 
+most negative impact and increases the penalty amount. A score of -2 has the most positive 
+impact and decreases the penalty amount. 
+ 
+3 
+ 
+August 2015 
+REGDOC 3.5.2, Administrative Monetary Penalties 
+Table 1: Factors and assigned scales 
+ 
+Factor 
+Description 
+Scale 
+1 
+Compliance history 
+• 
+compliance history of the person who has 
+committed the violation  
+0 to +5 
+2 
+Intention or 
+negligence 
+• 
+degree of intent or negligence on the part of 
+the person 
+0 to +5 
+3 
+Actual or potential 
+harm 
+• 
+harm that resulted or could have resulted from 
+the violation 
+0 to +5 
+4 
+Competitive or 
+economic benefit 
+• 
+whether the person derived any competitive or 
+economic benefit from the violation 
+0 to +5 
+5 
+Efforts to mitigate  
+or reverse effects  
+• 
+whether the person made reasonable efforts to 
+mitigate or reverse the violation’s effects 
+-2 to +3 
+6 
+Assistance to 
+Commission 
+• 
+whether the person provided all reasonable 
+assistance to the commission 
+-2 to +3 
+7 
+Attention of 
+Commission  
+• 
+whether the person brought the violation to 
+the attention of the commission 
+-2 to +3 
+ 
+The total of the assessed scores is then used to take a percentage of the applicable penalty range, 
+which is then added to the minimum penalty amount. Appendix A provides examples of penalty 
+calculations. 
+If the violation has been committed on more than one day or is continued on more than one day, it 
+is considered to be a separate violation for each day (see subsection 65.07 of the NSCA). The 
+continuing violation provision is applied, when appropriate, for the purpose of effecting 
+compliance. The decision to apply this provision is made on a case-by-case basis. 
+3.2 Notice of violation 
+Once a proposed AMP is reviewed and the decision is made by the Commission’s designated 
+officer to proceed, a notice of violation is sent to the person. 
+The notice: 
+• 
+names the person that is believed to have committed the violation 
+• 
+provides the relevant facts of the violation and the amount of the penalty  
+• 
+informs the person of their right to request a review regarding the fact of the violation and the 
+penalty amount  
+• 
+informs the person of the time period within which they can request a review  
+• 
+describes the process for requesting a review  
+• 
+describes the process for paying the penalty 
+• 
+informs the person that if they do not pay the penalty or request a review within the 
+prescribed period of time, they will be deemed to have committed the violation and must pay 
+the penalty 
+ 
+4 
+ 
+August 2015 
+REGDOC 3.5.2, Administrative Monetary Penalties 
+3.3 Right to request a review  
+As stated in section 65.1 of the NSCA, a person who receives a notice of violation has the right to 
+request a review by the Commission of the penalty or the facts of the violation, or both.  
+The request must be made, within 30 days of the notice being served. As per the AMPR, the 
+notice is considered served: 
+• 
+the day a copy is left with the person 
+• 
+the 10th day after a copy is sent by registered mail or courier 
+• 
+the day a copy is transmitted by email or fax 
+If a review is requested within the 30-day time period, then the due date of the payment is held 
+pending the results of the review. 
+The person should include the following information in their request for review: 
+• 
+whether they are requesting a review of the facts of the violation, the penalty amount or both 
+• 
+a description of any new evidence that might have bearing on the decision 
+• 
+how they wish to participate in the review (in person, by teleconference or in writing) 
+A Request for Review of Administrative Monetary Penalty (AMP) form is available on the 
+CNSC’s website to assist with preparing the request.  The completed form may be provided 
+electronically or in hard copy. 
+If submitted electronically, it should be sent to: interventions@cnsc-ccsn.gc.ca 
+If submitted in hard copy, it should be sent to the CNSC Secretariat at the following address: 
+Commission Secretary 
+Canadian Nuclear Safety Commission 
+P.O. Box 1046, Station B 
+280 Slater Street, Ottawa, ON  K1P 5S9 
+The Commission Secretariat will contact the requestor to inform them of the date and process to 
+follow for the review.  
+During the review, the Commission will determine, based on the evidence provided by the 
+requestor and the Designated Officer who issued the notice, whether the facts of the violation are 
+correct, whether the penalty amount was determined in accordance with the regulations, or both. 
+The Commission will notify the requestor and anyone who participated in the proceedings of its 
+decision. Commission decisions are also posted on the CNSC’s website. 
+3.4 Recovery of penalties 
+The money received in payment of an AMP is submitted to the Receiver General for Canada. No 
+money is retained by the CNSC.  
+ 
+5 
+ 
+August 2015 
+REGDOC 3.5.2, Administrative Monetary Penalties 
+3.5 Public disclosure 
+As per subsection 65.21 of the NSCA, the CNSC may publish: 
+• 
+the nature of a violation 
+• 
+the name of the person who committed it 
+• 
+the amount of the penalty 
+Information about the AMP is published on the CNSC’s website after a notice of violation has 
+been issued. This is consistent with the CNSC’s practice of public disclosure of regulatory 
+actions.   
+ 
+6 
+ 
+August 2015 
+REGDOC 3.5.2, Administrative Monetary Penalties 
+Appendix A: Examples of penalty amount calculations 
+When preparing the notice of violation, CNSC staff review the relevant facts of the matter and take into 
+consideration the 7 determining factors set out in section 5 of the Administrative Monetary Penalties 
+Regulations. See section 3.1 for more information. 
+The following are examples of how penalty amounts are calculated: 
+A.1 
+Example 1: Category C violation for a person other than an individual 
+Step 1 Subtract the minimum penalty amount from the maximum penalty amount of the 
+applicable penalty range: 
+• 
+penalty range for a Category C violation for a person other than an individual is 
+$1,000 to $100,000 
+• 
+$100,000 - $1,000 = $99,000 
+Step 2 Assess the score for each factor 
+Factor 
+Assessed 
+score 
+Compliance history 
+2 
+Intention or negligence 
+1 
+Actual or potential harm 
+2 
+Competitive or economic benefit 
+0 
+Efforts to mitigate or reverse effects 
+0 
+Assistance to the Commission 
+0 
+Attention of the Commission  
+-1 
+Total 
+4 
+ 
+Step 3 Divide the total of the assessed scores by 29* : 
+• 
+4 ÷ 29 = 0.14 
+Step 4  Multiply the result of step 1 by the result of step 3: 
+• 
+$99,000 x 0.14 = $13,860 
+Step 5  Add the minimum penalty amount to the result of step 4: 
+• 
+$13,860 + $1,000 = $14,860 
+The administrative monetary penalty is $14,860. 
+* The maximum possible total of the assessed scores is 29. 
+ 
+7 
+ 
+                                                     
+ 
+ 
+August 2015 
+REGDOC 3.5.2, Administrative Monetary Penalties 
+A.2 
+Example 2: Category B violation for an individual 
+Step 1 Subtract the minimum penalty amount from the maximum penalty amount of the 
+applicable penalty range: 
+• 
+penalty range for a Category B violation for an individual is $300 to $10,000 
+• 
+$10,000 - $300 = $9,700 
+Step 2 Assess the score for each factor 
+Factor 
+Assessed 
+score 
+Compliance history 
+0 
+Intention or negligence 
+4 
+Actual or potential harm 
+0 
+Competitive or economic benefit 
+1 
+Efforts to mitigate or reverse effects 
+0 
+Assistance to the Commission 
+1 
+Attention of the Commission  
+0 
+Total 
+6 
+ 
+Step 3 Divide the total of the assessed scores by 29: 
+• 
+6 ÷ 29 = 0.21 
+Step 4 Multiply the result from step 1 by the result from step 3: 
+• 
+$9,700 x 0.21 = $2,037 
+Step 5  Add the minimum penalty amount to the result from step 4: 
+• 
+$2,037 + $300 = $2,337 
+The administrative monetary penalty is $2,337.
+ 
+8 
+ 
+August 2015 
+REGDOC 3.5.2, Administrative Monetary Penalties 
+Glossary 
+administrative monetary penalty 
+An administrative penalty that is imposed without court involvement in response to the violation of a 
+regulatory requirement. There is no criminal record associated with it and it can be applied against any 
+party subject to the NSCA, including non-licensees. 
+compliance  
+Conformity by regulated persons with the requirements of the NSCA, the CNSC regulations, licences, 
+decisions, certificates and orders made under the NSCA. 
+regulatory scrutiny 
+An enforcement option to focus efforts on specific areas of non-compliance. Regulatory scrutiny may 
+include: 
+• 
+increased: 
+• 
+frequency of meetings with the licensee 
+• 
+reporting requirements 
+• 
+frequency of inspections 
+• 
+broadening the scope of inspections  
+• 
+modifying inspection techniques/strategies (for example, root-cause analysis, augmented inspections) 
+verification 
+All activities related to determining and documenting if a licensee’s performance meets the requirements 
+of the NSCA, the CNSC regulations, licences, decisions, certificates and orders made under the NSCA. 
+violation 
+Failure to comply with:  
+• 
+a provision of the NSCA or its regulations 
+• 
+an order or decision made under the NSCA 
+• 
+term or condition of a licence  
+ 
+ 
+9 
+ 
+August 2015 
+REGDOC 3.5.2, Administrative Monetary Penalties 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the Canadian Nuclear Safety 
+Commission (CNSC). In addition to the Nuclear Safety and Control Act and associated regulations, these 
+facilities and activities may also be required to comply with other regulatory instruments such as 
+regulatory documents or standards. 
+Effective April 2013, the CNSC’s catalogue of existing and planned regulatory documents has been 
+organized under three key categories and twenty-five series, as set out below. Regulatory documents 
+produced by the CNSC fall under one of the following series: 
+1.0  
+Regulated facilities and activities 
+Series 1.1  
+Reactor facilities 
+1.2  
+Class IB facilities 
+1.3  
+Uranium mines and mills 
+1.4  
+Class II facilities 
+1.5  
+Certification of prescribed equipment 
+1.6 
+Nuclear substances and radiation devices 
+2.0  
+Safety and control areas 
+Series 2.1  
+Management system 
+2.2  
+Human performance management 
+2.3  
+Operating performance 
+2.4  
+Safety analysis 
+2.5  
+Physical design 
+2.6  
+Fitness for service 
+2.7  
+Radiation protection 
+2.8  
+Conventional health and safety 
+2.9  
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0  
+Other regulatory areas  
+Series 3.1  
+Reporting requirements 
+3.2  
+Public and Aboriginal engagement 
+3.3  
+Financial guarantees 
+3.4  
+Commission proceedings 
+3.5 
+CNSC processes and practices 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. For the latest list of regulatory 
+documents, visit the CNSC’s website at nuclearsafety.gc.ca/eng/acts-and-regulations/regulatory-
+documents  
+ 
+ 
+10 
+ 

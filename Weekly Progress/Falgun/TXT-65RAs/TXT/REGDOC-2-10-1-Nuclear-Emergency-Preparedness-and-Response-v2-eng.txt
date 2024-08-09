@@ -1,0 +1,1742 @@
+Emergency Management and Fire Protection 
+Nuclear Emergency Preparedness 
+and Response  
+ 
+ 
+REGDOC-2.10.1, Version 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+February 2016 
+ 
+ 
+Nuclear Emergency Preparedness and Response 
+Regulatory Document REGDOC-2.10.1, Version 2 
+© Canadian Nuclear Safety Commission (CNSC) 2016 
+PWGSC catalogue number CC172-115/2016E-PDF 
+ISBN 978-0-660-04206-0  
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission.  
+Également publié en français sous le titre: Préparation et intervention relatives aux urgences nucléaires, 
+Version 2 
+Document availability 
+This document can be viewed on the CNSC website at nuclearsafety.gc.ca. To request a copy of the 
+document in English or French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, Ontario K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Facsimile: 613-995-5086 
+Email: cnsc.information.ccsn@canada.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Publishing history 
+October 2014 
+ 
+Version 1.0 
+February 2016  
+Version 2.0 
+ 
+ 
+ 
+ 
+ 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response ,Version 2  
+ 
+ 
+Preface 
+This regulatory document is part of the CNSC’s Emergency Management and Fire Protection series of 
+regulatory documents. The full list of regulatory document series is included at the end of this document 
+and can also be found on the CNSC’s website. 
+REGDOC-2.10.1, Nuclear Emergency Preparedness and Response, sets out the emergency preparedness 
+requirements and guidance of the Canadian Nuclear Safety Commission (CNSC) related to the 
+development of emergency measures for licensees and licence applicants of Class I nuclear facilities and 
+uranium mines and mills to satisfy:  
+• 
+the requirements of subsection 24(4) of the Nuclear Safety and Control Act, by demonstrating that the 
+applicant will, in carrying on the proposed activity, make provision for the protection of the 
+environment, the health and safety of persons, and the maintenance of national security and measures 
+required to implement international obligations to which Canada has agreed 
+• 
+paragraph 6(k) of the Class I Nuclear Facilities Regulations and subparagraph 3(c)(x) of the Uranium 
+Mines and Mills Regulations 
+REGDOC-2.10.1 lists and discusses the requirements and guidance that licence applicants and licensees 
+shall implement and consider in the design of their emergency preparedness program (EP program). EP 
+programs are based on four components: planning basis; program management; response plan and 
+procedures; and preparedness. These components are considered in the development of plans to prevent 
+or mitigate the effects of accidental releases from a Class I nuclear facility or a uranium mine or mill.  
+REGDOC-2.10.1 is based on International Atomic Energy Agency (IAEA) guidance, and the following 
+key IAEA documents were used in its development: 
+• 
+Preparedness and Response for a Nuclear or Radiological Emergency, IAEA Safety Standards Series 
+GS-R-2, Vienna, 2002 
+• 
+Arrangements for Preparedness for a Nuclear or Radiological Emergency, IAEA Safety Standards 
+Series GS-G-2.1, Vienna, 2007 
+• 
+Preparation, Conduct and Evaluation of Exercises to Test Preparedness for a Nuclear or 
+Radiological Emergency, EPR-Exercise, Vienna, 2005 
+Applicants and licensees may use these IAEA documents for further guidance, as required. 
+REGDOC-2.10.1 is intended to form part of the licensing basis for a regulated facility or activity within 
+the scope of the document. It is intended for inclusion in licences as either part of the conditions and 
+safety and control measures in a licence, or as part of the safety and control measures to be described in a 
+licence application and the documents needed to support that application. 
+For proposed new facilities: This document will be used to assess new licence applications for reactor 
+facilities.  
+Guidance contained in this document exists to inform the applicant, to elaborate further on requirements 
+or to provide direction to licensees and applicants on how to meet requirements. It also provides more 
+information about how CNSC staff evaluate specific problems or data during their review of licence 
+applications. Licensees are expected to review and consider guidance; should they choose not to follow it, 
+they should explain how their chosen alternate approach meets regulatory requirements.  
+ 
+i 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response ,Version 2  
+ 
+ 
+For existing facilities: The requirements contained in this document do not apply unless they have been 
+included, in whole or in part, in the licence or licensing basis.  
+A graded approach, commensurate with risk, may be defined and used when applying the requirements 
+and guidance contained in this regulatory document. The use of a graded approach is not a relaxation of 
+requirements. With a graded approach, the application of requirements is commensurate with the risks 
+and particular characteristics of the facility or activity. 
+An applicant or licensee may put forward a case to demonstrate that the intent of a requirement is 
+addressed by other means and demonstrated with supportable evidence. 
+The requirements and guidance in this document are consistent with modern national and international 
+practices addressing issues and elements that control and enhance nuclear safety. In particular, they 
+establish a modern, risk-informed approach to the categorization of accidents – one that considers a full 
+spectrum of possible events, including events of greatest consequence to the public. 
+Other health, safety and environmental considerations may dictate adherence to additional requirements. 
+It is the responsibility of licensees to identify any other applicable legislation or standards. 
+REGDOC-2.10.1 supersedes Regulatory Guide G-225, Emergency Planning at Class I Nuclear Facilities 
+and Uranium Mines and Mills, published in 2001, as well as Regulatory Document RD-353, Testing the 
+Implementation of Emergency Measures, published in 2008. It also fulfills a recommendation made by the 
+CNSC Fukushima Task Force and the External Advisory Committee to strengthen licensees’ emergency 
+preparedness programs. 
+Important note: Where referenced in a licence either directly or indirectly (such as through licensee-
+referenced documents), this document is part of the licensing basis for a regulated facility or activity.  
+The licensing basis sets the boundary conditions for acceptable performance at a regulated facility or 
+activity, and establishes the basis for the CNSC’s compliance program for that regulated facility or 
+activity.  
+Where this document is part of the licensing basis, the word “shall” is used to express a requirement to 
+be satisfied by the licensee or licence applicant. “Should” is used to express guidance or that which is 
+advised. “May” is used to express an option or that which is advised or permissible within the limits of 
+this regulatory document. “Can” is used to express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+ 
+ii 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+........................................................................................................................1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Accident management and its links with emergency preparedness and the principle of 
+defence in depth for power reactors 
+.................................................................................... 1 
+1.4 
+Overview of Canada’s nuclear emergency management framework ................................. 3 
+1.5 
+Relevant legislation 
+............................................................................................................. 4 
+2. 
+Emergency Preparedness Program 
+..................................................................................5 
+2.1 
+Planning basis ..................................................................................................................... 5 
+2.2 
+Emergency response plan and procedures .......................................................................... 7 
+2.2.1 
+Emergency response organization and staffing ..................................................... 7 
+2.2.2 
+Emergency categorization, activation and notification 
+.......................................... 9 
+2.2.3 
+Emergency assessment requirements 
+................................................................... 10 
+2.2.4 
+Interface and support for offsite response organizations ..................................... 11 
+2.2.5 
+Emergency personnel protection.......................................................................... 12 
+2.2.6 
+Emergency response facilities and equipment 
+..................................................... 14 
+2.2.7 
+Public emergency information 
+............................................................................. 16 
+2.2.8 
+Recovery .............................................................................................................. 16 
+2.2.9 
+Validation of the emergency response plan and procedures 
+................................ 17 
+2.3 
+Preparedness ..................................................................................................................... 18 
+2.3.1 
+Training and qualification 
+.................................................................................... 18 
+2.3.2 
+Maintenance of emergency response facilities and equipment 
+............................ 19 
+2.3.3 
+Testing the implementation of emergency measures 
+........................................... 19 
+2.3.4 
+Public preparedness requirements........................................................................ 22 
+2.4 
+Program management ....................................................................................................... 24 
+Appendix A: Overlapping Provisions of an Emergency Preparedness and Accident 
+Management  ................................................................................................................................26 
+Abbreviations ...............................................................................................................................27 
+Glossary ........................................................................................................................................28 
+References 
+.....................................................................................................................................31 
+ 
+ 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+Additional Information ...............................................................................................................32 
+ 
+ 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+Nuclear Emergency Preparedness and Response 
+1. 
+Introduction 
+1.1 
+Purpose  
+REGDOC-2.10.1, Nuclear Emergency Preparedness and Response, sets out the emergency 
+preparedness requirements and guidance of the Canadian Nuclear Safety Commission (CNSC) 
+related to the development of emergency measures for licensees and licence applicants of Class I 
+nuclear facilities and uranium mines and mills. 
+1.2 
+Scope 
+This regulatory document lists and discusses the components and supporting elements that CNSC 
+licensees shall implement and consider when establishing an emergency preparedness program 
+(EP program) to prepare for, to respond to, and to recover from the effects of accidental 
+radiological/nuclear and/or hazardous substance releases from Class I nuclear facilities or 
+uranium mines or mills. REGDOC-2.10.1 refers primarily to nuclear events, but the planning 
+basis must also address releases of hazardous materials. In addition, REGDOC-2.10.1 addresses 
+how licensees shall test the implementation measures of their EP programs through the conduct of 
+exercises. 
+This regulatory document applies to all Class I nuclear facilities and uranium mines and mills. 
+Some requirements in this document are specifically designated as applying only to nuclear 
+power plants and research reactors with a thermal output capacity greater than 10 MW thermal. 
+An EP program should be developed in a manner that is commensurate with the complexity of the 
+facility’s associated undertakings, as well as the probability and potential severity of the 
+emergency scenarios associated with the operation of the licensed facility. 
+REGDOC-2.10.1 focuses on the aspects of emergency preparedness and response, while 
+requirements for accident management are addressed in REGDOC-2.3.2, Accident Management, 
+Version 2. 
+1.3 
+Accident management and its links with emergency preparedness and the principle 
+of defence in depth for power reactors 
+An effective response to an emergency requires strong linkages between accident management 
+and emergency preparedness. The fundamental premise underlying accident management is that 
+the organization operating a nuclear reactor must be able to respond to any accident that cannot 
+be practically eliminated in order to: 
+• 
+prevent the escalation of the accident 
+• 
+mitigate the consequences of the accident 
+• 
+achieve a long-term safe stable state after the accident 
+Thus, accident management provides capability to respond to an accident within the reactor 
+facility. It is important to recognize that accident management interfaces closely but is distinct 
+from emergency preparedness, which provides emergency responses to mitigate the onsite and 
+ 
+1 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+offsite impacts of an accident to workers and the public. Both accident management and 
+emergency preparedness form part of the defence-in-depth provisions.  
+During a nuclear emergency, the practical goals of emergency response are: 
+• 
+to regain control of the situation 
+• 
+to prevent or mitigate consequences at the scene 
+• 
+to prevent the occurrence of deterministic health effects in workers and the public 
+• 
+to prevent, to the extent practicable, the occurrence of stochastic health effects in the 
+population 
+• 
+to prevent, to the extent practicable, the occurrence of non-radiological effects in individuals 
+and among the population 
+• 
+to render first aid and to manage the treatment of radiation injuries 
+• 
+to protect, to the extent practicable, property and the environment 
+• 
+to prepare, to the extent practicable, for the resumption of normal social and economic 
+activity 
+The goals of emergency response are most likely to be achieved in accordance with the principles 
+for intervention by having an effective EP program as part of the infrastructure for protection and 
+safety. An effective EP program ensures that arrangements are in place to ensure a timely, 
+coordinated and effective response to any emergency. It also helps to build confidence that an 
+emergency response would be managed, controlled and coordinated. 
+Figure 1 illustrates links between the accident management, emergency preparedness and defence 
+in depth. Accident management focuses on preventing an event that has already occurred from 
+escalating and minimizing its radiological releases through use of various physical and procedural 
+provisions. The specific provisions may vary depending on the accident (which may be a design 
+basis accident or beyond design basis accident, including a severe accident). REGDOC-2.3.2, 
+Accident Management, version 2 provides complete descriptions of defence-in-depth levels and 
+plant states.  
+An EP program establishes how nuclear facilities and other concerned organizations prepare for 
+and plan to respond to emergencies (including nuclear or radiological emergencies, both onsite 
+and offsite), in order to protect workers, the public and the environment.  
+ 
+2 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+Figure 1: Accident management (REGDOC-2.3.2) and nuclear emergency preparedness 
+(REGDOC-2.10.1) and how they relate to one another 
+ 
+ 
+1.4 
+Overview of Canada’s nuclear emergency management framework 
+Emergency management includes the prevention and mitigation, preparedness, response and 
+recovery of nuclear emergencies.  
+Prevention of nuclear emergencies at Canadian nuclear facilities is the responsibility of the 
+licensees. Through the authority of the Nuclear Safety and Control Act (NSCA), the CNSC 
+regulates the Canadian nuclear industry in order to prevent unreasonable risk to the environment, 
+the health and safety of persons, and national security. Mitigation of nuclear emergencies aims at 
+ensuring that equipment, such as hydrogen recombiners, or procedures, such as emergency 
+operating procedures, are put in place before a nuclear emergency to reduce the potential 
+magnitude or impact of the hazard. Further information on accident management can be found in 
+REGDOC-2.3.2, Accident Management. Version 2. 
+Preparedness relates to actions taken before a nuclear emergency in order to be ready to respond 
+and manage its consequences, and includes the development of response procedures and plans, 
+training workers, maintaining emergency facilities, exercises and fostering public awareness.  
+Response refers to those actions taken during a nuclear emergency, both onsite and offsite, to 
+reduce the magnitude of the hazard and manage its consequences on health, safety and the 
+environment. Response actions include protecting workers, supporting accident management 
+activities, emergency public communication, emergency medical assistance, and shelter-in-place 
+or evacuation. 
+ 
+3 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+Recovery includes the short-term and long-term actions taken both onsite and offsite in order to 
+restore to an acceptable level both the organizations involved in and the communities affected by 
+the nuclear emergency. The level of restoration would typically be determined by the responsible 
+authorities, in consultation with the stakeholders affected by the nuclear emergency. 
+In Canada, the respective roles of the various levels of government in nuclear emergency 
+preparedness and response are derived from legislated responsibilities. Provincial and territorial 
+governments bear the primary responsibility for protecting public health and safety, property and 
+the environment within their borders. The federal government regulates the peaceful use of 
+nuclear energy in Canada, manages nuclear liability, and supports the responses of provinces to 
+nuclear emergencies within their boundaries.  
+The federal government is also responsible for liaisons with the international community and 
+diplomatic missions in Canada, for assisting Canadians abroad, and for coordinating Canada’s 
+response to nuclear emergencies that occur in foreign countries, but that have an impact on 
+Canada.  
+Under the administrative framework of the Federal Emergency Response Plan (FERP) and the 
+Federal Nuclear Emergency Plan (FNEP), all levels of government, along with various agencies 
+and organizations, have responsibilities for developing and implementing emergency plans to 
+address nuclear emergencies with impacts outside the boundaries of CNSC-licensed nuclear 
+facilities. 
+Guidelines for protective actions, such as Health Canada’s Canadian Guidelines for Intervention 
+During a Nuclear Emergency and Canadian Guidelines for the Restriction of Radioactively 
+Contaminated Food and Water Following a Nuclear Emergency, are intended to assist federal 
+and provincial emergency response authorities on choosing appropriate protection actions to 
+protect public health. Reference levels in these guidelines are used to inform decisions on what 
+measures are necessary to protect the public during a nuclear emergency. These guidelines are 
+based, in part, on advice from international organizations such as the IAEA and the ICRP and are 
+found on Health Canada’s website.  
+1.5 
+Relevant legislation 
+The CNSC is the federal agency that regulates the use of nuclear energy and materials to protect 
+health, safety, security and the environment, and to implement Canada's international 
+commitments on the peaceful use of nuclear energy.  
+The NSCA requires persons and/or organizations to be licensed by the CNSC for carrying out the 
+activities referred to in section 26. The regulations adopted under the NSCA stipulate 
+requirements for CNSC licensing, as well as the obligations of licensees and workers. 
+One of the CNSC’s objectives is to regulate the development, production and use of nuclear 
+energy and the production, possession and use of nuclear substances, prescribed equipment and 
+prescribed information in order to prevent unreasonable risk to the environment and to the health 
+and safety of persons, as well as unreasonable risk to national security, associated with that 
+development, production, possession or use. To accomplish this, the CNSC has the authority to 
+make regulations pursuant to section 44 of the NSCA.  
+Paragraph 3(1.1)(b) of the General Nuclear Safety and Control Regulations (GNSCR) states that 
+the Commission may require any other information that is necessary to enable it to determine 
+ 
+4 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+whether the applicant will make adequate provision for the protection of the environment, the 
+health and safety of persons and the maintenance of national security and measures required to 
+implement international obligations to which Canada has agreed. Sections 12 and 17 of the 
+GNSCR place obligations on both licensees and workers to take all reasonable precautions to 
+protect the environment and the health and safety of persons, and to maintain security of nuclear 
+facilities and nuclear substances. 
+The Class I Nuclear Facilities Regulations and the Uranium Mines and Mills Regulations require 
+licence applications to include information related to emergency planning. For instance, 
+paragraph 6(k) of the Class I Nuclear Facilities Regulations and subparagraph 3(c)(x) of the 
+Uranium Mines and Mills Regulations stipulate that an application for a licence to operate a 
+Class I nuclear facility, or a general application for a licence in respect of a uranium mine or mill, 
+shall describe the proposed measures to prevent or mitigate the effects of accidental releases of 
+nuclear substances and hazardous substances on the environment, the health and safety of 
+persons, and the maintenance of security, including measures to:  
+• 
+assist offsite authorities in planning and preparing to limit the effects of an accidental release 
+• 
+notify offsite authorities of an accidental release or the imminence of an accidental release 
+• 
+report information to offsite authorities during and after an accidental release 
+• 
+assist offsite authorities in dealing with the effects of an accidental release 
+• 
+test the implementation of the measures to prevent or mitigate the effects of an accidental 
+release 
+2. 
+Emergency Preparedness Program  
+An effective EP program is based on the following four components: 
+1. Planning basis: an analysis of the risks and hazards that the EP program will address 
+2. Emergency response plan and procedures: a comprehensive description of how a response 
+will be executed, with accompanying support material 
+3. Preparedness: the processes to ensure that people, equipment and infrastructure will be 
+ready to execute a response according to the emergency response plan and procedures 
+4. Program management: the management system aspects that assure the effectiveness of the 
+EP program 
+Licensed organizations with an existing EP program that address other corporate needs are 
+encouraged to use this infrastructure to meet the requirements in this document. 
+Key components and overlapping provisions of emergency preparedness and accident 
+management are illustrated in Appendix A. 
+2.1 
+Planning basis 
+All licensees shall: 
+1. establish a planning basis for their EP program  
+ 
+5 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+2. ensure the planning basis considers the hazards that have, or could have, an adverse impact 
+on the environment and the health and safety of onsite personnel or the public, and also 
+consider: 
+a. all accidents and internal or external events that have been analyzed as having an 
+unacceptable impact on their facilities  
+b. the inclusion of multi-unit accidents scenarios for multi-unit power reactor facilities 
+c. extended loss of power 
+3. use the results from the planning basis to determine the scope and depth of EP program 
+requirements 
+Additional requirements for licensees of reactor facilities with a thermal capacity greater 
+than 10 MW. These licensees shall: 
+4. provide regional and provincial offsite authorities with necessary information to allow for 
+effective emergency planning policies and procedures to be established and modified, if 
+needed, periodically 
+Guidance 
+Guidance for all licensees  
+A nuclear emergency may be caused by, or involve, different types of hazards, including natural 
+incidents (e.g., flooding, tornadoes, tsunami, ice or snowstorms, forest fires) and equipment 
+malfunctions (identified within the design basis and beyond design basis). All hazards that cannot 
+be practically eliminated with possible initiating and propagating pathways should be identified 
+within the planning basis. Response to criminal and malicious activity may be dealt with under a 
+separate program. 
+The planning basis should be based on a full range of postulated scenarios that may challenge the 
+facility’s emergency response capabilities. This should include scenarios that involve a nuclear or 
+radiological emergency combined with a conventional emergency, such as an earthquake or forest 
+fire. A detailed analysis may be used to determine scenarios that can be practically eliminated. 
+Plans should be developed for those scenarios that cannot be practically eliminated. Inputs to be 
+considered in the analysis should include: the licensee’s safety analysis, probabilistic safety 
+analysis, and operating experience.  
+Additional guidance for licensees of reactor facilities with a thermal capacity greater than 
+10 MW 
+The information to be provided to regional and provincial offsite authorities should give all 
+necessary details to make informed decisions on the size of emergency planning zones and the 
+level of preparedness required. The necessary information should include: 
+• 
+possible accidents that cannot be practically eliminated 
+• 
+an estimate of the probability of such accidents occurring 
+• 
+an estimate of the associated radiological consequences, including isotopic release quantities, 
+possible release start time and duration and the geographical area potentially affected 
+ 
+Federal authorities would be provided emergency planning information through the CNSC. 
+ 
+6 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+2.2 
+Emergency response plan and procedures 
+All licensees shall: 
+Develop and maintain emergency response (ER) plan(s) with supporting emergency response 
+procedures. The ER plan shall be based on the planning basis as described in section 2.1 of this 
+document. The ER plan shall identify and describe the methods that licensees use to respond to 
+emergencies. This includes, but is not limited to, the following areas:  
+1. emergency response organization and staffing 
+2. emergency categorization, activation and notification 
+3. emergency assessment 
+4. offsite response organizations interface and support 
+5. emergency personnel protection 
+6. emergency response facilities and equipment 
+7. emergency information and public communications 
+8. recovery  
+9. validation of the ER plan and procedures  
+Guidance 
+Guidance for all licensees 
+The ER plan, which may consist of one or several documents, incorporates pertinent information 
+directly or by reference. Plan content can vary to accommodate facility-specific needs and 
+circumstances based on risk. 
+The ER plan may incorporate emergency preparedness and response procedures directly, or it 
+may reference pertinent documents, such as the facility procedures manual(s). If referenced, the 
+documents should be immediately accessible. 
+Procedures are used to define the necessary steps and/or requirements for various emergency 
+preparedness and response processes and activities. 
+Licensees should also consult RD/GD-99.3, Public Information and Disclosure, concerning 
+public disclosure protocols regarding events and developments at their facilities. 
+2.2.1 
+Emergency response organization and staffing 
+All licensees shall:  
+In accordance with the ER plan and procedures: 
+1. establish an emergency response organization (ERO) with a command structure that is clearly 
+defined and integrated  
+2. define and document the minimum number of staff required to maintain the ERO and their 
+qualifications  
+3. define the expected reporting times for the ERO to report to the emergency response facility or 
+designated area (see section 2.2.6 of this document) after it has been alerted to respond 
+4. document the requirement to maintain and retain logs of all actions, orders, and track and 
+update actions throughout the emergency 
+ 
+7 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+Additional requirements for licensees of reactor facilities with a thermal capacity greater 
+than 10 MW. These licensees shall: 
+5. define and document how the ERO staffing will be maintained and monitored to ensure the 
+minimum shift complement is available at the nuclear facility at all times 
+6. define and document how licensees will maintain the ERO extended response over multiple 
+shifts 
+Guidance 
+Guidance for all licensees  
+An indication of an effective ERO is the demonstration of clear command and control over the 
+emergency response. It should be clearly understood who is in charge and with whom final 
+decisions and authorities lie. The ERO should be adaptable and flexible, so as to be able to 
+manage an incident as it evolves or as its circumstances change rapidly or abruptly. Procedures 
+should be in place to ensure: 
+• 
+clear roles and responsibilities and authorities of each ERO position 
+• 
+timely and adequate onsite and offsite communication 
+• 
+periodic update and turnover briefings 
+• 
+decisions documented in event logs 
+• 
+effective and clear communication 
+Appropriate arrangements should be identified for shift turnover and provision of food and other 
+amenities for prolonged duty caused by beyond design basis initiating events. 
+Additional guidance on the number of staff required to maintain the ERO and their qualifications 
+can be found in CNSC regulatory document G-323, Ensuring the Presence of Sufficient Qualified 
+Staff at Class I Nuclear Facilities – Minimum Staff Complement. 
+Licensees should also consult G-274, Security Programs for Category I or II Nuclear Material or 
+Certain Nuclear Facilities, for further information regarding security aspects of emergency 
+preparedness and response. 
+Additional guidance for licensees of reactor facilities with a thermal capacity greater than 
+10 MW 
+Members of mobile offsite survey teams need not be accounted for as part of the minimum 
+complement for facilities equipped with real-time fixed radiological detection and monitoring 
+capabilities, if the licensee makes provisions for immediate mobilization of offsite survey teams 
+upon activation of the ERO.  
+Licensees should also consult REGDOC-2.12.1, High-Security Sites: Nuclear Response Force.  
+ 
+8 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+2.2.2 
+Emergency categorization, activation and notification 
+All licensees shall: 
+Have an ER plan and procedures that: 
+1. describe the complete set of conditions that would require activation of the ERO 
+2. describe how unusual events, incidents and emergencies are to be determined and classified to 
+initiate onsite response; the same notification categories and standard definitions used by 
+offsite authorities shall be used and/or cross-referenced 
+3. describe the immediate notification process and secondary communication methods to alert all 
+onsite personnel, to initiate personnel assembly and accounting, and to activate the ERO and 
+associated emergency response and support facilities 
+4. define organizational methods, processes, timelines and emergency levels to notify the 
+appropriate personnel and authorities 
+5. describe all offsite notification requirements and any time requirements that apply, ensuring 
+that: 
+a. the description includes identification of the appropriate positions, by title and agency, of 
+the provincial, territorial and local government agencies 
+b. offsite authorities are notified within 15 minutes of categorizing the event 
+Additional requirement for all Class I facilities: ensure the CNSC is notified within 15 minutes 
+of activation of the ERO. 
+Guidance 
+Guidance for all licensees 
+Criteria that define when the ERO should be activated should be clearly documented. 
+Licensees should follow provincial requirements, or when none exist, use the following 
+categories, listed in order of increasing significance, to categorize various events:  
+• 
+reportable event: an event affecting the nuclear facility that would be of concern to the 
+offsite authorities responsible for public safety 
+• 
+abnormal incident: an abnormal occurrence at the nuclear facility that may have a 
+significant cause and/or may lead to more serious consequences 
+• 
+site area emergency: a serious malfunction that results or may result in an emission at a later 
+time 
+• 
+general emergency: an ongoing atmospheric emission of radioactive material, or one likely 
+within a short time frame, as a result of a more severe accident  
+While item 5b above requires licensees to notify the offsite authorities within 15 minutes of event 
+categorization, ideally such notification should be done as soon as possible. It is critical that the 
+CNSC and offsite authorities be advised within the identified timeframes. The only acceptable 
+exception to the requirement would be when immediate action was required to prevent a 
+catastrophic incident from occurring.  
+ 
+9 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+2.2.3 
+Emergency assessment requirements 
+All licensees shall: 
+In accordance with ER plans and procedures: 
+1. describe the methods and procedures to continually assess the emergency and predict both 
+onsite and offsite conditions and parameters 
+2. continuously take appropriate measures to protect onsite personnel 
+3. continually characterize the magnitude of the offsite risk to the public and the environment 
+4. continually provide updates on a regular basis to offsite authorities and the CNSC 
+Additional requirements for licensees of reactor facilities with a thermal capacity greater 
+than 10 MW. These licensees shall:  
+5. have real-time fixed radiological detection and monitoring capabilities around the nuclear 
+facility perimeter with appropriate backup power, and shall communicate results to offsite 
+authorities and the CNSC 
+6. have sufficient capacity and capability for offsite radiological monitoring, including mobile 
+offsite survey teams, and report results to the offsite response authorities and the CNSC 
+7. promptly and continuously assess and determine source term estimate, plume dispersion and 
+dose modeling, and report results to the offsite authorities and the CNSC 
+8. promptly and continuously estimate dose to the public based on source term estimation, 
+plume dispersion and dose modeling, and provide the dose estimates to offsite response 
+authorities and the CNSC 
+Guidance 
+Guidance for all licensees  
+Emergency assessment, including categorization, is performed to determine:  
+• 
+the onsite response and staff mobilization required to protect onsite personnel and equipment 
+• 
+the notification category necessary for the provincial or territorial authorities to determine the 
+required offsite response to protect the public and the environment 
+Licensees should describe the methods and procedures for continual assessment of the following 
+pertinent conditions and parameters:  
+• 
+the status, integrity and stability of the affected facilities and their components  
+• 
+identification, quantities, concentrations, or release rates of radiation, contaminants or other 
+hazardous substances 
+• 
+onsite and offsite impacts on or threats to health, safety and the environment  
+• 
+location and direction of radioactive plumes or other emissions 
+• 
+loss of instrumentation 
+ 
+10 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+Additional guidance for licensees of reactor facilities with a thermal capacity greater than 
+10 MW 
+Source term sampling and estimation should be determined and reported to the CNSC on an 
+hourly basis, upon determination and compilation of the data in a format approved by the 
+provincial authority.  
+2.2.4 
+Interface and support for offsite response organizations 
+All licensees shall: 
+In accordance with ER plans and procedures:  
+1. establish plans and procedures to coordinate response activities with appropriate offsite 
+organizations, in the event of an emergency with offsite implications 
+2. formally document any arrangements or agreements with other organizations or personnel 
+3. ensure that agreed-upon resources, and the quantity of these resources required to respond to 
+offsite conditions, are available when needed 
+4. cooperate with and assist offsite organizations with their response activities to address offsite 
+impacts; provide expertise and resources (personnel, emergency response equipment, and 
+material) in support of offsite authorities during an emergency; and define the quantity of 
+available resources within their ER plan 
+5. promptly and regularly provide recommendations to offsite authorities when protective action 
+is required and inform the CNSC 
+6. establish what data is required and at what frequency, and make provisions to have nuclear 
+facility data, and any other pertinent information that is determined as relevant to the 
+emergency response, regularly transmitted to offsite authorities and the CNSC 
+Additional requirements for licensees of reactor facilities with a thermal capacity greater 
+than 10 MW. These licensees shall: 
+1. incorporate the provincial or territorial emergency planning zone that is being used for plume 
+exposure and ingestion pathways; the provincial or territorial plans shall be directly 
+referenced 
+2. collaborate with the municipal or regional authorities to develop and maintain public 
+evacuation time estimates based on current census data, and future population growth 
+projections on a per-decade estimation until end of life of the facility 
+3. have, at all times, a designated onsite person with the authority and responsibility to 
+categorize a nuclear emergency and to perform the following promptly and without 
+consultation, upon categorization of the emergency:  
+a. initiate an appropriate onsite response 
+b. notify the appropriate offsite authorities 
+c. provide sufficient information for an effective offsite response 
+4. provide the designated person with a suitable means of alerting onsite response personnel and 
+notifying the offsite notification point 
+5. for NPPs, ensure there is a designated person onsite at all times with the authority for venting  
+6. for NPPs, ensure that offsite authorities and the CNSC are consulted before undertaking any 
+venting activity, unless venting must be performed in an urgent manner to protect the 
+ 
+11 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+structural integrity of containment; in such a case, every effort shall be made to inform the 
+offsite authorities and the CNSC as early as possible1  
+7. include, in each report to the CNSC and offsite authorities, estimates of when venting will be 
+required 
+8. notify the province and the CNSC of all abnormal incidents as described in section 2.2.2  
+Guidance 
+Guidance for all licensees 
+Licensees should identify the jurisdictions, organizations or persons that could be formally 
+involved in emergency preparedness and response activities pertaining to facility emergencies 
+with offsite impacts, and then develop mutual aid and community agreements where appropriate. 
+During an emergency it is critical to have an onsite person with the required authority to order 
+emergency venting if required. However, this authority can be delegated if it is impractical to 
+have a senior emergency officer onsite at all times.  
+The ER plan should also define a clear and concise strategy for communications between onsite 
+and offsite organizations. All communications, including event data and the decisions made 
+throughout the emergency response, should be documented and recorded. While the licensee is 
+required to provide recommendations to offsite authorities, it is at the discretion of the authorities 
+to accept, reject or modify recommendations. 
+The nuclear emergency response plans for offsite response organizations (those of provinces and 
+municipalities as well as firefighters, emergency medical services personnel and police) should be 
+included with licence application documents for licence renewal and new applications. 
+2.2.5 
+Emergency personnel protection  
+All licensees shall: 
+In accordance with ER plans and procedures: 
+1. develop and document emergency radiation protection measures that align with their 
+radiation protection program 
+Additional requirements for licensees of reactor facilities with a thermal capacity greater 
+than 10 MW. These licensees shall: 
+2. have sufficient personal protective equipment (PPE) and provisions to respond to 
+emergencies and protect the emergency responders for the first 72 hours without offsite 
+assistance 
+3. maintain sufficient PPE and response equipment, calibrated and poised for immediate use in 
+an emergency; the type and amount of PPE and defined emergency response equipment shall 
+be based on criteria for design-basis accidents and beyond-design-basis accidents  
+1 Where containment venting is not applicable, licensees shall follow confinement processes. 
+ 
+12 
+ 
+                                                     
+ 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+Guidance 
+Additional guidance for licensees of reactor facilities with a thermal capacity greater than 
+10 MW 
+Licensees should be able to manage the first 72 hours of an emergency response without offsite 
+support, in case outside assistance is unavailable. Remotely located facilities (such as those on 
+northern sites) may experience significant emergency response delays because of effects such as 
+severe weather. In such cases, licensees should demonstrate how their ER plans have accounted 
+for the possibility that offsite assistance may not be available for extended periods of time.  
+Electronic dosimeters should be calibrated, poised and immediately available for designated 
+emergency work. Systems used for maintaining, reading and charging these dosimeters should be 
+in working condition at all times. For battery-operated equipment, sufficient numbers of batteries 
+should be available. Backup facilities and emergency response equipment needed to maintain 
+equipment for electronic dosimeters, radiation instrumentation and laboratory services should be 
+referenced within the ER plan. 
+Emergency protective provisions may include, but are not limited to:  
+• 
+establishing or designating areas for the emergency assembly of site personnel 
+• 
+ensuring that assembly areas are located in areas that can be accessed safely during 
+emergencies 
+• 
+ensuring that there are alternate safe access routes to radiation instrumentation and electronic 
+dosimeters, in addition to assembly areas and PPE during emergencies 
+• 
+accounting for site personnel and all other persons on site (contractors, visitors, etc.); all 
+onsite staff should be able to be accounted for within 30 minutes; accounting should be 
+commensurate with the scale/categorization of the emergency 
+• 
+using dose records to assign specific emergency response tasks 
+• 
+ensuring offsite emergency responders have access to radiation protection assistance from 
+onsite personnel 
+• 
+implementing special administrative measures, such as action levels to control radiation doses 
+• 
+conducting radiation surveys and radioactive contamination monitoring 
+• 
+monitoring and tracking of radiation doses 
+• 
+implementing back-out dose limits and protective actions when emergency action levels are 
+exceeded through pre-set electronic personnel dosimeter alarms 
+• 
+providing search and rescue, decontamination and first aid services 
+• 
+providing dosimetry and any other emergency response equipment, instruments, materials, 
+facilities and services necessary to ensure that onsite and offsite personnel are protected 
+• 
+ensuring appropriate radiological and hazardous substances protection and information are 
+provided to all emergency responders, including those from external organizations providing 
+onsite support 
+• 
+ensuring that PPE, electronic dosimeters and radiation survey meters / radiation 
+instrumentation are appropriate for their intended use 
+• 
+interfacing with offsite responders (e.g., ambulance attendants and hospital staff) to ensure 
+that pertinent hazardous material and radiological information is provided to medical staff 
+• 
+providing thyroid-blocking agents (potassium iodide pills) when applicable 
+• 
+briefing, tracking, and debriefing the dispatched teams on safety requirements, 
+communication requirements, etc.; emergency response personnel’s briefing should include 
+personal safety requirements and a three-way communication strategy 
+ 
+13 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+• 
+continued verification of the habitability of all emergency response facilities, including 
+monitoring for radiation fields and hazardous materials, where appropriate 
+This document does not address shift turnover. Additional guidance on shift turnover can be 
+found in CNSC Regulatory Document G-323, Ensuring the Presence of Sufficient Qualified Staff 
+at Class I Nuclear Facilities – Minimum Staff Complement. 
+2.2.6 
+Emergency response facilities and equipment 
+All licensees shall  
+In accordance with ER plans and procedures: 
+1. identify an onsite emergency response facility or designated area to be used as a response 
+location  
+2. identify essential emergency response equipment, and describe how its operation and 
+effectiveness during emergencies are assured; essential emergency response equipment 
+includes equipment required to detect and assess hazards, and communicate response 
+activities 
+3. identify and have emergency response equipment and materials that are operational and 
+available in sufficient quantities for an extended multi-shift response; they shall also be 
+readily accessible during emergency conditions 
+Additional requirements for licensees of reactor facilities with a thermal capacity greater 
+than 10 MW. These licensees shall: 
+4. have an emergency response facility (ERF) located onsite, but outside of the protected area; if 
+this cannot be achieved, describe security arrangements to prevent nuisance actors from 
+interfering with emergency response, and provisions for alternate means of communication in 
+the event of a total communications blackout 
+5. have an emergency response facility located offsite and outside of the plume exposure 
+planning zone  
+6. ensure that the emergency response facilities will ensure the health and safety of workers in 
+the ERF and ensure the continuity of operations for all emergency situations that cannot be 
+practically eliminated (if this cannot be achieved, then have backup facility with similar 
+capability for each of the onsite and offsite such that the backup facility is unlikely to be 
+effected by an event that would disable the primary; in addition, activation or transfer of 
+operations to the backup facility must be done without disruption to the response operations) 
+7. provide a workspace with computer, internet access and telephone for a CNSC representative 
+in each ERF; in addition, the CNSC shall be granted access to install an antenna for a satellite 
+phone at each ERF 
+8. ensure all emergency response facilities have the capacity and capability of sustaining 
+emergency response for a minimum of 72 hours without offsite support 
+9. ensure the design and layout of emergency response facilities are able to support the 
+emergency response 
+10. ensure emergency response facilities have provisions in place to provide nuclear facility data  
+11. pre-arrange memoranda of understanding and/or other priority services agreements required 
+to keep ERFs functional over prolonged periods, and ensure such agreements are documented 
+and either referenced or attached to the ER plan 
+12. determine and implement methods for communicating with onsite personnel and offsite 
+authorities, including the implementation of at least two levels of backup communications 
+ 
+14 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+systems; licensee communication links must be compatible with the licensee, province or 
+territory, and the CNSC 
+Guidance 
+Guidance for all licensees 
+Licensees should describe the emergency response services, equipment, supplies and facilities 
+that would be available during emergencies, including, but not limited to the following: 
+• 
+administration facilities  
+• 
+technical support centres 
+• 
+control facilities 
+• 
+personnel and public assembly areas 
+• 
+emergency operations coordination centre 
+• 
+centre to integrate onsite activities with offsite programs  
+• 
+first aid and/or medical facilities  
+• 
+laboratory services (fixed or mobile)  
+• 
+decontamination facility 
+• 
+backup power capable of sustaining emergency power to emergency response facilities for a 
+minimum of 72 hours 
+• 
+reference materials, such as current and approved versions of charts, maps, plans, drawings, 
+diagrams, specifications and procedures 
+• 
+essential safety equipment, PPE and other appropriate supplies, such as food and water for a 
+minimum of 72 hours 
+• 
+administrative aids, such as status boards and reference materials 
+• 
+fixed or portable instruments or equipment, as required, to detect, measure, monitor, survey, 
+analyze, record, process, treat, transport, warn, announce, communicate, or assess 
+Additional guidance for licensees of reactor facilities with a thermal capacity greater than 
+10 MW 
+The CNSC workspace should have appropriate resources (such as computers, information access, 
+internet access and satellite phones) to enable CNSC representatives to perform their functions 
+adequately. 
+The preferred means of ensuring the protection of workers and the continuation of operation is to 
+have hardened facilities within the primary zone that have: 
+• 
+ radiological protection/shielding 
+• 
+ adequate ventilation,  
+• 
+ contamination control 
+• 
+ the ability to withstand design-basis event hazards, such as wind, tornado, snow or ice 
+ 
+15 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+2.2.7 
+Public emergency information 
+All licensees shall: 
+In accordance with the ER plans and procedures: 
+1. provide information about the emergency to offsite authorities during the emergency response 
+and recovery phases 
+2. coordinate with offsite authorities when communicating emergency information to the public 
+Guidance 
+Guidance for all licensees 
+In the emergency plan, licensees should describe the procedures to communicate information 
+about the emergency to offsite authorities during emergencies. These procedures should ensure 
+that emergency information is sent routinely – and as conditions change (either positively or 
+negatively) – to offsite authorities so the information can be disseminated to the public. 
+The information communicated to offsite authorities should include possible radiological and 
+non-radiological hazard(s), including their short-term effects as well as their potential long-term 
+effects on the public, for all emergency scenarios. 
+In the emergency plan, licensees should describe the protocols to ensure coordinated public 
+communications during an emergency. For nuclear power plants, provisions should include 
+consideration of communications strategies and describe the roles and responsibilities of 
+organizations that are responsible for communicating key information to the public. 
+2.2.8 
+Recovery 
+All licensees shall:  
+In accordance with ER plans and procedures: 
+1. describe the process to transition from emergency response to recovery after the termination 
+of an emergency, including the requirements to establish a recovery organization and to 
+develop a recovery plan 
+2. identify, in the recovery plan, the positions/titles, authorities and responsibilities of the 
+individuals who will fill key positions in the recovery organization; this organization shall 
+also include technical personnel with responsibilities to develop, evaluate and direct recovery 
+and reentry operations 
+Guidance 
+Guidance for all licensees 
+A conceptual and strategic recovery plan should be prepared in advance. This can act as the basis 
+for developing the recovery plan after the event has occurred and the emergency phase is 
+complete. 
+ 
+16 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+The recovery plan should:  
+• 
+identify and describe the resources (personnel, facilities and emergency response equipment) 
+that are to be available for recovery purposes 
+• 
+describe how personnel will be protected when assessing or implementing the recovery 
+program (e.g., personnel protection measures for entry into hazardous areas) 
+• 
+provide for post-accident assessments of the causes, details, impacts and/or consequences of 
+the events 
+• 
+ensure all recovery efforts operate in accordance with the licensee’s operating licence 
+requirements 
+Once the emergency phase of an emergency response has ended, workers undertaking recovery 
+operations (such as repairs to plant and buildings, waste disposal or decontamination of the site 
+and surrounding area) are subject to the occupational dose limits listed in the CNSC’s Radiation 
+Protection Regulations. 
+2.2.9 
+Validation of the emergency response plan and procedures 
+All licensees shall: 
+1. validate ER plans and procedures to demonstrate that systems as designed (equipment, 
+procedures and personnel elements) meet performance requirements and support safe 
+operation 
+2. validate any changes to ER plans or procedures before implementing them, to ensure 
+continued effectiveness  
+3. unless otherwise specified in the licence conditions handbook, notify the CNSC of changes to 
+ER plans and procedures, and submit the results of the validation to the CNSC as per the 
+terms and conditions of the CNSC licence 
+Guidance 
+Guidance for all licensees 
+For the purpose of this section, “change” means an action that results in modification to, addition 
+to, or removal from a licensee’s ER plan. All changes should be validated to demonstrate that 
+performance requirements are met and to determine if there has been a reduction in effectiveness 
+(i.e., decreased capability to respond to an emergency). 
+A licensee may make changes to its ER plan(s) and procedures without CNSC approval, but only 
+if it performs and retains an analysis that demonstrates that the changes have not reduced the ER 
+plan’s effectiveness. This analysis must also demonstrate that plans continue to meet operating 
+licence requirements as well as regulatory requirements.  
+A change to a licensee’s ER plan and procedures that reduces the effectiveness of the plan is not 
+to be implemented without prior acceptance by the CNSC. A licensee desiring to make such a 
+change should submit an application for change approval to the CNSC; the request should include 
+the revised ER plan and demonstration of validation. The CNSC will have 30 days to review a 
+change request, after which it will inform the licensee if the change has been accepted. The 
+CNSC is unlikely to permit changes that would decrease an ER plan’s effectiveness; however, 
+under special circumstances (e.g., construction or temporary facility modifications), such changes 
+ 
+17 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+may be approved with specific conditions. Under no circumstances would the CNSC allow a 
+licensee to implement changes that would compromise safety or lead to unreasonable risk.  
+Minor or administrative modifications to programs or procedures can be reported to the CNSC 
+through established channels such as the Quarterly Operations Report or through formal 
+correspondence. 
+2.3 
+Preparedness 
+Preparedness consists of activities to ensure that people, equipment and infrastructure will be 
+ready to respond to an emergency, in accordance with the ER plan and procedures. 
+2.3.1 
+Training and qualification 
+All licensees shall: 
+In accordance with training and qualification: 
+1. collaborate with responding offsite agencies to educate them on radiation protection  
+Additional requirements for licensees of reactor facilities with a thermal capacity greater 
+than 10 MW. These licensees shall: 
+2. develop and submit emergency drill and exercise schedules annually to the CNSC  
+3. train and qualify all emergency response organizations (EROs) in accordance with the 
+positions to which they have been assigned; educational materials are required to be available 
+for any person who would be responding to the emergency on behalf of an offsite authority, 
+not just the first responders  
+4. establish requirements for frequency of re-qualification training for all ERO positions 
+Guidance 
+Guidance for all licensees 
+Licensees should provide necessary training to individuals and/or organizational units to assure 
+and demonstrate they are qualified and able to completely fulfill their assigned emergency 
+response roles. The training is intended for any person who would be responding to the 
+emergency on behalf of an offsite authority and is not solely limited to first responders. 
+ERO training may consist of both formal and informal instruction (including workplace and 
+classroom instruction). Licensees can also develop and use online training materials. Emergency 
+drills are an additional option. Typical attributes of an emergency drill include:  
+• 
+limited scope 
+• 
+limited number of personnel 
+• 
+specific equipment 
+• 
+timely feedback 
+• 
+realistic environment 
+An emergency drill typically involves testing a procedural or physical component of the 
+emergency response program. An emergency drill may be conducted as an initial or periodic test, 
+as a supervised training session or as an evaluation of a remedial event. For example, after steps 
+ 
+18 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+are taken to correct a weakness identified by an emergency exercise, a drill may be held to further 
+evaluate the effectiveness of the remedial measures. 
+Licensees should describe the following:  
+• 
+initial and continuing training programs for EROs 
+• 
+ERO staff qualifications 
+• 
+ERO positions for which incumbents will be required to undertake periodic or on-going 
+training 
+• 
+training requirements for contractors and offsite organizations (e.g., firefighters, police 
+personnel, ambulance drivers, hospital staff) that support or participate in onsite activities – 
+insofar as these requirements relate to training that is outside their typical professional duties, 
+but that is required for responding to onsite emergencies; such training could address subjects 
+like access requirements or radiation protection 
+• 
+schedules, procedures and assessment criteria for the conduct of emergency drills and 
+exercises 
+• 
+positions responsible for managing, planning, controlling and evaluating drills 
+Personnel assigned to emergency response roles should demonstrate and maintain their capability 
+to perform assigned tasks at all times. Drills should include the use of all procedures, PPE, 
+response equipment and facilities that could be required during an actual emergency. 
+Requirements and guidance for training systems can be found in REGDOC-2.2.2, Personnel 
+Training. 
+2.3.2 
+Maintenance of emergency response facilities and equipment  
+All licensees shall: 
+Identify and implement requirements and provisions to assure that the necessary emergency 
+response facilities, equipment, and materials are maintained and in working condition at all times. 
+However, facilities and equipment may be taken out of service for required maintenance if 
+alternate provisions are put in place during these periods.  
+Guidance 
+Guidance for all licensees 
+Emergency response facilities, equipment and materials must be in a state of readiness at all 
+times. Accordingly, licensees should implement provisions to ensure that such equipment, 
+facilities and materials are always in working condition. These provisions are to include regular 
+inspection, calibration, testing, and maintenance, or replacement as required, within formal 
+systems of quality control and inventory control and accounting. This criterion includes all 
+required PPE. 
+2.3.3 
+Testing the implementation of emergency measures  
+All licensees shall: 
+1. test the implementation of their emergency measures 
+ 
+19 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+ 
+Additional requirements for licensees of reactor facilities with a thermal capacity greater 
+than 10 MW. These licensees shall: 
+1. perform exercises to test the effectiveness of their EP program 
+2. ensure emergency exercises are based on their planning basis; for multi-unit nuclear reactor 
+facilities, licensees must ensure that multiple-unit emergency exercises are part of their 
+exercise repertoire 
+3. establish specific objectives for each emergency exercise; the type and number of objectives 
+will depend on the size of the facility and the scope of the exercise 
+4. design exercise objectives to sufficiently challenge their capability and capacity to respond to 
+emergencies 
+5. include provisions in emergency exercise objectives for:  
+a. 
+assessment 
+b. 
+protection of facility personnel 
+c. 
+protection of the public and the environment 
+d. 
+termination of an emergency 
+e. 
+adequacy and conduct of exercises 
+6. test all requirements listed in this document over a five-year period, with a full-scale integrated 
+emergency testing exercise at least once every three years involving, at a minimum, regional 
+and provincial offsite authorities 
+7. submit emergency exercise objectives, team organization and scenario development 
+framework to the CNSC at least 20 business days before conducting full-scale emergency 
+exercises (in case of operational requirements and factors beyond licensee control, changes 
+can be made up to the day of the exercise) 
+8. execute exercises that will meet all stated objectives, demonstrate thorough planning, and 
+identify weaknesses and deficiencies so they can be prioritized and corrected; and provide an 
+overall accurate indication of their emergency response capabilities 
+9. demonstrate sound organizational and professional execution in the conduct of the exercises 
+by:  
+a. 
+keeping exercise scenarios unknown to the emergency responders before exercises are 
+conducted 
+b. 
+providing timely and realistic data, messages and materials 
+c. 
+having exercise participants demonstrate realistic and professional behavior for simulated 
+actions 
+10. ensure persons perform their required tasks during exercises as though actual emergency 
+conditions were present 
+11. staff and train exercise controllers and evaluators to control and evaluate exercises, and 
+provide them with exercise materials that include:  
+a. 
+instructions about how to conduct exercises 
+b. 
+exercise evaluation criteria 
+12. provide direction pertaining to existing requirements for safety and security measures adhere 
+to applicable regulations and licence conditions during exercises, ensuring all participants are 
+aware of the actions and interventions that are not permitted while exercises are in progress 
+13. provide feedback after exercises to improve their overall ability to respond effectively to 
+emergencies 
+14. prepare self-assessment reports regarding the execution of full-scale emergency exercises; 
+such reports must be submitted to the CNSC 40 days after exercises have been conducted (in 
+exigent circumstances, reports could be delayed to no later than 90 days following the 
+conclusion of exercises) 
+ 
+20 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+Guidance 
+Additional guidance for licensees of reactor facilities with a thermal capacity greater than 
+10 MW 
+Emergency exercises test the adequacy of EP programs and the implementation of emergency 
+measures. This includes an evaluation of the adequacy of the procedures and training of the ERO 
+to respond to an emergency.  
+Emergency exercises simulate emergency events and conditions over a minimum of several 
+hours, in order to test the integrated performance of the EP program. Emergency exercises 
+simultaneously measure and demonstrate: the preparedness and competence of participants in the 
+specific emergency response roles, the quality of the associated procedures, and the effectiveness 
+of the administrative framework. Exercises designed with a high degree of fidelity ensure that the 
+performance observed could be reasonably expected during an actual event. Deficiencies that are 
+identified during emergency exercises should be rectified as soon as possible, to provide 
+assurance that the ER plan and procedures can and will be implemented successfully in the event 
+of an emergency.  
+Typical attributes of an emergency exercise include:  
+• 
+mobilization of emergency equipment and resources in a realistic environment over an 
+extended period of time 
+• 
+demonstration of inter-agency and other government department cooperation 
+• 
+testing of communication systems and/or public information systems 
+• 
+testing of emergency response facilities and equipment readiness 
+• 
+conduct of the exercise with the minimum complement numbers of staff, in order to 
+demonstrate adequacy of the response  
+• 
+criteria to terminate the exercise that are established ahead of time, in order to ensure that all 
+of the required actions are completed 
+• 
+success criteria that are established during the planning phase, and a corresponding evaluation 
+of performance during the exercise 
+A full-scale integrated exercise tests the capacity of onsite and offsite agencies to respond to an 
+emergency that results in a release of nuclear substances from the affected unit(s). Full-scale 
+emergency exercises involve, at minimum, several onsite and provincial and regional offsite 
+stakeholders. Larger full-scale exercises can include federal and – where appropriate – 
+international authorities and agencies. Emergency exercises do not always need to be full-scale. 
+For example, tabletop emergency exercises, such as those for notification and communications, 
+may be sufficient to stimulate discussion of various issues regarding a hypothetical emergency.  
+Emergency exercises should not be used as part of a participant’s training development. 
+Participation in an exercise is not meant to evaluate an individual’s competency, but rather is 
+intended to assess the adequacy of an EP program and its implementation. Coaching and training 
+should not be provided to participants in exercises by controllers or evaluators. Exercises should 
+be conducted in accordance with the minimum requirements of the ER plan.  
+Self-assessment reports should contain the following information:  
+• 
+success and failures of exercise drills 
+• 
+lessons learned 
+ 
+21 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+• 
+areas for improvement  
+• 
+corrective action plans 
+2.3.4 
+Public preparedness requirements 
+All licensees shall: 
+Incorporate information on public emergency preparedness into their public information program 
+(established as per RD/GD-99.3, Public Information and Disclosure) to ensure information on 
+emergency preparedness and response is communicated to surrounding communities and 
+stakeholders. 
+Additional requirements for licensees of reactor facilities with a thermal capacity greater 
+than 10 MW and with designated offsite emergency planning zones. 
+These licensees shall provide the necessary resources and support to provincial and municipal 
+authorities in implementing the provincial and municipal plans to do the following, or shall do the 
+following:  
+1. ensure that a sufficient quantity of iodine thyroid-blocking (ITB) agents is pre-distributed, to 
+all residences, businesses and institutions within the designated plume exposure planning 
+zone, together with instructions on their proper administration 
+2. ensure that a sufficient quantity of ITB agent is pre-stocked and ready for prompt distribution 
+within the designated ingestion control planning zone; this inventory of ITB agents shall be 
+located so that it can be efficiently obtained by, or distributed to, members of the public when 
+required 
+3. ensure that ITB agents can be obtained by residents of the designated ingestion control 
+planning zone at any time  
+4. ensure that particular consideration is given to sensitive populations such as children and 
+pregnant women within the designated ingestion control planning zone  
+5. ensure that the pre-distributed and pre-stocked ITB agents are maintained within expiry date 
+6. ensure that the pre-distribution plans are supported by a robust, ongoing, and cyclical public 
+education program 
+7. ensure that all residences, businesses and institutions within the designated plume exposure 
+planning zone are provided with public emergency preparedness information detailing how 
+they should prepare for a nuclear emergency and what they should do or expect during a 
+nuclear emergency; this information will reinforce the public education program designed to 
+support the pre-distribution of ITB agents 
+8. ensure that this public emergency preparedness information is readily available to the general 
+public, including online 
+ 
+22 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+Guidance 
+Guidance for all licensees  
+Licensees may, where possible, leverage existing communication channels (such as those used by 
+local municipalities or those identified in their public information program as per 
+RD/GD-99.3, Public Information and Disclosure). 
+Licensees should periodically assess the adequacy of public emergency preparedness information. 
+Additional guidance for licensees of reactor facilities with a thermal capacity greater than 
+10 MW 
+For reactor facilities with a thermal capacity greater than 10 MW and with designated offsite 
+emergency planning zones: 
+The term ITB agent is used generically and includes potassium iodide (KI) tablets. 
+The pre-distribution of ITB agents should be undertaken by representatives of the health and/or 
+emergency management authorities of the province or region/municipality, with support from the 
+licensee. The pre-distribution of ITB agents should be done in a carefully planned and 
+coordinated manner, to ensure that the public receives the appropriate information and education 
+related to the benefits, risks and usage instructions of ITB agents.  
+Pre-stocked ITB agents for the designated ingestion control planning zone should be located to 
+facilitate prompt and efficient distribution during an emergency. Recognizable locations with 
+credible persons within the community (such as fire stations, police stations and pharmacies) 
+should be considered in the selection of pre-stocking locations. 
+Following the completion of pre-distribution activities, periodic reviews with the local 
+populations to assess the adequacy of pre-distribution programs should be performed. 
+The term “designated plume exposure planning zone” is sometimes referred to as “primary zone”, 
+“urgent protective action zone” or “emergency planning zone”. The size of the plume exposure 
+planning zone is determined by the appropriate offsite authorities based on information in the 
+planning basis and is typically sized in the range of 8 to 16 km. 
+The term “designated ingestion control planning zone” is sometimes referred to as “secondary 
+zone”, “extended planning distance” or “ingestion planning zone”. Appropriate offsite authorities 
+determine the size of the ingestion control planning zone (typically in the range of 50 to 80 km) 
+based on information in the planning basis. 
+To ensure the public have easy access to the required emergency preparedness information, 
+licensees should collaborate with municipalities to provide residents with useful information on 
+how they should prepare, what they should expect and how they should respond to an emergency 
+at the nuclear facility.  
+An emergency preparedness information product should be distributed in hard copy annually to 
+every residence, business and institution within the plume exposure planning zone, and posted on 
+a variety of websites, including those of the licensees, municipalities and provincial EMOs. 
+ 
+23 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+This should include information on: 
+• 
+how they will be alerted  
+• 
+how they will be notified or informed on what to do 
+• 
+sheltering-in-place instructions  
+• 
+evacuation orders  
+• 
+how/when to take ITB agents, and where to get them if not pre-distributed  
+• 
+contact details for where to obtain additional information, such as websites and social media 
+sites 
+ 
+Licensees may, where possible, leverage existing communication channels (such as those used by 
+local municipalities or those identified in the public information program).  
+In discussion with local authorities, licensees should consider providing public preparedness 
+information with ITB packages when distributing to local populations.  
+2.4 
+Program management  
+All licensees shall:  
+Include, at a minimum, the following elements in their management systems: 
+1. a written policy statement issued by licensee senior management, committing all units of the 
+organization to the system and its effective implementation 
+2. a program owner identified with the authority to ensure that resources are given to all aspects 
+of the EP program 
+3. procedures describing the planned and systematic actions necessary to provide adequate 
+confidence that all specified requirements are satisfied 
+4. procedures that specify who (position or unit) is to review and update the program on an 
+ongoing basis, and how this is to be done 
+5. review and update EP program and associated documentation (e.g., response plan, training 
+material, procedures, etc.) at defined intervals to take into account relevant factors, such as 
+operating experience, changing needs or circumstances, and lessons learned from real events 
+Guidance 
+Guidance for all licensees 
+The EP program should be managed as part of a facility’s overall management system. A 
+management system is generally defined as a set of interrelated or interacting elements that 
+establish policies and objectives, and that enables those objectives to be achieved safely, 
+efficiently and effectively. The management system brings together the processes needed to 
+satisfy EP program requirements in a planned and integrated manner. 
+The management system’s requirements primarily aim to ensure that safety is not compromised, 
+by considering the implications of all actions with regard to safety as a whole. Safety should be 
+the paramount consideration, guiding decisions and actions, in the establishment of a 
+management system. 
+ 
+24 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+As stated in their licences and licence conditions handbooks, licensees should: 
+• 
+manage their EP programs in accordance with management system requirements  
+• 
+detect and report deficiencies, and ensure all corrective actions are tracked and implemented 
+as per management system requirements 
+ 
+25 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+Appendix A: Overlapping Provisions of Emergency Preparedness and Accident 
+Management  
+ 
+The illustration presented in this appendix is not a mandatory part of this regulatory document and is 
+provided for information only. 
+ 
+ 
+26 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+Abbreviations 
+EP program 
+emergency preparedness program 
+ERF 
+ 
+emergency response facility 
+ERO 
+ 
+emergency response organization  
+ER plan 
+ 
+emergency response plan 
+FERP  
+Federal Emergency Response Plan 
+FNEP  
+Federal Nuclear Emergency Plan 
+IAEA  
+International Atomic Energy Agency 
+ITB agent 
+iodine thyroid-blocking agent 
+KI 
+ 
+potassium iodide 
+NSCA  
+Nuclear Safety and Control Act  
+PPE 
+ 
+personal protective equipment 
+ 
+27 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+ 
+Glossary 
+abnormal incident 
+An abnormal occurrence at the nuclear facility that may have a significant cause and/or may lead to more 
+serious consequence. 
+accident management  
+The taking of a set of actions during the evolution of an accident to prevent the escalation of the accident, 
+to mitigate the consequences of the accident, and to achieve a long-term, safe and stable state after the 
+accident. 
+affected facilities 
+Onsite locations in duress and the components, the affected facility/unit(s) and their components that 
+control, contain and cool nuclear substances and prevent the release of nuclear substances. 
+arrangements  
+The pre-determined integrated set of infrastructural elements necessary to provide the capability for 
+performing a specified function or task required in response to a nuclear or radiological emergency. These 
+elements may include hardware (e.g., equipment and instrumentation), authorities and responsibilities, 
+organization, coordination, plans, procedures, personnel and training. 
+back-out dose limit  
+The pre-determined dose limit that should prompt responders to physically retreat from an area and to 
+then assess the situation.  
+controller  
+During an emergency drill or exercise, a controller provides, as appropriate, data and messages to the 
+emergency responders.  
+emergency exercise  
+Simulation of emergency events in order to test the integrated performance of an emergency response 
+scenario.  
+emergency drill  
+Supervised instruction intended to test, develop, maintain, and practise the skills required in a particular 
+emergency response activity. A drill may be a component of an exercise. 
+emergency planning zone 
+The offsite area around a facility for which emergency planning and preparation are done in advance, to 
+ensure that necessary and effective protective actions can be taken to protect the public, property or the 
+environment in case of an accident. 
+emergency response  
+The integrated set of equipment, procedures and personnel necessary to provide the capability for 
+performing a specified function or task required in order to prevent, mitigate or control the effects of an 
+accidental release.  
+emergency response facility  
+An area or room that can be immediately activated when required during an emergency/incident. 
+ 
+28 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+emergency response organization  
+A group of inter-related responders who undertake the emergency response function during an 
+emergency.  
+evaluator  
+The person who, during an emergency drill, observes, evaluates, and critiques the emergency responders’ 
+actions based on pre-established performance criteria.  
+licensing basis  
+A set of requirements and documents for a regulated facility or activity comprising: 
+• 
+the regulatory requirements set out in the applicable laws and regulations 
+• 
+the conditions and safety and control measures described in the facility’s or activity’s licence and the 
+documents directly referenced in that licence 
+• 
+the safety and control measures described in the licence application and the documents needed to 
+support that licence application 
+management system 
+A set of interrelated or interacting elements (system) for establishing policies and objectives and enabling 
+the objectives to be achieved in an efficient and effective way. The management system integrates all 
+elements of an organization into one coherent system to enable all of the organization’s objectives to be 
+achieved. These elements include the structure, resources, and processes. Personnel, equipment, and 
+organizational culture as well as the documented policies and processes are parts of the management 
+system. The organization’s processes have to address the totality of the requirements on the organization 
+as established in, for example, IAEA safety standards, or other international codes and standards. 
+nuisance actors 
+With respect to emergency preparedness, any group of individuals, from the curious to the malevolent, 
+whose presence outside the protected zone may interfere with emergency response activities. 
+nuclear facility perimeter 
+A geographical area that contains the authorized facility, and within which the management of the 
+authorized facility may directly initiate emergency actions. This is typically the area within the security 
+fence or other designated property marker. 
+practically eliminated 
+The possibility of certain conditions occurring being physically impossible or with a high level of 
+confidence to be extremely unlikely to arise. 
+participant  
+An individual who is taking part in an emergency drill or exercise and responds to the simulated events.  
+primary zone  
+The area around a nuclear installation within which detailed planning and preparedness are carried out for 
+measures against exposure to a radioactive emission. 
+safety analysis  
+Analysis, by means of appropriate analytical tools that establishes and confirms the design basis for the 
+items important to safety; and ensures that the overall facility design is capable of meeting the acceptance 
+criteria for each plant state. 
+ 
+29 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+three-way communication  
+A method of verbal communication designed to reduce potential communication error, whereby the 
+initiator sends a message and the receiver of the message repeats the message back to the initiator. The 
+initiator then provides confirmation to the receiver that the repeated message is correct. 
+total communications blackout  
+A situation where forms of electronic communications, such as traditional, cell and satellite phones, and 
+Web-based communications, are unavailable. 
+validation  
+An evaluation using performance-based tests to determine whether the integrated design of a system 
+(equipment, procedures and personnel elements) meets performance requirements and acceptably 
+supports safe operations.  
+ 
+ 
+30 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+References 
+1. International Atomic Energy Agency (IAEA), IAEA Safety Standards Series, GS-R-2, Preparedness 
+and Response for a Nuclear or Radiological Emergency, Vienna, Austria, 2002. 
+ 
+2. IAEA, IAEA Safety Standards Series, GS-G-2.1, Arrangements for Preparedness for a Nuclear or 
+Radiological Emergency. Vienna, Austria, 2007. 
+ 
+3. IAEA, Preparation, Conduct and Evaluation of Exercises to Test Preparedness for a Nuclear or 
+Radiological Emergency, Vienna, Austria, 2005. 
+ 
+4. Canadian Nuclear Safety Commission (CNSC), REGDOC-2.3.2, Accident Management, 
+Version 2 Ottawa, 2014. 
+ 
+5. CNSC, G-323, Ensuring the Presence of Sufficient Qualified Staff at Class I Nuclear Facilities – 
+Minimum Staff Complement, Ottawa, 2007. 
+ 
+6. CNSC, RD/GD-99.3, Public Information and Disclosure, Ottawa, 2012. 
+ 
+ 
+31 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+Additional Information 
+1. United States Nuclear Regulatory Commission, Criteria for Preparation and Evaluation of 
+Radiological Emergency Response Plans and Preparedness in Support of Nuclear Power Plants, 
+Washington, D.C., 2002. 
+ 
+2. CSA Group, CAN/CSA-Z731-02 Emergency Preparedness and Response, Mississauga, 2003. 
+ 
+3. CSA Group, N286-05, Management System Requirements for Nuclear Power Plants, Mississauga, 
+reaffirmed 2010. 
+ 
+4. CSA Group, CAN/CSA-Z1600-08, Emergency Management and Business Continuity Programs. 
+Mississauga, 2008. 
+ 
+5. Health Canada, Canadian Guidelines for Intervention During a Nuclear Emergency, Ottawa, 2003. 
+ 
+6. Health Canada, Canadian Guidelines for the Restriction of Radioactively Contaminated Food and 
+Water Following a Nuclear Emergency, Ottawa, 2000. 
+ 
+ 
+32 
+ 
+February 2016 
+REGDOC 2.10.1 - Nuclear Emergency Preparedness and Response, Version 2  
+ 
+ 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the Canadian Nuclear Safety 
+Commission (CNSC). In addition to the Nuclear Safety and Control Act and associated regulations, these 
+facilities and activities may also be required to comply with other regulatory instruments such as 
+regulatory documents or standards. 
+Effective April 2013, the CNSC’s catalogue of existing and planned regulatory documents has been 
+organized under three key categories and twenty-five series, as set out below. Regulatory documents 
+produced by the CNSC fall under one of the following series: 
+1.0  
+Regulated facilities and activities 
+Series 1.1  
+Reactor facilities 
+1.2  
+Class IB facilities 
+1.3  
+Uranium mines and mills 
+1.4  
+Class II facilities 
+1.5  
+Certification of prescribed equipment 
+1.6 
+Nuclear substances and radiation devices 
+2.0  
+Safety and control areas 
+Series 2.1  
+Management system 
+2.2  
+Human performance management 
+2.3  
+Operating performance 
+2.4  
+Safety analysis 
+2.5  
+Physical design 
+2.6  
+Fitness for service 
+2.7  
+Radiation protection 
+2.8  
+Conventional health and safety 
+2.9  
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0  
+Other regulatory areas  
+Series 3.1  
+Reporting requirements 
+3.2  
+Public and Aboriginal engagement 
+3.3  
+Financial guarantees 
+3.4  
+Commission proceedings 
+3.5 
+Information dissemination 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. For the latest list of regulatory 
+documents, visit the CNSC’s website. 
+ 
+ 
+33 
+ 

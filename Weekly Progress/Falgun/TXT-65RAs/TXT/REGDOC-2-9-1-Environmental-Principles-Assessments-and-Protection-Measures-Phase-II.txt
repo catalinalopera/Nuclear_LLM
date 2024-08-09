@@ -1,0 +1,3238 @@
+Environmental Protection 
+Environmental Principles, 
+Assessments and Protection 
+Measures 
+ 
+ 
+REGDOC-2.9.1, version 1.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Environmental Protection: Environmental Principles, Assessments and Protection 
+Measures 
+Regulatory document REGDOC-2.9.1 
+© Canadian Nuclear Safety Commission (CNSC) 2020 
+Cat. No. CC172-164/2016E-PDF 
+ISBN 978-0-660-06255-6  
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the CNSC. 
+Également publié en français sous le titre : Protection de l’environnement : Principes, évaluations 
+environnementales et mesures de protection de l’environnement 
+Document availability 
+This document can be viewed on the CNSC website. To request a copy of the document in English or 
+French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, ON  K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Fax: 613-995-5086 
+Email: cnsc.info.ccsn@canada.ca  
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+LinkedIn: linkedin.com/company/cnsc-ccsn 
+Publishing history 
+December 2016  
+Version 1.0 
+April 2017 
+Version 1.1 – Administrative updates to sections 2.1 (to match the French 
+document) and 3.2.4, and to the definition of “environmental effects” in the 
+glossary 
+September 2020 
+Version 1.2 – Administrative updates throughout to reflect the Impact Assessment 
+Act 
+ 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+ 
+ 
+i 
+Preface 
+This regulatory document is part of the CNSC’s environmental protection series of regulatory documents. 
+The full list of regulatory document series is included at the end of this document and can also be found 
+on the CNSC’s website. 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures, describes: 
+ 
+the CNSC’s principles for environmental protection 
+ 
+for all nuclear facilities or activities that interact with the environment, the scope of an environmental 
+review and the roles and responsibilities associated with an environmental review 
+ 
+the CNSC’s requirements and guidance to applicants and licensees for developing environmental 
+protection measures, including an environmental risk assessment (ERA) where required, for both new 
+and existing facilities or activities 
+This document is Version 1.2. It supersedes Version 1.1, which was published in April 2017. 
+Environmental protection for nuclear facilities and activities is done in accordance with the Nuclear 
+Safety and Control Act (NSCA) and the regulations made under it. The CNSC requires the environmental 
+effects of all nuclear facilities or activities to be considered and evaluated when licensing decisions are 
+made. 
+This document will be used to assess licence applications for proposed new nuclear facilities or activities, 
+licence applications for existing facilities or activities (renewals and amendments), and environmental 
+protection measures, as follows: 
+ 
+all licence applications that demonstrate potential interactions between the facility or activity and the 
+environment are subject to an environmental review 
+ 
+for each facility or activity that has direct interactions with the environment, the applicant or licensee 
+must demonstrate that environmental protection measures are or will be in place 
+ 
+where an environmental risk assessment (ERA) is required for a facility or activity (details are 
+included in this regulatory document): 
+ 
+the ERA is subject to regular updates (at least every five years, and whenever a significant change 
+occurs in either the facility or activity that could alter the nature (type or magnitude) of the 
+interaction with the environment within the ERA predictions) 
+ 
+the licensee’s ERA informs an environmental review 
+In all cases, the environmental review, the environmental protection measures and the ERA (where 
+required) are commensurate with the scale and complexity of the environmental risks associated with the 
+nuclear facility or activity. 
+Note: For facilities or activities other than Class I nuclear facilities and uranium mines and mills, the 
+CNSC reviews every licence application to verify that there are no significant interactions with the 
+environment (for example, for most Class II facilities, such as hospitals and universities, and for the use 
+and transport of nuclear substances and radiation devices, there is no interaction with the environment). If 
+the CNSC’s review of the application determines that the facility or activity: 
+(a) has potential interactions with the environment and that additional consideration of environmental 
+protection measures is warranted, the information in this document may be applied in a graded 
+manner 
+(b) does not interact with the environment, then only the CNSC’s guiding principles for environmental 
+protection (in section 2.1 of this document) are relevant as guidance for such facilities or activities 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+ 
+ 
+ii 
+Early engagement with CNSC staff is encouraged for facilities or activities with potential interactions 
+with the environment or for applicants uncertain as to their facility’s or activity’s potential for interaction 
+with the environment. CNSC staff can provide facility- or activity-specific guidance to assist applicants 
+and licensees. 
+A document that shows the changes made to REGDOC-2.9.1, Version 1.1 is available from the CNSC 
+upon request. 
+For information on the implementation of regulatory documents and on the graded approach, see 
+REGDOC-3.5.3, Regulatory Fundamentals. 
+The words “shall” and “must” are used to express requirements to be satisfied by the licensee or 
+licence applicant. “Should” is used to express guidance or that which is advised. “May” is used to 
+express an option or that which is advised or permissible within the limits of this regulatory document. 
+“Can” is used to express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+ 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+........................................................................................................................1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant legislation 
+............................................................................................................. 2 
+1.4 
+National and international standards 
+................................................................................... 3 
+1.5 
+CNSC contact information 
+.................................................................................................. 4 
+2. 
+The CNSC’s Environmental Protection Principles ........................................................5 
+2.1 
+The CNSC’s guiding principles for protection of the environment 
+.................................... 5 
+2.2 
+The CNSC’s environmental protection framework ............................................................ 5 
+2.3 
+Other jurisdictions and federal departments ....................................................................... 8 
+2.4 
+Public and Indigenous engagement .................................................................................... 9 
+3. 
+Environmental Reviews 
+...................................................................................................10 
+3.1 
+Impact assessments under the Impact Assessment Act...................................................... 10 
+3.2 
+Federal lands reviews under the Impact Assessment Act .................................................. 10 
+3.3 
+Ongoing environmental assessments under CEAA 2012 ................................................. 11 
+3.4 
+Environmental assessments under provincial regimes and land claim agreements .......... 11 
+3.5 
+Environmental protection reviews under the NSCA......................................................... 11 
+4. 
+Environmental Protection Measures..............................................................................13 
+4.1 
+Environmental risk assessment ......................................................................................... 13 
+4.1.1 
+Complexity of the environmental risk assessment 
+............................................... 14 
+4.2 
+Effluent and emissions control and monitoring ................................................................ 17 
+4.2.1 
+Control of environmental releases ....................................................................... 18 
+4.2.2 
+Monitoring of releases to the environment .......................................................... 19 
+4.3 
+Environmental monitoring ................................................................................................ 21 
+4.4 
+Public dose 
+........................................................................................................................ 23 
+4.5 
+Groundwater protection and monitoring 
+........................................................................... 23 
+4.6 
+Environmental management system ................................................................................. 24 
+4.6.1 
+Environmental emergency preparedness ............................................................. 27 
+4.6.2 
+Other considerations ............................................................................................ 27 
+Appendix A: Environmental Assessments Under CEAA 2012 ...............................................28 
+A.1 
+Environmental assessment under CEAA 2012 conducted by the CNSC ......................... 30 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+ 
+ 
+A.2 
+Key steps for an environmental assessment under CEAA 2012 
+....................................... 32 
+A.3 
+Specific CEAA 2012 environmental assessment requirements ........................................ 36 
+Appendix B: Characterization of the Baseline Environment for an Environmental 
+Assessment Under CEAA 2012 
+.......................................................................................41 
+B.1 
+Atmospheric environment 
+................................................................................................. 41 
+B.2 
+Surface water environment ............................................................................................... 42 
+B.3 
+Aquatic environment 
+......................................................................................................... 42 
+B.4 
+Geological and hydrogeological environment .................................................................. 43 
+B.5 
+Terrestrial environment 
+..................................................................................................... 44 
+B.6 
+Ambient radioactivity ....................................................................................................... 45 
+B.7 
+Human health 
+.................................................................................................................... 45 
+B.8 
+Indigenous land and resource use ..................................................................................... 45 
+Appendix C: Environmental Effects for an Environmental Assessment Under 
+CEAA 2012 .......................................................................................................................47 
+C.1 
+Atmospheric environment 
+................................................................................................. 47 
+C.2 
+Surface water environment ............................................................................................... 47 
+C.3 
+Aquatic environment 
+......................................................................................................... 48 
+C.4 
+Geological and hydrogeological environment .................................................................. 48 
+C.5 
+Terrestrial environment 
+..................................................................................................... 49 
+C.6 
+Ambient radioactivity ....................................................................................................... 49 
+C.7 
+Human health 
+.................................................................................................................... 49 
+C.8 
+Indigenous land and resource use ..................................................................................... 50 
+Appendix D: Sample Matrix of Biophysical Interactions ........................................................51 
+Glossary ........................................................................................................................................53 
+References 
+.....................................................................................................................................54 
+Additional Information ...............................................................................................................56 
+ 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+1 
+ 
+Environmental Principles, Assessments and Protection Measures 
+1. 
+Introduction 
+1.1 
+Purpose 
+Environmental protection for nuclear facilities and activities is done in accordance with the 
+Nuclear Safety and Control Act (NSCA) and the regulations made under the NSCA. This 
+legislation includes provisions to ensure that licensees are adequately protecting the environment 
+and the health, safety and security of persons. The CNSC requires the environmental effects of all 
+nuclear facilities or activities to be considered and evaluated when licensing decisions are made. 
+This regulatory document provides information to applicants and licensees on protecting the 
+environment and the health of persons, including: 
+ 
+identification of facility or activity interactions with the environment and the public 
+ 
+identification and mitigation of potential environmental effects associated with these 
+interactions 
+ 
+design and implementation of effluent and emission release measures and of the 
+environmental monitoring measures to confirm or test the predictions and the actual effects 
+ 
+periodic assessments of the environmental protection measures and the licensee’s 
+performance 
+In particular, this regulatory document describes: 
+ 
+the CNSC’s principles for environmental protection 
+ 
+for all nuclear facilities or activities that interact with the environment, the scope and type of 
+environmental review, commensurate with the scale and complexity of the environmental 
+risks 
+ 
+the CNSC’s requirements and guidance to applicants and licensees for developing 
+environmental protection measures, including an environmental risk assessment (ERA) where 
+required, for both new and existing facilities or activities 
+1.2 
+Scope 
+This regulatory document clarifies the CNSC’s expectations of applicants and licensees, and 
+provides guidance for protecting the environment and the health of persons. 
+This document will be used to assess licence applications for proposed new nuclear facilities or 
+activities, licence applications for existing facilities or activities (renewals and amendments), and 
+environmental protection measures: 
+ 
+all licence applications that demonstrate potential interactions between the facility or activity 
+and the environment are subject to an environmental review 
+ 
+for each facility or activity that has direct interactions with the environment, the applicant or 
+licensee must demonstrate that environmental protection measures are or will be in place 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+2 
+ 
+ 
+where an ERA is required for a facility or activity (details are included in this regulatory 
+document): 
+ 
+the ERA is subject to regular updates (at least every five years, and whenever a 
+significant change occurs in either the facility or activity that could alter the nature (type 
+or magnitude) of the interaction with the environment 
+ 
+the licensee’s ERA informs an environmental review 
+In all cases, the environmental review, the environmental protection measures and the ERA 
+(where required) are commensurate with the scale and complexity of the environmental risks 
+associated with the nuclear facility or activity. 
+For facilities or activities other than Class I nuclear facilities and uranium mines and mills, the 
+CNSC reviews every licence application to verify that there are no significant interactions with 
+the environment (for example, for most Class II facilities, such as hospitals and universities, and 
+for the use and transport of nuclear substances and radiation devices, there is no interaction with 
+the environment). If the CNSC’s review of the application determines that the facility or activity: 
+ 
+has potential interactions with the environment and that additional consideration of 
+environmental protection measures is warranted, the information in this document may be 
+applied in a graded manner 
+ 
+does not interact with the environment, then only the CNSC’s guiding principles for 
+environmental protection (in section 2.1 of this document) are relevant as guidance for such 
+facilities or activities 
+Early engagement with CNSC staff is encouraged for facilities or activities with potential 
+interactions with the environment or for applicants uncertain as to their facility’s or activity’s 
+potential for interaction with the environment. CNSC staff can provide facility- or activity-
+specific guidance to assist applicants and licensees. 
+Note: The intent of these requirements is not to replace or duplicate other federal, provincial or 
+territorial, and municipal legislation with which licensees must comply. Where applicable, 
+meeting the existing legislative requirements is adequate for meeting the requirements of this 
+regulatory document. 
+1.3 
+Relevant legislation 
+The following provisions of the NSCA and the regulations made under it are relevant to this 
+document: 
+ 
+NSCA: 
+o subsection 24(4)  
+o subsection 24(5)  
+ 
+General Nuclear Safety and Control Regulations: 
+o paragraph 3(1)(f) 
+o paragraphs 12(1)(c) and (f)  
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+3 
+ 
+ 
+Class I Nuclear Facilities Regulations: 
+o paragraphs 3(e), (g), (h) and (j); 
+o paragraphs 4(c) and (e); 
+o paragraphs 5(b), (i), (j) and (k) 
+o paragraphs 6(h), (i), (j) and (k) 
+o paragraphs 7(e), (f), (g), (h), (i) and (k) 
+o paragraph 8(b) 
+ 
+Class II Nuclear Facilities and Prescribed Equipment Regulations: 
+o paragraph 3(p) 
+o paragraphs 5(e), (f), (h) and (i) 
+ 
+Radiation Protection Regulations: 
+o paragraphs 4(a) and (b) 
+o subsections 6(1) and (2) 
+o subsection 13(1) 
+ 
+Nuclear Substances and Radiation Devices Regulations: 
+o paragraphs 3(1)(b) 
+o paragraph 31(1)(i) 
+ 
+Uranium Mines and Mills Regulations: 
+o subparagraph 3(a)(v) 
+o subparagraphs 3(c)(ii), (iii), (v), (vi), (vii), (viii), (ix) and (x) 
+o subparagraphs 3(d)(i) and (vi) 
+The Impact Assessment Act (IAA) applies in the following instances: 
+ 
+designated projects as defined in section 2 of the IAA 
+ 
+projects proposed to be carried out on federal lands, as defined in section 82 of the IAA 
+Under section 182 of the IAA, any environmental assessment of a designated project by the 
+CNSC commenced under the Canadian Environmental Assessment Act, 2012 (CEAA 2012), in 
+respect of which a decision has not yet been issued before the coming into force of the IAA, is 
+continued under CEAA 2012 as if that Act had not been repealed. 
+The CNSC also considers pertinent legislation from other government departments, including: 
+ 
+Canadian Environmental Protection Act, 1999 
+ 
+Fisheries Act 
+ 
+Species at Risk Act 
+ 
+Migratory Birds Convention Act, 1994 
+1.4 
+National and international standards 
+The following standards from the CSA Group are relevant to this regulatory document: 
+ 
+CAN/CSA ISO-14001, Environmental Management Systems – Requirements with Guidance 
+for Use (2004 edition or successor editions) [1, 2] 
+ 
+CSA N288.1, Guidelines for calculating derived release limits for radioactive material in 
+airborne and liquid effluents for normal operation of nuclear facilities [3] 
+ 
+CSA N288.4, Environmental monitoring programs at Class I nuclear facilities and uranium 
+mines and mills [4] 
+ 
+CSA N288.5, Effluent monitoring programs at Class I nuclear facilities and uranium mines 
+and mills [5] 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+4 
+ 
+ 
+CSA N288.6, Environmental risk assessments at Class I nuclear facilities and uranium mines 
+and mills [6] 
+ 
+CSA N288.7, Groundwater protection programs at Class I nuclear facilities and uranium 
+mines and mills [7] 
+The CNSC licensing process ensures that applicable regulatory documents are considered for 
+licensing applications. The information required to comply with those regulatory documents may 
+contribute to meeting the requirements in this document. All regulatory documents are available 
+on the CNSC website. 
+1.5 
+CNSC contact information 
+The applicant or licensee should engage with CNSC staff early in the planning process (before 
+submission of a licence application) to identify the applicable regulatory documents and confirm 
+an understanding of the licensing process. 
+To contact the CNSC: 
+ 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+ 
+Fax: 613-995-5086 
+ 
+Email: cnsc.info.ccsn@canada.ca  
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+5 
+ 
+2. 
+The CNSC’s Environmental Protection Principles 
+Protecting the environment is part of the CNSC’s mandate. The CNSC requires the environmental 
+effects of all facilities or activities to be evaluated and considered when licensing decisions are 
+made (see figure 1). For each licensing decision, the CNSC (the Commission or a Designated 
+Officer) must be satisfied that the applicant or licensee will make adequate provision for the 
+protection of the environment and the health and safety of persons before a licence can be 
+granted. 
+2.1 
+The CNSC’s guiding principles for protection of the environment 
+The CNSC regulates nuclear facilities and activities in Canada to protect the environment and the 
+health and safety of persons in a manner that is consistent with Canadian environmental policies, 
+acts and regulations and with Canada’s international obligations. 
+For each facility or activity that has direct interactions with the environment, the CNSC must 
+determine that the licensee or applicant has made adequate provision for the protection of the 
+environment. The applicant or licensee’s licence application shall demonstrate (through 
+performance assessments, monitoring or other assessments) that their environmental protection 
+measures: 
+ 
+are commensurate with the level of risk associated with the activity 
+ 
+recognize that uncertainty exists in science and account for this uncertainty: 
+o by keeping all releases to the environment as low as reasonably achievable 
+(ALARA), social and economic factors being taken into account for nuclear 
+substances [8] 
+o through the application of the best available technology and techniques 
+economically achievable (BATEA) for hazardous substances 
+ 
+respect the precautionary principle, the “polluter pays” principle, and the concepts of 
+pollution prevention, sustainable development and adaptive management 
+ 
+are assessed against performance indicators and targets that are based on sound science 
+The following sections of this regulatory document provide information on how to meet these 
+principles. The CNSC assesses proposed alternative approaches and takes into account the views 
+and proposals of the licensee concerning their individual situations. 
+2.2 
+The CNSC’s environmental protection framework 
+The CNSC’s environmental protection safety and control area (SCA) covers measures that 
+identify, control and monitor all releases of radioactive and hazardous substances and effects on 
+the environment from facilities or as the result of licensed activities. 
+The applicant’s or licensee’s environmental protection measures should address all aspects of the 
+CNSC’s environmental protection SCA that are relevant to the facility or activity. The scope and 
+complexity within each measure should be commensurate with the nature and scale of the 
+interactions with the environment that may result from the facility or activity. 
+Note: The CNSC uses the term “environmental protection measures”. The elements in these 
+measures may be referenced by applicants and licensees in their “environmental protection 
+programs”. Applicants and licensees are not required to update their management system or other 
+documents to reflect the term “environmental protection measures”, but they must meet the 
+requirements listed in this document. 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+6 
+ 
+Figure 1: Ensuring adequate provision for protection of the environment 
+Licence application / 
+project description
+May include the applicant or licensee s  
+environmental risk assessment (ERA)
+IA under the Impact Assessment Act
+- for designated projects listed under the 
+Physical Activities Regulations or designated 
+by the Minister
+- refer to MOU with the Impact Assessment 
+Agency of Canada
+EPR under the NSCA
+- for projects not subject to the IAA or other 
+applicable EA legislation
+- carried out at every phase of the lifecycle
+Licensee s environmental
+protection measures
+- environmental risk assessment (ERA)
+- environmental management system
+- effluent control and monitoring
+- environmental monitoring
+Compliance monitoring
+--------------------------------------------------- Protection of the environment ------------------------------------------------------
+To reflect updates to the 
+licensee s ERA whenever 
+there has been significant 
+change to the facility or 
+activity, or in the science on 
+which the ERA is based
+Application
+Environmental 
+review
+Licence and ongoing 
+protection of the 
+environment
+---------------------------------------------- Public and Indigenous engagement -----------------------------------
+No interaction with the environment
+- environmental protection measures are not required
+Licensing process under the NSCA
+Is the project
+a  designated project  
+under the IAA?
+Yes
+No
+Is the project
+a  project  on federal lands in 
+accordance with section 82
+of the IAA?
+Yes
+Is the project
+subject to a provincial /
+territorial / land claim
+EA regime?
+No
+Does the 
+project have potential 
+environmental 
+interactions?
+No
+Yes
+No
+Federal lands review 
+under the IAA
+- CNSC as federal authority 
+conducts federal lands review
+Provincial / territorial / land 
+claim agreement EA
+- CNSC participates as technical 
+expert
+Yes
+ 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+7 
+ 
+Figure 2 shows the cyclical nature of an ERA and how the ERA links to the effluent monitoring 
+and environmental monitoring measures, illustrating how the ERA and the monitoring measures 
+inform each other. 
+Figure 2: Interrelationships between the ERA and monitoring 
+Environmental risk assessment (ERA)
+Ecological and Human Health (EcoRA and HHRA)
+Radionuclides - hazardous substances - physical stressors
+ERA predictions
+CSA N288.1, CSA N288.6
+Effluent monitoring
+CSA N288.5
+Environmental and 
+groundwater 
+monitoring
+CSA N288.4, CSA N288.7
+Supplementary studies
+and
+current science
+Review and revise ERA with 
+accumulated monitoring data
+Review and revise ERA with any site-specific studies 
+on model parameters, assumptions and new science
+Environmental management system (EMS) 
+ISO 14001
+ 
+The CNSC’s regulatory framework for environmental protection: 
+ 
+respects other federal and provincial environmental legislation 
+ 
+applies the following standards in a graded approach, commensurate with risk: 
+ 
+CSA N288.4, Environmental monitoring programs at Class I nuclear facilities and 
+uranium mines and mills [4] 
+ 
+CSA N288.5, Effluent monitoring programs at Class I nuclear facilities and uranium 
+mines and mills [5] 
+ 
+CSA N288.6, Environmental risk assessments at Class I nuclear facilities and 
+uranium mines and mills [6] (and, for further information on human exposure 
+modelling, see CSA N288.1, Guidelines for calculating derived release limits for 
+radioactive material in airborne and liquid effluents for normal operation of nuclear 
+facilities [3]) 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+8 
+ 
+ 
+CSA N288.7, Groundwater protection programs at Class I nuclear facilities and 
+uranium mines and mills [7] 
+ 
+CAN/CSA ISO 14001, Environmental Management Systems – Requirements with 
+Guidance for Use [1, 2] 
+These CSA standards apply to Class I nuclear facilities and uranium mines and mills. The CSA 
+standards ensure that the risks associated with releases to the environment are continually 
+assessed and mitigated; that releases are controlled and monitored; and that the environment is 
+monitored. See section 4 for additional information on the application and implementation of 
+these CSA standards, as well as other elements of environmental protection (for example, an 
+environmental management system (EMS)). 
+For facilities or activities other than Class I nuclear facilities and uranium mines and mills, the 
+CNSC reviews every licence application to verify that there are no significant interactions with 
+the environment (for example, for most Class II facilities, such as hospitals and universities, and 
+for the use and transport of nuclear substances and radiation devices, there is no interaction with 
+the environment). If the CNSC’s review of the application determines that the facility or activity 
+has potential interactions with the environment (such as planned releases of radioactive or 
+hazardous substances to the environment) and that additional consideration of environmental 
+protection measures is warranted, the applicant or licensee applies the information in section 4 to 
+their environmental protection measures in a graded approach, commensurate with risk. 
+The CNSC also regulates many facilities and activities that do not have any interactions with the 
+environment (that is, the facility or activity has no direct releases to the environment). A licence 
+application that describes the nature of the proposed licensed activities is considered sufficient for 
+ensuring protection of the environment, provided that CNSC staff conclude the facility or 
+activities do not interact with the environment. In this case, the remaining information in this 
+document does not apply to such facilities or activities. 
+Early engagement with CNSC staff is encouraged for facilities or activities with potential 
+interactions with the environment. CNSC staff can provide facility- or activity-specific guidance 
+to assist applicants and licensees. 
+2.3 
+Other jurisdictions and federal departments 
+The CNSC cooperates with other jurisdictions and federal departments to protect the 
+environment. Where appropriate, the CNSC may enter into formal arrangements to increase the 
+effectiveness of environmental protection. For example, the CNSC holds memoranda of 
+understanding (MOUs) with other federal departments (such as Fisheries and Oceans Canada, 
+Environment and Climate Change Canada). A complete list of MOUs is available on the CNSC’s 
+website. 
+When a proposed facility or activity must also comply with provincial or territorial legislation, 
+the CNSC collaborates and coordinates the environmental protection processes where possible to 
+increase efficiency and reduce duplication. 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+9 
+ 
+2.4 
+Public and Indigenous engagement 
+Participation opportunities for the public and for Indigenous groups are an important component 
+of the CNSC’s environmental reviews and licensing processes. The CNSC determines the 
+appropriate level of participation opportunities on a case-by-case basis. The criteria include: 
+ 
+interests of the public and Indigenous groups 
+ 
+the complexity of the facility or activity and its potential interactions with the 
+environment and the public 
+ 
+additional factors such as other jurisdictional mandates or type of decision 
+For further information on the CNSC’s expectations of licensees for public and Indigenous 
+engagement, refer to: 
+ 
+REGDOC-3.2.1, Public Information and Disclosure [9] 
+ 
+REGDOC-3.2.2, Indigenous Engagement [10] 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+10 
+ 
+3. 
+Environmental Reviews 
+The CNSC requires that the environmental effects of all nuclear facilities or activities be 
+considered and evaluated when licensing decisions are made. All licence applications that 
+demonstrate potential interactions with the environment are subject to an environmental review 
+commensurate with the scale and complexity of the environmental risks associated with the 
+facility or activity. 
+Early in the licensing process, CNSC staff determine which type of environmental review applies 
+by considering the information provided by the applicant or licensee in their initial submission 
+and supporting documentation. The information below outlines the different types of 
+environmental reviews that may be applicable under the CNSC’s current regulatory framework. 
+The CNSC ensures that the public has an opportunity to participate in the environmental review, 
+and Indigenous consultation and engagement activities are integrated into the review process, to 
+the extent possible. 
+3.1 
+Impact assessments under the Impact Assessment Act 
+Impact assessments are conducted on projects identified as having the greatest potential for 
+adverse environmental effects in areas of federal jurisdiction, either listed as a “designated 
+project” in the Physical Activities Regulations or as designated by the Minister of Environment. 
+The scope of impact assessments subject to the Impact Assessment Act (IAA) includes the 
+environmental, health, social and economic effects – both positive and negative – of a proposed 
+project. 
+The Impact Assessment Agency of Canada (IAAC) leads the conduct of impact assessments for 
+all designated projects subject to this legislation and works in collaboration with the CNSC to 
+review projects that are also subject to regulation under the NSCA. Nuclear projects to be 
+assessed under the IAA are subject to an integrated impact assessment that is carried out by a 
+review panel. An integrated impact assessment means having a single assessment process with 
+the shared objective that the requirements of both the IAA and the NSCA are discharged as “one 
+project, one assessment”. 
+A memorandum of understanding (MOU) established between the CNSC and the IAAC outlines 
+the roles and responsibilities of each organization and helps guide collaboration into conducting 
+integrated impact assessments under the IAA. The MOU confirms each organization’s 
+commitment to ensuring that the principle of “one project, one assessment” is followed in 
+reviewing designated projects regulated by the CNSC, and that any reviews are conducted in an 
+efficient and effective manner, without unnecessary delays or duplication of effort. 
+For more information, see: 
+ 
+Impact Assessment Agency of Canada 
+ 
+Impact Assessment Act 
+ 
+MOU between the CNSC and the Impact Assessment Agency of Canada 
+3.2 
+Federal lands reviews under the Impact Assessment Act 
+Projects not listed in the Physical Activities Regulations, but proposed to be carried out on federal 
+lands and requiring a decision by the CNSC as a federal authority, are subject to federal lands 
+reviews under the IAA.  
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+11 
+ 
+Upon receipt of a licence application for proposed activities to be carried out on federal lands, 
+CNSC staff review the application and make a determination whether the proposal is subject to a 
+federal lands review under the IAA. If a federal lands review is required, CNSC staff post a 
+notice of this determination on the Canadian Impact Assessment Registry website, review the 
+proposal according to the factors provided in section 84 of the IAA, and provide their 
+recommendation to the Commission. The Commission is responsible to make the decision in 
+determining whether the completion of the proposed project on federal lands is likely to cause 
+significant adverse environmental effects. 
+The Designated Classes of Projects Order describes the classes of projects on federal lands that 
+are designated by the Minister of Environment as causing only insignificant adverse 
+environmental effects and that are, therefore, exempt from the federal lands requirements of the 
+IAA. 
+The IAAC is developing further guidance and materials on federal lands reviews in collaboration 
+with federal authorities, including the CNSC. 
+3.3 
+Ongoing environmental assessments under CEAA 2012 
+Projects with environmental assessments (EA) already initiated under the Canadian 
+Environmental Assessment Act (2012) (CEAA 2012) and led by the CNSC will continue under 
+their current processes as per the transition provision (section 182) of the IAA. 
+An EA under CEAA 2012 is carried out early in the licensing process (at the beginning of the 
+project’s lifecycle) and serves as a planning tool. The process for an EA under CEAA 2012 is 
+described in appendix A. 
+The CNSC has in place Generic Guidelines for the Preparation of an Environmental Impact 
+Statement pursuant to the Canadian Environmental Assessment Act, 2012. This document 
+informs proponents of the information requirements for the preparation of an environmental 
+impact statement (EIS) for a project that requires an EA under CEAA 2012. An EIS is a report 
+written by a proponent that presents the technical studies and findings of an EA. 
+3.4 
+Environmental assessments under provincial regimes and land claim agreements 
+Some proposed nuclear projects may be subject to provincial EA legislation but not subject to the 
+IAA. Also, in certain parts of Canada (for example, Yukon, Northwest Territories, Nunavut, parts 
+of Quebec and parts of Newfoundland and Labrador), EA processes established under land claim 
+agreements apply, and the IAA does not. In both cases, the CNSC acts as a technical advisor and 
+is an active participant at all stages of the EA process; however, the CNSC has no role in making 
+the EA decision. The Commission retains decision-making authority on licensing matters, and 
+uses the information gathered in the EA process to inform its licensing decision under the NSCA. 
+When multiple jurisdictions are involved, these processes are harmonized as much as possible to 
+reduce duplication and promote efficiency. 
+3.5 
+Environmental protection reviews under the NSCA 
+The CNSC conducts environmental protection reviews (EPRs) for all licence applications with 
+potential environmental interactions in accordance with its mandate under the NSCA to ensure 
+the protection of the environment and the health of persons. An EPR is a science-based 
+environmental technical assessment by CNSC staff as set out in the NSCA. Where there are 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+12 
+ 
+potential environmental interactions, an EPR under the NSCA is conducted for projects not 
+subject to the IAA or other applicable EA legislation (described above). 
+An EPR describes the outcome of CNSC staff’s review of licensing and environmental 
+compliance activities conducted under the NSCA. This review serves to assess whether the 
+applicant or licensee will, in carrying on a licensed activity, make adequate provision for the 
+protection of the environment and health of persons. This assessment is commensurate with the 
+scale and complexity of the environmental risks associated with the nuclear facility or activity. 
+An EPR under the NSCA is a component of the CNSC licensing and compliance verification 
+process. It is carried out as part of the CNSC’s review of all licence applications of facilities and 
+activities that have potential interactions with the environment. CNSC staff assess the 
+environmental and health effects of nuclear facilities and activities at every phase of the lifecycle 
+or duration. At each phase (that is, for each licence application), CNSC staff consider all future 
+phases of the lifecycle, taking into consideration all available information. As with all other safety 
+and control areas (SCAs), an EPR under the NSCA is a process of ongoing verification related to 
+the environmental protection SCA.  
+An EPR under the NSCA is primarily based on information that the applicant or licensee is 
+required to submit to the CNSC through the established licensing process, such as the licence 
+application and its supporting documentation, and information on environmental protection 
+measures. An EPR under the NSCA is also based on compliance and technical assessment 
+activities completed by CNSC staff (for example, reviews of annual environmental monitoring 
+reports and environmental risk assessments). An EPR under the NSCA may also be supported by 
+independent verification activities, such as the CNSC’s independent environmental monitoring 
+program (IEMP), as well as relevant regional health studies, monitoring programs and Indigenous 
+knowledge studies. 
+Within a licensing process, the results of the EPR can be presented in a supporting report to 
+accompany staff’s licensing report to the Commission, or it can be reported directly in that staff 
+licensing report (known as a Commission Member Document (CMD)). Outside of a licensing 
+process, the results of the EPR can be presented in a stand-alone report that is posted on the 
+CNSC website. An EPR report is intended for two key audiences – members of the public and 
+Indigenous groups, and within the context of a licensing process, the Commission. The EPR 
+report is prepared with the following objectives: 
+ 
+publishing a clear report or section that provides transparency to the public and Indigenous 
+groups on CNSC staff’s technical assessment 
+ 
+providing evidence-based information to inform the Commission’s licensing decision (note 
+that no decision is made on the EPR report itself) 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+13 
+ 
+4. 
+Environmental Protection Measures 
+The necessary measures for environmental protection are determined on a facility- or activity-
+specific basis. Note: Not every facility or activity is required to have every environmental 
+protection measure described in this section. The applicant or licensee may address certain 
+requirements by demonstrating that a particular measure is not necessary or does not apply to that 
+facility or activity.  A licence application that describes the nature of the proposed licensed 
+activities is considered sufficient for ensuring protection of the environment, provided CNSC 
+staff conclude that the facility or activities do not interact with the environment. 
+4.1 
+Environmental risk assessment 
+An ERA is a systematic process that identifies, quantifies and characterizes the risk posed by 
+contaminants (nuclear or hazardous substances) and physical stressors in the environment. It is a 
+practice or methodology that provides science-based information to support decision-making and 
+to prioritize the implementation of mitigation measures. 
+The applicant or licensee’s ERA informs an environmental review. The ERA: 
+ 
+identifies facility- or activity-specific characteristics and site-specific environmental 
+characteristics 
+ 
+identifies interactions between those characteristics 
+ 
+assesses the likelihood and significance of these interactions and the resulting potential 
+effects on the environment and the public 
+In conjunction with regulatory monitoring requirements, the ERA and its associated performance 
+predictions serve as the basis for control and monitoring of releases, environmental monitoring, 
+and any supplementary studies. All of these measures are interrelated and managed within the 
+environmental management system (EMS). For additional information on an EMS, see 
+section 4.6. 
+The initial ERA for a new facility or activity is based on best estimates of the facility- or activity-
+specific characteristics. These characteristics are combined with sufficient environmental 
+characterization (such as baseline) to support the assessment of potential interactions with the 
+environment and the potential for associated environmental effects.  
+The ERA uses the facility- or activity-specific estimates of physical disturbances and chemical 
+releases (both nuclear and hazardous substances) to predict: 
+ 
+the source terms of gaseous and liquid discharges 
+ 
+the transport of nuclear and hazardous substances through the environment 
+ 
+public exposure and dose 
+ 
+exposure and effects on representative biota 
+ 
+changes in habitat and effects on species that rely on that habitat 
+These predictions establish the basis for the CNSC’s compliance program for that facility or 
+activity. 
+The applicant or licensee incorporates the results of the initial ERA into their EMS, including the 
+effluent and environmental monitoring measures. The predictions for physical disturbances and 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+14 
+ 
+releases, and the associated environmental behavior and potential effects, are measured and tested 
+using site-specific monitoring. 
+The initial ERA submitted for licensing purposes for a new facility or activity is primarily 
+predictive as it involves assessing the potential effects of a hypothetical facility or activity. As a 
+facility or activity moves through its lifecycle, the ERA is periodically reviewed and revised (see 
+section 4.1.2) using the accumulated site knowledge derived from operational experience, 
+monitoring, special investigations, incorporation of advances in scientific knowledge and, where 
+available, Indigenous traditional knowledge. 
+These “living” ERAs, which are informed by real data from monitoring programs (emissions, 
+effluents, environmental) and current science, are used to assess if the original environmental 
+impact predictions are exceeded or may be exceeded in the future. In this manner, the initial ERA 
+evolves through the life of the facility or activity, remaining current and becoming an 
+increasingly more powerful site-specific tool. 
+Requirements 
+For Class I facilities and uranium mines and mills, the licensee shall conduct an ERA in 
+accordance with CSA N288.6, Environmental risk assessments at Class I nuclear facilities and 
+uranium mines and mills [6]. 
+The ERA shall be completed in a systematic, scientifically defensible manner that identifies, 
+quantifies and characterizes the risk posed by releases of nuclear and hazardous substances and 
+physical disturbances (stressors) on representative human and non-human biota. The licensee 
+shall ensure that the ERA includes, as applicable to the facility or activity, both an ecological risk 
+assessment (EcoRA) for the environment and a human health risk assessment (HHRA) for 
+members of the public. 
+Guidance 
+For facilities or activities other than Class I nuclear facilities and uranium mines and mills, for 
+which the CNSC has determined that there are direct interactions with the environment, the 
+licensee should use the ERA process described in CSA N288.6 [6] in a graded approach as 
+appropriate to their circumstances. For many of these facilities, a simple screening assessment (as 
+described in CSA N288.6) is adequate. Note: Although CSA N288.6 was developed for Class I 
+facilities and uranium mines and mills, the methodology and general principles can be applied to 
+other facilities and activities regulated by the CNSC. 
+Early engagement with the CNSC is encouraged for facilities and activities that are not 
+specifically addressed by CSA N288.6 [6]. The CNSC can provide facility- or activity-specific 
+guidance to assist licensees. 
+4.1.1 
+Complexity of the environmental risk assessment 
+Requirements 
+The applicant or licensee shall identify facility characteristics and activities that may interact with 
+the environment during the relevant phase of the facility or activity’s lifecycle (for example, site 
+preparation, construction, operation and decommissioning). 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+15 
+ 
+This characterization shall include descriptions of facility- or activity-specific performance with 
+respect to: 
+ 
+physical disturbances (for example, footprint for surface structures, below-grade 
+structures, diversions or flow alterations of surface or groundwater) 
+ 
+emissions released to the environment 
+ 
+effluents released to the environment 
+The facility or activity characterization shall be of sufficient detail to assess the potential for 
+effects arising from the proposed maximum quantities and anticipated volumes and flow rates for 
+releases associated with the facility or activity. 
+The applicant or licensee shall present a characterization of the baseline environment (that is, the 
+environment before any development of the facility or activity has started) for any portion of the 
+environment where the site characterization indicates potential for interaction. 
+The applicant or licensee shall use the facility- or activity-specific characterization and the local 
+environmental baseline characterization to identify the potential interactions between the facility 
+or activity and the surrounding environment. Note that these identified interactions will become 
+the focus of further stages within the ERA. 
+The applicant or licensee shall use the potential environmental interactions to support their 
+justification as to the level of complexity for the ERA in accordance with CSA N288.6, 
+Environmental risk assessments at Class I nuclear facilities and uranium mines and mills [6]. 
+Guidance 
+ERAs may be completed in a tiered manner reflecting the complexity of the disturbances and 
+releases associated with the facility or activity and with the complexity or sensitivity of the 
+surrounding environment. This tiered approach allows the rapid completion of simple screening 
+risk assessments for facilities or activities with limited interaction with the receiving environment 
+or the public. However, it also allows for progressively more complex quantitative assessments 
+for facilities or activities when warranted by the severity and the spatial and temporal extent of 
+potential effects (see figure 3). 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+16 
+ 
+Figure 3: Tiered options for environmental risk assessments (simplified from 
+CSA N288.6 [6]) 
+Minimal 
+environmental 
+impact
+Start
+Site characterization 
+ facility
+ environment
+Screening
+Preliminary 
+quantitative 
+analysis
+Detailed 
+quantitative 
+analysis
+Minimal 
+environmental 
+impact
+No 
+environmental 
+interaction
+Initial 
+screening 
+results
+Determine the
+need for, and extent of, 
+monitoring and mitigation
+(see figure 2)
+Environmental protection 
+measures are not required
+ 
+Reviewing and revising the environmental risk assessment 
+Where an ERA exists, the licensee shall review and revise the ERA in accordance with CSA 
+N288.6, Environmental risk assessments at Class I nuclear facilities and uranium mines and 
+mills [6]; taking into consideration whether there has been: 
+ 
+a significant change in the facility or activity that could alter the nature (type or 
+magnitude) of the interactions with the environment (such as modification, expansion or 
+refurbishment of the facility) within the ERA predictions 
+ 
+any transition to a new phase in the lifecycle (such as a transition to licence to operate, 
+decommission or abandon) where the application for the new licensing phase includes 
+any interactions with the environment that were not previously captured in the ERA 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+17 
+ 
+The ERA shall be revised with site knowledge derived from: 
+ 
+operational experience (for example, performance of mitigation measures such as effluent 
+control systems) 
+ 
+results of monitoring 
+ 
+supplementary studies 
+ 
+incorporation of recent developments in scientific knowledge 
+The revised ERA shall be used to assess the environmental performance of the facility or activity. 
+The ERA shall also be used to predict continued future performance and associated 
+environmental effects of the facility or activity. 
+If the revised ERA indicates that the nature, extent and significance of environmental effects are 
+greater than  predicted, the licensee shall: 
+ evaluate the environmental effects in terms of risk 
+ investigate mitigation measures as necessary 
+ identify any changes needed to the effluent and emissions monitoring measures resulting 
+from any mitigation measures 
+4.2 
+Effluent and emissions control and monitoring 
+Controls on environmental releases are established to provide protection to the environment and 
+to respect the principles of sustainable development and pollution prevention. 
+Requirements 
+The preventive and control measures shall be based on the potential risks to the environment that 
+the facility or activity may pose. 
+The effluent and emissions control and monitoring shall: 
+ 
+identify and document the infrastructure and activities (such as pipelines or storage) with the 
+potential for significant accidental release to the environment of nuclear and hazardous 
+substances and the barriers (such as primary and secondary containment, and liners) to 
+prevent releases 
+ 
+identify and document the points of release to the environment and the corresponding 
+preventive control measures and equipment necessary to regulate and control the release of 
+these nuclear and hazardous substances in the authorized manner 
+ 
+estimate or measure, document and report the quality and quantity of releases to the 
+environment 
+ 
+verify the nature and quantity of releases against compliance criteria (such as authorized 
+release limits), performance indicators (such as action levels) and the predictions of releases 
+used as input parameters for the site-specific ERA 
+ 
+evaluate mitigation measures to further control releases when the monitoring results identify 
+deviations from the expected performance 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+18 
+ 
+4.2.1 
+Control of environmental releases 
+The effluent and emissions preventive and control measures are established on the basis of best 
+industry practice, incorporating the application of BATEA, ALARA, process optimization, 
+continuous improvement and the results of an ERA. 
+Guidance 
+A licensee’s effluent and emissions control should address the following: 
+ 
+BATEA assessment of pollution prevention and control technologies: 
+o design and maintenance of engineered barriers between key waste streams and 
+sources of nuclear and hazardous substances (for example, double-lined piping, 
+secondary containment and sumps, waste rock pads and pond liners), with 
+maintenance programs to ensure the integrity of these barriers 
+o wastewater treatment systems (for example, precipitation and settling systems, 
+ion-exchange columns, evaporators and membrane separation systems such as 
+reverse osmosis) that minimize the contaminants released to surface waters from 
+liquid effluent streams with maintenance programs to ensure the availability and 
+performance of these systems 
+o air pollution control technology systems (for example, HEPA filters, baghouse 
+filters, wet/dry scrubbers, absorption/adsorption systems) that minimize air 
+pollutants released to the environment via air emissions through stacks or as 
+fugitive emissions from the facilities with maintenance programs to ensure the 
+availability and performance of these systems 
+ 
+BATEA assessment of techniques: 
+o a focus on BATEA optimization; that is, the application of pollution prevention 
+performance standards, design objectives and best practices to minimize or 
+eliminate the release of nuclear or hazardous substances to the environment: 
+ 
+both operational and managerial practices that can influence the quality 
+of releases to the environment (for example, upstream and downstream 
+process optimization, adequate training of staff and effective overall 
+management of the operation) 
+ 
+application and continual review of action levels as indicators of a 
+potential loss of control of the site-specific environmental protection 
+measures, to ensure the process is operating within its approved design 
+specification and normal operating conditions 
+o ALARA assessments (minimization-focused); that is, the application of radiation 
+protection principles to effectively minimize human and environmental exposure 
+to nuclear substances 
+ 
+processes and procedures to ensure effective management of the effluent and emission 
+control systems within an EMS (for example, maintenance of treatment systems, timely 
+replacement of filters, calibration of monitoring equipment and procedures detailing 
+appropriate responses to action level exceedances) 
+After the facility or activity is licensed, BATEA assessments of pollution prevention and control 
+technologies for releases are necessary only where effects exceed, or may exceed, those identified 
+in the ERA and adaptive management involving the modification or reduction of releases of 
+specific nuclear or hazardous substances is indicated. 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+19 
+ 
+Assessments of techniques and the processes and procedures for ensuring effective effluent and 
+emission control programs should be reviewed as part of the EMS requirement for continuous 
+improvement. 
+4.2.2 
+Monitoring of releases to the environment 
+In conjunction with specific regulatory monitoring requirements, the ERA provides the technical 
+foundation and structure for identifying the need for, and details of, effluent and emissions 
+monitoring. The site-specific effluent and emissions monitoring is designed using the 
+characterization of the locations, the anticipated volume, chemistry and flow rate of releases, and 
+the proposed maximum quantities and concentrations of nuclear and hazardous substances 
+(including their physical, chemical and radiological characteristics). 
+For facilities and activities with no significant measurable releases to the environment, effluent 
+and emissions monitoring is not required. In such cases, the licensee should demonstrate (through 
+engineering or scientific methods) that appropriate barriers and practices are in place, and are 
+monitored and maintained to prevent releases to the environment. 
+For facilities and activities where the releases are of low risk or quantities are too low or too 
+difficult to measure, monitoring is not required. The licensee may estimate emissions based on 
+site-specific process chemistry and engineering principles. 
+Requirements 
+For Class I nuclear facilities and uranium mines and mills, the effluent and emissions monitoring 
+shall address the requirements in CSA N288.5, Effluent monitoring programs at Class I nuclear 
+facilities and uranium mines and mills [5].  
+The effluent and emissions monitoring shall be designed and implemented: 
+ 
+to demonstrate compliance with authorized release limits 
+ 
+to respond to any action levels or other performance indicators, internal objectives or 
+targets set on releases for effluent control 
+ 
+to confirm the adequacy of controls on releases from the source 
+ 
+to provide supportive data required to assess the level of risk on human health and safety 
+and potential effects on the environment as determined by the ERA or regulation 
+In addition, the licensee shall ensure that the effluent and emissions monitoring: 
+ 
+demonstrates that controlled releases to water frequented by fish are not acutely lethal 
+ 
+supports and assesses the adequacy of any adaptive management measures 
+For Class I nuclear facilities and uranium mines and mills, the applicant or licensee shall assess 
+and document the need for action levels. The applicant or licensee shall engage with CNSC staff 
+on the requirements for establishing and implementing action levels for releases to the 
+environment. 
+For facilities and activities subject to the Uranium Mines and Mills Regulations, the licensee shall 
+develop a facility-specific code of practice that includes, where appropriate, action levels for 
+releases of nuclear and hazardous substances to the environment. 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+20 
+ 
+The applicant or licensee shall assess for acute lethality any effluents that are released to water 
+frequented by fish and that contain hazardous substances that could be considered deleterious 
+under the Fisheries Act. Meeting existing federal or provincial requirements for toxicity testing 
+shall be considered as satisfying this requirement. Otherwise, the method(s), frequency of testing 
+and actions to be implemented as a result of a test failure shall be developed during licensing and 
+shall be informed by existing standard practices applied to other industrial sectors. 
+Guidance 
+For facilities or activities other than Class I nuclear facilities and uranium mines and mills, for 
+which the CNSC has determined that there are direct interactions with the environment, the 
+licensee should use the process described in CSA N288.5 [5] in a graded approach as appropriate 
+to their circumstances. Note: Although CSA N288.5 [5] was developed for Class I facilities and 
+uranium mines and mills, the methodology and general principles can be applied to other 
+facilities and activities regulated by the CNSC. 
+The measurement and evaluation of environmental releases are key to verifying the efficacy of 
+preventive and control measures. The overall process should include feedback mechanisms (both 
+periodic and continual) to assess and implement actions to achieve performance targets. 
+Monitoring should be conducted on a temporal scale relevant to the nature and complexity of the 
+release (such as intermittent, continuous or batch), and should use a standard sampling 
+methodology (or a non-standard methodology approved by CNSC staff) that is appropriate for the 
+type of release (see figure 4). 
+Figure 4: Types of releases that may be associated with a nuclear facility or activity that can 
+influence sampling methodology and frequency (CSA N288.5 [5]) 
+ 
+Effluent and emission monitoring addresses both the nature and quantities of releases of nuclear 
+and hazardous substances (including wastes). Performance indicators for operational control, such 
+as action levels (where required), should be established to serve as early indicators of potential 
+loss of control or deviation from expected quality or quantity of releases. Performance indicators 
+should be designed to initiate investigation of abnormal situations and, if necessary, result in 
+corrective measures. Measurement and evaluation should be coordinated to permit timely 
+corrective action. 
+For facilities and activities other than Class I nuclear facilities and uranium mines and mills, for 
+which the CNSC has determined that there are direct interactions with the environment, licensees 
+should consider incorporating the development of similar environmental performance indicators, 
+such as action levels, in their effluent and emission monitoring. 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+21 
+ 
+4.3 
+Environmental monitoring 
+Environmental monitoring consists of a risk-informed set of integrated and documented activities 
+to sample, measure, analyze, interpret and report one or all of: 
+ 
+the concentration of nuclear and hazardous substances in environmental media to assess 
+one or both of: 
+o the exposure of receptors to those substances 
+o the potential effects on human health, safety and the environment 
+ 
+the intensity of physical stressors and/or their potential effect on human health and the 
+environment 
+ 
+the physical, chemical and biological parameters of the environment normally considered 
+in the design of the environmental monitoring necessary to support the interpretation of 
+the results; some examples are supportive data for transport (such as wind velocity) or 
+toxicity assessment (such as organic carbon or hardness) or measurements at reference 
+stations (where incorporated in the monitoring) 
+Requirements 
+For Class I nuclear facilities and uranium mines and mills, the licensee shall ensure that the 
+environmental monitoring addresses CSA N288.4, Environmental monitoring programs at 
+Class I nuclear facilities and uranium mines and mills [4]. 
+The licensee shall use applicable regulatory monitoring requirements and the ERA to identify the 
+need for and complexity of the environmental monitoring. The licensee shall provide justification 
+to support whether ERA-derived environmental monitoring is required. In the justification, the 
+licensee shall address: 
+ 
+characteristics of the licensed facility or activity 
+ 
+characteristics of the surrounding environment 
+ 
+nuclear and hazardous substances and physical stressors 
+ 
+receptors that can be affected 
+ 
+spatial extent of potential exposures 
+ 
+severity, probability, and spatial and temporal extent of any potential biological effects 
+The licensee shall ensure that the environmental monitoring measures, plans and data provide 
+sufficient information to assess exposure or potential effects on human health and the 
+environment due to releases or physical perturbations resulting from the facility or activity. 
+The licensee shall ensure that the results of the environmental monitoring are used to confirm that 
+the effects on the environment are within the licensing predictions and adequate provisions are in 
+place to protect the environment. 
+Guidance 
+For facilities or activities other than Class I nuclear facilities and uranium mines and mills, for 
+which the CNSC has determined that there are direct interactions with the environment, the 
+licensee should use the process described in CSA N288.4, Environmental monitoring programs 
+at Class I nuclear facilities and uranium mines and mills [4] in a graded approach, as appropriate 
+to their circumstances. Note: Although CSA N288.4 [4] was developed for Class I facilities and 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+22 
+ 
+uranium mines and mills, the methodology and general principles can be applied to other 
+facilities and activities regulated by the CNSC. 
+Monitoring for the presence of stressors (physical stressors or nuclear and hazardous substances) 
+in the environment is sometimes more informative than monitoring the release at the source. The 
+practice of monitoring ambient air quality is common for atmospheric emissions, especially 
+fugitive or diffuse emissions (such as radon from ore pads). 
+The results of the environmental monitoring should: 
+ 
+be used to validate the predictions related to transport of nuclear and hazardous 
+substances through the environment and the magnitude and extent of any effects 
+predicted in the site-specific ERA to determine if the facility or activity continues to 
+operate within its predicted environmental performance 
+ 
+be periodically reviewed (in conjunction with the periodic revision and update of the 
+ERA) as to its adequacy for testing the environmental predictions 
+ 
+be modified as necessary to support and assess the adequacy of any adaptive management 
+measures 
+Environmental monitoring may involve three basic types of monitoring objectives (see CSA 
+N288.4 [4]): 
+ 
+pathways monitoring 
+ 
+biological effects monitoring 
+ 
+supplementary studies 
+Pathways monitoring is the most common form of monitoring. It involves sampling and 
+analyzing abiotic and biotic media that lie along the pathways connecting a source (that is, a 
+release from a facility or activity) to a receptor (such as non-human biota or the public) to 
+determine the concentration or level of a contaminant or physical stressor in that medium. This 
+data, combined with environmental transfer parameters that describe the movement of 
+contaminants or physical stressors through the environment, may be used to assess the exposure 
+of the receptor. Some examples of the most common sampling media are: 
+ 
+components of air, water, soil and sediment 
+ 
+vegetation consumed by herbivorous receptors 
+ 
+tissues of prey animals consumed by carnivorous receptors 
+ 
+foodstuffs consumed by humans 
+Such environmental monitoring is only necessary for those facilities or activities where the 
+releases have the potential to be measurable within the environment. The monitoring details, with 
+respect to the analytes being measured (physical stressors, nuclear and hazardous substances) and 
+the media to be sampled (air, water, and so on), are dependent on the scale and complexity of the 
+risks associated with the facility or activity. 
+Biological effects monitoring is used to detect actual measurable biological responses of 
+organisms to exposure to the stressor. For regulatory purposes, responses at the individual, 
+population or community level of biological organization are considered to be more relevant as 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+23 
+ 
+indicators of ecological effects. Some examples of biological effects monitoring that may be 
+relevant depending on the risk posed by the facility or activity include: 
+ 
+toxicity testing using exposure media (such as effluent receiving waters or exposed 
+sediments) 
+ 
+fish health and population indicators (such as gonadal somatic index and egg production) 
+ 
+monitoring of plant or benthic invertebrate community composition (benthic 
+invertebrates or plants) 
+Supplementary studies may be conducted to achieve specific well-defined objectives such as: 
+ 
+providing the data required to reduce uncertainty and confounding factors in the ERA 
+ 
+increasing knowledge of the behavior of contaminants and physical stressors in the 
+environment (for example, refining environmental transfer parameters) 
+ 
+investigating monitoring results that indicate potential deviation from the transport or effects 
+predictions in the ERA or the licensing basis 
+4.4 
+Public dose 
+Radiological releases to the environment are controlled and monitored by the effluent and 
+emissions control and monitoring and the environmental monitoring. Results of these monitoring 
+and control activities are used to determine dose to members of the public. 
+A human health risk assessment (HHRA) is completed as a sub-element of an ERA for both 
+nuclear and hazardous substances. 
+Requirements 
+The Radiation Protection Regulations define prescribed dose limits for workers and members of 
+the public, and require doses to be monitored by direct measurement or by estimation of the 
+quantities and concentrations of any nuclear substance released as a result of a licensed activity. 
+The Radiation Protection Regulations require licensees to implement a radiation protection 
+program for protection of the public. The focus for radiation protection within the environmental 
+protection framework is on radiological protection of the environment and the public. 
+Guidance 
+The development of a radiation protection program should be based on a sound policy, strategy 
+and method for radiation protection and the achievement of ALARA, while taking into 
+consideration the pathways and critical groups identified in the derived release limits (DRL) 
+document (CSA N288.1, Guidelines for calculating derived release limits for radioactive 
+material in airborne and liquid effluents for normal operation of nuclear facilities [3]). 
+The licensee should design the radiation protection program commensurate with the radiological 
+hazards associated with the licensed activities, based on an ERA and including radiation exposure 
+and dose assessments. 
+4.5 
+Groundwater protection and monitoring 
+Groundwater protection is a specialized element of the overall environmental protection 
+measures. As groundwater flow and associated contaminant transport can be more difficult to 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+24 
+ 
+detect and delineate than that of surface water, specific requirements and guidance are provided 
+here. 
+Groundwater protection is an inter-related system of initiatives, processes and activities with the 
+overall goal of protecting the quality and quantity of groundwater by minimizing interactions 
+with the environment from activities associated with a nuclear facility, allowing for effective 
+management of groundwater resources. 
+Requirements 
+For Class I nuclear facilities and uranium mines and mills, the licensee shall ensure that the need 
+for and design of groundwater protection programs and associated monitoring address CSA 
+N288.7, Groundwater protection programs at Class I nuclear facilities and uranium mines and 
+mills [7]. 
+The applicant or licensee shall implement a groundwater protection program in a graded 
+approach, appropriate to their circumstances, to: 
+ 
+prevent or minimize releases of nuclear or hazardous substances to groundwater 
+ 
+prevent or minimize the effects of physical stressors on groundwater end uses 
+ 
+confirm that adequate measures are in place to stop, contain, control and monitor any 
+releases and physical stressors that can occur under normal operation 
+Guidance 
+For facilities or activities other than Class I nuclear facilities and uranium mines and mills, for 
+which the CNSC has determined that there are direct interactions with the environment, the 
+applicant or licensee should implement a groundwater protection program and associated 
+monitoring program in accordance with CSA N288.7, Groundwater protection programs at 
+Class I nuclear facilities and uranium mines and mills [7] in a graded approach as appropriate to 
+their circumstances. Note: Although CSA N288.7 [7] was developed for Class I facilities and 
+uranium mines and mills, the methodology and general principles can be applied to other 
+facilities and activities regulated by the CNSC. 
+Groundwater protection programs are developed on a site-specific basis and should consider the 
+following elements: 
+ 
+identification of sources of contaminants of concern 
+ 
+investigation of releases under normal operation and source characterization 
+ 
+site characterization 
+ 
+assessment of groundwater end-use 
+ 
+assessment of groundwater vulnerability 
+ 
+development of a groundwater monitoring program 
+ 
+risk management (as required) 
+4.6 
+Environmental management system 
+An environmental management system (EMS) refers to the management of an organization’s 
+environmental policies, measures and procedures in a comprehensive, systematic, planned and 
+documented manner. It includes the organizational structure, planning and resources for 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+25 
+ 
+developing, implementing and maintaining policy for environmental protection and for 
+continuous improvement by: 
+ 
+identifying and managing environmental risks associated with a facility or activity (see 
+section 3 and section 4.1) 
+ 
+the identification, implementation and maintenance of pollution control activities and 
+technologies (see section 4.2.1) 
+ 
+monitoring of releases (see section 4.2.2) 
+ 
+monitoring of contaminants and for their potential effects in the environment (see 
+section 4.3) 
+In addition, the EMS should address environmental emergency preparedness. 
+The EMS serves as the management tool for integrating all of the applicant or licensee’s 
+environmental protection measures in a documented, managed and auditable process by: 
+ 
+identifying and managing non-compliances and corrective actions within the activities, 
+through internal and external inspections and audits 
+ 
+summarizing and reporting the performance of these activities, both internally (licensee’s 
+management structure) and externally (to the Commission and the public) 
+ 
+training of the personnel involved in these activities 
+ 
+ensuring the availability of resources (such as qualified personnel, organizational 
+infrastructure, technology and financial resources) 
+ 
+defining and delegating roles, responsibilities and authorities essential to effective 
+environmental management 
+The EMS may be implemented within the licensee’s integrated management system. 
+Requirements 
+For Class I nuclear facilities and uranium mines and mills, the licensee shall manage their 
+environmental protection measures within an EMS that reflects the nature and complexity of their 
+environmental protection measures. 
+The licensee shall: 
+ 
+establish, implement and maintain an EMS that meets the requirements set by 
+CAN/CSA ISO 14001, Environmental Management Systems – Requirements with 
+Guidance for Use (2004 edition or successor editions) [1, 2] 
+ 
+ensure that the scope of the EMS is consistent with the definition of environment, 
+environmental effects and pollution prevention provided in the glossary of this regulatory 
+document 
+ 
+conduct internal audits at planned intervals so that all elements of the EMS are audited on 
+at least a five-year cycle 
+ 
+conduct an annual management review 
+Guidance 
+For facilities or activities other than Class I nuclear facilities and uranium mines and mills, for 
+which the CNSC has determined that there are direct interactions with the environment, the 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+26 
+ 
+applicant or licensee should manage their environmental protection measures within an EMS that 
+reflects the nature and complexity of their environmental protection measures. 
+In addition to the information provided in this regulatory document, the licensee should refer to 
+the following documents: 
+ 
+CAN/CSA ISO 14001, Environmental Management Systems – Requirements with 
+Guidance for Use (2004 edition or successor editions) [1, 2] 
+ 
+CAN/CSA ISO 14004, Environmental Management Systems – General Guidelines on 
+Principles, Systems and Support Techniques [11] 
+Note: The CNSC does not consider certification to CAN/CSA ISO 14001 by an authorized 
+registrar or other independent third party as solely sufficient for demonstrating compliance with 
+the requirements. The CNSC evaluates all activities in relation to the requirements of this 
+regulatory document. The CNSC’s compliance verification focuses on the effectiveness of the 
+EMS rather than on the licensee’s adherence to CAN/CSA ISO 14001 (2004 edition or successor 
+editions) [1, 2]. 
+During the design of an EMS, the ISO documents provide guidance and information that may be 
+useful; however, the licensee should note that, as a federal agency, the CNSC has adopted certain 
+key concepts in environmental protection from other federal statutes. Where applicable, the 
+CNSC expects licensees to apply the more-demanding meanings from federal legislation in the 
+scope of their EMS. 
+To avoid misinterpretation of these concepts, the licensee should review the following differences 
+between key concepts in federal legislation and those in CAN/CSA ISO 14001 (2004 edition or 
+successor editions) [1, 2] and consider them in the scope of their EMS: 
+ 
+the CNSC’s definitions of environment, environmental effect (i.e., impact) and pollution 
+prevention (i.e., prevention of pollution) in this regulatory document are taken from federal 
+legislation and are broader than the definitions of the related terms in CAN/CSA 
+ISO 14001 (2004 edition or successor editions) [1, 2] 
+ 
+in both the NSCA and the Canadian Environmental Protection Act, 1999 (CEPA 1999), risk 
+is a key concept in environmental protection that is not addressed in CAN/CSA 
+ISO 14001 [1, 2] 
+ 
+the licensee should use the ERA as one of the core sources to inform the significant 
+environmental aspects and effects of the EMS 
+ 
+CAN/CSA ISO 14001 [1, 2] provides only minimal guidance on the interpretation of adverse 
+environmental effects 
+Pollution prevention is the key principle underlying the management of hazardous substances in 
+Canada. Section 64 of CEPA 1999 defines the nature of toxic substances, explicitly defining 
+unreasonable risk for certain scheduled substances. For other potentially hazardous substances 
+that are not subject to legislation, unreasonable risk may be interpreted in terms of likely 
+significant adverse effects. This concept is nearly equivalent to the CAN/CSA ISO 14001 [1, 2] 
+concept of significant environmental effects. In the CNSC licensing process for Class I nuclear 
+facilities and uranium mines and mills, the process for an EPR under the NSCA or an impact 
+assessment under the Impact Assessment Act provides an initial framework for identifying and 
+assessing the equivalent of ISO-significant environmental aspects in an appropriate context. This 
+information can provide the initial foundation for the scope of the EMS. 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+27 
+ 
+For nuclear substances, the Radiation Protection Regulations require exposure and doses to 
+persons to be managed according to the ALARA (as low as reasonably achievable) principle, 
+while taking social and economic factors into account. G-129, Keeping Radiation Exposures and 
+Doses “As Low As Reasonably Achievable (ALARA)” [8] provides additional information. 
+The Radiation Protection Regulations define risk for workers and the public through prescribed 
+dose limits, and require doses to be monitored by direct measurement or by estimation of the 
+quantities and concentrations of any nuclear substance released as a result of the licensed activity. 
+The EMS framework should cover the assessment of releases and potential effects, the measures 
+to control releases of nuclear substances and hazardous substances into the environment, and the 
+measures taken to prevent or mitigate potential effects. 
+The framework should be appropriate for the type of facility or activity and the licensing phase, 
+and should be commensurate with overall regulatory requirements. In addition to the 
+environmental protection measures described in detail earlier, the EMS should address  
+environmental emergency preparedness. 
+4.6.1 
+Environmental emergency preparedness 
+The licensee should address environmental emergency preparedness and response in terms of: 
+ 
+the proposed measures to prevent or mitigate the effects of accidental releases of nuclear 
+and hazardous substances on the environment 
+ 
+the proposed measures to ensure the availability and accessibility of environmental 
+monitoring instrumentation during emergencies 
+ 
+the inclusion of environmental monitoring instrumentation and equipment layouts in 
+emergency plans 
+The licensee should address reporting requirements for potential or real emergency situations. 
+For additional guidance, refer to REGDOC-2.10.1, Nuclear Emergency Preparedness and 
+Response [12]. 
+4.6.2 
+Other considerations 
+The licensee should describe elements of the EMS related to worker training or qualifications, 
+and the environmental protection obligations of workers. The licensee should demonstrate how 
+training programs will enable workers to meet their obligations with respect to environmental 
+protection. 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+28 
+ 
+Appendix A: Environmental Assessments Under CEAA 2012 
+Note: Projects with environmental assessments (EA) already initiated under the Canadian 
+Environmental Assessment Act (2012) (CEAA 2012) and led by the CNSC will continue under 
+their current processes, as per the transition provision (section 182) of the IAA. The following 
+appendix is relevant to those ongoing projects and will remain in this regulatory document for 
+reference purposes until those projects are completed. 
+The CNSC ensures that the environmental assessment (EA) requirements of the Canadian 
+Environmental Assessment Act, 2012 (CEAA 2012) are met for designated projects (described in 
+CEAA 2012) that are regulated under the Nuclear Safety and Control Act (NSCA). 
+An EA under CEAA 2012: 
+ 
+predicts the environmental effects of a proposed designated project 
+ 
+identifies mitigation measures 
+ 
+assesses whether the proposed project is likely to cause significant adverse environmental 
+effects, taking into account the identified mitigation measures 
+ 
+ensures a follow-up program is developed to verify the accuracy of the EA predictions 
+under CEAA 2012 and the effectiveness of any mitigation measures 
+An EA conducted under CEAA 2012 is a planning tool. It is carried out early in the licensing 
+process (before any licence is granted) and considers the entire proposed lifecycle of a project. An 
+EA under CEAA 2012 includes information prepared by the applicant and CNSC staff, as well as 
+comments received from Indigenous groups and the public. After reviewing the EA, the 
+Commission determines if the proposed project is likely to cause significant adverse 
+environmental effects, taking into consideration the implementation of mitigation measures. 
+In accordance with paragraph 15(a) of CEAA 2012, the CNSC is the sole federal responsible 
+authority (RA) for conducting an EA for designated projects regulated under the NSCA and 
+described in the Regulations Designating Physical Activities, as follows: 
+“31 The construction, operation and decommissioning of a new uranium mine or uranium 
+mill on a site that is not within the licensed boundaries of an existing uranium mine or 
+uranium mill. 
+32 The expansion of an existing uranium mine or uranium mill that would result in an 
+increase in the area of mine operations of 50% or more. 
+33 The construction, operation and decommissioning of a new 
+(a) facility for the processing, reprocessing or separation of an isotope of uranium, thorium, 
+or plutonium, with a production capacity of 100 t/year or more; 
+(b) facility for the manufacture of a product derived from uranium, thorium or plutonium, 
+with a production capacity of 100 t/year or more; or 
+(c) facility for the processing or use, in a quantity greater than 1015 Bq per calendar year, of 
+nuclear substances with a half-life greater than one year, other than uranium, thorium or 
+plutonium. 
+34 The expansion of an existing 
+(a) facility for the processing, reprocessing or separation of an isotope of uranium, thorium 
+or plutonium that would result in an increase in production capacity of 50% or more and 
+a total production capacity of 100 t/year or more; 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+29 
+ 
+(b) facility for the manufacture of a product derived from uranium, thorium or plutonium that 
+would result in an increase in production capacity of 50% or more and a total production 
+capacity of 100 t/year or more; or 
+(c) facility for the processing or use, in a quantity greater than 1015 Bq per calendar year, of 
+nuclear substances with a half-life greater than one year, other than uranium, thorium or 
+plutonium, that would result in an increase in processing capacity of 50% or more. 
+35 The construction, operation and decommissioning of a new nuclear fission or fusion 
+reactor. 
+36 The expansion of an existing nuclear fission or fusion reactor that would result in an 
+increase in power output of 50% or more. 
+37 The construction and operation of a new 
+(a) facility for the storage of irradiated fuel or nuclear waste, on a site that is not within 
+the licensed perimeter of an existing nuclear facility; or 
+(b) facility for the long-term management or disposal of irradiated fuel or nuclear waste. 
+38 The expansion of an existing facility for the long-term management or disposal of 
+irradiated fuel or nuclear waste that would result in an increase in the area, at ground level, of 
+the facility of 50% or more.” 
+The Minister of Environment and Climate Change Canada may also designate a physical activity 
+that is not prescribed by the Regulations Designating Physical Activities if the project may cause 
+adverse environmental effects or if there are public concerns related to those effects. 
+For these designated projects: 
+ 
+the CNSC must make an EA decision in accordance with section 52 of CEAA 2012 
+before a regulatory decision can be made under the NSCA to allow the project to proceed 
+ 
+if the CNSC determines that the project is not likely to cause significant adverse 
+environmental effects in accordance with subsection 52(1) of CEAA 2012, then in 
+accordance with section 53 and through the licensing process, the CNSC establishes the 
+mitigation measures and, where applicable, follow-up activities that the applicant must 
+implement 
+ 
+if the CNSC determines that the project is likely to cause significant adverse 
+environmental effects, then in accordance with section 52(2) of CEAA 2012, the CNSC 
+will refer to the Governor in Council the matter of whether those effects are justified in 
+the circumstances 
+Licensing, compliance and verification activities undertaken by CNSC staff ensure that the 
+applicant has implemented the mitigation measures identified in the EA. Where applicable, the 
+licensing, compliance and verification activities will also be used to ensure the implementation of 
+a follow-up program. 
+If an applicant proposes to carry on an activity following the completion of an EA under 
+CEAA 2012, the applicant must complete the CNSC licensing process, including safety and 
+control measures for protection of the environment and of the health and safety of persons. 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+30 
+ 
+A.1 
+Environmental assessment under CEAA 2012 conducted by the CNSC 
+The applicant chooses whether to complete an EA under CEAA 2012 via an integrated approach 
+with the CNSC licensing process, or a sequential approach. 
+Under an integrated approach, the EA is conducted at the same time as the review of the 
+information in the applicant’s licence application, enabling CNSC staff to present their 
+recommendations for the EA and the licence application to the Commission at the same 
+Commission proceeding (for example, a meeting, a hearing or an abridged hearing). 
+Under a sequential approach, the EA is conducted first, with a subsequent review of the licence 
+application. This approach may be more appropriate when, for example, an applicant uses the EA 
+to assess the feasibility of a project. 
+Note: 
+ 
+after the EA is completed, the applicant is responsible for submitting all remaining 
+documentation to fulfill the CNSC’s licensing requirements to undertake project activities 
+ 
+if sufficient time elapses between the EA decision and the submission of the 
+corresponding licence application that there is new science and/or technology, new 
+policy, changes in the environment, or any project modifications with a potentially 
+different impact on the environment, CNSC staff may require the applicant to update the 
+previous EA information to take into account these additional considerations 
+CEAA 2012 does not set regulated timelines for EAs conducted by the CNSC. However 
+(pursuant to the Class I Nuclear Facilities Regulations and the Uranium Mines and Mills 
+Regulations), the CNSC is committed to completing this process within the 24-month federal 
+timeline for a licensing decision under the integrated approach. Furthermore, CNSC staff’s 
+service standard for completing an EA under CEAA 2012 under a sequential approach is also a 
+24-month federal timeline. Adherence to this schedule, for both integrated and sequential 
+approaches, is facilitated by the completeness of information received from applicants, and the 
+process will begin when the notice of commencement is posted.  
+Note: The 24-month federal timeline applies to CNSC activities, and not to the time periods 
+required for steps outside the CNSC’s control, such as time the applicant needs to prepare 
+technical studies or to respond to requests for additional information or circumstances that are 
+specific to the project. 
+Figure 5 and table A outline the CNSC’s process for completing an EA under CEAA 2012. 
+ 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+31 
+ 
+Figure 5: Overview of the environmental assessment process under CEAA 2012, using an integrated or sequential approach 
+Licence 
+application 
+and project 
+description 
+received 
+Technical review of licence application
+EA and 
+licensing 
+hearing
+Public and Indigenous review
+Conduct of the EA2
+Integrated EA and licensing process
+Sequential EA and licensing process
+Initial licence 
+application 
+and project 
+description 
+received
+EA hearing
+Public and Indigenous review
+Conduct of the EA2
+1 If the project is not listed in the Regulations Designating Physical Activities, then an environmental protection review under the NSCA will be carried out (refer to section 3).
+2 The CNSC may delegate the conduct of the EA or any part thereof to another jurisdiction. In such cases, the responsibility for making a decision under CEAA 2012 remains with the Commission.
+Pre-project 
+consultation 
+EA and
+licensing 
+decision
+EA report and 
+CNSC 
+licensing 
+document
+Determination of 
+EA process1
+EA report
+Determination of 
+EA process1
+Pre-project 
+consultation 
+Indigenous engagement
+Indigenous engagement
+EA decision
+Public engagement
+Public engagement
+Licensing 
+process
+Licensing 
+decision
+ 
+ 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+32 
+ 
+Table A: Key steps for an environmental assessment under CEAA 2012 
+Step 
+Action  
+Step 1 
+Applicant conducts pre-project engagement with the CNSC 
+Step 2 
+Sequential approach: Applicant submits a project description and initial licence application 
+Integrated approach: Applicant submits a project description and licence application  
+Step 3 
+CNSC staff determine if an EA under CEAA 2012 is required 
+Step 4 
+CNSC staff define participation opportunities 
+Step 5 
+Commission determines the scope of the EA 
+Step 6 
+Applicant conducts technical studies and submits the environmental impact statement (EIS) 
+Step 7 
+CNSC staff perform a technical review of the EIS 
+Step 8 
+CNSC staff draft and issue the EA report 
+Step 9 
+Commission proceeding (meeting, hearing or abridged hearing) on the EA report 
+ 
+Note: Public and Indigenous group participation opportunities, carried out by both the CNSC and the 
+applicant, occur throughout this process. 
+A.2 
+Key steps for an environmental assessment under CEAA 2012 
+The process for an EA conducted by the CNSC under CEAA 2012 includes the following key 
+steps. 
+Step 1: Applicant conducts pre-project engagement with the CNSC 
+Applicants may begin to determine the feasibility of a project before submitting a project 
+description and (for an integrated approach) a licence application. Early communication with the 
+CNSC is recommended, to help applicants: 
+ 
+identify projects that must undergo an EA in accordance with CEAA 2012 
+ 
+understand the regulatory requirements 
+ 
+understand the CNSC’s EA and licensing processes (that is, an integrated EA compared 
+to a sequential EA) and the associated anticipated timelines 
+ 
+clarify the information to be included in the project description 
+ 
+identify the potential involvement of other jurisdictions 
+ 
+identify Indigenous groups whose Indigenous or treaty rights may be affected or 
+Indigenous groups with an interest in the project 
+ 
+determine the appropriate level of public and Indigenous engagement activities 
+To facilitate planning, the CNSC encourages applicants and licensees to submit their project 
+descriptions as early as possible. 
+The CNSC may allow some applicants to apply a graded approach to the requirements for a 
+project description as set out in the Prescribed Information for the Description of a Designated 
+Project Regulations. This possibility should be discussed and determined during pre-project 
+engagement. 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+33 
+ 
+For early engagement and planning purposes, the CNSC may initiate early discussions with other 
+federal, provincial or territorial authorities and Indigenous groups as soon as an applicant 
+indicates their intent to seek regulatory approval for a proposed project. The objective of early 
+engagement is to support a more timely and efficient process for the EA under CEAA 2012. For 
+more information, see step 4, below. 
+Step 2: Applicant submits a project description and/or licence application 
+For a sequential approach applied to a proposed new facility (that requires a new licence 
+application), the applicant submits both of the following: 
+ 
+a project description that provides the information set out in the Prescribed Information 
+for the Description of a Designated Project Regulations 
+ 
+an initial licence application with the necessary information needed to start the EA 
+process, and a schedule for submission of the remaining material 
+For a sequential approach applied to an existing facility with proposed new activities (that 
+requires a licence amendment), the applicant submits a project description only. 
+For an integrated approach, the applicant submits both of the following: 
+ 
+ a project description that provides the information set out in the Prescribed Information 
+for the Description of a Designated Project Regulations 
+ 
+a licence application 
+The CNSC may request additional information, even if the project description generally conforms 
+to these regulations, as required to complete the EA determination. 
+Step 3: CNSC determines if an EA under CEAA 2012 is required 
+A nuclear project undergoes an EA under CEAA 2012 if it meets the description of a designated 
+project in the Regulations Designating Physical Activities or if it has been designated by the 
+Minister of Environment and Climate Change Canada. Using the information provided in the 
+project description, the CNSC determines if the project is a designated project, and completes an 
+EA determination memorandum that documents the findings. 
+If an EA under CEAA 2012 is required, the CNSC informs the applicant. 
+If an EA under CEAA 2012 is not required, the applicant must still meet CNSC licensing 
+requirements before the licence is issued, including submission of information that allows CNSC 
+staff to conduct an EA under the NSCA to ensure the applicant or licensee will, in carrying out 
+the project, ensure the protection of the environment and of the health of persons, as described in 
+section 3. 
+For an EA under CEAA 2012: 
+ 
+As the sole federal responsible authority for nuclear projects, the CNSC contacts provincial 
+jurisdictions to determine if there are any other provincial EA requirements. Where 
+applicable, the CNSC works with other jurisdictions to determine if their EA requirements 
+can be addressed through a single EA process (to reduce duplication and provide regulatory 
+efficiency). Relevant federal and provincial EA agreements provide direction regarding 
+jurisdictional roles and responsibilities in the assessment of such projects. 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+34 
+ 
+ 
+The CNSC may delegate the conduct of an EA or any part thereof to another jurisdiction. In 
+such cases, the responsibility for making a decision under subsection 52(1) of CEAA 2012 
+remains with the Commission. Delegation of EA-related matters for a given project are 
+determined on a case-by-case basis in accordance with section 26 of CEAA 2012. 
+ 
+The CNSC contacts other federal authorities to determine if additional regulatory decisions 
+are required to allow the project to proceed. The CNSC also engages the appropriate federal 
+authorities to determine whether they can provide specialist or expert information or 
+knowledge to support the conduct of the EA. 
+ 
+The CNSC ensures that a notice of commencement of an EA is posted on the Canadian 
+Environmental Assessment Registry (CEAR). This notice provides a brief description of the 
+project, the jurisdictions involved, and CNSC contact information. The CNSC posts a similar 
+notice on the CNSC website, and provides a link to the notice of commencement on CEAR. 
+The CNSC also distributes the notice to its subscription list and sends a formal notice to 
+identified Indigenous groups. 
+Step 4: Defining participation opportunities 
+Indigenous consultation activities are integrated in the EA process to the extent possible. For 
+more information, see REGDOC-3.2.2, Indigenous Engagement [10]. 
+The CNSC ensures that the public is provided with an opportunity to participate in the EA. The 
+breadth and timing of public participation is at the discretion of the CNSC. For example, a public 
+review period may be conducted on the project description to solicit the views of the public, 
+Indigenous groups and other stakeholders to help inform the conduct of the EA under 
+CEAA 2012. Other opportunities could include public outreach sessions (such as open houses or 
+information sessions); a public review on documentation (such as the environmental impact 
+statement (EIS) or EA report); or participation in a public hearing on the EA. 
+Step 5: Determining the scope of the EA 
+Under subsection 19(1) of CEAA 2012, the CNSC is required to consider certain factors in the 
+EA under CEAA 2012 (see subsection A.3). The Commission determines the scope of these 
+factors in a Commission proceeding. 
+CNSC staff will notify the applicant of the final scope of factors determined by the Commission, 
+including any additional requirements that are to be included in the conduct of the technical 
+studies and EIS. 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+35 
+ 
+Step 6: Applicant conducts technical studies and submits the EIS 
+The conduct of the technical studies and preparation of an EIS are typically delegated to the 
+applicant. The document Generic Guidelines for the Preparation of an Environmental Impact 
+Statement pursuant to the Canadian Environmental Assessment Act, 2012 [13] informs applicants 
+of the information requirements for the preparation of an EIS for a project that requires an EA 
+under CEAA 2012.  
+The applicant submits the EIS and any supporting technical studies to the CNSC for a technical 
+review. 
+Note: To meet CEAA 2012 requirements, the applicant should complete a baseline 
+environmental characterization (see appendix B), and an environmental effects characterization 
+(see appendix C). Specific requirements under CEAA 2012 are described in subsection A.3. 
+Step 7: Technical review of the EIS 
+CNSC staff and, where applicable, other federal and provincial authorities perform an in-depth 
+technical review of the EIS and supporting technical studies. If certain areas need to be clarified, 
+confirmed or improved based on the technical review, the CNSC may ask the applicant to provide 
+additional information to resolve these issues. 
+When CNSC staff are satisfied that the applicant has adequately addressed all information gaps, 
+the technical review is considered to be complete. 
+Step 8: EA report 
+The CNSC must ensure that an EA report is prepared. The EA report includes CNSC staff’s 
+conclusions regarding the potential environment effects, the proposed mitigation measures, and 
+whether the project is likely to result in significant adverse environmental effects, as well as 
+follow-up program requirements. 
+CNSC staff draft the EA report, which synthesizes the applicant’s technical information and takes 
+into account the results of the technical review, including any comments received from other 
+parties. 
+The CNSC may request other federal agencies to review the EA report or to provide expert 
+information or knowledge. Comments received will be considered in the development of the EA 
+report. 
+Step 9: Commission proceeding on the EA report 
+CNSC staff prepare a document summarizing the EA report’s conclusions and recommendations, 
+and outlining the EA-related decisions that the Commission needs to make. This document and 
+the EA report are submitted to the Commission, along with any public comments received 
+(including how the CNSC staff addressed the comments). The Commission uses this information 
+to inform its decision. 
+For public hearings, a notice of public Commission hearing is posted on the CNSC website at 
+least 60 days before the scheduled hearing to inform the public and Indigenous groups with 
+hearing information, including information on how to intervene at the hearing. The CNSC also 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+36 
+ 
+sends a copy of the notice to identified Indigenous groups. This procedure enables interested 
+parties to request intervenor status from the Commission for the public hearing and to send their 
+comments on the EA report. 
+Public hearings are usually held at the CNSC headquarters in Ottawa, but the Commission may 
+decide to hold such a hearing in a community in the vicinity of the proposed project. 
+The exact nature of the public hearing depends on whether the project is following an integrated 
+or sequential EA and licensing process. This information is provided in the notice of public 
+Commission proceeding. 
+Where other federal authorities provided expert information or knowledge during the conduct of 
+the EA under CEAA 2012, the Commission may request their participation in the public hearing. 
+Following the public hearing, the Commission makes a decision, based on the EA, on whether the 
+project is likely to cause significant adverse environmental effects, taking into account mitigation 
+measures that were identified during the EA. This decision must be made before a licensing 
+decision can be made on allowing the project to proceed. 
+If the Commission concludes that a project is not likely to cause significant adverse 
+environmental effects in accordance with subsection 52(1) of CEAA 2012, the Commission (in 
+accordance with section 53) must establish through the licensing process, the mitigation measures 
+and follow-up activities that the applicant must implement. 
+If the Commission concludes that a project is likely to cause significant adverse environmental 
+effects in accordance with subsection 52(2) of CEAA 2012, the Commission refers to the 
+Governor in Council the matter of whether those effects are justified in the circumstances. 
+The Commission’s decision is published on the CNSC website and the CEAR. Indigenous groups 
+and members of the public who have expressed an interest in a particular project may be directly 
+notified of the decision. 
+A.3 
+Specific CEAA 2012 environmental assessment requirements 
+Where the information is common to both the EIS and the licence application, the applicant may 
+provide the information in either the application or the EIS, with appropriate cross-referencing 
+between the submissions. The applicant shall clearly indicate where the requirements of both the 
+NSCA and CEAA 2012 are addressed. 
+The EA of a designated project shall take into account the following factors as listed in 
+subsection 19(1) of CEAA 2012: 
+a) the environmental effects of the designated project, including the environmental effects 
+of malfunctions or accidents that may occur in connection with the designated project and 
+any cumulative environmental effects that are likely to results from the designated project 
+in combination with other physical activities that have been or will be carried out 
+b) the significance of those environmental effects 
+c) comments from the public that are received in accordance with CEAA 2012 
+d) mitigation measures that are technically and economically feasible and that would 
+mitigate any significant adverse environmental effects of the designated project 
+e) the requirements of the follow-up program in respect of the designated project 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+37 
+ 
+f) the purpose of the designated project 
+g) alternative means of carrying out the designated project that are technically and 
+economically feasible and the environmental effects of any such alternative means 
+h) any changes to the designated project that may be caused by the environment 
+i) the results of any relevant study conducted by a committee established under section 73 
+or 74 of CEAA 2012 
+j) any other matter relevant to the EA that the responsible authority requires to be taken into 
+account 
+Pursuant to subsection 19(2) of CEAA 2012, the scope of the factors to be taken into account 
+under paragraphs 19(1)(a), (b), (d), (e), (g), (h) and (j) is determined by the Commission, as a 
+responsible authority. 
+The EIS and supporting technical studies are completed to meet the requirements of CEAA 2012, 
+paragraphs 19(1)(a), (b), (d), (e), (f), (g), (h) and, if appropriate, (i) and (j) in accordance with the 
+scope of these factors as determined by the CNSC. The completion of the EIS and, as necessary, 
+supporting technical studies is typically delegated to the applicant in accordance with section 23 
+of CEAA 2012. This regulatory document provides requirements and guidance to support project 
+planning and early development of these documents by the applicant. These requirements and 
+guidance do not negate the importance of pre-project engagement or the potential for project-
+specific EA guidelines. 
+A.3.1 
+Purpose of the project 
+Paragraph 19(1)(f) of CEAA 2012 states that the EIS shall identify the purpose of the project 
+(defined as what is to be achieved by carrying out the project). 
+For further guidance, consult Addressing “Purpose of” and “Alternative Means” under the 
+Canadian Environmental Assessment Act, 2012 [14]. 
+A.3.2 
+Alternative means for carrying out the project 
+Paragraph 19(1)(g) of CEAA 2012 states that the EIS shall identify and describe alternative 
+means to carry out the project that are, from the perspective of the applicant, technically and 
+economically feasible. As identified by the proponent, the alternative means include options for 
+locations, development, and implementation methods, routes, designs, technologies, mitigation 
+measures, and so on. Alternative means may also be related to the construction, operation, 
+expansion, decommissioning and abandonment of a physical work. 
+The approach and level of effort applied to addressing alternative means is established on a 
+project-by-project basis taking into consideration: 
+ 
+the characteristics of the project 
+ 
+the environmental effects associated with the potential alternative means 
+ 
+the health or status of valued components (VCs) that may be impacted by the alternative 
+means 
+ 
+the potential for mitigation and the extent to which mitigation measures may address 
+potential environmental effects 
+ 
+the level of concern expressed by the public and Indigenous groups 
+The EIS should also describe the environmental effects of each alternative means. The criteria 
+used to identify alternative means as unacceptable, and how these criteria were applied, should be 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+38 
+ 
+described, as should the criteria used to examine the environmental effects of each remaining 
+alternative means to identify the preferred alternative. 
+For further guidance, consult Addressing “Purpose of” and “Alternative Means” under the 
+Canadian Environmental Assessment Act, 2012 [14]. 
+A.3.3 
+Environmental effects 
+Paragraph 19(1)(a) of CEAA 2012 states that the EA must take into account the environmental 
+effects of the designated project. 
+The environmental effects that must be considered in an EA under CEAA 2012 are also 
+requirements under the NSCA. As described in section 4, the applicant should conduct an ERA in 
+accordance with CSA 288.6, Environmental risk assessments at Class I nuclear facilities and 
+uranium mines and mills [6]. 
+A.3.4 
+Malfunctions and accidents 
+Paragraph 19(1)(a) of CEAA 2012 states that malfunctions and accidents shall be assessed in the 
+EA. Malfunctions and accidents should be separated into radiological and non-radiological 
+(conventional). 
+The applicant should provide an assessment of potential health and environmental effects 
+resulting from postulated radiological and conventional malfunctions or accidents. The EIS 
+should also include any mitigation measures such as monitoring, contingency, clean-up or 
+restoration work in the surrounding environment that would be required during or immediately 
+following the postulated malfunction and accident scenarios. 
+The EIS should provide a description of postulated malfunction and accident sequences leading to 
+a radiological or non-radiological release considering, as appropriate, internal events, external 
+events and human-induced events, including their frequency and an explanation of how these 
+events were identified, and any modeling that was performed. 
+The applicant can use a bounding approach or use facility- or activity-specific information (for 
+example, design, operation, projected environmental releases) in the assessment of radiological 
+accidents and malfunctions. If a bounding approach is used, the applicant should provide a 
+detailed rationale for the selection of each bounding scenario. 
+The EIS should include the source, quantity, mechanism, pathway, rate, form and characteristics 
+of contaminants and other materials (physical and chemical) likely to be released to the 
+surrounding environment during the postulated malfunctions and accidents. 
+Note: Malfunctions and accidents are reviewed in depth under the NSCA for licensing purposes 
+(for example, under REGDOC-2.4.1, Deterministic Safety Analysis [15], REGDOC-2.4.2, 
+Probabilistic Safety Assessments for Nuclear Power Plants [16] and REGDOC-1.1.1, Site 
+Evaluation and Site Preparation for New Reactor Facilities [17]). These scenarios should be 
+taken into consideration by the applicant when designing environmental protection measures (see 
+section 4). 
+If applicable, the applicant should use operating experience (OPEX) to identify any past abnormal 
+operations, accidents and spills to the extent that they are relevant to the current assessment for 
+the purposes of identifying malfunction and accident scenarios to be assessed. 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+39 
+ 
+A.3.5 
+Cumulative effects 
+Paragraph 19(1)(a) of CEAA 2012 states that the applicant shall assess any residual adverse 
+environmental effects of the project in combination with other past, present or reasonably 
+foreseeable projects and/or activities within the study area. 
+The applicant should explain the approach and methods used to identify and assess cumulative 
+effects. The approach and methods should be consistent with Assessing Cumulative 
+Environmental Effects under the Canadian Environmental Assessment Act, 2012 [18]. 
+A.3.6 
+Significance of residual effects 
+Paragraph 19(1)(b) of CEAA 2012 states that the applicant shall assess the significance of any 
+residual effects that persist, taking into consideration the proposed mitigation measures. These 
+residual effects are identified during the ERA or a characterization of the environmental effects. 
+In the EIS, the applicant should include a detailed analysis of the significance of each residual 
+effect. The applicant should clearly explain the method and definitions used to describe the level 
+of the residual adverse effect (for example, low, medium, or high) for each of the issues. The 
+applicant should also describe any cumulative environmental effects that are likely to result from 
+the designated project in combination with other physical activities that have been or will be 
+carried on and how these levels were combined to reach an overall conclusion on the significance 
+of the adverse effects for each valued component (VC). 
+Guidance 
+Some specific issues to be assessed are: 
+ 
+magnitude of the effect 
+ 
+spatial extent of the effect 
+ 
+duration and frequency of the effect 
+ 
+degree to which the effect can be reversed or mitigated 
+ 
+ecological importance  
+The method used to describe the level of the adverse effect should be transparent and 
+reproducible. 
+The EIS should identify additional criteria used to assign significance ratings to any predicted 
+adverse effects. It should contain clear and sufficient information to enable the CNSC and the 
+public to understand and review the applicant’s judgement of the significance of effects. The 
+applicant should define the terms used to describe the level of significance. In assessing 
+significance against the criteria, the EIS should, where possible, employ relevant existing 
+regulatory documents, environmental standards, guidelines or objectives such as prescribed 
+maximum levels of emissions or discharges of specific hazardous substances into the 
+environment or maximum acceptable levels of specific hazardous substances in the environment. 
+A.3.7 
+Socio-economic environment 
+The applicant should characterize the socio-economic environment and identify all indirect socio-
+economic effects. 
+An indirect effect is a secondary environmental effect that occurs as a result of a change that a 
+project may cause to the environment. Paragraph 5(2)(b) of CEAA 2012 refers to any change to 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+40 
+ 
+the environment caused by the project on health and socio-economic conditions, physical and 
+cultural heritage, or any structure, site or thing that is of historical, archaeological, 
+paleontological or architectural significance. 
+For additional guidance, refer to Technical Guidance for Assessing Physical and Cultural 
+Heritage or any Structure, Site or Thing that is of Historical, Archeological, Paleontological or 
+Architectural Significance under the Canadian Environment Assessment Act, 2012 [19]. 
+A.3.8 
+Community and Aboriginal traditional knowledge 
+Subsection 19(3) of CEAA 2012 states that community and Aboriginal traditional knowledge 
+may be considered in the EA. CNSC staff will provide guidance to the applicant at the earliest 
+possible stage in the EA process concerning the extent to which community and Aboriginal 
+traditional knowledge shall be considered in the EA. 
+For additional information, refer to: 
+ 
+Considering Aboriginal traditional knowledge in environmental assessments conducted 
+under the Canadian Environmental Assessment Act, 2012 [20] 
+ 
+REGDOC-3.2.2, Indigenous Engagement [10] (for further information on the CNSC’s 
+expectations of applicants for Indigenous engagement) 
+A.3.9 
+Assessment of effects of the environment on the project 
+Paragraph 19(1)(h) of CEAA 2012 states that the EIS shall take into account how the 
+environment could adversely affect the project. The applicant shall also take into account any 
+potential effects of climate change on the project, including an assessment of whether the project 
+might be sensitive to changes in climate conditions during its lifecycle. 
+Some adverse environmental conditions are flooding, severe weather, biophysical hazards (such 
+as algae), geotechnical hazards and seismic events. 
+A.3.10 
+EA follow-up program 
+Paragraph 19(1)(e) of CEAA 2012 states that the EIS shall include a framework or preliminary 
+program upon which EA follow-up actions will be managed throughout the life of the project. 
+The applicant should design the follow-up program to verify the accuracy of the EA predictions 
+and to determine the effectiveness of the measures implemented to mitigate the potential adverse 
+environmental effects of the project. 
+The applicant should also design the follow-up program to incorporate pre-project information 
+that would provide the baseline data; compliance data such as established environmental quality 
+criteria; regulatory documents, standards or guidelines; and real-time data consisting of observed 
+data gathered in the field. As part of the follow-up program, the applicant should describe the 
+compliance reporting methods to be used, including reporting frequency, methods and format. 
+Note: The CNSC, in collaboration with other federal authorities (where applicable), verifies and 
+monitors all EA follow-up activities through the CNSC licensing and compliance process. EA 
+follow-up monitoring activities may be integrated within the applicant’s environmental protection 
+measures. 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+41 
+ 
+Appendix B: Characterization of the Baseline Environment for an 
+Environmental Assessment Under CEAA 2012 
+Note: Projects with environmental assessments (EA) already initiated under the Canadian Environmental 
+Assessment Act (2012) (CEAA 2012) and led by the CNSC will continue under their current processes, as 
+per the transition provision (section 182) of the IAA. The following appendix is relevant to those ongoing 
+projects and will remain in this regulatory document for reference purposes until those projects are 
+completed. 
+For a new licence, the applicant should use the information in this appendix to develop a characterization 
+of the baseline environment. During the lifecycle of the facility or activity, the licensee should use this 
+information to review and update the characterization, and also use the information in appendix C to 
+document and predict the future environmental effects compared to this baseline characterization. 
+For additional information, see appendix D for a sample matrix for mapping the facility/activity-
+environmental-component interactions. 
+B.1 
+Atmospheric environment 
+The atmospheric environment includes the climate conditions at the site and in the local and 
+regional study areas. It includes the seasonal variations in weather conditions within the study 
+areas, to allow the assessment of effects on the facility or activity. 
+The applicant or licensee should provide a description of the existing ambient air quality in the 
+study areas, with emphasis on characterizing radiological and non-radiological analytes. 
+The description should include meteorological information such as air temperature, relative 
+humidity, precipitation, wind speed and direction, atmospheric pressure, and solar radiation. It 
+should also include the occurrence of weather phenomena (for example, lightning, temperature 
+inversions and fog). Special consideration should be given to the analysis of extreme and rare 
+meteorological phenomena (for example, tornadoes).Uncertainties should be described and taken 
+into account when discussing the reliability of the information presented. 
+The description should also include current ambient daytime and nighttime noise levels at the site 
+and local study areas, and include information on its source(s), geographic extent and temporal 
+variations. The description should provide ambient noise levels for other areas that could be 
+affected by the facility or activity. Some examples are: 
+ 
+increased traffic along transportation corridors to and from the site during construction 
+ 
+receptors at residences and sensitive sites (such as hospitals, schools, daycare facilities, 
+seniors’ residences, and places of worship) 
+The applicant or licensee should describe the influence of regional topography or other features 
+that could affect weather conditions in the study areas. 
+The baseline information should be sufficient to support the use of an atmospheric dispersion 
+model to conduct the site-specific ERA and to support an assessment of the effects of the 
+environment on the project (for example, tornadoes). 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+42 
+ 
+B.2 
+Surface water environment 
+The surface water environment includes all surface water features and hydrology that affect 
+surface water at the site or in the local and regional study areas. The applicant or licensee should 
+include delineation of drainage basins at appropriate scales. 
+When documenting the water quality of all surface water, the applicant or licensee should 
+demonstrate the use of appropriate sampling and analytical protocols, for the range of analytical 
+parameters with the potential to be influenced by the facility or activity. This information should 
+be presented using tables, maps and figures to provide an understanding of surface water 
+characteristics and conditions at the site and in the local and regional study areas. 
+The applicant or licensee should describe hydrological regimes within the drainage basin, 
+including seasonal fluctuations and year-to-year variability of all surface waters. The applicant or 
+licensee should assess normal flow, flooding and drought properties of water bodies as well as the 
+interactions between surface water and groundwater flow systems. The applicant or licensee 
+should describe all water sources used for drinking water in the area, including source water 
+intakes for drinking water treatment facilities. 
+The baseline information should be sufficient to support the use of an aquatic dispersion model to 
+conduct the site-specific ERA and to support an assessment of the effects of the environment on 
+the facility or activity (for example, flooding). 
+The applicant or licensee should document the sediment quality of all water bodies to be affected 
+by the facility or activity, demonstrating the use of appropriate sampling and analytical protocols, 
+for the range of analytical parameters with the potential to be influenced by the facility or 
+activity. This information should provide an appropriate understanding of sediment 
+characteristics and conditions on the site and in the local and regional study areas. 
+The study design should be fully described, including the allocation of samples in space and time, 
+measurement methods and results. 
+The applicant or licensee should include an assessment of any limitations or gaps in the quality 
+and extent of baseline data and methods, as well as the method(s) by which they have been 
+addressed. 
+B.3 
+Aquatic environment 
+The aquatic environment includes the aquatic and wetland species at the site and within the local 
+and regional study areas, including the flora, fauna and their habitats. 
+The applicant or licensee should seek information from relevant authorities (such as Environment 
+and Climate Change Canada (ECCC), Fisheries and Oceans Canada (DFO) and provincial or 
+territorial authorities) on aquatic and wetland species and habitat for the local and regional study 
+areas. The applicant or licensee should also undertake independent studies to gather the necessary 
+information. 
+The applicant or licensee should include a description of the food chain and food web dynamics 
+as a habitat component as this relates to fish populations, and potential effects resulting from the 
+facility or activity (such as impingement and entrainment). 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+43 
+ 
+The applicant or licensee should provide detailed habitat mapping that demonstrates habitat usage 
+by fish within the study areas. This information should include depth profiles, substrate mapping, 
+water temperature profiles, and a description of known and potential habitat usage (such as 
+spawning, nursery, rearing, feeding and migratory) by fish that occur in the study areas. 
+The applicant or licensee should identify any biological species of natural conservation status 
+(that is, rare, vulnerable, endangered, threatened or uncommon at a federal, provincial or 
+municipal level) and their critical habitats, if identified. 
+The applicant or licensee should provide baseline characterization of radionuclide and hazardous 
+substance levels in aquatic biota to support human and ecological risk assessment. 
+The applicant or licensee should fully describe the study design, including the allocation of 
+samples in space and time, measurement methods and results. 
+The applicant or licensee should include an assessment of any limitations or gaps in the quality 
+and extent of baseline date and methods, as well as the method(s) by which they have been 
+addressed. 
+B.4 
+Geological and hydrogeological environment 
+The geological and hydrogeological environment includes the bedrock and overburden geology at 
+both the local and regional scales. 
+B.4.1 
+Geology 
+The applicant or licensee should characterize the geomorphology, topography, quaternary 
+geology and soil characteristics, structural geology, petrology, geochemistry, economic geology 
+and hydrogeology. The applicant or licensee should also describe the geomechanical properties 
+that apply to the region and at the site that will be disturbed. 
+The applicant or licensee should provide the geotechnical properties of the overburden, including 
+shear strength and liquefaction potential, to allow for the assessment of slope stability and bearing 
+capacity of foundations under both static and dynamic conditions. 
+The description of the structural geology should include regional, local and site-specific 
+documentation of fractures and faults. It should include a description of primary geological 
+features and deformation fabrics both at the site and within the local and regional study areas. 
+If applicable, the applicant or licensee should describe the coastal geomorphology and should 
+include the characteristics of any lakefront or ocean bluffs, shoreline, and both near-shore zone 
+and offshore zones. 
+The baseline characterization should be sufficient to assess effects of the environment on the 
+facility or activity (for example, seismic effects). 
+The applicant or licensee should present a geological model that incorporates all overburden and 
+bedrock information. If extrapolation is required to derive the stratigraphy, the applicant or 
+licensee should explicitly discuss the uncertainties and the need for additional field investigations 
+to reduce those uncertainties. 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+44 
+ 
+The applicant or licensee should describe the geotechnical and geophysical hazards including the 
+consideration of subsidence, uplift, seismicity (and active faulting), and consider the potential for 
+movement at the ground surface (including co-seismic rupture) and earthquake ground motions. 
+A seismic hazard assessment should be provided. Where appropriate, the narrative descriptions 
+should be supplemented by geological maps, figures, cross-sections, borehole logs and 
+photographs (with specific location information). 
+B.4.2 
+Hydrogeology 
+The applicant or licensee should describe the hydrogeology at the site and in the local and 
+regional study areas. The description should characterize the physical and geochemical properties 
+of all overburden and bedrock hydrogeological units (from the ground surface to the uppermost 
+basement unit, which is site dependent).  
+Units may be characterized as aquifers or aquitards, and unit descriptions should include their 
+geochemical characteristics, vertical and lateral permeabilities, transport mechanism (diffusion 
+versus advection) and directions of groundwater flow. 
+The applicant or licensee should identify the groundwater recharge and discharge areas, and 
+describe in detail the groundwater interactions with surface waters. 
+The applicant or licensee should present a conceptual and numerical hydrogeological model that 
+discusses the hydrostratigraphy and groundwater flow systems.  
+The applicant or licensee should provide a description of baseline groundwater quality at the site 
+and in the local study area. The applicant or licensee should also describe local and regional 
+potable groundwater supplies, including their current use and potential for future use. 
+B.5 
+Terrestrial environment 
+The terrestrial environment includes flora and fauna, their habitats, any wildlife corridors and the 
+soil. 
+The applicant or licensee should describe the terrestrial species at the site and within the local and 
+regional study areas, including flora, fauna and their habitat. The applicant or licensee should 
+identify all biological species at risk (that is, endangered, threatened, special concern, extirpated 
+at a federal, provincial or municipal level) known to occur in the area or where the site is within 
+the range of the species. 
+The applicant or licensee should describe the presence and importance of wildlife habitat within 
+the study areas, including critical habitats for listed species (if identified). The applicant or 
+licensee should also describe any wildlife corridors and physical barriers to movement. 
+The applicant or licensee should identify all protected and conservation areas established by 
+federal, provincial and municipal jurisdictions (for example, wilderness areas, parks, sites of 
+historical or ecological significance, nature reserves, federal migratory bird sanctuaries and 
+wildlife management areas). 
+The applicant or licensee should describe the existing soil quality (including hazardous and 
+radiological substance concentrations) for all study areas, as well as any additional soil quality 
+parameters potentially relevant for modelling purposes (such as transport and bioavailability of 
+contaminants of potential concern). 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+45 
+ 
+The applicant or licensee should provide baseline characterization of radionuclide and hazardous 
+substance levels in vegetation and other non-human biota to support human and ecological risk 
+assessment. The characterization should also take into consideration the baseline conditions of 
+other applicable environmental components (such as the atmospheric environment). 
+The applicant or licensee should undertake independent studies to gather the necessary 
+information as appropriate. The applicant or licensee should describe field studies in terms of 
+representativeness of the target populations where possible. The applicant or licensee should fully 
+describe the design of the study, including the allocation of samples in space and time, 
+measurement methods and results. 
+The applicant or licensee should include an assessment of any limitations or gaps in the quality 
+and extent of baseline data and methods, as well as the method(s) by which they have been 
+addressed. 
+B.6 
+Ambient radioactivity 
+The ambient radioactivity arises from the sources, their activity levels and their origin, for all 
+applicable environmental media (including air, soil, food, water, aquatic sediments and plant or 
+animal tissue). 
+The applicant or licensee should describe the ambient radiological conditions at the site and in the 
+local and regional study areas. The applicant or licensee should include information on the 
+existing conditions, including an inventory of sources, their activity levels and their origin 
+(natural or anthropogenic), for all applicable environmental media. 
+The applicant or licensee should fully describe the design of the study, including the allocation of 
+samples in space and time, measurement methods and results. 
+The description should include an assessment of any limitations or gaps in the quality and extent 
+of the baseline data and methods, as well as the method(s) by which they have been addressed. 
+B.7 
+Human health 
+The potential effects of the facility or activity on human health include both radiological sources 
+and non-radiological contaminants. 
+The applicant or licensee should describe the current health profiles of the communities likely to 
+be affected by the facility or activity, including information on population health of the 
+communities in the local and regional study areas. 
+The applicant or licensee should provide, to the extent available, information on current 
+consumption of locally grown harvests and country foods, and the quality by food type, amounts 
+consumed, parts consumed (whole body or specific organs). 
+B.8 
+Indigenous land and resource use 
+Indigenous land and resource use includes lands, waters and resources of specific value; 
+traditional activities and lifestyle; and traditional dietary habits. 
+Traditional land use may include areas where traditional activities such as establishing seasonal 
+camps, camping, travel on traditional routes, gathering of country foods and medicines (hunting, 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+46 
+ 
+fishing, trapping, planting and harvesting) are being carried out. Traditional land use also includes 
+spiritual sites of significance to Indigenous people. 
+The applicant or licensee should identify the lands, water and resources of specific social, 
+economic, archaeological, cultural or spiritual value to Indigenous people, including established 
+and asserted Indigenous or treaty rights that may be affected by the facility or activity. 
+The applicant or licensee should describe Indigenous land and resource use at the site and in the 
+local and regional study areas. The applicant or licensee should identify traditional activities, 
+including activities for food, social, ceremonial and other cultural purposes, in relation to such 
+lands, waters and resources with a focus on the current use of lands, waters and resources for 
+traditional purposes. 
+The applicant or licensee should describe the traditional dietary habits and dependence on country 
+foods and harvesting for other purposes, including harvesting of plants for medicinal purposes. 
+The analysis should focus on the identification of potential adverse effects of the facility or 
+activity on the ability of future generations of Indigenous people to pursue traditional activities or 
+lifestyle. 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+47 
+ 
+Appendix C: Environmental Effects for an Environmental Assessment Under 
+CEAA 2012 
+Note: Projects with environmental assessments (EA) already initiated under the Canadian Environmental 
+Assessment Act (2012) (CEAA 2012) and led by the CNSC will continue under their current processes, as 
+per the transition provision (section 182) of the IAA. The following appendix is relevant to those ongoing 
+projects and will remain in this regulatory document for reference purposes until those projects are 
+completed. 
+The licensee should have already developed a characterization of the baseline environment (see 
+appendix B) and should use the information in this appendix to document the environmental effects of a 
+facility or activity. For additional information, see appendix D for a sample matrix for mapping the 
+facility/activity-environmental-component interactions. 
+C.1 
+Atmospheric environment 
+The licensee should characterize the effects of the facility or activity on the atmospheric 
+environment during all phases of the lifecycle for the facility or activity, including postulated 
+accident and malfunction scenarios. 
+The licensee should identify and characterize all atmospheric emissions (radiological and non-
+radiological) expected to be generated during all phases of the lifecycle for the facility or activity, 
+including postulated accident and malfunction scenarios. This information should include average 
+and maximum emissions from planned discharges, point sources and fugitive (non-point source) 
+releases (including greenhouse gases). 
+The licensee should complete modelling that incorporates baseline (or existing ambient) air 
+quality in combination with the predicted site-specific atmospheric characteristics (such as 
+shoreline fumigation) to assess potential effects on air quality, the transport of atmospheric 
+contaminants and any associated exposure to humans and non-human biota receptors. 
+The licensee should describe predicted effects of noise on terrestrial and aquatic species as well 
+as on nearby residents and communities. The description should include both daytime and 
+nighttime noise levels and tonal noise. The predicted sound levels should be compared against 
+baseline levels and any guidelines published by recognized organizations. 
+C.2 
+Surface water environment 
+The licensee should describe the effects of the facility or activity on the surface water 
+environment during all phases of the lifecycle for the facility or activity, including accident and 
+malfunction scenarios. 
+The licensee should identify and characterize all liquid effluents that could be generated during 
+all phases of the facility or activity. Some examples are: 
+ 
+average and maximum emissions from point sources (concentrations/activity levels and 
+volumes) 
+ 
+planned discharges 
+ 
+fugitive releases 
+ 
+deposition from airborne particulates 
+ 
+surface runoff 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+48 
+ 
+C.3 
+Aquatic environment 
+For all phases of the lifecycle for the facility or activity, the licensee should describe the effects of 
+the facility or activity on aquatic flora and fauna, and include a full accounting of effects on 
+species of natural conservation status and their habitat. This evaluation should be based on results 
+of field monitoring studies or predictions from an ecological risk assessment.  
+The description should be clear on how predicted effects to the biota exposed to the stressor 
+compare to the expected reference condition for unexposed biota on a biological population basis, 
+taking natural variation into account. Predictions of effects should include sufficient detail to 
+allow follow-up verification. 
+Some potential effects are: 
+ 
+effects on habitat, including aquatic vegetation and sensitive areas such as spawning 
+grounds, nursery areas, winter refuges and migration corridors 
+ 
+effects on aquatic species, including rare or sensitive species 
+ 
+effects of blasting on fish and fish habitat on local aquatic systems 
+ 
+contaminant exposures through environmental and food-chain transport 
+ 
+effects on aquatic biota due to impingement and entrainment 
+ 
+effects of infilling on loss of fish habitat and changes to productive capacity 
+ 
+effects of thermal plume(s) on fish and fish habitat 
+ 
+effects on wetlands 
+Under the NSCA, the CNSC assesses the ongoing operation of nuclear facilities and activities to 
+ensure protection of the environment and the health and safety of persons. 
+Under the Memorandum of Understanding between CNSC and Fisheries and Oceans Canada 
+(DFO), the CNSC is responsible for conducting reviews of licence applications to assess the 
+potential effects on fish and fish habitat, and to ensure that the assessment process considers the 
+intent and requirements of the Fisheries Act, the Species at Risk Act and their associated 
+regulatory and policy frameworks. 
+C.4 
+Geological and hydrogeological environment 
+The geological and hydrogeological environment includes the bedrock and overburden geology at 
+both the local and regional scales. 
+C.4.1 
+Geology 
+The licensee should fully describe any changes to the geology and geomorphology resulting from 
+the facility or activity, including any interrelationships with the groundwater regime. 
+The licensee should describe any changes to the environment resulting from the removal of 
+bedrock and/or unconsolidated deposits. The licensee should also describe the disturbance of soils 
+or sediments that may be stockpile, used for construction purposes or otherwise perturbed. 
+The licensee should include an assessment of changes made that would affect coastal processes 
+and features (such as changes to the shoreline morphology due to construction, erosion or 
+sediment transport). 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+49 
+ 
+C.4.2 
+Hydrogeology 
+The licensee should describe and assess any effects the facility or activity may have on the 
+groundwater regime including the quantity and quality of groundwater and how these effects may 
+influence surface waters. The licensee should carry out modelling as needed to develop and test 
+the predicted effects. 
+C.5 
+Terrestrial environment 
+The licensee should describe the effects of the facility or activity on terrestrial fauna and flora and 
+include a full accounting of effects on species with elevated conservation status and their habitat. 
+This evaluation should be based on results of field monitoring studies or predictions from an 
+ecological risk assessment. The description should be clear on how predicted effects to the biota 
+exposed to the stressor compare to the expected “reference condition” for unexposed biota on a 
+biological population basis taking into account natural variation. Predictions of the effects should 
+include sufficient detail to allow follow-up verification. 
+Some potential effects that should be considered are: 
+ 
+loss of terrestrial habitat and the quality of lost habitat for relevant species 
+ 
+disturbance of feeding, nesting or breeding habitats 
+ 
+physical barriers to wildlife 
+ 
+disruption, blockage, impediment and sensory disturbance (such as light effects, noise 
+and vibration) of daily or seasonal wildlife movements (such as migration or home 
+ranges) 
+ 
+direct and indirect wildlife mortality 
+ 
+reduction in wildlife productivity 
+ 
+contaminant exposures through environmental and food-chain transport 
+ 
+effects on biodiversity 
+C.6 
+Ambient radioactivity 
+The licensee should describe the effects of the facility or activity on ambient radioactivity. 
+Humans and non-human biota exposed to ambient radioactivity should be assessed for all 
+relevant routes of exposure (both internal and external exposure scenarios). 
+To support the assessment of human health (see section 3.2.7), the licensee should provide 
+information on radiation levels to which members of the public may be exposed, including 
+consideration of consumers of country food whose exposure pathways may differ due to cultural 
+norms; for example, any dietary characteristics of Indigenous peoples. 
+C.7 
+Human health 
+The licensee should describe the potential effects of the facility or activity on the physical well-
+being of Indigenous groups and other people resulting from biophysical effects, including the 
+effects of the facility or activity on all environmental components (for example, atmospheric 
+environment) and the resulting effects on human health. 
+Some examples are: 
+ 
+an analysis of the effects of the facility or activity on the health and safety of the public, 
+including the possible effects from malfunctions and accidents (radiological and 
+conventional) 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+50 
+ 
+ 
+the predicted radiation doses to members of the public resulting from activities within the 
+scope of the facility or activity and any resulting health effects 
+ 
+a description of quantitative risk assessment modeling conducted, where necessary, for 
+any malfunctions and accidents 
+ 
+an assessment of the potential effects on human health from all non-radiological 
+contaminants released from the facility or activity, through all potential exposure 
+pathways 
+ 
+potential effects of noise generated from the facility or activity on human receptors 
+within the study area(s) 
+C.8 
+Indigenous land and resource use 
+The licensee should identify any change that the facility or activity is likely to cause in the 
+environment and any effect of any such change on the health and socio-economic conditions, 
+physical and cultural heritage and on the current use of lands and resources for traditional 
+purposes by any Indigenous group including effects on hunting, trapping, fishing and gathering. 
+The licensee should identify any concerns raised by Indigenous people about the facility or 
+activity in relation to any Indigenous or treaty rights. 
+For further information on the CNSC’s expectations of licensees for Indigenous engagement, see 
+REGDOC-3.2.2, Indigenous Engagement. [10] 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+51 
+ 
+Appendix D: Sample Matrix of Biophysical Interactions 
+Pathways to residual effects from the facility or activity on the environment 
+Phase 
+(if applicable) 
+Activity 
+Atmospheric 
+environment 
+Surface water environment 
+Aquatic environment 
+Geological and 
+hydrogeological 
+environment 
+ 
+Air quality 
+Noise levels 
+Surface hydrology 
+/drainage 
+Lake level 
+Shoreline / basin 
+integrity 
+Water quality 
+Sediment quality 
+Aquatic habitat 
+Benthic invertebrate and 
+fish population / 
+distribution 
+Aquatic health 
+Groundwater quality 
+and quantity 
+Flow or water table 
+elevation 
+(continued on next page…) 
+Site preparation 
+(e.g., site clearing, 
+excavation) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Construction  
+(e.g., pouring 
+foundations, facility 
+construction) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Operation  
+(e.g., emissions and 
+effluents) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Decommissioning 
+(e.g., cleanup and 
+decontamination) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+○ = Facility/activity-environment interactions that have been determined to result in no residual effects 
+● = Facility/activity-environment interactions that have been determined to result in potential residual environmental effects  
+(continued on next page) 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+52 
+ 
+Pathways to residual effects from the facility or activity on the environment (continued) 
+Phase 
+(if applicable) 
+Activity 
+Terrestrial environment 
+Ambient 
+radio-
+activity 
+Human health 
+Indigenous land and 
+resource use 
+Soil quality and quantity 
+Vegetation communities 
+/ species / listed plants 
+Wildlife habitat 
+Wildlife population / 
+distribution 
+Wildlife health 
+Radiation exposure and 
+levels 
+Food stuffs 
+Radiation doses to the 
+general public 
+Radiation doses to 
+workers 
+Non-radioactive 
+contaminant exposure to 
+the general public 
+Non-radioactive 
+contaminant exposure to 
+workers 
+Conventional health and 
+safety 
+Social or economic, 
+archaeological, cultural 
+or spiritual value for 
+traditional purposes 
+ 
+Asserted Indigenous 
+Rights or Title 
+ 
+Site preparation 
+(e.g., site clearing, 
+excavation) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Construction  
+(e.g., pouring 
+foundations, facility 
+construction) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Operation  
+(e.g., emissions and 
+effluents) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Decommissioning 
+(e.g., cleanup and 
+decontamination) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+○ = Facility/activity-environment interactions that have been determined to result in no residual effects 
+● = Facility/activity-environment interactions that have been determined to result in potential residual environmental effects 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+53 
+ 
+Glossary 
+For definitions of terms used in this document, see REGDOC-3.6, Glossary of CNSC Terminology, which 
+includes terms and definitions used in the Nuclear Safety and Control Act and the regulations made under 
+it, and in CNSC regulatory documents and other publications. REGDOC-3.6 is provided for reference and 
+information. 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+54 
+ 
+References 
+The CNSC may include references to information on best practices and standards such as those published 
+by CSA Group. With permission of the publisher, CSA Group, all nuclear-related CSA standards may be 
+viewed at no cost through the CNSC Web page “How to gain free access to all nuclear-related CSA 
+standards”. 
+1. CSA Group, CAN/CSA ISO 14001, Environmental Management Systems – Requirements with 
+Guidance for Use, 2004 (1st edition).  
+2. CSA Group, CAN/CSA ISO 14001, Environmental Management Systems – Requirements with 
+Guidance for Use (successor editions).  
+3. CSA Group, CSA N288.1, Guidelines for calculating derived release limits for radioactive 
+material in airborne and liquid effluents for normal operation of nuclear facilities.  
+4. CSA Group, CSA N288.4, Environmental monitoring programs at Class I nuclear facilities and 
+uranium mines and mills.  
+5. CSA Group, CSA N288.5, Effluent monitoring programs at Class I nuclear facilities and 
+uranium mines and mills.  
+6. CSA Group, CSA N288.6, Environmental risk assessments at Class I nuclear facilities and 
+uranium mines and mills.  
+7. CSA Group, CSA N288.7, Groundwater protection programs at Class I nuclear facilities and 
+uranium mines and mills.  
+8. Canadian Nuclear Safety Commission (CNSC), regulatory guide G-129 revision 1, Keeping 
+Radiation Exposures and Doses “As Low as Reasonably Achievable (ALARA)”, Ottawa, 
+Canada, 2004.  
+9. CNSC, REGDOC-3.2.1, Public Information and Disclosure, Ottawa, Canada, 2018. 
+ 
+10. CNSC, REGDOC-3.2.2, Indigenous Engagement, Ottawa, Canada, 2019. 
+11. CAN/CSA ISO 14004:2004, Environmental Management Systems – General Guidelines on 
+Principles, Systems and Support Techniques.  
+12. CNSC, REGDOC-2.10.1, Nuclear Emergency Preparedness and Response, Ottawa, 
+Canada, 2016.  
+13. CNSC, Generic Guidelines for the Preparation of an Environmental Impact Statement pursuant 
+to the Canadian Environmental Assessment Act, 2012, Ottawa, Canada, 2016.   
+14. CEAA, Operational Policy Statement Addressing “Purpose of” and “Alternative Means” under 
+the Canadian Environmental Assessment Act, 2012, Ottawa, Canada, 2015.  
+15. CNSC, REGDOC-2.4.1, Deterministic Safety Analysis, Ottawa, Canada, 2014.  
+16. CNSC, REGDOC-2.4.2, Probabilistic Safety Assessment for Nuclear Power Plants, Ottawa, 
+Canada, 2014.  
+17. CNSC, REGDOC-1.1.1, Site Evaluation and Site Preparation for New Reactor Facilities, 
+Ottawa, Canada, 2008.  
+18. CEAA, Operational Policy Statement Assessing Cumulative Environmental Effects under the 
+Canadian Environmental Assessment Act, 2012, Ottawa, Canada, 2015.  
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+55 
+ 
+19. CEAA, Technical Guidance Document Technical Guidance for Assessing Physical and Cultural 
+Heritage or any Structure, Site or Thing that is of Historical, Archeological, Paleontological or 
+Architectural Significance under the Canadian Environment Assessment Act, 2012, Ottawa, 
+Canada, 2015. 
+20. CEAA, Considering Aboriginal traditional knowledge in environmental assessments conducted 
+under the Canadian Environmental Assessment Act, 2012, Ottawa, Canada, 2015.  
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+56 
+ 
+Additional Information 
+The following documents provide additional information that may be relevant and useful for 
+understanding the requirements and guidance provided in this regulatory document: 
+ 
+Government of Canada, A Framework for the Application of Precaution in Science-based 
+Decision Making about Risk, Ottawa, Canada, 2003  
+ 
+September 2020 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures 
+ 
+ 
+57 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the CNSC. In addition to the 
+Nuclear Safety and Control Act and associated regulations, these facilities and activities may also be 
+required to comply with other regulatory instruments such as regulatory documents or standards. 
+CNSC regulatory documents are classified under the following categories and series: 
+1.0  
+Regulated facilities and activities 
+Series 1.1  
+Reactor facilities 
+1.2  
+Class IB facilities 
+1.3  
+Uranium mines and mills 
+1.4  
+Class II facilities 
+1.5  
+Certification of prescribed equipment 
+1.6  
+Nuclear substances and radiation devices 
+2.0  
+Safety and control areas 
+Series 2.1  
+Management system 
+2.2  
+Human performance management 
+2.3  
+Operating performance 
+2.4  
+Safety analysis 
+2.5  
+Physical design 
+2.6  
+Fitness for service 
+2.7  
+Radiation protection 
+2.8  
+Conventional health and safety 
+2.9  
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0  
+Other regulatory areas  
+Series 3.1  
+Reporting requirements 
+3.2  
+Public and Indigenous engagement 
+3.3  
+Financial guarantees 
+3.4  
+Commission proceedings 
+3.5  
+CNSC processes and practices 
+3.6  
+Glossary of CNSC terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. Visit the CNSC’s website for 
+the latest list of regulatory documents.  
+ 

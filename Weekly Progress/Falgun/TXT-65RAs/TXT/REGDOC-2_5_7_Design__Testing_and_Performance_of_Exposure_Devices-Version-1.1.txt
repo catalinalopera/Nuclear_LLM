@@ -1,0 +1,586 @@
+ 
+Physical Design 
+Design, Testing and Performance of 
+Exposure Devices  
+ 
+ 
+REGDOC-2.5.7, Version 1.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+September 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Design, Testing and Performance of Exposure Devices  
+Regulatory document REGDOC-2.5.7, Version 1.1 
+© Canadian Nuclear Safety Commission (CNSC) 2020 
+PWGSC catalogue number CC172-80/2017E-PDF 
+ISBN 978-0-660-08634-7  
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+Également publié en français sous le titre : Conception, essais et rendement des appareils d’exposition, 
+version 1.1 
+ 
+Document availability 
+This document can be viewed on the CNSC website. To request a copy of the document in English or 
+French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+ 
+Ottawa, Ontario K1P 5S9 
+Canada 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Fax: 613-995-5086 
+Email: cnsc.information.ccsn@canada.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+Publishing history 
+January 2012 
+ 
+RD/GD-352, Design, Testing and Performance of Exposure Devices  
+ 
+September 2020 
+ 
+Version 1.1 – Administrative update to reflect publication of IAEA SSR-6, 2018  
+edition
+September 2020 
+REGDOC-2.5.7, Design, Testing and Performance of Exposure Devices, Version 1.1 
+ 
+ 
+ 
+ 
+i 
+Preface 
+Industrial radiography is regulated by the Canadian Nuclear Safety Commission (CNSC). It is a 
+non-destructive testing method that uses high-activity sealed radioactive sources to examine the structure 
+of welds, castings and building components, in order to identify flaws and errors or to ensure that work in 
+an area will not affect hidden existing systems, such as pipes and electrical wires. The advantages of 
+using exposure devices for non-destructive testing are that they are highly portable, require no external 
+power sources, and can be used in various field settings. 
+Regulatory document REGDOC -2.5.7, Design, Testing and Performance of Exposure Devices, Version 
+1.1 provides guidance in the design, testing and performance of exposure devices, in order to apply for the 
+certification of the radiation device under section 12 of the NSRD Regulations. Persons applying for 
+certification of such devices must thoroughly demonstrate that the exposure device and related 
+accessories are designed to operate in a safe manner. 
+The CNSC and the international community recognize industrial radiography as a high-risk activity, due 
+to its widespread use of sealed radioactive sources and the potential of these sources to immediately 
+deliver high doses of radiation. 
+The Nuclear Substances and Radiation Devices Regulations (NSRD Regulations) require that exposure 
+devices, which include related accessories, and any other radiation device be certified by the CNSC 
+before they can be used in Canada. This certification is not to be construed as a licence for use or 
+servicing. The equipment used for industrial radiography must be certified by the CNSC before it can be 
+licensed by the CNSC for use in Canada. 
+This document does not deal with the transport of the exposure devices, or the certification of exposure 
+device operators and their obligations when using exposure devices. Transport requirements are set out in 
+the Packaging and Transport of Nuclear Substances Regulations. Certification of exposure device 
+operators and their obligations when operating the device are set out in the NSRD Regulations. 
+This regulatory document largely refers to the established International Organization for Standardization 
+(ISO) standard, Radiation protection – Apparatus for industrial gamma radiography – Specifications for 
+performance, design and tests, ISO 3999:2004 (E) [1]. 
+For information on the implementation of regulatory documents and on the graded approach, see 
+REGDOC-3.5.3, Regulatory Fundamentals. 
+The words “shall” and “must” are used to express requirements to be satisfied by the licensee or licence 
+applicant. “Should” is used to express guidance or that which is advised. “May” is used to express an option or 
+that which is advised or permissible within the limits of this regulatory document. “Can” is used to express 
+possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other pertinent 
+requirements. It is the licensee’s responsibility to identify and comply with all applicable regulations and licence 
+conditions. 
+September 2020 
+REGDOC-2.5.7, Design, Testing and Performance of Exposure Devices, Version 1.1 
+ 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+........................................................................................................................1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant legislation 
+............................................................................................................. 1 
+1.4 
+National and international standards 
+................................................................................... 1 
+2. 
+Application Review Criteria .............................................................................................2 
+2.1 
+Explanation of terms 
+........................................................................................................... 2 
+2.2 
+Baseline specifications in the ISO standard 
+........................................................................ 2 
+2.3 
+Changes to ISO standard requirements 
+............................................................................... 2 
+2.3.1 
+General design ....................................................................................................... 2 
+2.3.2 
+Sealed sources 
+........................................................................................................ 3 
+2.3.3 
+Safety devices – Operation of the automatic securing mechanism 
+........................ 3 
+2.3.4 
+Calibration and maintenance of radiation survey meters 
+....................................... 3 
+2.3.5 
+Resistance to normal conditions of service 
+............................................................ 3 
+2.3.6 
+Vibration-resistance test ........................................................................................ 3 
+2.3.7 
+Labelling ................................................................................................................ 4 
+2.3.8 
+Accompanying documents – Instructions for use 
+.................................................. 4 
+2.4 
+Specifications not addressed in the ISO standard ............................................................... 4 
+2.4.1 
+Source changer 
+....................................................................................................... 4 
+2.4.2 
+Projection sheath 
+.................................................................................................... 4 
+2.5 
+Use of non-original accessory equipment 
+........................................................................... 4 
+3. 
+Certification of an Exposure Device Design ....................................................................5 
+Glossary ..........................................................................................................................................6 
+References 
+.......................................................................................................................................8 
+Additional Information .................................................................................................................9 
+ 
+September 2020 
+REGDOC-2.5.7, Design, Testing and Performance of Exposure Devices, Version 1.1 
+ 
+ 
+1 
+ 
+REGDOC-2.5.7, Design, Testing and Performance of Exposure Devices 
+1. 
+Introduction 
+1.1 
+Purpose 
+This document provides guidance for the design, testing and performance of exposure devices 
+containing radioactive sealed sources, and related accessories to those devices. 
+1.2 
+Scope 
+This document covers design, testing and performance specifications for the complete exposure 
+device system, including the remote-control system, the exposure device, the projection sheath 
+and the source changer. The use of non-original manufacturer accessories is also addressed. 
+This document does not deal with the transport of the exposure devices, or the certification of 
+exposure device operators and their obligations when using exposure devices. Transport 
+requirements are set out in the Packaging and Transport of Nuclear Substances Regulations, 
+2015. Certification of exposure device operators and their obligations when operating the device 
+are set out in the Nuclear Substances and Radiation Device Regulations. 
+1.3 
+Relevant legislation 
+The Nuclear Substances and Radiation Device Regulations relevant to this document include: 
+1. section 1, which defines the terms “exposure device”, “radiation device”, “sealed source”, 
+and “sealed source assembly” 
+2. subsections 11(1) and 11(2), which state: 
+a. no person shall use a radiation device unless 
+i. 
+it is a certified model; or 
+ii. it is used in accordance with a licence that authorizes its use for development 
+purposes. 
+b. no person shall transfer a radiation device for use within Canada unless it is a certified 
+model. 
+3. subsection 12(1), which lists the information required in an application before certification of 
+an radiation device may be granted 
+4. subsection 12(2), which states “The Commission or the designated officer may request any 
+other information that is necessary...”  
+5. section 18, which outlines leak test requirements 
+The Radiation Protection Regulations relevant to this document include: 
+1. subsection 20(1), which outlines the labelling requirements for radiation devices. 
+1.4 
+National and international standards 
+The review of an application for certification of an exposure device is based on the International 
+Organization for Standardization (ISO) standard ISO 3999:2004 (E), Radiation protection – 
+Apparatus for industrial gamma radiography – Specifications for performance, design and tests 
+[1]. Throughout this document, all references to “the ISO standard” mean ISO 3999:2004 (E). 
+September 2020 
+REGDOC-2.5.7, Design, Testing and Performance of Exposure Devices, Version 1.1 
+ 
+ 
+2 
+ 
+Nothing contained in this document is to be construed as relieving any applicant from the 
+requirements of any pertinent regulations. It is the applicant’s responsibility to identify and 
+comply with all applicable legislation and standards. 
+2. 
+Application Review Criteria 
+In order to assess an application for the certification of an exposure device design, this section 
+describes the type of information that the CNSC requires which is different from the requirements 
+outlined in ISO 3999:2004 (E). 
+2.1 
+Explanation of terms 
+The following terms apply throughout this document: 
+1. “ISO standard” means the international standard ISO 3999:2004 (E) 
+2. Where applicable, the common industry term is given (in brackets) 
+3. The term “apparatus for industrial gamma radiography” is described in the above ISO 
+standard. However, in this document it is replaced by the term “exposure device,” as defined 
+in the NSRD Regulations 
+4. An accessory to an exposure device is considered to be any equipment used in conjunction 
+with an exposure container and that drives, guides, or comes into contact with the sealed 
+source assembly. Accessories to the device include: 
+a. source assembly 
+b. remote control – which includes the control cable sheath, control cable connector, control 
+adaptor and the control mechanism 
+c. projection sheath (guide tube) 
+d. exposure head (source stop) 
+e. beam limiter (collimator) – when designed as an integral part of an exposure head (Note: 
+Beam limiters designed to be secured over the exposure head are not considered an 
+accessory to the device and therefore do not require certification) 
+f. source changer 
+2.2 
+Baseline specifications in the ISO standard 
+The design of the exposure device should be in accordance with the as low as reasonably 
+achievable (ALARA) principle. The application should describe the design options for the 
+exposure device, as well as the results of the ALARA evaluation of these design options, leading 
+to the selection of the design submitted for certification. The application should include an 
+evaluation of the estimated radiation doses associated with the final design, and the key factors 
+determining its choice. 
+2.3 
+Changes to ISO standard requirements 
+The following recommendations supplement sub-clauses in ISO 3999:2004 (E), in order to meet 
+CNSC requirements. 
+2.3.1 
+General design 
+The ISO standard requires the design of the exposure device to operate over the temperature 
+range of –10 ººC to 45 ºC. However, in order to meet the demands of the Canadian climate, the 
+device should operate satisfactorily over the broader temperature range of –40 ºC to 45 ºC. 
+September 2020 
+REGDOC-2.5.7, Design, Testing and Performance of Exposure Devices, Version 1.1 
+ 
+ 
+3 
+ 
+2.3.2 
+Sealed sources 
+The ISO standard requires that the radioactive sealed source be in compliance with 
+ISO 2919:2012, Radiological protection – Sealed radioactive sources – General requirements 
+and classification [2]. Compliance with ANSI/HPS N43.6-2007, Sealed Radioactive Sources– 
+Classification [3] is also acceptable for radiation device certification by the CNSC. 
+2.3.3 
+Safety devices – Operation of the automatic securing mechanism 
+The ISO standard does not address exposure devices that employ a shutter for shielding the sealed 
+source assembly in the secured position. In such cases, the shutter should have a securing 
+mechanism that automatically secures it in the shielded position each time the sealed source 
+assembly is returned from the exposing position to the fully shielded position. It should be 
+possible to release the shutter only by means of an intentional operation on the exposure device or 
+remote control. 
+The securing mechanism should not operate in a manner that prevents the source from returning 
+to the shielded position. 
+2.3.4 
+Calibration and maintenance of radiation survey meters 
+The requirements for the radiation survey meter to be properly calibrated and functional shall be 
+in accordance with the current version of the IEC 60846-1, Radiation protection instrumentation 
+– Ambient and/or directional dose equivalent (rate) meters and/or monitors for beta, X and 
+gamma radiation – Part 1: Portable workplace and environmental meters and monitors [4] or an 
+equivalent standard. 
+2.3.5 
+Resistance to normal conditions of service 
+2.3.5.1 General 
+Unless the exposure device and its accessories have already passed identical tests or more 
+stringent tests under other standards, they should undergo the tests described in the ISO standard. 
+Production exposure devices should be equivalent to the tested unit. 
+The reference to IAEA-STI-PUB 998 in the ISO standard should be replaced with the IAEA 
+Specific Safety Requirements No. SSR-6 Rev. 1, Regulations for the Safe Transport of 
+Radioactive Material (2018 Edition) [5], and IAEA Specific Safety Guide No. SSG-26, Advisory 
+Material for the IAEA Regulations for the Safe Transport of Radioactive Material (2012 Edition) 
+[6]. 
+2.3.5.2 Endurance test 
+The exposure device should operate normally and the integrity of the cladding or encasement of 
+the shielding should not be breached due to wear at the conclusion of the endurance test. The use 
+of a borescope, or an equivalent test, should be performed to check any fatigue or wear of the 
+S-tube. 
+2.3.6 
+Vibration-resistance test 
+Either the vibration test described in sub-clause 6.4.5 of the ISO standard or that described in 
+section 6.2.2 of the ANSI N43.9-1991 American National Standard for Gamma Radiation – 
+Specifications for Design and Testing of Apparatus [7] may be used. 
+September 2020 
+REGDOC-2.5.7, Design, Testing and Performance of Exposure Devices, Version 1.1 
+ 
+ 
+4 
+ 
+2.3.7 
+Labelling 
+Subsection 20(1) of the Radiation Protection Regulations must be followed regarding the 
+labelling of exposure containers and devices. They must be labelled with the basic ionizing 
+radiation symbol (see schedule 3 of the Regulations) and the words “RAYONNEMENT – 
+DANGER – RADIATION”. The critical components of associated equipment include the 
+projection sheath connector, control adaptor, control cable, control cable connector and source 
+assembly. Except for the control cable, these components must be durably and legibly marked to 
+identify the manufacturer. 
+2.3.8 
+Accompanying documents – Instructions for use 
+In addition to the list in sub-clause 9.3 of the ISO standard, instructions on the conditions and 
+limitation of use should also be provided, including environmental conditions (such as 
+temperature, pressure, and humidity), chemical environment, and underwater restrictions. 
+2.4 
+Specifications not addressed in the ISO standard 
+The following recommendations are in addition to the ISO standard. 
+2.4.1 
+Source changer 
+Source changers should be designed to ensure that the source will not be accidentally withdrawn 
+from the source changers when connecting or disconnecting the drive cable to or from the source 
+assembly. Source changers should also be equipped with a locking mechanism designed to 
+prevent the unauthorized or accidental removal of the sealed source from its shielded position. 
+2.4.2 
+Projection sheath 
+The projection sheath (guide tube) should be equipped with an exposure head, or be designed for 
+an exposure head to be attached. This should prevent the sealed source assembly from passing out 
+the end of the projection sheath. 
+Note: A beam limiter (collimator) may serve as an exposure head. 
+2.5 
+Use of non-original accessory equipment 
+Accessory equipment or components from a non-original equipment manufacturer may be used, 
+provided that the accessory equipment or components meet the following criteria and have been 
+certified by the CNSC: 
+1. They are identical in size, material specifications, and dimensions as the prototype that has 
+been tested according to guidance in this document 
+2. They are constructed to the quality assurance requirements as specified in the ISO standard  
+3. It is demonstrated through documented prototype testing or analytical means that the non-
+original accessories or components meet the design, testing, and performance as outlined in 
+this document 
+Instead of certifying individual components, the CNSC would only certify the complete accessory 
+equipment as one unit for a specific exposure container. 
+September 2020 
+REGDOC-2.5.7, Design, Testing and Performance of Exposure Devices, Version 1.1 
+ 
+ 
+5 
+ 
+3. 
+Certification of an Exposure Device Design 
+Once a certificate for an exposure device design has been issued, it only applies to a specific 
+exposure container model design as well as to specific operating conditions and accessories. Any 
+future changes to the design or use may require a new certification of the radiation device. 
+ 
+September 2020 
+REGDOC-2.5.7, Design, Testing and Performance of Exposure Devices, Version 1.1 
+ 
+ 
+6 
+ 
+Glossary 
+For the purpose of this guidance document, the following terms and definitions apply. Definitions 
+reproduced from the ISO 3999:2004 standard are marked with an asterisk (*), and any commonly-used 
+industry terms are in brackets. 
+borescope 
+An inspection tool with a rigid or flexible optical tube designed for insertion into bores and cavities. The 
+borescope consists of a lens positioned in front of a long tube containing image and illumination relays. 
+beam limiter* (collimator) 
+A shielding device located at the working position, designed to reduce the radiation dose rate in directions 
+other than the direction intended for use. 
+Note: The beam limiter may be designed to be used in conjunction with an exposure head, or may 
+incorporate an exposure head as an integral part of the device. 
+control adaptor 
+A component of the control assembly that attaches the control assembly to the exposure container. 
+control cable* (drive cable) 
+A cable or other mechanical means used to project and retract the sealed source assembly out from and 
+into the exposure container by remote control. 
+control cable connector 
+A component used to attach the drive cable to the source assembly. 
+control cable sheath* 
+A rigid or flexible tube for guiding the control cable by remote control to the exposure container, and for 
+providing physical protection to the control cable. 
+critical components 
+Those components that are essential to the safe operation of the exposure device, to prevent a misconnect 
+or disconnect. 
+disconnect 
+A condition in which the sealed source assembly is inadvertently released from the control cable. 
+drive mechanism (control mechanism) 
+See remote control. 
+exposure container* (radiography camera) 
+A shield, in the form of a container, designed to allow the controlled use of gamma radiation and 
+employing a sealed source assembly. 
+exposure device source path* (S-tube) 
+A hollow tunnel inside the exposure container where the sealed source resides when not in use. 
+exposure head* (source stop) 
+A device that locates the sealed source included in the sealed source assembly, in the selected working 
+position, and prevents the sealed source assembly from projecting out of the projection sheath.  
+Note: A beam limiter may also serve as an exposure head. 
+September 2020 
+REGDOC-2.5.7, Design, Testing and Performance of Exposure Devices, Version 1.1 
+ 
+ 
+7 
+ 
+locked position* 
+The condition of a sealed source assembly, with either an exposure container or source changer, in the 
+secured and locked position. 
+misconnect 
+A condition in which the remote control can be attached to the exposure container without attaching the 
+control cable to the sealed source assembly. 
+projection sheath* (guide tube) 
+A flexible or rigid tube for guiding the sealed source assembly from the exposure container to the 
+working position and having the necessary connections for attachment to the exposure container and to 
+the exposure head, or including the exposure head itself. 
+projection sheath connector (guide tube connector) 
+A component used to attach the source guide tube to the exposure device. 
+remote control* (remote control system, cranking mechanism, control assembly, drive mechanism) 
+A device that enables the sealed source assembly to be moved to and from a working position by the 
+operator while at a safe distance from the exposure container. 
+Note: The remote control includes the control mechanism and also, where applicable, the control cable, 
+control cable sheath and necessary connections and attachments. 
+secured position* 
+The condition of the exposure container and sealed source assembly, when the sealed source is fully 
+shielded and its movement is restricted within the exposure container.  
+Note: In the secured position the device need not be locked. 
+shutter 
+A system or device inside the source container, between the shielded and unshielded position of the 
+source that may be operated manually, electrically or pneumatically by a source control mechanism. 
+source changer 
+A device used to store, transport and exchange source assemblies for use in exposure devices. 
+source holder* 
+A holder, or attachment device, by means of which a sealed source or simulated source can be directly 
+included in the exposure container, or fitted at the end of the control cable. 
+ 
+Note: Source holders may be an integral part of the sealed source assembly or may be able to be 
+dismantled for replacement of the sealed source. 
+September 2020 
+REGDOC-2.5.7, Design, Testing and Performance of Exposure Devices, Version 1.1 
+ 
+ 
+8 
+ 
+References 
+1. International Organization for Standardization (ISO), ISO 3999:2004 (E), Radiation 
+protection – Apparatus for industrial gamma radiography - Specifications for performance, 
+design and tests, Second edition, Geneva, 2004. 
+2. International Organization for Standardization (ISO), ISO 2919:2012, Radiological 
+protection – Sealed radioactive sources – General requirements and classification, Geneva, 
+2012. 
+3. American National Standards Institute, ANSI/HPS N43.6-2007, Sealed Radioactive Sources 
+– Classification, New York, 2007. 
+4. International Electrotechnical Commission (IEC), IEC 60846-1, Radiation protection 
+instrumentation – Ambient and/or directional dose equivalent (rate) meters and/or beta, X 
+and gamma radiation – Part 1: Portable workplace and environmental meters and monitors, 
+First Edition, 2009. 
+5. International Atomic Energy Agency (IAEA), IAEA Safety Standard Series, Specific Safety 
+Requirements No. SSR-6 Rev. 1, Regulations for the Safe Transport of Radioactive Material 
+(2018 Edition), Vienna, 2018.  
+6. International Atomic Energy Agency, IAEA Safety Standard Series, Specific Safety Guide 
+No. SSG-26, Advisory Material for the IAEA Regulations for the Safe Transport of 
+Radioactive Material (2012 Edition), Vienna, 2014.  
+7. American National Standards Institute, ANSI N43.9-1991, American National Standard for 
+Gamma Radiography - Specifications for Design and Testing of Apparatus, New York, 1991. 
+September 2020 
+REGDOC-2.5.7, Design, Testing and Performance of Exposure Devices, Version 1.1 
+ 
+ 
+9 
+ 
+Additional Information  
+The following documents provide additional information that may be relevant and useful for 
+understanding the requirements and guidance provided in this regulatory document: 
+ 
+ 
+International Organization for Standardization, ISO 9001:2015, Quality management systems 
+– Requirements, Fifth Edition, Geneva, 2015. 
+ 
+American National Standards Institute, ANSI N43.2-1980, Radiological Safety for the Design 
+and Construction of Apparatus for Gamma Radiography, New York, 1997. 
+September 2020 
+REGDOC-2.5.7, Design, Testing and Performance of Exposure Devices, Version 1.1 
+ 
+ 
+10 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the CNSC. In addition to the 
+Nuclear Safety and Control Act and associated regulations, these facilities and activities may also be 
+required to comply with other regulatory instruments such as regulatory documents or standards. 
+CNSC regulatory documents are classified under the following categories and series: 
+1.0  
+Regulated facilities and activities 
+Series 1.1  
+Reactor facilities 
+1.2  
+Class IB facilities 
+1.3  
+Uranium mines and mills 
+1.4  
+Class II facilities 
+1.5  
+Certification of prescribed equipment 
+1.6  
+Nuclear substances and radiation devices 
+2.0  
+Safety and control areas 
+Series 2.1  
+Management system 
+2.2  
+Human performance management 
+2.3  
+Operating performance 
+2.4  
+Safety analysis 
+2.5  
+Physical design 
+2.6  
+Fitness for service 
+2.7  
+Radiation protection 
+2.8  
+Conventional health and safety 
+2.9  
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0  
+Other regulatory areas  
+Series 3.1  
+Reporting requirements 
+3.2  
+Public and Indigenous engagement 
+3.3  
+Financial guarantees 
+3.4  
+Commission proceedings 
+3.5  
+CNSC processes and practices 
+3.6  
+Glossary of CNSC terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. Visit the CNSC’s website for 
+the latest list of regulatory documents. 

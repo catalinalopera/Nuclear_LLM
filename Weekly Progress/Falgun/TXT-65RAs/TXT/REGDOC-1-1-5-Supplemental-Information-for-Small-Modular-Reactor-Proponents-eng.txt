@@ -1,0 +1,1322 @@
+Reactor Facilities 
+Supplemental Information for Small 
+Modular Reactor Proponents 
+REGDOC-1.1.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 2019 
+ 
+ 
+Supplemental Information for Small Modular Reactor Proponents 
+Regulatory document REGDOC-1.1.5 
+© Canadian Nuclear Safety Commission (CNSC) 2019 
+Cat. No. CC172-215/2019E-PDF 
+ISBN 978-0-660-31241-5  
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the CNSC. 
+Également publié en français sous le titre : Renseignements supplémentaires pour les promoteurs de 
+petits réacteurs modulaires 
+Document availability 
+This document can be viewed on the CNSC website. To request a copy of the document in English or 
+French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, ON  K1P 5S9 
+Canada 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Facsimile: 613-995-5086 
+Email: cnsc.info.ccsn@canada.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+LinkedIn: linkedin.com/company/cnsc-ccsn 
+Publishing history 
+August 2019 
+ 
+Version 1.0 
+ 
+ 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactor Proponents 
+ 
+ 
+ 
+Preface 
+This regulatory document is part of the CNSC’s Reactor Facilities series of regulatory documents, which 
+also covers licence application guides for licences to construct, operate and decommission nuclear power 
+plants. The full list of regulatory document series is included at the end of this document and can also be 
+found on the CNSC’s website. 
+Regulatory document REGDOC-1.1.5, Supplemental Information for Small Modular Reactor Proponents, 
+provides information in addition to three other CNSC regulatory documents (REGDOC-1.1.1, REGDOC-
+1.1.2, and REGDOC-1.1.3). REGDOC-1.1.5 is a new regulatory document and meant to be used in 
+conjunction with these three other documents, which set out requirements and guidance for an applicant 
+to consider prior to submitting a licence application to the CNSC for a small modular reactor. REGDOC-
+1.1.5 also identifies the CNSC’s considerations in assessing the adequacy of a licence application. 
+A graded approach, commensurate with risk, may be defined and used when applying the requirements 
+and guidance contained in this regulatory document. The use of a graded approach is not a relaxation of 
+requirements, but rather the application of requirements in a manner commensurate with the risks and 
+characteristics of a facility or activity. The information in this document is consistent with modern 
+national and international practices addressing issues and elements that control and enhance nuclear 
+safety. In particular, it establishes a modern, risk-informed approach to the licensing of SMRs.  
+A document that shows the changes made to REGDOC-1.1.5 since public consultation is available from 
+the CNSC upon request. 
+For information on the implementation of regulatory documents and on the graded approach, see 
+REGDOC-3.5.3, Regulatory Fundamentals. 
+The words “shall” and “must” are used to express requirements to be satisfied by the licensee or 
+licence applicant. “Should” is used to express guidance or that which is advised. “May” is used to 
+express an option or that which is advised or permissible within the limits of this regulatory document. 
+“Can” is used to express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+ 
+ 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactor Proponents 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+.................................................................................................................................... 5 
+1.1 
+Purpose and scope 
+............................................................................................................... 5 
+2. 
+Additional Guidance on Licence Applications for SMR Projects ............................................. 6 
+2.1 
+Considerations by safety and control area .......................................................................... 6 
+2.1.1 
+Management system .............................................................................................. 7 
+2.1.2 
+Human performance management ......................................................................... 8 
+2.1.3 
+Operating performance .......................................................................................... 9 
+2.1.4 
+Safety analysis ..................................................................................................... 10 
+2.1.5 
+Physical design .................................................................................................... 10 
+2.1.6 
+Fitness for service ................................................................................................ 11 
+2.1.7 
+Radiation protection 
+............................................................................................. 12 
+2.1.8 
+Conventional health and safety 
+............................................................................ 12 
+2.1.9 
+Environmental protection .................................................................................... 13 
+2.1.10 Emergency management and fire protection ....................................................... 14 
+2.1.11 Waste management .............................................................................................. 14 
+2.1.12 Security ................................................................................................................ 15 
+2.1.13 Safeguards and non-proliferation 
+......................................................................... 15 
+2.1.14 Packaging and transport 
+....................................................................................... 16 
+2.2 
+Other regulatory areas 
+....................................................................................................... 17 
+3. 
+Development of the Licensing Basis for an SMR Facility ........................................................ 17 
+3.1 
+Applying a graded approach ............................................................................................. 17 
+3.2 
+Proposing alternative approaches ..................................................................................... 18 
+4. 
+Role of Pre-Licensing in Establishing the Licensing Basis for an SMR Facility 
+.................... 19 
+4.1 
+The role of the VDR process ............................................................................................ 20 
+4.2 
+Scope of the process to establish an appropriate application assessment strategy for an 
+SMR project 
+...................................................................................................................... 21 
+4.2.1 
+Process for determining an appropriate application assessment strategy for a 
+novel nuclear technology ..................................................................................... 22 
+4.2.2 
+Information required for the preliminary description of activities and hazards 
+... 23 
+Glossary ..................................................................................................................................................... 26 
+References 
+.................................................................................................................................................. 27 
+ 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+5 
+ 
+Supplemental Information for Small Modular Reactor Proponents  
+1. 
+Introduction 
+1.1 
+Purpose and scope 
+This document provides guidance on information to be provided to the Canadian Nuclear Safety 
+Commission (CNSC) in support of an application for a licence to prepare site, to construct, to 
+operate or to decommission a small modular reactor (SMR) facility.  
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactor Proponents, provides 
+information about CNSC safety and control areas as they apply to a licence application for an 
+SMR facility. REGDOC-1.1.5 provides information that is additional to the licensing process 
+documented in REGDOC-3.5.1, Licensing Process for Class I Nuclear Facilities and Uranium 
+Mines and Mills [1], which provides an overview of the licensing process for Class I nuclear 
+facilities. 
+In accordance with CNSC regulations, the CNSC has developed licence application guides that 
+set out requirements and guidance for submitting a formal application to the CNSC to obtain a 
+licence for reactor facilities, including SMRs, in Canada. The licence application guides also help 
+identify information that should be included in an application. REGDOC-1.1.5 is intended to be 
+used in conjunction with the following three licence application guides:  
+ 
+REGDOC-1.1.1, Site Evaluation and Site Preparation for New Reactor Facilities [2] 
+ 
+REGDOC-1.1.2, Licence Application Guide: Licence to Construct a Nuclear Power Plant [3] 
+ 
+REGDOC-1.1.3, Licence Application Guide: Licence to Operate a Nuclear Power Plant [4] 
+For the purposes of this document, the term SMR includes: 
+ 
+water-cooled reactors (smaller than traditional reactors) 
+ 
+advanced reactors with alternative coolant technologies (i.e. non-water cooled) 
+SMRs may produce energy in the range of a few megawatts to a few hundred megawatts, and 
+may be used for purposes beyond the generation of electricity. In some cases, an SMR facility 
+could have multiple reactor units with a combined power output equivalent to that of a traditional 
+nuclear power plant. 
+Protecting the environment is part of the CNSC’s mandate. The CNSC requires the environmental 
+effects of all licensed activities to be evaluated and considered when licensing decisions are 
+made. This is a review of information used to support the Commission’s determination on 
+whether the licensee will make adequate provision for the protection of the environment and the 
+health and safety of persons while carrying out a licensed activity. In addition to the information 
+on environmental protection in the three licence application guides listed above, further 
+information on this subject can also be found in REGDOC-2.9.1, Environmental Protection: 
+Environmental Principles, Assessments and Protection Measures [5], and REGDOC-3.5.1, 
+Licensing Process for Class I Nuclear Facilities and Uranium Mines and Mills [1].  
+Section 2 of this document provides specific guidance for licence applications for SMRs. 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+6 
+ 
+Section 3 contains guidance on the application of the graded approach and the use of alternative 
+approaches in the development of the licensing basis for SMR facilities.  
+Section 4 outlines the role of pre-licensing engagement.  Pre-licensing engagement is optional, 
+and can entail one or both of the following: 
+ A vendor Design Review (VDR) 
+ A defined CNSC process to determine an appropriate application assessment strategy for an 
+SMR. 
+ 
+Pre-licensing review of a vendor’s reactor design: This is commonly referred to as the VDR 
+process. It is discussed briefly in section 4.1 of this document, and in depth in CNSC regulatory 
+document REGDOC-3.5.4, Pre-licensing Review of a Vendor's Reactor Design [6]. This process 
+involves a CNSC staff review of a vendor’s design in order to identify and address potential 
+regulatory or technical issues that could arise in the licensing process. A VDR is intended to help 
+a vendor understand regulatory requirements while completing an SMR design, and usually takes 
+place before an applicant submits a licence application. A VDR can also take place in parallel 
+with a licence application; for example, a vendor may decide to engage in the VDR process in 
+parallel with the CNSC’s review of an application for a licence to prepare site. A VDR is not a 
+licensing process: It does not necessarily involve a potential applicant for a project, does not 
+involve any decision making by the Commission, and does not result in any decisions that could 
+fetter the Commission’s decision making concerning a potential project. 
+Process for establishing an appropriate application assessment strategy for risk-informed 
+licensing: During the process for establishing an appropriate application assessment strategy for 
+risk-informed licensing (detailed in section 4.2), the CNSC works with a potential applicant to 
+provide clarification on preparing a licence application.  
+Both of these pre-licensing activities (VDR and the process for establishing an appropriate 
+application assessment strategy for risk-informed licensing) are intended to provide regulatory 
+clarity. These activities incorporate the risk considerations (described in section 3) that the CNSC 
+uses when assessing how activities or SMR designs are measured against regulatory 
+requirements.  
+2. 
+Additional Guidance on Licence Applications for SMR Projects 
+The following information is presented to guide the proponent’s licence application for an SMR: 
+ 
+Section 2.1, Considerations by safety and control area (SCA): Addresses information specific to 
+CNSC SCAs, with respect to the proposed SMR 
+ 
+Section 2.2, Other regulatory areas: Addresses information not covered in the SCA-specific 
+information presented in section 2.1 
+2.1 
+Considerations by safety and control area 
+SCAs are the technical topics that CNSC staff use across all regulated facilities and activities to 
+assess, evaluate, review, verify and report on regulatory requirements and performance.  
+Consult the CNSC’s regulatory documents Web page for a list of regulatory documents that may 
+apply to SCAs addressed in a licence application, depending on the proposed activity and type of 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+7 
+ 
+Sections 2.1.1 to 2.1.14 provide SCA-specific information that a proponent should consider when 
+determining the extent of the emphasis to give each SCA in a licence application. The list of 
+considerations is not comprehensive. 
+2.1.1 
+Management system 
+The management system SCA covers the framework that establishes the processes and programs 
+required to ensure that an organization achieves its safety objectives, continuously monitors its 
+performance against those objectives, and fosters a healthy safety culture. 
+This SCA covers the following specific areas: 
+ 
+management system 
+ 
+organization 
+ 
+performance assessment, improvement, and management review 
+ 
+operating experience 
+ 
+change management 
+ 
+safety culture 
+ 
+configuration management 
+ 
+records management 
+ 
+management of contractors 
+ 
+business continuity 
+REGDOC-2.1.1, Management System [7], consolidates CNSC expectations for the management 
+system SCA, and also includes applicable legislative references. Consult the CNSC’s 
+regulatory documents Web page for a full list of regulatory documents and CSA standards that 
+may be applicable to the management system SCA, depending on the proposed activity and type 
+of licence being applied for. 
+When describing the management system and the emphasis it should be given, the applicant 
+should address the following considerations: 
+1. complexity of the facility or activity, elements of which may include: 
+a. complexity of required managed processes 
+b. complexity of the organization 
+c. number and size of radioactive or nuclear sources present  
+d. number of radioactive sources being used at any one time  
+e. degree of automation 
+2. structure of the operating organization 
+3. the need for effectively managed processes to control identified hazards, elements of which 
+may include: 
+a. change control 
+b. design control 
+c. document control 
+d. work planning and control 
+e. corrective action 
+f. maintenance 
+g. configuration management 
+h. operations 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+8 
+ 
+i. 
+operating experience 
+4. safety culture 
+5. extent of activities involving risk (to health, safety and the environment) and requiring 
+managed processes and controls 
+6. frequency, extent and need for critical human involvement in the activities of the facility 
+7. remote or local operation 
+8. number and type of barriers to accident progression or radioactive release  
+9. access control to process or equipment 
+10. the relative significance of integration points between process and programs 
+2.1.2 
+Human performance management 
+The human performance management SCA covers activities that enable effective human 
+performance through the development and implementation of processes that ensure that a 
+sufficient number of licensee personnel are in all relevant job areas, and that these personnel have 
+the necessary knowledge, skills, procedures and tools to safely carry out their duties. 
+Note: The human performance management SCA does not need to be included in an application 
+for a licence to prepare site. This SCA is included in applications for a licence to construct, for a 
+licence to operate and for a licence to decommission. For an application for a licence to prepare 
+site, basic human performance management aspects are addressed under the management system 
+SCA. 
+This SCA covers the following specific areas: 
+ 
+human performance program 
+ 
+personnel training  
+ 
+personnel certification 
+ 
+initial certification examinations and requalification tests 
+ 
+work organization and job design  
+ 
+fitness for duty 
+Consult the CNSC’s regulatory documents Web page for a list of regulatory documents and CSA 
+standards that may be applicable to the human performance management SCA, depending on the 
+proposed activity and type of licence being applied for. 
+When assessing human performance management and the emphasis it should be given, the 
+applicant should address the following considerations: 
+1. complexity of the facility or activity, elements of which may include: 
+a. complexity of required managed processes 
+b. complexity of the organization  
+c. operating model 
+d. number and size of radioactive or nuclear sources present  
+e. number of radioactive sources being used at any one time  
+f. degree of automation 
+2. the need for effective managed processes to control identified hazards, elements of which 
+may include: 
+a. change control 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+9 
+ 
+b. design control 
+c. document control 
+d. work planning and control 
+e. corrective action 
+f. maintenance 
+g. configuration management 
+h. operations 
+i. 
+operating experience 
+3. workers, elements of which may include: 
+a. complexity of job tasks 
+b. competence of management, technical and other staff 
+c. risk of not having qualified, trained and experienced personnel 
+d. number of staff 
+e. type, education and disciplines 
+4. extent of activities involving risk (to health, safety and the environment) and requiring 
+managed processes and control 
+5. frequency, extent and need of critical human involvement in the activities of the facility 
+6. probability and potential impact of human error 
+7. number and type of barriers to accident progression or radioactive release 
+8. access control to process or equipment 
+2.1.3 
+Operating performance 
+The operating performance SCA includes an overall review of the conduct of the licensed 
+activities and the activities that enable effective performance. 
+This SCA covers the following specific areas: 
+ 
+conduct of licensed activity 
+ 
+procedures 
+ 
+reporting and trending 
+ 
+outage management performance 
+ 
+safe operating envelope 
+ 
+severe accident management and recovery 
+ 
+accident management and recovery 
+Consult the CNSC’s regulatory documents Web page for a list of regulatory documents and CSA 
+standards that may be applicable to the operating performance SCA, depending on the proposed 
+activity and type of licence being applied for. 
+When assessing the operating performance SCA and the emphasis it should be given, the 
+applicant should address the following considerations: 
+1. availability and applicability of operational experience for similar facilities or activities 
+2. frequency and type of activities to be performed 
+3. complexity of operation 
+4. number and type of barriers to accident progression or radioactive release 
+5. access control to process or equipment 
+ 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+10 
+ 
+2.1.4 
+Safety analysis 
+The safety analysis SCA covers the safety analysis that supports the overall safety case for the 
+facility. Safety analysis is a systematic evaluation of the potential hazards associated with the 
+conduct of a proposed activity or facility and considers the effectiveness of preventive measures 
+and strategies in reducing the effects of such hazards. 
+This SCA covers the following specific areas: 
+ 
+deterministic safety analysis 
+ 
+hazard analysis 
+ 
+probabilistic safety analysis 
+ 
+criticality safety 
+ 
+severe accident analysis 
+ 
+management of safety issues (including R&D programs) 
+Consult the CNSC’s regulatory documents Web page for a list of regulatory documents and CSA 
+standards that may be applicable to the safety analysis SCA, depending on the proposed activity 
+and type of licence being applied for. 
+When assessing the safety analysis SCA and the emphasis it should be given, the applicant should 
+address the following considerations: 
+1. the number of provisions in the design to reduce risk 
+2. the number of process systems 
+3. the number of active safety systems and their interdependence 
+4. the number of passive safety systems 
+5. dependence on human performance/administrative controls to limit risk 
+6. total activities involving risk (to health, safety and the environment) 
+7. required managed process controls 
+8. extent and need for critical human involvement in the activities of the facility 
+9. probability of failure of structures, systems and components 
+10. consequences of failure of structures, systems and components 
+11. ability to manage change in facility design and/or operation as a result of events, operating 
+experience, new knowledge, production or regulatory requirements 
+12. potential for undesirable chemical, physical and nuclear reactions 
+13. nature and complexity of safety systems to prevent accidents 
+14. degree of automation (as it relates to mitigation of potential initiating events or to address 
+consequences thereof) 
+2.1.5 
+Physical design 
+The physical design SCA relates to activities that affect the ability of structures, systems and 
+components to meet and maintain their design basis, given new information arising over time and 
+taking changes in the external environment into account. 
+This SCA covers the following specific areas: 
+ 
+design governance 
+ 
+site characterization 
+ 
+facility design 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+11 
+ 
+ 
+structure design 
+ 
+system design 
+ 
+component design 
+Consult the CNSC’s regulatory documents Web page for a list of regulatory documents and CSA 
+standards that may be applicable to the physical design SCA, depending on the proposed activity 
+and type of licence being applied for. 
+When assessing the physical design SCA and the emphasis it should be given, the applicant 
+should address the following considerations: 
+1. number of provisions in the design to reduce risk 
+2. number of process systems 
+3. number of active safety systems and their interdependence 
+4. number of passive safety systems 
+5. dependence on human performance/administrative controls to limit risk 
+6. total activities involving risk (to health, safety and the environment) 
+7. required managed process controls 
+8. extent and need for critical human involvement in the activities of the facility 
+9. probability of failure of structures, systems and components multiplied by consequences 
+10. ability to manage change in facility design and/or operation as a result of events, OPEX, new 
+knowledge, production or regulatory requirements 
+11. requirements for cooling radioactive material or sources 
+12. number and diversity of equipment and systems 
+13. nature and complexity of safety systems to prevent accidents 
+14. degree of automation (as it relates to mitigation of potential initiating events or to address 
+consequences thereof) 
+2.1.6 
+Fitness for service 
+The fitness for service SCA covers activities that impact the physical condition of structures, 
+systems and components to ensure that they remain effective over time. This area includes 
+programs that ensure all equipment is available to perform its intended design function when 
+called upon to do so. 
+Note: The fitness for service SCA is not included in an application for a licence to prepare site. 
+This SCA is only included in an application for a licence to construct, and an application for a 
+licence to operate. 
+This SCA covers the following specific areas: 
+ 
+equipment fitness for service / equipment performance 
+ 
+maintenance  
+ 
+structural integrity 
+ 
+aging management 
+ 
+chemistry control 
+ 
+periodic inspection and testing 
+Consult the CNSC’s regulatory documents Web page for a list of regulatory documents and CSA 
+standards that may be applicable to the fitness for service SCA, depending on the proposed 
+activity and type of licence being applied for. 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+12 
+ 
+When assessing the fitness for service SCA and the emphasis it should be given, the applicant 
+should address the following considerations: 
+1. number of provisions in the design to reduce risk 
+2. number of process systems  
+3. number of active safety systems and their interdependence 
+4. number of passive safety systems 
+5. technical and administrative maintenance requirements to keep structures, systems and 
+components functioning as designed 
+2.1.7 
+Radiation protection 
+The radiation protection SCA covers the implementation of a radiation protection program in 
+accordance with the Radiation Protection Regulations. This program must ensure that 
+contamination levels and radiation doses received by individuals are monitored, controlled and 
+maintained at a level that is as low as reasonably achievable (ALARA). 
+This SCA covers the following specific areas: 
+ 
+application of ALARA  
+ 
+worker dose control 
+ 
+radiation protection program performance 
+ 
+radiological hazard control 
+ 
+estimated dose to public 
+Consult the CNSC’s regulatory documents Web page for a list of regulatory documents and CSA 
+standards that may be applicable to the radiation protection SCA, depending on the proposed 
+activity and type of licence being applied for. 
+When assessing the radiation protection SCA and the emphasis it should be given, the applicant 
+should address the following considerations: 
+1. number of provisions in the design to reduce risk 
+2. number of process systems 
+3. number of active safety systems and their interdependence 
+4. number of passive safety systems 
+5. magnitude of projected worker doses in relation to regulatory limits and action levels 
+(application of ALARA in reducing doses) 
+6. consequence of failure of program from a worker dose/health perspective 
+7. potential pathways of exposure (ingestion, absorption and inhalation) 
+8. number of sources of radiation 
+9. type of radiation present 
+10. longest decay time of the sources 
+11. mobility of sources 
+12. expected number of workers who may be exposed to radiation 
+13. expected releases that may affect members of the public or the environment 
+2.1.8 
+Conventional health and safety 
+The conventional health and safety SCA covers the implementation of a program to manage 
+workplace safety hazards and to protect personnel and equipment. 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+13 
+ 
+This SCA covers the following specific areas: 
+ 
+performance 
+ 
+practices 
+ 
+awareness 
+Consult the CNSC’s regulatory documents Web page for a list of regulatory documents and CSA 
+standards that may be applicable to the conventional health and safety SCA, depending on the 
+proposed activity and type of licence being applied for. 
+When assessing the conventional health and safety SCA and the emphasis it should be given, the 
+applicant should address the following considerations: 
+1. number, severity and nature of hazards 
+2. type and toxicity of materials 
+3. amount of time hazards will exist 
+4. physical work conditions 
+5. type of operation (fuelling onsite, waste storage, etc.) 
+6. chemical or biological hazards associated with possession and use of nuclear substances 
+2.1.9 
+Environmental protection 
+The environmental protection SCA covers programs that identify, control and monitor all releases 
+of radioactive and hazardous substances and effects on the environment from facilities or as the 
+result of licensed activities. 
+This SCA covers the following specific areas: 
+ 
+effluent and emissions control (releases) 
+ 
+environmental management system 
+ 
+assessment and monitoring 
+ 
+protection of the public 
+ 
+environmental risk assessment 
+Consult the CNSC’s regulatory documents Web page for a list of regulatory documents and CSA 
+standards that may be applicable to the environmental protection SCA, depending on the 
+proposed activity and type of licence being applied for. 
+When assessing the environmental protection SCA and the emphasis it should be given, the 
+applicant should address the following considerations: 
+1. proximity to sensitive habitat and the public 
+2. environmental pathways (air, water, ground conditions, tailings) 
+3. type of operation (fuelling onsite, waste storage, etc.) 
+4. chemical characteristics (types and concentration) of releases 
+5. volume of releases 
+6. types of facilities 
+7. age of the facility 
+8. environmental risk assessment results (if available) 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+14 
+ 
+2.1.10 Emergency management and fire protection 
+The emergency management and fire protection SCA covers emergency plans and emergency 
+preparedness programs that exist for emergencies and for non-routine conditions. This area also 
+includes any results of participation in exercises. 
+Note: The emergency management and fire protection SCA includes conventional emergency 
+and fire response. Operations, design and analysis in the context of fire protection for a nuclear 
+facility are discussed in the appropriate SCAs of operating performance, safety analysis and 
+physical design. 
+This SCA covers the following specific areas: 
+ 
+conventional emergency preparedness and response 
+ 
+nuclear emergency preparedness and response 
+ 
+fire emergency preparedness and response 
+Consult the CNSC’s regulatory documents Web page for a list of regulatory documents and CSA 
+standards that may be applicable to the emergency management and fire protection SCA, 
+depending on the proposed activity and type of licence being applied for. 
+When assessing the emergency management and fire protection SCA and the emphasis it should 
+be given, the applicant should address the following considerations: 
+1. onsite consequences 
+2. types and toxicity of materials 
+3. quantity of accidental radiological/nuclear and/or hazardous substance releases (above or 
+below threshold) 
+4. ability of the applicant and/or municipality (if known) to respond to an emergency  
+5. location, elements of which include: 
+a. distance and density of population  
+b. nearby infrastructure (facilities) 
+c. sensitive environments 
+2.1.11 Waste management 
+The waste management SCA covers internal waste-related programs that form part of the 
+facility’s operations up to the point where the waste is removed from the facility to a separate 
+waste management facility. This area also covers planning for decommissioning. 
+The waste management SCA covers the following specific areas: 
+ 
+waste characterization 
+ 
+waste minimization 
+ 
+waste management practices 
+ 
+decommissioning plans 
+Consult the CNSC’s regulatory documents Web page for a list of regulatory documents and CSA 
+standards that may be applicable to the waste management SCA, depending on the proposed 
+activity and type of licence being applied for. 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+15 
+ 
+When assessing the waste management SCA and the emphasis it should be given, the applicant 
+should address the following considerations: 
+1. categories of waste (liquid, solid, mixed waste) 
+2. waste classes (low, intermediate and high) 
+3. volume of waste 
+4. onsite waste processing 
+5. onsite storage 
+6. financial guarantees 
+2.1.12 Security 
+The security SCA covers the programs required to implement and support the security 
+requirements stipulated in the regulations, the licence, orders, or expectations for the facility or 
+activity. 
+The security SCA covers the following specific areas: 
+ 
+facilities and equipment 
+ 
+response arrangements 
+ 
+security practices 
+ 
+drills and exercises 
+ 
+cyber security 
+Consult the CNSC’s regulatory documents Web page for a list of regulatory documents and CSA 
+standards that may be applicable to the security SCA, depending on the proposed activity and 
+type of licence being applied for. 
+When assessing the security SCA and the emphasis it should be given, the applicant should 
+address the following considerations: 
+1. theft of material (highly enriched uranium, low enriched uranium, slightly enriched uranium, 
+plutonium, tritium, other nuclear substances or prescribed equipment and/or information) 
+2. sabotage (risk to facility and/or public) 
+3. location 
+2.1.13 Safeguards and non-proliferation 
+The safeguards and non-proliferation SCA covers the programs and activities required for the 
+successful implementation of the safeguards agreement1 between Canada and the International 
+Atomic Energy Agency (IAEA), as well as all other measures arising from the Treaty on the 
+Non-Proliferation of Nuclear Weapons. 
+                                                     
+ 
+ 
+1 Canada signed a comprehensive safeguards agreement with the IAEA in 1972 (IAEA INFCIRC/164, 
+Agreement Between the Government of Canada and the International Atomic Energy Agency for the 
+Application of Safeguards in Connection with the Treaty on the Non Proliferation of Nuclear Weapons). In 
+2000, an additional protocol (IAEA INFCIRC/164/Add.1, Protocol Additional to INFCIRC/164) was 
+brought into force. 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+16 
+ 
+The safeguards and non-proliferation SCA covers the following specific areas: 
+ 
+nuclear material accountancy and control 
+ 
+access and assistance to the IAEA 
+ 
+operational and design information 
+ 
+safeguards equipment, containment and surveillance 
+ 
+import and export 
+Consult the CNSC’s regulatory documents Web page for a list of regulatory documents and CSA 
+standards that may be applicable to the safeguards and non-proliferation SCA, depending on the 
+proposed activity and type of licence being applied for. 
+When assessing the safeguards and non-proliferation SCA and the emphasis it should be given, 
+the applicant should address the following considerations: 
+1. types, quantity and form of nuclear materials 
+2. measures taken to report, contain, verify and provide other information required by Canada’s 
+international obligations 
+2.1.14 Packaging and transport 
+The packaging and transport SCA covers programs that cover the safe packaging and transport of 
+nuclear substances to and from the licensed facility. 
+The packaging and transport SCA is not included in an application for a licence to prepare site. 
+This SCA is only included in an application for a licence to construct, and an application for a 
+licence to operate. 
+The packaging and transport SCA covers the following specific areas: 
+ 
+package design and maintenance 
+ 
+packaging and transport 
+ 
+registration for use 
+Consult the CNSC’s regulatory documents Web page for a list of regulatory documents and CSA 
+standards that may be applicable to the packaging and transport SCA, depending on the proposed 
+activity and type of licence being applied for. 
+When assessing the packaging and transport SCA and the emphasis it should be given, the 
+applicant should address the following considerations: 
+1. frequency of shipments 
+2. number of packages 
+3. type and category of packages transported 
+4. activity and physical form of radioactive material 
+5. consignor vs consignee functions 
+6. potential package contamination events 
+7. type of region through which the shipment travels, if known (i.e., rural area versus a 
+populated area) 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+17 
+ 
+2.2 
+Other regulatory areas 
+The following other regulatory areas are relevant to an application for a licence to prepare site 
+for, to construct, to operate or to decommission an SMR: 
+ 
+reporting 
+ 
+public information and disclosure program 
+ 
+engagement with Indigenous peoples of Canada  
+ 
+intergovernmental consultation 
+ 
+financial guarantees 
+Consult the CNSC’s regulatory documents Web page for a list of regulatory documents that 
+articulate CNSC expectations and guidance on how to comply with regulatory requirements, and 
+on content of licensing submissions, in the above-mentioned areas. 
+3. 
+Development of the Licensing Basis for an SMR Facility 
+When applying for a licence, the applicant is to address CNSC requirements in a manner that is 
+commensurate with the novelty, complexity and potential for harm that the activity represents.  
+The CNSC’s regulatory framework is an evolving set of requirements based on more than 70 
+years of operating experience, and is intended to be technology-neutral. Many requirements 
+reflect experience from water-cooled reactor designs. As a result, the CNSC recognizes that a 
+graded approach may be applied or that alternative approaches may be used to meet the intent of 
+some requirements.  
+3.1 
+Applying a graded approach 
+The graded approach is a method or process by which elements such as the level of analysis, the 
+depth of documentation and the scope of actions necessary to comply with requirements are 
+commensurate with the following:  
+1. the relative risks to health, safety, security, the environment, and the implementation of 
+international obligations to which Canada has agreed 
+2. the characteristics of a facility or activity 
+The Commission makes independent and objective decisions to ensure that unreasonable risks are 
+prevented, taking into consideration regulatory requirements, best available information from 
+regulatory or credible third-party research, and all information provided by applicants/licensees, 
+Indigenous peoples, other stakeholders and staff. CNSC staff make recommendations to the 
+Commission based on thorough assessments of factual evidence, measured against regulatory 
+requirements.  
+The Commission recognizes the role of professional judgment, particularly in areas where no 
+objective standards exist. Its independence and transparency in decision making are supported by 
+fair, open, transparent and predictable regulatory processes.  
+Understanding risks, including associated uncertainties, and ensuring that these risks are 
+mitigated plays a significant role in making regulatory recommendations and decisions. The risks 
+and mitigation approaches need to be clearly described and well understood in order for the 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+18 
+ 
+Commission to make an informed decision. Supporting evidence and the quality of that evidence 
+are critical. 
+The Commission and CNSC staff apply a risk-informed approach to all SCAs in order to place an 
+appropriate amount of regulatory scrutiny on activities, depending on the level of risk. Primary 
+considerations for the extent and depth of application are the degree of novelty, complexity and 
+potential harm posed by the proposed activity or facility. The degree of scrutiny, which may vary 
+upward or downward, is further informed by:  
+ 
+technical assessments of submissions 
+ 
+safety performance history of the licensee (if applicable) 
+ 
+relevant research 
+ 
+information supplied through the Commission’s public processes 
+ 
+national and international activities that advance knowledge in nuclear and environmental 
+safety 
+ 
+cooperation with other regulatory bodies 
+When the Commission assesses applications that reflect a graded approach, its primary 
+consideration is to ensure that risk is demonstrated to be at a reasonable level. This includes 
+ensuring that:  
+1. regulatory requirements will be met 
+2. fundamental safety functions are adequate 
+3. defence in depth is demonstrated 
+4. safety margins are appropriate and in line with specific hazards over the facility’s lifecycle 
+Regulatory requirements and expectations provide a starting point for regulatory review, but each 
+case will be reviewed on its own merits. 
+More detailed information on risk-informed techniques and other methodologies can be found in 
+CAN/CSA-IEC/ISO 31010-10, Risk management – Risk assessment techniques [8], and CSA 
+N290.19, Risk-informed decision making for nuclear power plants [9]. 
+3.2 
+Proposing alternative approaches  
+The CNSC will consider alternative approaches to meeting the requirements in its regulatory 
+framework. 
+Any alternative approach shall demonstrate that safety and security protections are maintained or 
+improved. Where risk characteristics contain uncertainties, the amount of evidence required for 
+the applicant to demonstrate a credible decision increases. Suitable evidence may include results 
+of research and development, computer modelling and consideration of operating experience, and 
+the evidence must be demonstrated to be relevant to the specific proposal. All of these types of 
+evidence should be documented, traceable and quality-assured. A proponent that is considering a 
+licence application for an SMR is encouraged to engage with the CNSC early on, well in advance 
+of submitting the application, in order to understand CNSC expectations for management systems 
+and quality assurance. This will inform research and development work, with a view to 
+supporting a potential future licence application. 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+19 
+ 
+In their assessment of alternatives proposed by an applicant (see section 3.2), CNSC staff 
+evaluate if the alternatives: 
+ 
+meet the objectives of the requirements 
+ 
+meet high-level safety objectives 
+ 
+meet fundamental safety functions of “control, cool, contain” 
+At the same time, the alternatives need to demonstrate: 
+ 
+defence in depth 
+ 
+safety margins in view of the uncertainties in the safety case and of specific hazards over the 
+facility’s lifecycle 
+4. 
+Role of Pre-Licensing in Establishing the Licensing Basis for an SMR Facility  
+There are two types of pre-licensing engagement with the CNSC: 
+ 
+the VDR process 
+ 
+the process for establishing an appropriate application assessment strategy for risk-informed 
+licensing 
+Figure 1 illustrates these two types of pre-licensing activities at a conceptual level, including how 
+the two processes can overlap while incorporating graded-approach considerations. 
+ 
+ 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+20 
+ 
+Figure 1: Pre-licensing engagement activities in establishing the licensing basis for an SMR facility 
+ 
+4.1 
+The role of the VDR process 
+SMRs differ greatly in size, design, and operation. Each SMR design also has varying degrees of 
+uncertainty, which SMRs of similar types may address differently. In light of this variability, a 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+21 
+ 
+vendor may wish to consult with the CNSC prior to licensing to ensure that its design meets high-
+level Canadian requirements. The CNSC offers an optional VDR service in this regard. 
+A VDR is separate from the licensing process, and its primary purpose is to inform the vendor of 
+the design’s overall acceptability. This review provides early identification and resolution of 
+potential regulatory or technical issues in the design process, particularly those that could result in 
+significant changes to the design or safety case.  
+In a VDR, the CNSC enters into a service agreement with the vendor that is based on a fixed 
+scope of work, under which the vendor can gain a comprehensive grasp of Canadian regulatory 
+requirements and how its design, as it is evolving, would be capable of meeting those 
+requirements. Similarly, this agreement helps CNSC develop a better understanding of the 
+specific technology being presented.  
+The VDR process is divided into three phases, each requiring increasingly detailed technical 
+information, and is fully described in CNSC regulatory document REGDOC-3.5.4, Pre-licensing 
+Review of a Vendor's Reactor Design [6]. 
+While the VDR process is separate from the process for determining an appropriate application 
+assessment strategy (described in section 4.2), outputs from each VDR phase can inform the 
+determination of such a strategy. VDR results may also be used by an applicant in the licensing 
+process. 
+4.2 
+Scope of the process to establish an appropriate application assessment strategy for 
+an SMR project 
+All licence applications are presented to the Commission for approval. When applying for a 
+license, the proponent should provide clearly articulated descriptions of how proposed activities 
+would be conducted safely and would meet all applicable requirements. Clearly documented 
+intentions facilitate fair and informed decisions. With this in mind, the purpose of establishing an 
+application assessment strategy is to enable potential proponents to understand: 
+ 
+the overall licensing process 
+ 
+the specific licensing process for the proposed activity 
+ 
+regulatory framework tools available to support the licensing process (e.g., regulations, 
+licence application guides and other regulatory documents) and how they are used to establish 
+the licensing basis  
+ 
+licensee obligations (should the licence application be approved) 
+The CNSC has a process for determining an appropriate application assessment strategy for an 
+innovative activity or facility that uses technology that is new to Canada. This process ensures 
+that a risk-informed approach is systematically and consistently applied. 
+While establishing an appropriate application assessment strategy is optional, it could be 
+especially beneficial for a proponent whose application includes one or more of the following: 
+ 
+new organizational models for conducting a project 
+ 
+a proposal for new types of activities, for which there is little or no past experience (e.g., 
+potential demonstration activities to be performed in a demonstration facility)  
+ 
+new ways to conduct activities (e.g., construction approaches) 
+ 
+new technological approaches that require extensive interpretation of requirements 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+22 
+ 
+This optional process is carried out prior to any licence application. It begins via early CNSC 
+engagement with a potential SMR applicant to reach a common understanding of the nature of the 
+proposed design and of the specificities of the approach to operation.  
+The establishment of an application assessment strategy begins with a high-level analysis of the 
+proposed project, including applicable regulations and regulatory process. Applicable regulatory 
+documents and practices, with recommendations on their risk-informed application, are also 
+identified. Pre-licensing engagement and review of proposed activities may indicate that no 
+license is required. For example, the testing of a thermal hydraulic loop (without the use of 
+nuclear substances) is not subject to sections 24 or 26 of the NSCA and therefore would not 
+require a licence application to the CNSC. 
+The outcome of this process is an appropriate risk-informed application assessment strategy, 
+which CNSC staff will ultimately use in developing supplemental guidance for an applicant on 
+how to prepare a licence application for a given project. The process is expected to be iterative, 
+with several interactions between the CNSC and an applicant before the CNSC develops this 
+supplemental guidance. 
+4.2.1 
+Process for determining an appropriate application assessment strategy for a novel 
+nuclear technology 
+In the interest of providing clarity to potential proponents, this section describes the process for 
+determining an appropriate application assessment strategy for a novel nuclear technology. The 
+process is divided into the following four activities: 
+ 
+Activity A: Prepare for and establish preliminary description of activities and hazards 
+ 
+Activity B: Conduct risk assessment and document proposed strategy for novel nuclear 
+technology 
+ 
+Activity C: Decide on application assessment strategy 
+ 
+Activity D: Communicate application assessment strategy via letter 
+The following text provides detailed descriptions of activities A, B, C and D. 
+Activity A: Prepare for and establish preliminary description of activities and hazards 
+The proponent provides conceptual information about the technology design to the CNSC. The 
+proponent may also choose to submit information resulting from an optional VDR. See section 
+4.2.3 for additional guidance on what should be included in the preliminary description. 
+A discussion is facilitated with the proponent to understand what activities are being planned and 
+the associated time frames. This communication with the proponent allows the CNSC to gain the 
+required preliminary information about the activity or facility being proposed in Canada.  
+Activity B: Conduct risk assessment and document proposed strategy for novel nuclear 
+technology 
+CNSC staff discuss the applicant’s proposal and document a risk-informed application 
+assessment strategy report. This report documents the CNSC’s understanding of the proposal and 
+the key areas where risks influence the nature of the provisions (or safety and control measures) 
+to satisfy the requirements of the relevant SCA.  
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+23 
+ 
+This activity involves: 
+ 
+evaluating risks and technical challenges 
+ 
+requesting additional information from the proponent where necessary 
+ 
+making a recommendation on whether a licence is required under section 26 (a–f) of the 
+NSCA 
+ 
+identifying applicable regulations and recommended application guides, regulatory 
+documents and technical criteria that would be most appropriate 
+Activity C: Decide on application assessment strategy 
+CNSC staff finalize the application assessment strategy and prepare a letter for the proponent. 
+Activity D: Communicate application assessment strategy via letter 
+Following Activity C, the letter is sent to the proponent. An applicant can then use this guidance 
+in conjunction with section 2 of this document to prepare a licence application.  
+The letter: 
+ 
+includes an overview of applicable regulations, licence application guides and information to 
+be submitted in support of a licence application 
+ 
+identifies a CNSC single point of contact 
+ 
+may also provide additional information, including the following: 
+ 
+applicability of an environmental assessment 
+ 
+public and Indigenous consultation 
+ 
+considerations with respect to nuclear liability, security and safeguards 
+ 
+potential licensing timelines 
+Once the application assessment strategy is communicated via a letter, an applicant can then use 
+the letter, in conjunction with section 2 of this document, to prepare a licence application. While 
+the supplemental guidance in the letter can provide clarity to a proponent, it does not provide an 
+endorsement of a project by CNSC staff. This letter does not, in any way, bind the Commission in 
+its consideration of the application.  
+The Commission is the final arbitrator of what represents reasonable risk when it comes to the 
+development and use of nuclear energy and sources. The Commission makes the determination as 
+to whether a project can be developed in a manner that meets the CNSC’s requirements and 
+protects the health, safety, security and the environment of Canadians and ultimately uses this 
+determination to decide whether or not to issue a licence. 
+4.2.2 
+Information required for the preliminary description of activities and hazards 
+The applicant’s preliminary description should include enough details of the proposed activities 
+and hazards over the life of a potential project. This allows CNSC staff to initiate a technical 
+assessment in order to document regulatory considerations and propose an application assessment 
+strategy. 
+The preliminary description should be of sufficient detail to allow CNSC staff to: 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+24 
+ 
+ 
+understand the nature of the activities, including the hazards they may present to workers, the 
+public and the environment 
+ 
+proceed to Activity B (conduct risk assessment and document proposed strategy for novel 
+nuclear technology), which documents regulatory considerations and proposes the 
+requirements applicable to the proposal and a draft application assessment strategy 
+The three topics of specific criteria are as follows: 
+ 
+description of the purpose of the project and key activities to be conducted 
+ 
+description of the nuclear facility or activity 
+ 
+estimate of quantity, form, origin and volume of any radioactive waste or hazardous waste 
+The three topics are covered in further detail in the following sections. 
+Description of the purpose of the project and key activities to be conducted 
+The project should encompass the entire lifecycle up to and including decommissioning. Specific 
+project dates are not required. Instead, relative times for conduct of each phase and sets of key 
+activities should be provided. 
+The purpose of the project and key activities to be conducted should, at a conceptual level, 
+describe: 
+ 
+the ultimate purpose of the project, including primary objectives to be achieved as a result of 
+performance of the project. (for example, a facility for the purpose of conducting research to 
+support a safety case for a future demonstration facility) 
+ 
+operating experience that exists from similar types of projects (if applicable) 
+ 
+the preliminary timelines of key project phases which have been identified, for example:  
+ 
+licence submissions 
+ 
+preparation of the site 
+ 
+construction/installation 
+ 
+commissioning 
+ 
+operational phase 
+ 
+decommissioning 
+ 
+site closure 
+ 
+key project activities that have been identified for each project phase 
+Description of the nuclear facility or activity 
+The section should describe, as applicable, the following information at a conceptual level: 
+ 
+the proposed plans for the nuclear facility, showing its layout, location, the location of its 
+components and the location of adjacent areas that may be occupied by persons 
+ 
+where the facility may be located (e.g., on a university campus, near a populated region as an 
+industrial facility, in a sparsely populated region) 
+ 
+the key structures and systems such that their operation by persons can be understood by 
+CNSC staff for the purpose of understanding the proponent’s description of potential hazards 
+under all facility operating states 
+ 
+the proposed organizational arrangements for the conduct of the activities to be licensed 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+25 
+ 
+ 
+an estimate of quantity, form, origin and volume of any radioactive waste or hazardous waste 
+that may result from the activity to be licensed, including waste that may be stored, managed, 
+processed or disposed of at the site of the activity to be licensed 
+ 
+how the environment could adversely affect the project (e.g., overview of key external natural 
+or human induced events of concern being considered) 
+ 
+key evolutions or configuration changes planned for the facility that could impact the safety 
+case 
+ 
+a description of radiological and non-radiological malfunctions and accidents that may occur 
+at the facility in connection with each phase of the project as well as: 
+ 
+preventive measures being considered and mitigation measures such as monitoring, 
+contingency, cleanup or restoration work in the surrounding environment that would be 
+required during or immediately following the postulated malfunction and accident 
+scenarios 
+ 
+the source, quantity, mechanism, pathway, rate, form and characteristics of contaminants 
+and other materials (physical and chemical) likely to be released to the surrounding 
+environment during the postulated malfunctions and accidents 
+ 
+potential consequences to health of workers, the public and environment 
+ 
+the conceptual environmental releases 
+Estimate of quantity, form, origin and volume of any radioactive waste or hazardous waste 
+The preliminary description should describe, at a conceptual level, the radioactive and/or 
+hazardous wastes that will be generated: 
+ 
+during normal operation 
+ 
+as a result of major configuration changes planned for the facility over its lifecycle 
+ 
+as a result of decommissioning 
+For each type of waste that will be produced, the following should be described: 
+ 
+where and how waste will originate 
+ 
+estimates of quantities of each form to be generated 
+ 
+hazards associated with handling and storage 
+ 
+methods being considered for managing and disposing of the waste 
+ 
+ 
+ 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+26 
+ 
+Glossary 
+For definitions of terms used in this document, see REGDOC-3.6, Glossary of CNSC Terminology, which 
+includes terms and definitions used in the Nuclear Safety and Control Act and the regulations made under 
+it, and in CNSC regulatory documents and other publications. REGDOC-3.6 is provided for reference and 
+information. 
+ 
+ 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+27 
+ 
+References 
+The CNSC may include references to information on best practices and standards such as those published 
+by CSA Group. With permission of the publisher, CSA Group, all nuclear-related CSA standards may be 
+viewed at no cost through the CNSC Web page “How to gain free access to all nuclear-related CSA 
+standards”. 
+1. CNSC. REGDOC-3.5.1, Licensing Process for Class I Nuclear Facilities and Uranium Mines 
+and Mills. Ottawa, 2017. 
+2. CNSC. REGDOC-1.1.1, Site Evaluation and Site Preparation for New Reactor Facilities. 
+Ottawa. 2018. 
+3. CNSC. REGDOC-1.1.2, Licence Application Guide: Licence to Construct a Nuclear Power 
+Plant. Ottawa, 2019. 
+4. CNSC. REGDOC-1.1.3, Licence Application Guide: Licence to Operate a Nuclear Power Plant. 
+Ottawa, 2017. 
+5. CNSC. REGDOC-2.9.1, Environmental Protection: Environmental Principles, Assessments and 
+Protection Measures. Ottawa, 2017. 
+6. CNSC. REGDOC-3.5.4, Pre-licensing Review of a Vendor’s Reactor Design. Ottawa, 2018. 
+7. CNSC. REGDOC-2.1.1, Management System. Ottawa, 2019. 
+8. International Organization for Standardization. CAN/CSA-IEC/ISO 31010-10, Risk management 
+– Risk assessment techniques. Switzerland, 2010. 
+9. CSA Group. CSA N290, Risk-informed decision making for nuclear power plants. Mississauga, 
+2018. 
+ 
+ 
+August 2019 
+REGDOC-1.1.5, Supplemental Information for Small Modular Reactors Proponents 
+ 
+28 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the CNSC. In addition to the 
+Nuclear Safety and Control Act and associated regulations, these facilities and activities may also be 
+required to comply with other regulatory instruments such as regulatory documents or standards. 
+CNSC regulatory documents are classified under the following categories and series: 
+1.0 
+Regulated facilities and activities 
+Series 1.1 
+Reactor facilities 
+1.2 
+Class IB facilities 
+1.3 
+Uranium mines and mills 
+1.4 
+Class II facilities 
+1.5 
+Certification of prescribed equipment 
+1.6 
+Nuclear substances and radiation devices 
+2.0 
+Safety and control areas 
+Series 2.1 
+Management system 
+2.2 
+Human performance management 
+2.3 
+Operating performance 
+2.4 
+Safety analysis 
+2.5 
+Physical design 
+2.6 
+Fitness for service 
+2.7 
+Radiation protection 
+2.8 
+Conventional health and safety 
+2.9 
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0 
+Other regulatory areas  
+Series 3.1 
+Reporting requirements 
+3.2 
+Public and Indigenous engagement 
+3.3 
+Financial guarantees 
+3.4 
+Commission proceedings 
+3.5 
+CNSC processes and practices 
+3.6 
+Glossary of CNSC terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. Visit the CNSC’s website for 
+the latest list of regulatory documents. 

@@ -1,0 +1,14 @@
+requests==2.28.2
+torch==2.0.1
+boto3==1.26.11
+google-cloud-storage==2.7.0
+bitsandbytes
+datasets
+packaging
+ninja
+einops
+flash-attn
+xformers
+trl
+peft
+accelerate

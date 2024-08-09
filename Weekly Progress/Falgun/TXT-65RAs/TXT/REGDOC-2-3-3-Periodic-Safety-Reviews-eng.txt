@@ -1,0 +1,1001 @@
+Operating Performance 
+Periodic Safety Reviews 
+ 
+ 
+REGDOC-2.3.3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+April 2015 
+ 
+ 
+Operating Performance: Periodic Safety Reviews 
+Regulatory Document REGDOC-2.3.3 
+© Canadian Nuclear Safety Commission (CNSC) 2015 
+PWGSC catalogue number CC172-120/2015E-PDF 
+ 
+ISBN 978-1-100-25942-0 
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+Également publié en français sous le titre : Bilans périodiques de la sûreté 
+Document availability 
+This document can be viewed on the CNSC website at nuclearsafety.gc.ca. To request a copy of the 
+document in English or French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, Ontario K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Facsimile: 613-995-5086 
+Email: info@cnsc-ccsn.gc.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Publishing history 
+April 2015 
+ 
+Version 1.0 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+Preface 
+This regulatory document is part of the CNSC’s operating performance series of regulatory documents, 
+which also covers commissioning, construction and severe accident management. The full list of 
+regulatory document series is included at the end of this document and can also be found on the CNSC’s 
+website. 
+Regulatory document REGDOC-2.3.3, Periodic Safety Reviews, sets out the CNSC’s requirements for the 
+conduct of a periodic safety review (PSR) for a nuclear power plant (NPP). It is consistent with the 
+International Atomic Energy Agency’s Safety Standards Series, Specific Safety Guide No. SSG-25, 
+Periodic Safety Review for Nuclear Power Plants [1]. REGDOC-2.3.3 supersedes RD-360, Life Extension 
+of Nuclear Power Plants, published in February 2008. 
+A PSR involves an assessment of the current state of the plant and its performance to determine the extent 
+to which it conforms to applicable modern codes, standards and practices, and to identify any factors that 
+would limit safe long-term operation.  
+Operating experience in Canada and around the world, new knowledge from research and development 
+activities, and advances in technology, are taken into account. This enables the determination of 
+reasonable and practical improvements that should be made to structures, systems and components, and to 
+existing programs, to ensure the safety of the facility to a level approaching that of modern nuclear power 
+plants, and to ensure continued safe operation. A PSR is a rigorous safety assessment that is 
+complementary to, and does not replace, routine and non-routine regulatory reviews, inspections, 
+mid-term reports, event reporting and investigations, or other CNSC compliance and verification 
+activities. 
+Conduct of a PSR is intended to be a requirement that can be aligned with licence renewals and form part 
+of the licensing basis for a regulated facility or activity within the scope of this document. It is intended 
+for inclusion in licences, either as part of the conditions and safety and control measures in a licence, or as 
+part of the safety and control measures to be described in a licence application and the documents needed 
+to support that application. 
+For existing nuclear power plants, the requirements contained in this document do not apply unless they 
+have been included, in whole or in part, in the licence or licensing basis.  
+An applicant or licensee may put forward a case to demonstrate that the intent of a requirement is 
+addressed by other means and demonstrated with supportable evidence. 
+The requirements and guidance in this document are consistent with modern national and international 
+practices addressing issues and elements that control and enhance nuclear safety. 
+Guidance contained in this document exists to inform the applicant, to elaborate further on requirements 
+or to provide direction to licensees and applicants on how to meet requirements. It also provides more 
+information about how CNSC staff evaluate specific problems or data during their review of licence 
+applications. Licensees are expected to review and consider guidance; should they choose not to follow it, 
+they should explain how their chosen alternate approach meets regulatory requirements. 
+A graded approach, commensurate with risk, may be defined and used when applying the requirements 
+and guidance contained in this regulatory document. The use of a graded approach is not a relaxation of 
+requirements. With a graded approach, the application of requirements is commensurate with the risks 
+and particular characteristics of the facility or activity. 
+ 
+i 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+Important note: Where referenced in a licence either directly or indirectly (such as through licensee-
+referenced documents), this document is part of the licensing basis for a regulated facility or activity. 
+The licensing basis sets the boundary conditions for acceptable performance at a regulated facility or 
+activity, and establishes the basis for the CNSC’s compliance program for that regulated facility or 
+activity. 
+Where this document is part of the licensing basis, the word “shall” is used to express a requirement to 
+be satisfied by the licensee or licence applicant. “Should” is used to express guidance or that which is 
+advised. “May” is used to express an option or that which is advised or permissible within the limits of 
+this regulatory document. “Can” is used to express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+ 
+ 
+ii 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+Table of Contents 
+1. 
+Introduction 
+........................................................................................................................1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant regulations ........................................................................................................... 1 
+1.4 
+National and international standards 
+................................................................................... 2 
+2. 
+General Requirements 
+.......................................................................................................2 
+3. 
+Periodic Safety Review Basis Document 
+..........................................................................3 
+3.1 
+Current licensing basis 
+........................................................................................................ 3 
+3.2 
+Proposed operating strategy of the nuclear power plant ..................................................... 3 
+3.3 
+Scope of the periodic safety review .................................................................................... 4 
+3.4 
+Methodology for the performance of the periodic safety review 
+........................................ 5 
+3.5 
+Applicable modern codes, standards and practices 
+............................................................. 5 
+3.6 
+Methodology for the identification, dispositioning and tracking of gaps ........................... 6 
+3.7 
+Methodology for the global assessment 
+.............................................................................. 6 
+3.8 
+Periodic safety review governance ..................................................................................... 7 
+4. 
+Performance of the Periodic Safety Review ....................................................................7 
+4.1 
+Safety factor reports 
+............................................................................................................ 7 
+5. 
+Global Assessment Report ................................................................................................8 
+6. 
+Integrated Implementation Plan ......................................................................................9 
+Appendix A: Safety Factor for Radiation Protection 
+...............................................................10 
+A.1 
+Objective 
+........................................................................................................................... 10 
+A.2 
+Scope and tasks 
+................................................................................................................. 10 
+A.3 
+Methodology 
+..................................................................................................................... 10 
+A.3.1 
+Review of the reactor design features for radiation protection 
+............................ 11 
+A.3.2 
+Review of radiation protection equipment and instrumentation for radiation 
+monitoring 
+............................................................................................................ 11 
+A.3.3 
+Review of radiation protection aspects for nuclear emergencies 
+......................... 11 
+A.3.4 
+Review of radiation protection related to operating experience .......................... 11 
+Appendix B: CNSC Safety and Control Areas..........................................................................12 
+ 
+ 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+Glossary ........................................................................................................................................13 
+References 
+.....................................................................................................................................15 
+Additional Information ...............................................................................................................16 
+ 
+ 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+Periodic Safety Reviews 
+1. 
+Introduction 
+REGDOC-2.3.3, Periodic Safety Reviews, sets out the CNSC’s requirements for the conduct of a 
+periodic safety review (PSR). A PSR is a comprehensive evaluation of the design, condition and 
+operation of a nuclear power plant (NPP, plant). It is an effective way to obtain an overall view of 
+actual plant safety and the quality of the safety documentation, and to determine reasonable and 
+practical improvements to ensure safety until the next PSR or, where appropriate, until the end of 
+commercial operation. 
+PSRs have been effective in achieving improvements in safety. Adopting PSRs in support of licence 
+renewal will ensure the continued improvement of NPP safety. Past experience with life-extension 
+projects gives the CNSC and the Canadian nuclear industry a large degree of familiarity with the 
+PSR process. As such, the application of a PSR in Canada represents an evolution of a current 
+practice, as opposed to the adoption of a new one.  
+1.1 
+Purpose 
+This regulatory document sets out the CNSC’s requirements for the conduct of a PSR. Guidance is 
+also provided on how these requirements may be met. 
+1.2 
+Scope 
+This document is intended for nuclear power plants. However, it can be used by other nuclear 
+facilities applying a graded approach. 
+1.3 
+Relevant regulations 
+The following provisions of the Nuclear Safety and Control Act (NSCA) and regulations made under 
+the NSCA that are relevant to this regulatory document: 
+1. Subsection 24(4) of the NSCA states that “No licence shall be issued, renewed, amended or 
+replaced − and no authorization to transfer one given − unless, in the opinion of the Commission, 
+the applicant (a) is qualified to carry on the activity that the licence will authorize the licensee to 
+carry on; and (b) will, in carrying on that activity, make adequate provision for the protection of 
+the environment, the health and safety of persons and the maintenance of national security and 
+measures required to implement international obligations to which Canada has agreed” 
+2. Subsection 24(5) of the NSCA states that “A licence may contain any term or condition that the 
+Commission considers necessary for the purposes of this Act…” 
+3. Section 3 of the General Nuclear Safety and Control Regulations states the general licence 
+application requirements 
+4. Paragraphs 12(1)(c), (f) and (i) of the General Nuclear Safety and Control Regulations state that 
+“Every licensee shall  
+(c) take all reasonable precautions to protect the environment and the health and safety of 
+persons and to maintain security of nuclear facilities and of nuclear substances; … 
+(f) take all reasonable precautions to control the release of radioactive nuclear substances or 
+hazardous substances within the site of the licensed activity and into the environment as a result 
+of the licensed activity; … 
+(i) take all necessary measures to facilitate Canada’s compliance with any applicable safeguards 
+agreement;” 
+ 
+1 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+5. Sections 3 and 6 of the Class I Nuclear Facilities Regulations state the general licence 
+application requirements specific to Class I nuclear facilities and the information required to 
+apply for a Class I nuclear facility operating licence 
+1.4 
+National and international standards 
+Key principles and elements used in developing this regulatory document are consistent with 
+national and international standards, guides and practices. In particular, this regulatory document is 
+consistent with the International Atomic Energy Agency’s (IAEA) Safety Standards Series, Specific 
+Safety Guide No. SSG-25, Periodic Safety Review for Nuclear Power Plants (SSG-25) [1]. 
+2. 
+General Requirements 
+The licensee shall conduct a PSR in accordance with this regulatory document for the period until 
+the next PSR or, if applicable, until the end of commercial operation of the plant. The PSR shall be 
+conducted according to the following four phases: 
+1. preparation of a PSR basis document 
+2. conduct of the safety factors reviews and identification of findings 
+3. analysis of the findings and their integral impact on the NPP’s safety (global assessment) 
+4. preparation of a plan of safety improvements (integrated implementation plan) 
+Guidance 
+The objectives of a PSR are to determine: 
+1. the extent to which the facility conforms to modern codes, standards and practices 
+2. the extent to which the licensing basis remains valid for the next licensing period 
+3. the adequacy and effectiveness of the programs and the structures, systems and components 
+(SSCs) in place to ensure plant safety until the next PSR or, where appropriate, until the end of 
+commercial operation 
+4. the improvements to be implemented to resolve any gaps identified in the review and timelines 
+for their implementation 
+The PSR approach is outlined in SSG-25. The complex process of conducting a PSR can be 
+facilitated by subdividing it into tasks that are identified as safety factors. These safety factors are 
+intended to cover all aspects that are important to the safety of an operating nuclear power plant. The 
+terms “safety factor” and “safety factor reports” are an adoption of the SSG-25 terms, with the 
+addition of a safety factor for radiation protection. Safety factor reports are discussed further in 
+sections 3 and 4. 
+The licensee first prepares the PSR basis document which defines the scope and methodology for the 
+PSR. This is then used to conduct the review, prepare the safety factor reports, and the global 
+assessment report. The results of the PSR are used to establish the corrective actions and safety 
+improvements to be included in the integrated implementation plan. 
+The documentation submitted to the CNSC includes: 
+1. PSR basis document 
+2. reports on the review of each safety factor (safety factor reports) 
+3. global assessment report (GAR) 
+4. integrated implementation plan (IIP) 
+ 
+2 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+In accordance with SSG-25 and international practice, 10 years is considered an appropriate interval 
+between PSRs to identify any factors that would limit the NPP’s continued safe operation and 
+determine the extent to which it conforms to applicable modern codes, standards and practices. The 
+next PSR interval may deviate from 10 years when it includes the end of commercial operation. The 
+licensee may propose an alternative interval when the proposed operating strategy includes the end 
+of commercial operations within or shortly after the 10-year interval. 
+It is expected that the effort necessary to carry out a second (or subsequent) PSR of an NPP will 
+often be considerably less than for the first. In general, subsequent PSRs will focus on changes in 
+requirements, facility conditions, operating experience and new information, rather than repeating 
+the activities of previous reviews.  
+The PSR is complementary to, and does not replace, regulatory activities required and/or performed 
+by the CNSC, including routine and non-routine regulatory reviews and inspections, mid-term 
+reports, event reporting and investigations, or any other CNSC licensing and verification activities. 
+3. 
+Periodic Safety Review Basis Document 
+The PSR basis document is an essential instrument that governs the conduct of the PSR. It ensures 
+that the licensee and the CNSC have the same expectations for the PSR’s scope, methodology and 
+outcomes. 
+The PSR basis document shall be submitted to CNSC staff for acceptance. The required elements of 
+the PSR basis document are: 
+1. statement of current licensing basis, including exemptions and acceptable deviations 
+2. statement of the proposed operating strategy of the facility 
+3. description of scope of the PSR 
+4. description of the methodology for the performance of the PSR, including the period for which 
+the PSR is valid 
+5. statement of applicable modern codes, standards and practices  
+6. description of the methodology for the identification, dispositioning and tracking of gaps 
+7. description of the methodology for the global assessment 
+8. PSR governance 
+3.1 
+Current licensing basis 
+The licensee shall provide a description of the current nuclear power plant licensing basis at the time 
+of initiation of the PSR, which will be used as a baseline for the conduct of the PSR. 
+3.2 
+Proposed operating strategy of the nuclear power plant 
+In the PSR basis document, the licensee shall state the proposed operating strategy of the plant. 
+Guidance 
+The PSR is performed to assess the condition of the NPP and the adequacy of the programs, 
+including aging management programs, which are in place to maintain reactor safety. The review is 
+forward-looking and the operating strategy of the plant should be considered to identify potentially 
+lifetime-limiting features of the plant. The licensee is expected to identify whether the operating 
+strategy is operation beyond the next 10-year interval or the end of commercial operations.  
+ 
+3 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+The operating strategy is expected to be reflected in the methodologies described in the PSR basis 
+document.  
+3.3 
+Scope of the periodic safety review 
+The licensee shall describe the scope of the PSR in the PSR basis document. The licensee shall: 
+1. address all safety factors of the NPP including any interdependencies 
+2. identify all facilities and associated SSCs to be covered by the PSR 
+3. address unit-specific and site-specific issues 
+4. for multi-unit NPPs, address interdependencies on common SSCs not covered by item 1 
+5. consider all expected modes of operation; for a multi-unit facility, taking into consideration the 
+operational state of each unit 
+6. include a comprehensive review of current licensing issues applicable to the safety factors 
+Guidance 
+The scope of the PSR should include a review of each of the following safety factors: 
+1. plant design 
+2. actual condition of SSCs important to safety 
+3. equipment qualification (environmental and seismic) 
+4. aging 
+5. deterministic safety analysis 
+6. probabilistic safety assessment 
+7. hazard analysis 
+8. safety performance 
+9. use of experience from other NPPs and research findings 
+10. organization, the management system and safety culture 
+11. procedures 
+12. human factors 
+13. emergency planning 
+14. radiological impact on the environment 
+15. radiation protection 
+SSG-25 describes 14 safety factors that have been selected on the basis of international experience 
+and are intended to cover all factors important to NPP safety. The scope, tasks and methodologies of 
+these 14 safety factors are considered to meet the CNSC’s expectations for corresponding safety 
+factors 1–14 listed above. The CNSC has included an additional safety factor on radiation protection; 
+the licensee should refer to Appendix A for guidance on the scope and tasks for the review of this 
+safety factor. The PSR basis document should include, in the scope and tasks, how the intent of each 
+task listed for a safety factor will be addressed. 
+It is expected that the required effort to carry out a subsequent PSR of an NPP will often be 
+considerably less than for the first; however, the subsequent PSR should consider explicitly if the 
+earlier PSR conclusions remain valid (for example, in light of the time elapsed since it was 
+performed). 
+ 
+4 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+3.4 
+Methodology for the performance of the periodic safety review 
+The licensee shall specify the methodology for: 
+1. conducting assessments that confirm that the plant will continue to meet its licensing basis until 
+the next PSR cycle or, where appropriate, the end of commercial operation 
+2. conducting assessments against applicable modern codes, standards and practices 
+3. conducting a global assessment of facility safety in view of all PSR gaps and strengths 
+4. identifying any corrective actions and safety improvements that are necessary to address PSR 
+findings to improve the level of safety 
+Guidance 
+The methodologies that will be applied for the PSR should be described in the PSR basis document 
+to show how the licensee plans to achieve the PSR objectives as stated in section 2. The 
+methodologies outlined in SSG-25 for performing safety factor reviews provide an acceptable 
+approach. 
+Since processes and programs have many levels of interdependencies and interrelationships, the 
+reviews should be conducted using internal documents that correctly represent these dependencies 
+and relationships. To ensure this, a freeze date should be established for the internal documents used 
+in the safety factor reviews. The reviews are then carried out using documents that are applicable to 
+the document freeze date. 
+3.5 
+Applicable modern codes, standards and practices 
+The licensee shall state what modern national and international codes, standards and practices will be 
+used in the reviews, including their effective dates, as well as: 
+1. the criteria for their selection 
+2. the PSR cut-off date beyond which changes to codes and standards and new information will not 
+be considered 
+3. the type of review to be performed (clause-by-clause, high level or alternative) 
+Guidance 
+An integral element of the PSR is the assessment of the extent to which the NPP would satisfy 
+requirements and expectations set out in applicable modern codes, standards and practices. A list of 
+modern codes, standards and practices with their cut-off dates, should be established before any 
+work is carried out. This ensures a common and consistent expectation for the reviews. 
+Modern codes, standards and practices should be selected, taking into consideration CNSC’s 
+regulatory documents as well as modern international practices and operational experience. Primary 
+consideration for selection of codes and standards should rest with those referenced in licences and 
+applicable CNSC regulatory documents. IAEA documents and other appropriate international 
+standards should also be considered. If an appropriate Canadian code or standard is not available, the 
+licensee should propose a reasonable substitute. 
+It is expected that all mandatory clauses in a code or standard will be reviewed to determine if the 
+identified requirements are met. Any applicable sub-tier referenced sections in the mandatory clauses 
+to other codes, standards and licensee documentation should also be reviewed and addressed. A 
+clause-by-clause type review should also be performed for new versions of codes and standards 
+referenced by the licence and licence condition handbook. For other codes and standards, licensees 
+may propose other types of reviews. 
+ 
+5 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+3.6 
+Methodology for the identification, dispositioning and tracking of gaps 
+The licensee shall describe the process and methodology for identifying, categorizing, prioritizing 
+and dispositioning gaps. The licensee shall state what decision-making process will be used to 
+evaluate and decide on the various alternatives to disposition the gaps. 
+To the extent practicable, the licensee shall resolve identified gaps with respect to applicable modern 
+codes, standards and practices. The licensee shall use established processes to resolve identified gaps 
+with the current licensing basis. The licensee shall track dispositioning and resolution of all gaps 
+identified during the PSR through to their resolution. 
+Guidance 
+The PSR review should identify the following types of findings: 
+• 
+strengths – current practices are equivalent to or better than those established in modern codes 
+and standards, practices  
+• 
+gaps – current practices are not equivalent to those established in modern codes and standards 
+practices, or do not meet the current licensing basis, or are inconsistent with the operational 
+documentation for plant 
+The rationale behind identifying the findings and their disposition should be justified using valid 
+arguments and supporting evidence. All gaps should be categorized and prioritized according to their 
+safety significance. While assessing gaps for safety significance, the licensee should consider 
+deterministic and probabilistic safety analyses, engineering judgment or a combination thereof. 
+Suitability for assessment via selected means should be determined by the nature of the finding. 
+Depending on the nature of the gaps, the licensee may also include considerations such as public 
+radiation safety, plant operability, occupational radiation safety, emergency preparedness, and the 
+environment when prioritizing gaps. The overall priority of a gap should inform the course of action 
+to be taken to establish its recommended disposition. Any gaps representing the plant’s non-
+compliance against the current licensing basis may be resolved through the existing plant programs. 
+The licensee should establish and maintain a database of all gaps identified during the PSR. 
+3.7 
+Methodology for the global assessment 
+The methodology for performing the global assessment shall be described in the PSR basis 
+document. The methodology shall address and include: 
+1. results of the safety factor reviews, in particular, the findings (both gaps and strengths) of NPP 
+design and operation 
+2. the interdependencies between gaps and the significance of their aggregate effects 
+3. recommended corrective actions and safety improvements to address individual and consolidated 
+gaps 
+4. the extent to which the safety requirements of defence in depth are fulfilled 
+5. an estimate of global risk associated with facility operation with any unresolved gaps 
+The results from the global assessment shall be documented in the global assessment report. 
+Guidance 
+The objective of the global assessment is to present an overall evaluation of facility safety taking into 
+account a balanced assessment of all findings identified in the PSR. The global assessment should 
+ 
+6 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+take into account all the strengths and gaps from the PSR, and the corrective actions and/or safety 
+improvements proposed to improve the overall level of safety. 
+The review of individual safety factors may indicate that the NPP’s safety is acceptable; however, 
+when a review of the interactions, overlaps and gaps between safety factors is performed, new 
+findings may be identified that have an impact on overall level of safety. 
+3.8 
+Periodic safety review governance 
+In the PSR basis document, the licensee shall establish, and describe governance for the conduct of 
+the PSR. 
+Guidance 
+The licensee’s governance for the conduct of PSR should address that: 
+1. the PSR team is qualified to carry out the review 
+2. provisions have been made for peer or independent review of work done 
+3. controls are in place to ensure that information and data are used consistently across the review 
+4. requirements for the preparation and verification of documentation are satisfied 
+5. results are recorded in a systematic and auditable manner 
+The licensee should develop a project plan for the conduct of the PSR that includes established 
+project management processes and quality management provisions. 
+4. 
+Performance of the Periodic Safety Review 
+The licensee shall conduct the PSR in accordance with the accepted PSR basis document following 
+its acceptance by CNSC staff. 
+Guidance 
+It is recommended that the licensee does not undertake substantive work on the PSR until such time 
+as CNSC staff has accepted the PSR basis document. 
+4.1 
+Safety factor reports 
+Upon completion of the safety factor reviews, the licensee shall prepare reports for submission to 
+CNSC staff in accordance with the accepted PSR basis document. The licensee shall ensure that each 
+safety factor report documents: 
+1. objective, scope, tasks and methodology for the review 
+2. applicable codes , standards and practices 
+3. overview of applicable facility programs and processes 
+4. findings of the review which identify gaps and strengths 
+5. categorized and prioritized gaps 
+6. interfaces with other safety factor report findings 
+7. options for corrective actions for each gap 
+ 
+7 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+Guidance 
+The safety factor reports document the findings for specific review tasks. The findings of the 
+assessments and the comparison against applicable modern codes, standards, and practices are 
+included. Any gaps are identified, recorded, categorized, prioritized and dispositioned. 
+The overall structure of each report should be a summary of the review followed by detailed 
+reporting and conclusions. The report should: 
+1. clearly indicate the type of review conducted for each review element: a clause-by-clause 
+review, a high-level review or a combination thereof, and provide the rationale for selecting the 
+type of review 
+2. provide systematic coverage of the expected review tasks with detailed analysis of how the 
+licensee addressed requirements to fulfill licensing bases, as well as the expectations for 
+satisfying applicable, modern codes, standards and practices set out in the basis document 
+3. clearly indicate the licensee’s acceptance of any work done by an outsourced contractor 
+4. provide enough information to allow CNSC staff to make a regulatory determination based on 
+the information contained in the report 
+The licensee should prepare the safety factor reports to be as self-contained as practicable, avoiding 
+excessive referencing. Where a code, standard or practice addresses more than one review element, 
+the findings of such reviews should be cross-referenced. 
+Safety factor reports should be submitted concurrently or in a single package because some reports 
+may be inter-related. For example, the report for aging may be inter-related with the reports on the 
+actual condition of SSCs important to safety and deterministic safety analysis. 
+5. 
+Global Assessment Report 
+The licensee shall prepare a report that documents the results of the global assessment. The global 
+assessment report (GAR) shall present the findings of the PSR, both strengths and gaps, to provide 
+an overall assessment of the safety of plant. The GAR shall document the overall conclusions, 
+corrective actions and safety improvements to be considered. It shall be submitted to CNSC staff for 
+review. 
+Guidance 
+The GAR should provide a living database that captures the current state of the gaps. The database 
+should be fully traceable so that a change in a gap, or in the assessment of a gap, can be easily 
+tracked to its resolution. The GAR should include the following elements: 
+1. summaries of the safety factor reports and identified gaps and strengths 
+2. overlaps, omissions, and interface issues of the findings from the safety factor reports 
+3. consolidation of gaps into global issues where appropriate 
+4. safety significance and risk ranking of all gaps (individual and consolidated) 
+5. corrective actions, safety improvements and appropriate dispositions proposed for all gaps and 
+global issues 
+6. a global assessment based on the aggregate effect of the findings resulting from all safety factor 
+reports, taking the proposed corrective actions and safety improvements into account, and 
+defence in depth 
+7. statement of the licensee’s assessment of the overall acceptability of operation of the NPP 
+ 
+8 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+6. 
+Integrated Implementation Plan 
+The licensee shall develop an integrated implementation plan (IIP) that addresses the results of the 
+global assessment. The IIP shall be submitted to CNSC staff for acceptance. 
+In the IIP, the licensee shall: 
+1. list the corrective actions and safety improvements (including necessary physical NPP 
+modifications) that will address all gaps identified in the PSR, and findings 
+2. specify the schedule for implementing the corrective actions and safety improvements 
+Guidance 
+An overview of the acceptability of safe operation of plant in view of the proposed changes should 
+be included in the IIP, to demonstrate that the outcome of safety improvements serves the intended 
+purpose of the PSR. 
+In the IIP, the licensee should: 
+1. demonstrate traceability and provide references to the GAR 
+2. specify the processes used for determining the detailed scope, including prioritization and 
+scheduling of corrective actions and safety improvements 
+3. schedule and implement corrective actions and safety improvements commensurate with their 
+safety significance 
+4. specify processes for identification and management of project risks and controls 
+5. specify the process to be used to track the progress and completion of the corrective actions and 
+safety improvements 
+It is encouraged to organize the IIP according to the CNSC’s safety and control areas so as to 
+facilitate the CNSC’s review. See Appendix B for more information on CNSC’s safety and control 
+areas. 
+To ensure the IIP’s success, the licensee should have the following in place: 
+1. a project organization, structured to execute the IIP 
+2. governance for IIP delivery 
+3. scope, schedules and dependencies, at least for the earlier tasks 
+4. definition of resources and a resourcing plan 
+5. a mechanism for overall integration, peer or independent review and oversight 
+ 
+9 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+Appendix A: Safety Factor for Radiation Protection 
+As stated in section 3.3 of this document, the scope of the PSR should address the following 14 safety factors 
+set out in the International Atomic Energy Agency’s Safety Standards Series, Specific Safety Guide 
+No. SSG-25, Periodic Safety Review for Nuclear Power Plants (SSG-25) [1]: 
+1. reactor facility design 
+2. actual condition of structures, systems and components important to safety 
+3. equipment qualification 
+4. aging 
+5. deterministic safety analysis 
+6. probabilistic safety assessment 
+7. hazard analysis 
+8. safety performance 
+9. use of experience from other plants and research findings 
+10. organization, the management system and safety culture 
+11. procedures 
+12. human factors 
+13. emergency planning 
+14. radiological impact on the environment 
+SSG-25 does not address radiation protection (RP) as a separate safety factor because it is considered as a 
+review element of several other safety factors. It is expected that RP-related elements will be integrated into 
+the relevant safety factor reports as described in SSG-25, including safety factors 8 (safety performance), 10 
+(organization, the management system and safety culture) and 11 (procedures). 
+Based on experience from previous CNSC reviews, the licensee should address four RP-related review 
+elements separately. These elements are outlined in the following text. 
+A.1 
+Objective 
+The objective of the review of RP is to determine: 
+• 
+the extent to which RP has been accounted for in the design and operation of the reactor facility 
+• 
+whether RP provisions (including design and equipment) provide adequate protection of persons from 
+the harmful effects of radiation, and ensures that contamination and radiation exposures and doses to 
+persons are monitored and controlled, and maintained as low as reasonably achievable (ALARA) 
+A.2 
+Scope and tasks 
+The scope of this review will depend on the extent of changes in standards and/or the licensing basis since 
+the previous PSR or the start of operation. The review of RP should include the following tasks: 
+• 
+reactor design features for RP  
+• 
+RP equipment and instrumentation for radiation monitoring  
+• 
+RP aspects during nuclear emergencies 
+• 
+RP operating experience 
+A.3 
+Methodology 
+The review should be performed systematically by reviewing national and international requirements and 
+standards listed in the PSR basis document and other requirements and standards identified as relevant during 
+the course of the review. 
+ 
+10 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+A.3.1 Review of the reactor design features for radiation protection 
+The review should identify all sources of radiation and radiation exposure pathways, with an evaluation of 
+radiation doses that could be received by workers at the facility with consideration of contained and fixed 
+sources, and potential sources of airborne radioactive material. The review should demonstrate that the 
+ALARA principle has been incorporated in the reactor design and operational programs and arrangements, in 
+order to minimize the number and locations of radiation sources and the radiation fields associated with 
+them.  
+The review should determine that the design and layout of the reactor facility meets CNSC regulatory 
+requirements and expectations for reactor facilities in the area of RP (e.g., REGDOC-2.5.2, Design of 
+Reactor Facilities: Nuclear Power Plants and RD/GD-369, Licence Application Guide: Licence to Construct 
+a Nuclear Power Plant). The review should include RP principles, and how they are incorporated into the 
+reactor design and are of a sufficient depth to demonstrate the following:  
+• 
+suitable provisions have been made in the design and layout of the reactor facility to keep occupational 
+radiation doses below regulatory limits and ALARA, including: 
+o 
+classification of areas (zoning) and access control 
+o 
+aging of all materials and obsolescence of technology that could impair the radiological safety 
+functions of SSCs  
+o 
+radiological hazard control  
+o 
+decontamination of personnel, equipment and structures 
+o 
+radiological monitoring (in-plant) 
+• 
+SSCs have been adequately designed so that radiation exposures during all activities are optimized and 
+justified 
+A.3.2 Review of radiation protection equipment and instrumentation for radiation monitoring 
+The review of RP equipment and instrumentation for radiation monitoring should demonstrate adequate 
+provisions for monitoring all significant radiation sources, in all activities throughout the lifetime of the 
+reactor facility. These should cover operational states and accident conditions and, as practicable, beyond-
+design-basis accidents, including severe accidents. The review of the physical condition of RP 
+instrumentation and equipment should be confirmed by walk downs where practicable to verify continued 
+utility and functionality. 
+A.3.3 Review of radiation protection aspects for nuclear emergencies 
+The review of RP aspects for nuclear emergencies should demonstrate the effectiveness of RP measures 
+during a nuclear emergency. These measures may be significantly impacted by facility configuration and 
+controls; or for example, the review should consider access controls, habitability controls, communications 
+systems, adequate radiation monitoring capabilities, portable emergency response RP equipment, and 
+radiation personnel protective equipment.  
+A.3.4 Review of radiation protection related to operating experience 
+The review of RP-related operating experience (OPEX) should identify OPEX reports from other reactor 
+facilities and relevant national and international experience and research findings. The review should verify 
+that this information has been properly considered in the routine evaluation of OPEX and research 
+developments and that appropriate action has been taken. The review of OPEX should seek to identify good 
+practices and lessons learned elsewhere, and to take advantage of improved knowledge derived from 
+research, in the area of RP. 
+ 
+11 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+Appendix B:CNSC Safety and Control Areas 
+Safety and 
+Control Area 
+Description 
+Management 
+system 
+The framework that establishes the processes and programs required to ensure an 
+organization achieves its safety objectives, continuously monitors its performance 
+against these objectives, and fosters a healthy safety culture. 
+Human 
+performance 
+management 
+The activities that enable effective human performance through the development and 
+implementation of processes that ensure a sufficient number of licensee personnel are 
+in all relevant job areas and have the necessary knowledge, skills, procedures and 
+tools in place to safely carry out their duties. 
+Operating 
+performance 
+This includes an overall review of the conduct of the licensed activities and the 
+activities that enable effective performance. 
+Safety analysis 
+Maintenance of the safety analysis that supports the overall safety case for the 
+facility. Safety analysis is a systematic evaluation of the potential hazards associated 
+with the conduct of a proposed activity or facility and considers the effectiveness of 
+preventative measures and strategies in reducing the effects of such hazards.  
+Physical design 
+The activities that impact the ability of structures, systems and components to meet 
+and maintain their design basis given new information arising over time and taking 
+changes in the external environment into account. 
+Fitness for service 
+The activities that impact the physical condition of structures, systems and 
+components to ensure that they remain effective over time. This area includes 
+programs that ensure all equipment is available to perform its intended design 
+function when called upon to do so. 
+Radiation 
+protection 
+The implementation of a radiation protection program in accordance with the 
+Radiation Protection Regulations. This program must ensure that contamination 
+levels and radiation doses received by individuals are monitored and controlled, and 
+maintained as low as reasonably achievable (ALARA) 
+Conventional 
+health and safety 
+The implementation of a program to manage workplace safety hazards and to protect 
+personnel and equipment. 
+Environmental 
+protection 
+The programs that identify, control and monitor all releases of radioactive and 
+hazardous substances and effects on the environment from facilities or as the result of 
+licensed activities.  
+Emergency 
+management and 
+fire protection. 
+The emergency plans and emergency preparedness programs which exist for 
+emergencies and for non-routine conditions. This area also includes any results of 
+participation in exercises. 
+Waste management 
+The internal waste-related programs that form part of the facility’s operations up to 
+the point where the waste is removed from the facility to a separate waste 
+management facility. This area also covers the planning for decommissioning. 
+Security 
+The programs required to implement and support the security requirements stipulated 
+in the regulations, in the license, in orders, or in expectations for the facility or 
+activity. 
+Safeguards and 
+non-proliferation 
+The programs required for the successful implementation of the obligations arising 
+from the Canada/IAEA safeguards agreements, as well as all other measures arising 
+from the Treaty on the Non-Proliferation of Nuclear Weapons. 
+Packaging and 
+transport 
+The programs that manage the safe packaging and transport of nuclear substances and 
+radiation devices to and from the licensed facility. 
+ 
+12 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+Glossary 
+aging management 
+Engineering, operations, inspection, and maintenance actions to control, within acceptable limits, the effects 
+of physical aging and obsolescence of structures, systems and components. 
+ALARA (as low as reasonably achievable) 
+A principle of radiation protection that holds that exposures to radiation are kept as low as reasonably 
+achievable, social and economic factors taken into account. Section 4 of the Radiation Protection 
+Regulations stipulates licensee requirements with respect to ALARA. 
+corrective actions 
+Measures taken to eliminate the cause of a detected nonconformity or other undesirable situation to prevent 
+reoccurrence. 
+global assessment 
+An overall risk judgment on the acceptability of continued operation of a nuclear facility. 
+integrated implementation plan (IIP) 
+A plan that considers the scope and schedule of safety improvements to support continued operation of a 
+facility, based on the results of a periodic safety review. 
+licensing basis 
+A set of requirements and documents for a regulated facility or activity comprising: 
+• 
+the regulatory requirements set out in the applicable laws and regulations 
+• 
+the conditions and safety and control measures described in the facility’s or activity’s licence and the 
+documents directly referenced in that licence 
+• 
+the safety and control measures described in the licence application and the documents needed to support 
+that licence application 
+management system 
+A set of interrelated or interacting elements (system) for establishing policies and objectives and enabling the 
+objectives to be achieved in an efficient and effective way. The management system integrates all elements 
+of an organization into one coherent system to enable all of the organization’s objectives to be achieved. 
+These elements include the structure, resources, and processes. Personnel, equipment, and organizational 
+culture as well as the documented policies and processes are parts of the management system. The 
+organization’s processes have to address the totality of the requirements on the organization as established in, 
+for example, IAEA safety standards and other international codes and standards. 
+nuclear power plant 
+A nuclear facility consisting of any nuclear fission reactor installation that has been constructed to generate 
+electricity on a commercial scale. 
+Note: An NPP may include more than one nuclear reactor. 
+periodic safety review (PSR) 
+A comprehensive assessment of nuclear power plant design and operation that deals with the cumulative 
+effects of aging, modifications, operating experience, technical developments and siting factors, and aims at 
+ensuring a high level of safety throughout the operating life of plant. 
+periodic safety review (PSR) basis document 
+The information that sets out the scope and methodology for the conduct of the periodic safety review. 
+ 
+13 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+safety improvements 
+Measures taken that result in more effective implementation of the safety objectives of a nuclear power plant. 
+safety significance 
+The significance of a situation, event or issue with respect to the impact on meeting the nuclear safety 
+objectives as defined by the IAEA in document No. SF-1 Fundamental Safety Principles [2]. In general, a 
+situation, event or issue has safety significance if it denotes a deviation from the safety case accepted in the 
+licence, in a direction detrimental to safety, such as but not limited to: 
+• 
+reducing margins to (or exceeding) the accepted limits 
+• 
+increasing risk to the health, safety and security of persons and the environment 
+• 
+impairments (various degrees) of the special safety systems or of the safety functions for accident 
+mitigation 
+• 
+reduction in defence in depth 
+• 
+events causing radioactive releases and spills of hazardous substances, injuries to workers or the public, 
+etc. 
+structures, systems and components (SSCs) 
+A general term encompassing all of the elements (items) of a facility or activity that contribute to protection 
+and safety. Structures are the passive elements: buildings, vessels, shielding, etc. A system comprises several 
+components, assembled in such a way as to perform a specific (active) function. A component is a discrete 
+element of a system. Examples are wires, transistors, integrated circuits, motors, relays, solenoids, pipes, 
+fittings, pumps, tanks, and valves. 
+ 
+14 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+References 
+1. International Atomic Energy Agency (IAEA), Safety Standards Series, Specific Safety Guide 
+No. SSG-25, Periodic Safety Review for Nuclear Power Plants, Vienna, Austria, 2013. 
+2. IAEA, Safety Standards Series, Safety Fundamentals No. SF-1, Fundamental Safety Principles, Vienna, 
+Austria, 2006. 
+ 
+15 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+Additional Information 
+1. Canadian Nuclear Safety Commission (CNSC), REGDOC-3.1.1, Reporting Requirements for Nuclear 
+Power Plants, Ottawa, 2014. 
+2. CNSC, REGDOC-2.6.3, Aging Management, Ottawa, 2014. 
+3. CNSC, P-242, Considering Cost-benefit Information, Ottawa, 2000. 
+4. IAEA, Safety Reports Series No. 57, Safe Long Term Operation of Nuclear Power Plants, Vienna, 
+Austria, 2008. 
+5. IAEA, Safety Standards Series, Safety Guide NS-G-2.12, Ageing Management for Nuclear Power 
+Plants, Vienna, Austria, 2009. 
+6. IAEA, Safety Standards Series, Safety Guide NS-G-2.6, Maintenance, Surveillance and In-Service 
+Inspection in Nuclear Power Plants, Vienna, Austria, 2002. 
+7. IAEA, INSAG 12, Basic Safety Principles for Nuclear Power Plants, 75-INSAG-3 Rev.1, A report by 
+the International Nuclear Safety Advisory Group, Vienna, Austria, 1999. 
+ 
+16 
+ 
+April 2015 
+REGDOC-2.3.3, Periodic Safety Reviews 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the Canadian Nuclear Safety 
+Commission (CNSC). In addition to the Nuclear Safety and Control Act and associated regulations, these 
+facilities and activities may also be required to comply with other regulatory instruments such as regulatory 
+documents or standards. 
+Effective April 2013, the CNSC’s catalogue of existing and planned regulatory documents has been 
+organized under three key categories and twenty-five series, as set out below. Regulatory documents 
+produced by the CNSC fall under one of the following series: 
+1.0  
+Regulated facilities and activities 
+Series 1.1  
+Reactor facilities 
+1.2  
+Class IB facilities 
+1.3  
+Uranium mines and mills 
+1.4  
+Class II facilities 
+1.5  
+Certification of prescribed equipment 
+1.6  
+Nuclear substances and radiation devices 
+2.0  
+Safety and control areas 
+Series 2.1  
+Management system 
+2.2  
+Human performance management 
+2.3  
+Operating performance 
+2.4  
+Safety analysis 
+2.5  
+Physical design 
+2.6  
+Fitness for service 
+2.7  
+Radiation protection 
+2.8  
+Conventional health and safety 
+2.9  
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0  
+Other regulatory areas 
+Series 3.1  
+Reporting requirements 
+3.2  
+Public and Aboriginal engagement 
+3.3  
+Financial guarantees 
+3.4  
+Commission proceedings 
+3.5  
+Information dissemination 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory document 
+series listed above may contain multiple regulatory documents. For the latest list of regulatory documents, 
+visit the CNSC’s website. 
+ 
+17 
+ 
