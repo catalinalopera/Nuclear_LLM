@@ -1,0 +1,2511 @@
+Class IB Facilities 
+Licence Application Guide:  
+Class IB Processing Facilities  
+REGDOC-1.2.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 2024 
+ 
+ 
+Licence Application Guide: Class IB Processing Facilities 
+Regulatory document REGDOC-1.2.2  
+© Canadian Nuclear Safety Commission (CNSC) 2024 
+Cat. No. CC172-254/2024E-PDF 
+ISBN 978-0-660-69080-3 
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the CNSC. 
+Également publié en français sous le titre : Guide de présentation d’une demande de permis : 
+Installations de traitement de catégorie IB 
+Document availability 
+This document can be viewed on the CNSC website. To request a copy of the document in English or 
+French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, ON  K1P 5S9 
+Canada 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Fax: 613-995-5086 
+Email: cnsc.info.ccsn@cnsc-ccsn.gc.ca 
+Website: https://www.cnsc-ccsn.gc.ca/eng/ 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+LinkedIn: linkedin.com/company/cnsc-ccsn 
+Publishing history 
+[January 2024]  
+Version 1.0 
+ 
+ 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+ 
+i 
+ 
+Preface 
+This regulatory document is part of the CNSC’s regulated facilities and activities series of regulatory 
+documents. The full list of regulatory document series is included at the end of this document and can 
+also be found on the CNSC’s website. 
+In accordance with the Nuclear Safety and Control Act, a person must have a licence issued by the CNSC 
+to prepare a site for, or construct, operate or decommission a Class IB processing facility. This regulatory 
+document, REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities, provides clarity 
+on the requirements and guidance for preparing an application to obtain a licence to prepare a site for, 
+construct, operate and/or decommission a Class IB processing facility in Canada. 
+This document will be used by applicants to prepare an application for proposed new processing facilities 
+and for licence renewals for existing Class IB processing facilities.  
+This is the first version of this document. 
+For information on the implementation of regulatory documents and on the graded approach, see 
+REGDOC-3.5.3, Regulatory Fundamentals. 
+The words “shall” and “must” are used to express requirements to be satisfied by the licensee or 
+licence applicant. “Should” is used to express guidance or that which is advised. “May” is used to 
+express an option that is permissible within the limits of this regulatory document. “Can” is used to 
+express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+ 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+......................................................................................................................... 1 
+1.1 
+Purpose .................................................................................................................. 1 
+1.2 
+Scope 
+...................................................................................................................... 1 
+1.3 
+Relevant legislation................................................................................................ 1 
+1.4 
+National and international standards 
+...................................................................... 2 
+1.5 
+CNSC contact information 
+..................................................................................... 2 
+2. 
+Licensing Basis and Licensing Process .............................................................................. 3 
+3. 
+Regulatory Requirements and Guidance ............................................................................ 5 
+3.1 
+Management system .............................................................................................. 5 
+3.2 
+Human performance management ......................................................................... 7 
+3.3 
+Operating performance .......................................................................................... 8 
+3.4 
+Safety analysis ..................................................................................................... 10 
+3.5 
+Physical design .................................................................................................... 10 
+3.6 
+Fitness for service ................................................................................................ 14 
+3.7 
+Radiation protection 
+............................................................................................. 15 
+3.8 
+Conventional health and safety 
+............................................................................ 16 
+3.9 
+Environmental protection .................................................................................... 17 
+3.10 
+Emergency management and fire protection ....................................................... 19 
+3.11 
+Waste management .............................................................................................. 19 
+3.12 
+Security ................................................................................................................ 22 
+3.13 
+Safeguards and non-proliferation 
+......................................................................... 24 
+3.14 
+Packaging and transport 
+....................................................................................... 26 
+3.15 
+Reporting ............................................................................................................. 27 
+3.16 
+Public information and disclosure program 
+......................................................... 27 
+3.17 
+Indigenous engagement ....................................................................................... 28 
+4. 
+Standard application information 
+...................................................................................... 28 
+4.1 
+Statement of purpose ........................................................................................... 28 
+4.2 
+Licence period...................................................................................................... 28 
+4.3 
+Description of site 
+................................................................................................ 29 
+4.4 
+Applicant’s name and business address 
+............................................................... 29 
+4.5 
+Mailing address 
+.................................................................................................... 29 
+4.6 
+Authority to act .................................................................................................... 29 
+4.7 
+Applicant authority .............................................................................................. 29 
+4.8 
+Proof of legal status ............................................................................................. 30 
+4.9 
+Owner or authority for the site 
+............................................................................. 30 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+ 
+ 
+4.10 
+Other information ................................................................................................ 30 
+4.11 
+Cost recovery ....................................................................................................... 30 
+4.12 
+Financial guarantees ............................................................................................ 30 
+4.13 
+Billing contact person .......................................................................................... 31 
+4.14 
+Notification .......................................................................................................... 31 
+4.15 
+Structuring the application 
+................................................................................... 31 
+4.16 
+Submitting the application ................................................................................... 31 
+Appendix A: Reference Documents by Safety and Control Area 
+......................................................... 33 
+Glossary ..................................................................................................................................................... 45 
+References 
+.................................................................................................................................................. 46 
+CNSC Regulatory Document Series 
+........................................................................................................ 49 
+ 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+1 
+ 
+Licence Application Guide: Class IB Processing Facilities 
+1. 
+Introduction 
+1.1 
+Purpose 
+This regulatory document clarifies requirements and provides guidance for an application for a 
+licence for a Class IB processing facility. It identifies the information to be provided in support of 
+a licence application to prepare a site for, to construct, to operate or to decommission a Class IB 
+processing facility for: 
+• 
+processing, reprocessing or separation of an isotope of uranium, thorium or plutonium 
+• 
+the manufacturing of a product from uranium, thorium or plutonium 
+• 
+processing or use, in a quantity greater than 1015 Bq per calendar year, of nuclear substances 
+other than uranium, thorium or plutonium 
+1.2 
+Scope 
+This document is intended to be used by applicants to prepare a licence application for a licence 
+to prepare a site for, to construct, to operate and/or to decommission a proposed new Class IB 
+processing facility, or for the renewal of a licence for an existing facility. 
+ 
+1.3 
+Relevant legislation 
+The following provisions of the Nuclear Safety and Control Act (NSCA) and the regulations 
+made under it are relevant to this document: 
+NSCA: 
+• 
+subsection 24(4) 
+• 
+paragraphs 26(a) and (f) 
+ 
+Canadian Nuclear Safety Commission Cost Recovery Fees Regulations: 
+• 
+part 2 
+ 
+Class I Nuclear Facilities Regulations: 
+• 
+sections 3, 4, 5, 6, 7, 8, 14 
+ 
+General Nuclear Safety and Control Regulations: 
+• 
+sections 3, 15, 17, 21, 22, 23, 27, 28, 29, 30, 31, 32 
+• 
+sub-sections 12(1), 28(1) 
+• 
+paragraphs 10(b), 20(d), 21(a), 21(b), 29(1)(d), 29(1)(h), 29(1)(i) 
+ 
+Nuclear Non-Proliferation Import and Export Control Regulations: 
+Nuclear Security Regulations: 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+2 
+ 
+• 
+sections 7.1, 7.2 38, 42, 43, 44, 45, 46, 47, 48 
+• 
+subsections 7(3), 37(1), 37(2), 37(3) 
+ 
+Nuclear Substances and Radiation Devices Regulations: 
+• 
+subsection 36(1) 
+• 
+paragraphs 3(1)(e), 3(1)(g), 
+ 
+Packaging and Transport of Nuclear Substances Regulations, 2015  
+ 
+Radiation Protection Regulations: 
+• 
+sections 4, 13, 14, 15, 16, 20, 21, 22, 23, 24 
+• 
+sub-section 1(3) 
+The Class II Nuclear Facilities and Prescribed Equipment Regulations, Canada Labour Code , 
+Canada Occupational Health and Safety Regulations and Transportation of Dangerous Goods 
+Regulations may apply. 
+The applicant must also comply with all applicable laws and regulations at all jurisdictional 
+levels.  
+Note: Various requirements pertaining to the safety and control areas or to other regulatory topics 
+are addressed in each section of the regulatory document. However, applicants are responsible for 
+ensures that their application addresses all requirements for proposed activities under the NSCA 
+and regulations.  
+1.4 
+National and international standards 
+Key principles and elements used in developing this document are consistent with national and 
+international standards. Furthermore, this regulatory document is compatible with the safety 
+objectives and principles in IAEA SSR-4, Safety of Nuclear Fuel Cycle Facilities [1]. 
+1.5 
+CNSC contact information 
+A single point of contact from the CNSC is assigned to work with every licensee or applicant. 
+This point of contact can provide the licensee or applicant with additional information or 
+explanation of the information contained within this document. 
+To contact the CNSC, refer to the CNSC’s website. 
+ 
+ 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+3 
+ 
+2. 
+Licensing Basis and Licensing Process 
+REGDOC-3.5.1, Licensing Process for Class I Nuclear Facilities and Uranium Mines and 
+Mills [2], clarifies the licensing process in the context of the NSCA.  Information on the licensing 
+basis is found in REGDOC-3.5.3, Regulatory Fundamentals [3]. The licensing process is initiated 
+when the applicant indicates in writing their intent to submit a licence application.  
+An applicant may submit an application for a licence to do any combination of the following: 
+prepare a site for, construct, operate, or decommission a Class IB processing facility.  
+The CNSC includes environmental reviews as part of the licensing process to evaluate the 
+environmental risks associated with proposed facility and activities. For more information on the 
+CNSC’s environmental review and licensing processes, see:  
+• 
+REGDOC-2.9.1, Environmental Protection: Environmental Principles, Assessments and 
+Protection Measures [4] 
+• 
+REGDOC-3.5.1, Licensing Process for Class I Nuclear Facilities and Uranium Mines and 
+Mills, [2] 
+Some Class IB processing facilities may require an assessment under the Impact Assessment Act 
+(IAA). The relevant types of designated projects are identified in section 26 of the IAA. 
+Information on the integrated impact assessment process can be found at canada.ca/IAAC. 
+Note: An applicant who intends to possess Category I and/or Category II nuclear material, as 
+defined in the Nuclear Security Regulations, should consult with CNSC staff to identify 
+additional relevant requirements for the site prior to submitting an application. Additional 
+requirements for a licence application for a licence pertaining to Category I and II nuclear 
+material are found in section 3 of the Nuclear Security Regulations. There may also be additional 
+requirements relating to the physical design, security and safeguard SCAs. 
+Standard licence application information is found in section 4 of this document. 
+The applicant is responsible for ensuring that the licence application contains sufficient 
+information to meet regulatory requirements. The applicant should provide cross-references to 
+detailed information in other sections as appropriate. 
+Early engagement with CNSC staff is encouraged. The applicant should consult CNSC staff to 
+confirm which editions of codes and standards applicable to the facility are to be cited or 
+addressed in the application. This should be done prior to developing proposed safety policies, 
+programs, processes, procedures and other safety and control measures. This supplemental 
+guidance may also indicate documents other than those listed in appendix A that the applicant 
+should consider and address in the application. The application should cite the regulatory 
+documents, codes and standards that were used to demonstrate the applicant’s ability to meet the 
+regulatory requirements set under the NSCA and regulations. CNSC staff may request additional 
+information to evaluate the application, as necessary.  
+Note: The information provided in this document does not prevent applicants from proposing 
+alternatives. However, any proposed alternative should appropriately reflect the complexities and 
+hazards of the proposed activities and should be supported by suitable information. 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+4 
+ 
+The applicant may provide references to any documents included in another licence application. 
+The applicant should review the information in these documents and update it as required. Any 
+updated information should be clearly identified. 
+The application should indicate the relevant sections of each supporting document. Note: If the 
+document version in the supporting information has changed, the applicant should provide the 
+CNSC with the new version number and a revised copy of the document. 
+The applicant shall provide the name, maximum quantity (at any given time) and form of any 
+nuclear substance to be encompassed by the licence. The applicant should provide the scientific 
+name of each nuclear substance. This information may be provided in summary format; for 
+example, by providing a table of the nuclear substances and the information required for each 
+substance. 
+In addition to the items above, if the application is for a new facility, the applicant should provide 
+a list of any similar facilities owned or operated by the applicant that have been assessed and 
+licensed by either the CNSC or any foreign regulatory body. The list should include the following 
+information: 
+• 
+facility name 
+• 
+location 
+• 
+date when the most recent licence was granted 
+• 
+description of the facility 
+ 
+Licence renewals 
+The applicant should provide the existing licence number if the application is for a licence 
+renewal. 
+For the renewal of an existing licence, the applicant shall indicate if any information was 
+submitted with previous licence applications. The renewal application should provide a list of the 
+supporting documents and clearly identify which information was previously submitted. The 
+applicant should review the information in previously submitted documents and update it as 
+required. Changes should be clearly identified. 
+Note that it is prohibited to submit prescribed information via unencrypted email. Prescribed 
+information, such as details of the security program, shall be submitted in accordance with 
+sections 21 and 23 of the General Nuclear Safety and Control Regulations. Guidance for the 
+protection and transmission of prescribed information can be found in REGDOC-2.12.3, Security 
+of Nuclear Substances: Sealed Sources and Category I, II and III Nuclear Material [5]. 
+ 
+ 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+5 
+ 
+3. 
+Regulatory Requirements and Guidance 
+In the application, the applicant should include sufficiently detailed information about the 
+policies, programs, procedures and other documents that describe safety and control measures. 
+All policies and programs should allow for continuous improvement, on an ongoing basis for all 
+lifecycle stages of the facility. 
+Unless otherwise indicated, the information listed under each area of regulatory interest is 
+required for an application for any lifecycle stage. The level of detail may vary depending on the 
+activities requested in the application; a graded approach applies.  
+3.1 
+Management system 
+3.1.1 
+General considerations 
+The application shall describe the proposed management system programs, processes and 
+procedures that have been or will be put in place to protect health, safety and the environment, as 
+well as a description of the organizational management structure. 
+The application should refer to CSA N286, Management system requirements for nuclear 
+facilities [6] to meet the requirements for the management system SCA. If an application does not 
+use CSA N286, the applicant shall provide the alternate standard used with justification.  
+The application should also describe the safety policies, the roles of external safety assessment 
+organizations and the advisory committees that will advise the management of the organization 
+that will carry out licensed activities. 
+3.1.2 
+Management system 
+The application should describe how the applicant’s management system is compliant with 
+relevant requirements and how the management system will be implemented. 
+3.1.3 
+Organization 
+The application shall describe the applicant’s organizational management structure insofar as it 
+may bear on the applicant’s compliance with the NSCA and the regulations made under it, 
+including the internal allocation of functions, responsibilities and authority. 
+3.1.4 
+Performance assessment, improvement and management review 
+The application should describe the proposed programs covering performance assessment, 
+improvement and management system assessment.  
+The application should describe the adequate provisions made for an objective, internal self-
+evaluation program supported by periodic external reviews and taking into account national and 
+international experience and feedback from the nuclear and other relevant industries. 
+The application should describe how organizational effectiveness and safety performance are 
+measured, including the use of performance indicators to detect any shortcomings and 
+deteriorations in safety. 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+6 
+ 
+The application should describe how organizational changes are managed to prevent degradation 
+of safety performance. 
+The application should demonstrate that the analysis of the causes of significant events will 
+consider technical, organizational and human factors aspects, and that the necessary arrangements 
+have been made to report and analyze near-miss events. 
+The application should clearly state how the applicant intends to present, promote and assess the 
+key characteristics of good safety culture and safety performance by all workers at the facility, 
+including contractors and subcontractors. The application should provide a proposed timeline and 
+milestones for completion of specific detailed safety performance documentation that will be 
+developed later. 
+3.1.5 
+Operating experience 
+The application should describe how the program for feedback of operating experience has been 
+implemented during site evaluation and design activities, and how it will continue during the 
+construction, commissioning and operating phases of the processing facility’s lifecycle.  
+3.1.6 
+Change management 
+The application should describe change management within the Class IB processing facility. 
+3.1.7 
+Safety culture 
+The application shall demonstrate that the applicant’s approach to foster a healthy safety culture. 
+This should be in accordance with REGDOC-2.1.2, Safety Culture [7]. 
+3.1.8 
+Configuration management 
+The application should describe the provisions to establish and maintain configuration from 
+concept until end of operation life. 
+Design change control and configuration management should be in accordance with CSA N286, 
+Management system requirements for nuclear facilities [6]. 
+3.1.9 
+Records management 
+The application should describe the adequate provisions for records management. Licensees are 
+required to keep records relating to the licence submitted to the Commission. 
+3.1.10 Business continuity 
+The application should include a business continuity plan. This plan should provide procedures 
+and information that guide the applicant to respond, recover, resume and restore to a predefined 
+level following disruption. Some examples of disruptions are: 
+• 
+natural disasters (such as hurricanes, floods, blizzards, earthquakes and fire) 
+• 
+accidents 
+• 
+sabotage, including cyber attacks and hacker activity 
+• 
+labour actions 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+7 
+ 
+• 
+loss of a key contractor 
+• 
+power and energy disruptions 
+• 
+communication, transport, safety and service sector failure 
+• 
+health-related epidemic or pandemic events that have or could have a measurable impact 
+• 
+environmental events (such as pollution and hazardous material spills) 
+ 
+3.2 
+Human performance management 
+3.2.1 
+General considerations 
+The application shall describe the qualifications, adequate numbers, skills and competencies 
+required by workers at the facility. 
+An application shall include a description of the measures to ensure a sufficient number of 
+workers in all job areas and that workers have the necessary knowledge, skills, procedures and 
+tools in place to safely carry out their duties.  
+The application should describe the measures to promote and support human performance at all 
+levels in the organization. The application should demonstrate how the applicant’s programs and 
+processes interface to support continuous improvement of human performance. The application 
+should demonstrate various measures to identify and monitor human performance weaknesses 
+and to correct any organizational deficiencies to minimize human error.  
+The application should describe the workforce planning process, including measures for 
+knowledge transfer, to ensure that workers are recruited and trained to fill each key role within 
+the organization. 
+3.2.2 
+Human performance program 
+The application should describe how the human performance program addresses and integrates 
+the range of human factors that influence human performance, including but not limited to: 
+• 
+adequate provision of qualified workers 
+• 
+reduction of human error 
+• 
+organizational support for safe work activities 
+• 
+continuous improvement of human performance 
+• 
+monitoring of hours of work 
+3.2.3 
+Personnel training 
+The applicant shall describe a training system. The training system shall be in accordance with 
+REGDOC-2.2.2, Personnel Training [8]. The CNSC uses the systematic approach to training 
+(SAT) process as a standard by which training program submissions are evaluated. The 
+application shall include the applicant’s overall training policy and all governance documents (or 
+a description) related to the training system. The application shall include descriptions of the 
+initial and continuing training programs for all workers engaged in licensed activities, including 
+workers employed as trainers and instructional staff.  
+The application should describe the processes established to:  
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+8 
+ 
+• 
+develop and manage documentation related to all phases of training, including analysis, 
+design, development, implementation and evaluation 
+• 
+manage training change control 
+• 
+manage and track the status of staff and contractor qualifications 
+Information on the SAT is found in REGDOC-2.2.2, Personnel Training [8]. 
+3.2.4 
+Work organization and job design 
+The application should describe the minimum number of workers with specific qualifications 
+required for safe operations in normal and accident conditions (minimum staff complement). The 
+application should demonstrate that the minimum staff complement will be monitored and 
+recorded.  
+The application should demonstrate that the adequacy of the minimum staff complement has been 
+determined through a systematic analysis to identify the required number of workers and their 
+qualifications. The application should demonstrate that the minimum staff complement can meet 
+the performance requirements and support the safe operation of the facility.  
+For more information, refer to REGDOC-2.2.5, Minimum Staff Complement [9], and REGDOC-
+2.5.1, General Design Considerations: Human Factors [10]. 
+3.2.5 
+Fitness for duty 
+For an application to operate a facility, information on fitness for duty shall be submitted if the 
+facility is a high security site. High security sites are identified as a nuclear power plant or a 
+nuclear facility where Category I or II nuclear material is processed, used or stored as per section 
+1 of the Nuclear Security Regulations. For sites subject to this designation, the application should 
+identify the oversight requirements for supervisors of security personnel from the perspective of 
+fitness for duty.  
+For more information regarding fitness for duty for high security sites, refer to: 
+• 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue [11] 
+• 
+REGDOC-2.2.4, Fitness for Duty, Volume II: Managing Alcohol and Drug Use [12] 
+• 
+REGDOC-2.2.5, Minimum Staff Complement [9] 
+ 
+3.3 
+Operating performance 
+3.3.1 
+General considerations 
+An application to construct, operate or decommission a facility should include information on 
+how the applicant will ensure that normal facility operations:  
+• 
+are carried out safely, such that radiation doses to workers and members of the public – as 
+well as any planned discharges or releases of radioactive material or hazardous substances 
+from the facility – will be within the proposed limits and conditions 
+• 
+adhere to any applicable laws and regulations at all jurisdictional levels, and to applicable 
+codes and standards 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+9 
+ 
+An application to construct, operate or decommission a facility should include information 
+regarding the development, verification, validation and implementation of programs and 
+procedures related to commissioning, maintenance, operation and decommissioning. 
+For all lifecycle stages, the application should describe how the operating principles, policies, 
+processes and programs will confirm that the structures, systems and components (SSCs) 
+important to safety will perform and function in accordance with the design specifications and 
+regulatory requirements.  
+For a new facility, the application should describe the processes used to ensure that the 
+performance of the SSCs has been assured from site preparation to construction to operation and 
+to the future, if major modifications are made to the facility. 
+3.3.2 
+Conduct of licensed activity 
+The application shall describe the proposed measures, policies, methods and procedures for 
+carrying on the licensed activity at the facility. The application shall describe the means for 
+preparation of equipment for maintenance and the monitoring of SSCs to confirm that they will 
+continue to operate as required by the design.  
+The application should also describe how the applicant will:  
+• 
+exercise overall responsibility for safety in conducting licensed activities, including ongoing 
+modifications to the facility  
+• 
+carry out effective oversight of these activities and procedural adherence 
+An application to operate or decommission a facility shall describe how the applicant will handle, 
+store, and transport nuclear and hazardous substances. 
+3.3.3 
+Procedures 
+The application should describe the development, verification, validation and implementation of 
+operating procedures for the activities to be licensed covering normal, unplanned and emergency 
+conditions.  
+The application should describe how all normal, unplanned and emergency operating procedures 
+will be validated. For more information, refer to REGDOC-2.5.1, General Design 
+Considerations: Human Factors [10]. 
+3.3.4 
+Operating limits and conditions 
+An application to construct or operate a facility shall state the safe operating limits and 
+conditions. The information submitted should describe how the applicant will comply with limits 
+imposed by the design and safety analysis assumptions. The application should clearly describe 
+the actions to be taken if the limits and conditions are not met. 
+The information available on the set of limits and conditions and the accompanying design 
+information for the facility should be sufficient to support the training and qualification of facility 
+workers. 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+10 
+ 
+No information on operating limits and conditions is required for an application to prepare a site, 
+construct or decommission for a Class IB processing facility. 
+ 
+3.4 
+Safety analysis 
+The safety analysis SCA covers maintenance of the safety analysis that supports the overall safety 
+case for the facility. Safety analysis is a systematic evaluation of the potential hazards associated 
+with the conduct of a proposed activity or facility and considers the effectiveness of preventive 
+measures and strategies in reducing the effects of such hazards.  
+3.4.1 
+General considerations 
+An application to construct or operate a facility shall include a safety analysis program that is in 
+accordance with REGDOC-2.4.4, Safety Analysis for Class IB Nuclear Facilities [13].  The safety 
+analysis report submitted for an application to construct is a preliminary report. The final report 
+must be submitted for an application to operate a facility. A safety analysis report is not required 
+for an application to prepare a site. 
+3.4.2 
+Criticality safety 
+An application to construct, operate or decommission operations with fissionable materials shall 
+meet the requirements of REGDOC-2.4.3, Nuclear Criticality Safety [14]. 
+No information on criticality safety is required for an application to prepare a site. 
+ 
+3.5 
+Physical design 
+3.5.1 
+General considerations 
+Where appropriate, the application shall describe the radiation protection and environmental 
+protection design principles and approaches adopted with the intent for facility operations to be 
+carried out safely. The information submitted shall demonstrate that, in all operational states, 
+radiation doses within the facility or any planned releases of nuclear substances from the facility 
+meet the requirements of REGDOC-2.9.1, Environmental Protection: Environmental Principles, 
+Assessments and Protection Measures [4], and REGDOC-2.4.4, Safety Analysis for Class IB 
+Nuclear Facilities [13]; are kept below regulatory limits; and are as low as reasonably achievable 
+(ALARA). REGDOC-2.7.1, Radiation Protection [15], also provides guidance on design 
+considerations for meeting CNSC regulatory requirements for the control of occupational 
+exposures. 
+An application to prepare a site, construct or operate a facility shall include an appropriate level 
+of detail about the description of the overall physical design of the facility, the design practices 
+and the safety concepts commensurate with the activities being proposed in the licence. For a 
+licence to construct or operate a facility, the application shall also describe the general approach 
+to the design and performance of the SSCs.  
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+11 
+ 
+An application to construct or operate a new facility shall include information showing that the 
+facility’s design, construction, commissioning and operation is consistent with prevailing national 
+and international codes and standards. The facility design should conform to the National 
+Building Code of Canada, National Fire Code of Canada and CSA N393, Fire protection for 
+facilities the process, handle or store nuclear substances [16]. Where appropriate, CNSC staff 
+may require more stringent requirements with regards to seismic and fire protection.  
+The IAEA suite of safety standards and safety guides are used as guidance in the technical 
+assessment of fuel cycle facility design. These safety guides include: 
+• 
+SSR-1, Site Preparation for a Nuclear Facility [17] 
+• 
+SSR-4, Safety of Nuclear Fuel Cycle Facilities [1] 
+• 
+SSG-5, Safety of Conversion Facilities and Uranium Enrichment Facilities [18] 
+• 
+SSG-6, Safety of Fuel Fabrication Facilities [19] (for less than 6% enrichment)  
+• 
+SSG-7, Safety of Uranium and Plutonium Mixed-Oxide Fabrication Facilities [20] 
+• 
+SSG-42, Safety of Nuclear Fuel Reprocessing Facilities [21] 
+• 
+SSG-43, Safety of Nuclear Fuel Cycle Research and Development Facilities [22] 
+For other radioisotope processing facilities, including processing of unsealed nuclear substances, 
+REGDOC-2.5.6, Design of Rooms Where Unsealed Nuclear Substances Are Handled [23], 
+should be followed. 
+Where there are multiple sets of regulatory requirements for the same parameters, the most 
+stringent requirement should be applied. Where there is a conflict between requirements, the 
+applicant may propose alternate approaches and provide justification. The application should 
+provide information that demonstrates adherence with the most recent national and international 
+best practices as applicable. 
+For existing facilities, the application should address the information in this section to the extent 
+practicable and provide references to past submissions. Any alternative approaches selected or 
+mitigating measures applied should be identified and justified.  
+3.5.2 
+Design governance 
+An application to prepare a site, construct or operate a facility shall describe how design 
+governance and design change control are implemented for the proposed activities in 
+consideration of factors described below. 
+Design change control and configuration management should be in accordance with CSA N286 
+Management systems for nuclear facilities [6]. For facilities processing radioisotopes used in 
+medicinal applications, alternate standards, including ISO 13485, Medical devices – Quality 
+management systems – Requirements for regulatory purposes [24], may be applied. 
+Refer to REGDOC-2.5.1 General Design Considerations: Human Factors [10], for more 
+information. 
+ 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+12 
+ 
+3.5.3 
+Site characterization 
+An application to prepare a site shall contain a description of the site evaluation process and any 
+preparatory work done at the site. An application to prepare a site shall contain a description of 
+the site’s susceptibility to human activity and natural phenomena. The IAEA documents listed in 
+section 3.5.1 and CSA N288.6, Environmental risk assessments at Class I nuclear facilities and 
+uranium mines and mills [25], may serve as guidance for site characterization.  
+If the project triggers an impact assessment under the IAA, the application may point to that 
+assessment, rather than submit the information another time.  
+An application to construct, operate or decommission a Class IB processing facility should refer 
+to or summarize the information previously submitted in any relevant environmental assessment 
+or licensing documentation, such as environmental impact statements and any previous licence 
+application. The applicant should review and update the information as necessary.   
+3.5.4 
+Facility design 
+The application shall describe the overall conceptual design of the facility and the operation and 
+interaction of all the SSCs. To ensure that the facility will be reliable, robust and maintainable, 
+the applicant shall ensure that the design conforms to an acceptable quality assurance program 
+and should ensure the design incorporates the latest developments in knowledge and technology 
+and is resistant to the effects of common-cause events and, to the extent practicable, to severe 
+accidents. The application should identify the criteria used for determining the level of acceptable 
+risk and demonstrate that the criteria meet general safety objectives. 
+The application should describe the decision-making methodology (for example, cost/benefit and 
+best available technology) that was used to select the design option. 
+The application should include basic technical and schematic drawings of the main facility SSCs, 
+including:  
+• 
+details of the physical and geographical location of the facility  
+• 
+means of access to the site  
+The application should also include general layout drawings of the entire facility, accompanied by 
+a brief description of the main systems and equipment, and their individual purposes and 
+interactions. The application should refer to the information on the adequate provisions made for 
+the physical protection of the facility. 
+The applicant should provide information on the design of laboratories and Class II nuclear 
+facilities within the facility and if included as a licensed activity under the Class I licence. The 
+design of laboratories and Class II nuclear facilities shall meet the requirements of the Class II 
+Nuclear Facilities and Prescribed Equipment Regulations and the Nuclear Substances and 
+Radiation Devices Regulations, as applicable.  
+The applicant should provide information on the adequate provisions for storage of items such as, 
+but not limited to, contaminated tooling and radiation sources.  
+For more information, REGDOC-2.5.6, Design of Rooms Where Unsealed Nuclear Substances 
+Are Handled [23]. 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+13 
+ 
+3.5.5 
+System and component design 
+Commensurate with the activities being proposed in the licence application and safety importance 
+of the system as it applies to the activities, the applicant should provide, in detail, the 
+characteristics and major components of the system and its design basis requirements (for 
+example, the functional and performance requirements associated with the definition of design 
+basis).  
+The application should describe the basis for the design of the pressure-retaining SSCs and their 
+supports. The application should also describe the pressure boundary standards and codes along 
+with their editions and effective dates. It should also describe the overall pressure boundary 
+program, including its implementation processes and procedures. In addition, the application 
+should describe the service agreement with a recognized authorized inspection agency and the 
+related pressure boundary quality assurance program.  
+The application should clearly describe facility heating, ventilation and air conditioning (HVAC) 
+systems when those systems are credited in the facility safety analysis. The description should 
+include areas such as control facilities, wet storage bays, the auxiliary and radioactive waste areas 
+and the ventilation systems for safety systems.  
+The safety significance of any HVAC system credited in the facility safety analysis should be 
+clearly stated, including all common safety-related functionality dependencies such as the air 
+conditioning system for an equipment room that may contain multiple divisions or groupings of 
+support systems. For areas where emergency ventilation may be required for personnel safety, the 
+appropriate requirements should be clearly identified and listed. 
+3.5.6 
+Waste treatment and control 
+The application should describe how the generation of radioactive and hazardous wastes is 
+minimized, and how the wastes are characterized, controlled, handled, conditioned and disposed 
+of.  
+The application should also describe how releases within the facility and to the environment will 
+be monitored and controlled such that they remain within prescribed limits. 
+3.5.7 
+Control facilities 
+An application to construct, operate or decommission a facility, shall include a description of the 
+facility control facilities, including any control rooms.  
+The description should cover the habitability systems, equipment, supplies and procedures that 
+are in place to ensure that essential facility workers, including those in the control rooms, can 
+remain at their posts and operate the facility safely in all operational states considered in the 
+safety analysis. 
+No information regarding control facilities is required for an application to prepare a site. 
+3.5.8 
+Structure design 
+The application shall include relevant information on the design of the site layout and on civil 
+engineering works and structures associated with the facility. Site and facility layout information 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+14 
+ 
+should include the buildings and structures (including the foundations) and access to all essential 
+services required for both normal and emergency operation.  
+The application should describe the design principles, design basis requirements and criteria, and 
+applicable codes and standards used in the design. The application should demonstrate that the 
+safety margins are sufficient for the buildings and structures important to safety (for example, 
+robustness against internal and external events). The application should clearly state and justify 
+any deviation from applicable codes and standards or from other design requirements.  
+ 
+3.6 
+Fitness for service 
+3.6.1 
+General considerations 
+For an application to operate or decommission a facility, the applicant should identify all facility-
+wide asset management programs that ensure fitness for service of all equipment and services are 
+available as per its design intent and are functioning within the operating limits and conditions 
+identified in the facility’s safety analysis. The application should identify all SSCs important to 
+safety. The applicant may use an acceptable risk assessment methodology (for example, failure 
+mode and effects analysis) in identifying frequency of maintenance and periodic inspection to 
+ensure fitness for service of all equipment and SSCs.  
+No information for fitness for service is required for an application to prepare a site or to 
+construct a facility. 
+3.6.2 
+Maintenance program 
+Information about the maintenance program is only required for an application to operate a 
+facility. This information is not required for an application for a licence to prepare a site, to 
+construct or to decommission a facility. 
+Maintenance activities include monitoring, inspecting, testing, assessing, calibrating, servicing, 
+repairing and replacing parts. In general, maintenance programs should include preventative 
+maintenance and corrective maintenance. 
+The application shall include a clearly defined maintenance program containing the proposed 
+measures, policies, methods and procedures that provide direction for maintaining SSCs so that 
+they remain capable of maintaining their functions, as described in design documents and safety 
+analyses that are included in the facility licensing documentation.  
+The application should describe the processes for planning, monitoring, scheduling and executing 
+work activities so that SSCs continue to perform the design intent and remain fit for service in the 
+presence of degradation mechanisms.  
+The application should describe:  
+• 
+preventive maintenance activities  
+• 
+maintenance processes and record retention requirements 
+• 
+corrective maintenance  
+• 
+calibration of measuring and monitoring devices  
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+15 
+ 
+• 
+SSC monitoring, activity optimization  
+• 
+work planning and scheduling  
+• 
+work execution  
+• 
+maintenance procedures  
+• 
+post-maintenance verification and testing  
+• 
+maintenance program assessment 
+3.6.3 
+Aging management program 
+For an application to operate or decommission a facility, the applicant should identify end-of-life 
+testing and include a replacement plan for SSCs and major equipment (for example, calciners, 
+flame reactors and sintering furnaces) to ensure that the equipment is performing as expected and 
+that the equipment remains fit for service, if applicable. The application should include a plan to 
+test for the structural integrity of major components to ensure fitness for service (for example, 
+corrosion in pipes, wall thinning, stress cracks or fatigue). Regular monitoring, including any 
+non-destructive testing for common aging-related circumstances, should also be provided in the 
+application. 
+3.6.4 
+Periodic inspection and testing programs 
+An application to operate or decommission a facility should include periodic inspection and 
+testing programs for SSCs relied upon for safety. Periodic inspection and testing programs require 
+physical inspection and testing of SSCs to ensure availability and confirm that service-induced 
+degradation has not increased the likelihood of a failure of a barrier against the release of 
+radioactive or hazardous substances.  
+An application to operate or decommission a facility should state the codes and standards that the 
+applicant intends to use as the basis of the design, inspection and testing programs. Regulatory 
+acceptance of the proposed codes and standards will be considered as part of the application 
+review process.  
+If applicable, an application to operate or decommission a facility should include a maintenance 
+program for pressure boundary components as per a formal agreement with an authorized 
+inspection agency, if applicable. The authorized inspection agency should be recognized by the 
+CNSC as authorized to register designs and procedures, perform inspections and other functions 
+as defined by CSA B51, Boiler pressure vessel and pressure piping code [26]. The program 
+documents should describe baseline inspection activities implemented to establish the condition 
+of an SSC at the time it was placed into service and describe periodic inspection activities 
+spanning the intended operating life of the facility.  
+  
+3.7 
+Radiation protection 
+3.7.1 
+General considerations 
+The application shall describe the approaches for meeting the requirements of the Radiation 
+Protection Regulations. 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+16 
+ 
+The application shall include a radiation protection program. The application should demonstrate 
+how the design of the radiation protection program is commensurate with any radiological 
+hazards associated with, or encountered during, the licensed activity. 
+The application shall describe how radiological hazards will be monitored and controlled during 
+the licensed activities, as applicable. 
+For additional information see: 
+• 
+ REGDOC-2.7.1, Radiation Protection [15], for detailed guidance for applicants and 
+licensees on meeting regulatory expectations for radiation protection, including the 
+development of radiation protection programs and action levels.  
+• 
+REGDOC-2.7.2, Dosimetry, Volume I: Ascertaining Occupational Dose [27], for detailed 
+guidance on ascertaining worker dose limits 
+  
+3.8 
+Conventional health and safety 
+3.8.1 
+General considerations 
+In addition to requirements under the NSCA and regulations made under the NSCA, the 
+conventional health and safety SCA also addresses the requirements of the Canada Labour Code  
+and the Canada Occupational Health and Safety Regulations or, where applicable, other 
+occupational health and safety legislation. 
+The applicant shall provide the name, form, characteristics and quantity of any hazardous 
+substances that may be on the site while the activity to be licensed is carried on. The applicant 
+should provide the scientific name of each hazardous substance. This information may be 
+provided in summary format; for example, by providing a table of the hazardous substances and 
+the information required for each substance (maximum quantity at any given time). 
+The application shall describe the program and implementation of policies to minimize risk to the 
+health and safety of workers posed by conventional (non-radiological) hazards in the workplace, 
+including the management of workplace safety hazards and the protection of personnel and 
+equipment.  
+The application shall provide information detailing compliance to all applicable requirements 
+under the Canada Labour Code or, where applicable, other occupational health and safety 
+legislation at all jurisdictional levels, including all occupational exposure limits for all chemical 
+compounds listed under its regulations. 
+Where possible, the applicant should indicate occupational exposure for acute exposure and 
+chronic exposure. 
+For more information, see REGDOC-2.8.1, Conventional Health and Safety [28]. 
+ 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+17 
+ 
+3.9 
+Environmental protection 
+3.9.1 
+General considerations 
+Licensees should demonstrate that their environmental protection measures consider the 
+following: 
+• 
+commensurate with the level of risk associated with the activity  
+• 
+account for uncertainty by keeping all releases to the environment as low as reasonably 
+achievable and apply the best available technology and techniques economically available 
+• 
+implement corrective actions to eliminate the identified root causes and verify completion to 
+prevent recurrence 
+ 
+The specific information to be provided for the environmental protection SCA as part of the 
+application to prepare a site or construct a facility is determined as part of the impact or 
+environmental assessment for the facility. 
+The application shall contain information regarding the effects on the environment and the health 
+and safety of persons that may result from the activity to be licensed and the measures that will be 
+taken to prevent or mitigate those effects. 
+The application shall include a comprehensive set of environmental protection measures, 
+including an environmental risk assessment, environmental management systems and 
+environmental monitoring program that meet all requirements, as applicable, of REGDOC-2.9.1, 
+Environmental Protection: Environmental Principles, Assessments and Protection Measures [4]. 
+Supplemental information to REGDOC-2.9.1 is set out in the following sections. 
+The release of hazardous substances is regulated by the CNSC and other governmental 
+authorities. The application should demonstrate compliance with applicable laws and regulations 
+at all jurisdictional levels. 
+An application to prepare a site shall contain the proposed program to determine the 
+environmental baseline characteristics of the site and the surrounding area. 
+An application to construct a facility shall contain a description of the environmental baseline 
+characteristics of the site and surrounding area. 
+An application to operate shall contain the proposed measures, policies, methods and procedures 
+for operating and maintaining the nuclear facility. 
+An application to operate a facility shall include proposed measures to prevent or mitigate the 
+effects of accidental releases of nuclear substances and hazardous substances on the environment, 
+the health and safety of persons. These proposed measures should: 
+• 
+assist offsite authorities in planning and preparing to limit the effects of an accidental release 
+• 
+notify offsite authorities of an accidental release or the imminence of an accidental release 
+• 
+report information to offsite authorities in dealing with the effects of an accidental release 
+• 
+test the implementation of the measures to prevent or mitigate the effects of an accidental 
+release 
+ 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+18 
+ 
+3.9.2 
+Effluent and emissions control  
+If there are releases to the environment, the applicant should propose licensed release limits and 
+environmental action levels that are performance-based. The effluent and emission control 
+measures in place are used to inform the development of the licensed release limits and 
+environmental action levels for the facility or activity being licensed. 
+An application to construct, operate or decommission a facility shall contain the proposed 
+location(s) of points of release, the proposed maximum quantities and concentrations, and the 
+anticipated volume and flow rate of releases of nuclear substances and hazardous substances into 
+the environment, including their physical, chemical and radiological characteristics. 
+An application to construct, operate or decommission a facility shall contain the proposed 
+measures to control releases of nuclear substances and hazardous substances into the 
+environment. 
+3.9.3 
+Environmental management system 
+The application should describe the environmental management system established to ensure 
+protection of the environment throughout the licensed activity or activities. 
+3.9.4 
+Assessment and monitoring 
+The application should describe the monitoring system established to cover all environmental 
+monitoring activities on the site as identified in the environmental risk assessment (ERA). 
+3.9.5 
+Protection of people 
+The application shall identify and describe all the radiological and non-radiological aspects of site 
+activities that could have environmental effects, including exposure to members of the public 
+during the licensed activity. 
+All applicants should submit the technical basis for calculating the dose to the public from 
+licensed activities.  
+An application to operate or decommission an existing facility shall include the maximum 
+effective doses to the public resulting from activities conducted at the facility during the current 
+licence period, should doses have been incurred. 
+3.9.6 
+Environmental risk assessment 
+The application should include an ERA. CSA N288.6, Environmental risk assessments at Class I 
+nuclear facilities and uranium mines and mills [25], provides information on conducting ERAs. 
+If there is an existing ERA, the applicant should review the ERA, and update the information as 
+necessary to reflect any changes to the site or facility.  
+ 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+19 
+ 
+3.10 
+Emergency management and fire protection 
+3.10.1 General considerations 
+This SCA includes conventional emergency and fire response. Fire protection operations, design 
+and analysis are discussed in the appropriate SCA of operating performance, safety analysis and 
+physical design.  
+The application shall describe an emergency preparedness program. The program should meet the 
+requirements of REGDOC-2.10.1, Nuclear Emergency Preparedness and Response [29], and 
+CSA N393, Fire protection for facilities that process, handle or store nuclear substances [16].  
+The application shall describe the preparations that have been made to ensure that onsite and 
+offsite emergencies will be dealt with safely and effectively. 
+3.10.2 Nuclear emergency preparedness and response 
+An application to operate or decommission a facility shall describe how the nuclear emergency 
+program encompasses both emergency preparedness and emergency response measures as per 
+REGDOC-2.10.1, Nuclear Emergency Preparedness and Response [29]. 
+No information about nuclear emergency preparedness and response is required for an application 
+to prepare a site or construct a facility. 
+3.10.3 Conventional emergency preparedness and response 
+The application shall describe all non-radiological, non-routine conditions at the facility for 
+which the emergency preparedness program has been established in accordance with REGDOC-
+2.10.1, Nuclear Emergency Preparedness and Response [29].  
+3.10.4 Fire emergency preparedness and response 
+The applicant shall describe a comprehensive fire protection program that ensures the licensed 
+activities do not result in unreasonable risk to the health and safety of persons and the 
+environment due to fire. The program should meet the requirements of CSA N393, Fire 
+protection for facilities that process, handle or store nuclear substances [16].  
+An application to operate a Class IB processing facility shall include information on 
+arrangements with first responders, provisions for mutual support or aid, and interagency 
+communication requirements. This information should be provided for the other lifecycle stages. 
+If a memorandum of understanding is established with the first responders’ agency, the same 
+should be provided as part of the application. 
+ 
+3.11 
+Waste management 
+3.11.1 General considerations 
+The application shall contain a waste management program. The program should that meet the 
+requirements of REGDOC-2.11.1, Waste Management, Volume I: Management of Radioactive 
+Waste [30]. 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+20 
+ 
+The application should demonstrate that the licensee will implement and maintain associated 
+programs and procedures to support the waste management program (for example, waste 
+characterization). These programs and procedures should be commensurate with the risk of the 
+waste streams being managed. 
+The application shall provide the name, quantity, form, origin and volume of any radioactive 
+waste or hazardous waste that may result from the activity to be licensed, including waste that 
+may be stored, managed, processed or disposed of at the site of the activity to be licensed, and the 
+proposed method for managing and disposing of that waste. The applicant should provide the 
+scientific name of each nuclear and hazardous substance. This information may be provided in 
+summary format; for example, by providing a table of the nuclear and hazardous substances and 
+the information required for each substance.  
+The application should demonstrate compliance with the six principles of radioactive waste 
+management set out in REGDOC-2.11, Framework for Radioactive Waste Management and 
+Decommissioning in Canada [31]. 
+3.11.2 Waste characterization 
+An application to operate or decommission a facility should demonstrate that waste 
+characterization will be performed at appropriate intervals during the management of radioactive 
+waste. The application should meet the requirements of REGDOC-2.11.1, Waste Management, 
+Volume I: Management of Radioactive Waste [30].  
+No information on waste characterization is required for an application to prepare a site or for a 
+licence to construct a facility. 
+3.11.3 Waste minimization 
+An application to operate or decommission a facility should demonstrate how the waste hierarchy 
+will be considered in the management of radioactive waste. 
+No information on waste minimization is required for an application to prepare site or construct a 
+facility. 
+3.11.4 Waste management practices 
+An application to operate or decommission a facility should demonstrate that the licensee will: 
+• 
+be responsible for the safe management of its radioactive waste, taking into consideration the 
+health and safety of persons, the environment and national security 
+• 
+optimize the steps in radioactive waste management and practices to ensure the protection of 
+the health and safety of people and the environment  
+• 
+take into account interdependencies among all steps in radioactive waste management, as 
+appropriate; each step shall be evaluated as an individual step in the process and as part of an 
+integrated radioactive waste management system 
+• 
+produce and/or maintain records for each of the steps in the management of radioactive waste 
+for which they are responsible 
+ 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+21 
+ 
+An application to operate or decommission a facility should contain the waste classification plan 
+and the waste acceptance criteria, if applicable, that meet the requirements of REGDOC-2.11.1, 
+Waste Management, Volume I: Management of Radioactive Waste [30].  
+No information on waste management practices is required for an application to prepare site or to 
+construct a facility. 
+3.11.5 Decommissioning plans 
+The application shall contain the proposed plan for the decommissioning of the nuclear facility or 
+of the site. Planning for decommissioning is an ongoing process that is considered at each 
+lifecycle stage of the facility. Requirements and guidance on decommissioning are provided in 
+REGDOC-2.11.2, Decommissioning [32]. 
+A preliminary decommissioning plan (PDP) is required for an application to prepare a site, to 
+construct or to operate a facility. The PDP should document: 
+• 
+the selected decommissioning strategy 
+• 
+main decontamination, dismantling and/or clean-up activities 
+• 
+end-state objectives 
+• 
+an overview of the principal hazards and protection strategies 
+• 
+a waste management strategy 
+• 
+a cost estimate 
+• 
+financial guarantee arrangements 
+ 
+An application to decommission a site shall include a detailed decommissioning plan (DDP) This 
+is not required for any other lifecycle stage. The DDP should document: 
+• 
+the decommissioning strategy 
+• 
+decontamination, dismantling and/or clean-up activities 
+• 
+final end-state objectives 
+• 
+the principal hazards and protection plans 
+• 
+a waste management plan 
+• 
+a cost estimate 
+• 
+financial guarantee arrangement  
+More information on financial guarantees is found in section 4.18.2. 
+An application to decommission a facility should include a safety assessment, as described in 
+REGDOC-2.11.2, Decommissioning [32], to identify any radiological or non-radiological hazards 
+to workers, the environment and the public from both routine decommissioning activities and 
+credible potential accidents during decommissioning. The safety assessment may be a stand-alone 
+document or may be included in the detailed decommissioning plan. This safety analysis is not 
+required for any other lifecycle stage. 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+22 
+ 
+3.12 
+Security 
+3.12.1 General considerations 
+An applicant who intends on processing, using or storing Category I or II nuclear material should 
+consult with CNSC staff to identify additional relevant requirements for the site prior to 
+submitting an application. Applications involving this material will be subject to Part 1 of the 
+Nuclear Security Regulations and its associated prescribed regulatory documents. Additional 
+relevant requirements include implementing a nuclear response force and addressing the design 
+basis threat document for example. 
+Any information that is considered classified, protected, proprietary or personal, or that is 
+designated as prescribed information should be clearly identified and submitted in accordance 
+with the CNSC’s Guidance Document on Confidential Filings [33].  
+For facilities requesting a licence in respect of Category III nuclear material, an application for 
+licence shall contain the information required by section 3 of the Nuclear Substances and 
+Radiation Devices Regulations. Further, it shall include a description of the measures to be taken 
+to ensure compliance with subsection 7(3) and sections 7.1 and 7.2 of the Nuclear Security 
+Regulations.  
+If the application proposes to process or store Category III nuclear material, an application to 
+operate or decommission a facility shall contain a description of the physical protection measures 
+to be taken to ensure compliance with sections 42 to 48 of the Nuclear Security Regulations in 
+addition to the information required by sections 3 to 8 of the Class I Nuclear Facilities 
+Regulations. 
+The application shall describe the general design approach and adequate provisions in place to 
+control access and security at the facility.  
+The application shall describe the proposed measures for protecting prescribed information. 
+For an application to construct, operate or decommission a facility with nuclear substances 
+meeting or exceeding the thresholds of Category 3 or higher as identified in REGDOC-2.12.3, 
+Security of Nuclear Substances: Sealed Sources and Category I, II and III Nuclear Material [5], 
+the applicant shall submit a site security plan. This site security plan shall provide detail on how 
+the applicant will meet the requirements defined in that regulatory document, including the 
+technical and administrative measures incorporated by the licensee. 
+An application to construct, operate or decommission a facility should describe a security 
+program that meets the requirements of REGDOC-2.12.3, Security of Nuclear Substances: Sealed 
+Sources and Category I, II and III Nuclear Material [5]. 
+3.12.2 Response arrangements 
+For licensees subject to Part 2 of the Nuclear Security Regulations, an application to operate or 
+decommission a facility shall describe how the security program ensures that offsite response 
+arrangements effectively respond to the unauthorized removal of nuclear or radioactive material. 
+The application should provide details regarding the applicant’s arrangements for annual 
+familiarization visits to the nuclear facility by members of the offsite response force. These 
+arrangements should provide detail on the joint development of a contingency plan by the 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+23 
+ 
+licensee and the offsite response force to facilitate the offsite response force’s effective 
+intervention.  
+For applicants that process, use, store or transfer nuclear substances that meet or exceed the 
+threshold of Category 3 nuclear substances, an application to operate or decommission a facility 
+should include details regarding the notification of a local law enforcement agency as required in 
+REGDOC-2.12.3, Security of Nuclear Substances: Sealed Sources and Category I, II and III 
+Nuclear Material [5].  
+No information regarding response arrangements is required for an application to prepare a site or 
+construct a facility. 
+3.12.3 Security practices 
+The application shall describe the measures in the security program that ensure administrative and 
+technical measures are implemented, maintained and documented in a security program.  
+The applicant shall describe how access to prescribed assets is limited to those workers having 
+the appropriate security clearance, facility site access clearance, or trustworthiness and reliability 
+verification. Further, the application should identify a process to determine how a valid need-to-
+know basis will be utilized to determine access to prescribed assets as applicable to the site. 
+3.12.4 Security training and qualification 
+The application shall include adequate provisions indicating all persons with authorized access to 
+sealed sources or prescribed information at the licensee’s location are made aware of the facility’s 
+security policies, protocols and practices. These provisions shall identify how the security 
+awareness program is documented and how it will be annually reviewed. The application shall 
+also include details on the development of an assured process for ensuring new employees 
+participate in security awareness training, and refresher training is conducted on a regular basis 
+(every three years or less) for existing employees. 
+The application shall describe the duties of any security officers employed or contracted onsite. 
+The applicant should demonstrate that the security officers are adequately equipped to perform 
+their assigned duties and tasks. Additional information on this can be found in REGDOC-2.2.4, 
+Fitness for Duty, Volume III: Nuclear Security Officer Medical, Physical and Psychological 
+Fitness [34]. 
+This should include the proposed measures for written procedures and instructions specific to: 
+• 
+measures for controlling access to the licensed area 
+• 
+surveillance foot and vehicle patrols 
+• 
+assessment and response to alarms 
+• 
+apprehension and detainment of unarmed intruders 
+• 
+reporting of suspicious activities, including armed intruders, to the local law enforcement 
+agency 
+• 
+security equipment operation 
+• 
+security training relating to assigned duties 
+For nuclear facilities subject to the Nuclear Security Regulations, the applicant shall describe 
+their security awareness training and supervisory awareness program identifying that supervisors 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+24 
+ 
+are trained to recognize behavioural changes in all personnel, including contractors, that could 
+pose a risk to security at a facility at which it carries on licensed activities. 
+3.12.5 Cyber security 
+The application should describe a cyber security program. The application should address internal 
+and external cyber threats. The cyber security program should be reviewed and updated at each 
+lifecycle phase as the threats become better known. 
+The application should describe how the cyber security program is designed, implemented and 
+maintained as an effective program. The application should provide information on the following 
+program elements, including: 
+• 
+defensive strategy and security architecture  
+• 
+policies and procedures  
+• 
+asset identification and classification (not required for site preparation) 
+• 
+roles and responsibilities of the involved parties  
+• 
+security controls (not required for site preparation) 
+• 
+awareness and training  
+• 
+configuration management  
+• 
+coordination with other programs  
+• 
+incident response, reporting and recovery plan  
+• 
+program review and maintenance  
+• 
+lifecycle approach to cyber essential assets 
+3.13 
+Safeguards and non-proliferation 
+3.13.1 General considerations 
+In addition to requirements of regulations made under the NSCA, the safeguards and non-
+proliferation SCA addresses the requirements of the following safeguard agreements:  
+• 
+IAEA INFCIRC/164, Agreement between Government of Canada and IAEA for the 
+Application of Safeguards in Connection with the Treaty on the Non-Proliferation of Nuclear 
+Weapons [35]   
+• 
+IAEA INFCIRC/164/Add.1, Protocol Additional to the Agreement between Canada and the 
+International Atomic Energy Agency for the Application of Safeguards in Connection with the 
+Treaty on the Non-Proliferation of Nuclear Weapons [36] 
+If a facility will have safeguarded material, then either before or concurrent with applying for a 
+licence to construct a Class IB processing facility, the applicant shall complete and submit to the 
+CNSC the IAEA safeguards design information questionnaire (available upon request from the 
+CNSC). The CNSC encourages applicants to submit the completed questionnaire early, 
+particularly for novel technologies where safeguards measures have not yet been developed. For 
+more information, see REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy [37]. 
+If applicable, an application to construct, operate or decommission a facility shall describe how 
+the arrangements address the requirements in REGDOC-2.13.2, Import and Export [38], and 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy [37]. 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+25 
+ 
+An application to construct, operate or decommission a facility should describe measures related 
+to site buildings and structures, operational parameters and the flow and storage of nuclear 
+material, from the facility’s design and commissioning phases through to its decommissioning 
+and eventual abandonment. 
+For Class 1B processing facilities, the non-proliferation program is limited to the tracking and 
+reporting of foreign obligations and origins of nuclear material.  
+For the purposes of the application and its review, document ownership will vary between the 
+IAEA, the CNSC and the applicant: 
+• 
+the IAEA is responsible for the generic safeguards approach 
+• 
+the CNSC is responsible for: 
+• 
+coordinating with the IAEA in developing the generic safeguards approach 
+• 
+negotiating the safeguards arrangements with the IAEA for the applicant facility 
+• 
+monitoring the applicant’s compliance with safeguards documents, requirements and 
+obligations 
+• 
+the applicant is responsible for establishing and implementing the safeguards program  
+Where applicable, the export of nuclear substances, covered under Nuclear Non-proliferation 
+Import and Export Control Regulations, a separate import/export licence must be obtained for the 
+specific circumstances and destination. 
+No information about safeguards and non-proliferation is required for an application to prepare a 
+site. 
+3.13.2 Nuclear accountancy and control 
+An application to construct, operate or decommission a facility should describe how the program 
+ensures the collection, storage and reporting of information to the CNSC and IAEA. The 
+application should describe measures to ensure that: 
+• 
+nuclear materials are tracked 
+• 
+reports are submitted to the CNSC on: 
+• 
+the inventory and transfer of nuclear material 
+• 
+the application of IAEA safeguards 
+An application to construct, operate or decommission a facility should describe adequate 
+provisions for timely submission of accurate reports and information on nuclear material. Further 
+information is available in REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy [37]. 
+No information about nuclear accountancy and control is required for an application to prepare a 
+site. 
+3.13.3 Access and assistance to the IAEA 
+An application to construct, operate or decommission a facility should describe how the program 
+ensures that the IAEA is able, upon request, to access the facility for inspections and other 
+verification activities. Additionally, the application should describe how the program ensures that 
+such activities are supported by facility workers and resources.  
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+26 
+ 
+An application to construct, operate or decommission a facility should describe how the 
+effectiveness of safeguards procedures, and assistance to the IAEA for site access and 
+inspections, are reviewed. 
+No information about access and assistance to the IAEA is required for an application to prepare 
+a site. 
+3.13.4 Operational and design information 
+An application to construct, operate or decommission a facility should describe:  
+• 
+the processes that collect, store and report relevant operational information to the CNSC and 
+the IAEA  
+• 
+how the program ensures that the facility’s design information questionnaire is complete and 
+accurate  
+• 
+how the program ensures that updates provided under the Additional Protocol are reported to 
+the CNSC  
+An application to construct, operate or decommission a facility should also describe methods of 
+development and implementation of an appropriate safeguards approach based on the facility’s 
+specific designs.  
+An application to construct, operate or decommission a facility should describe how the program 
+engages both the CNSC and the IAEA to ensure a suitable safeguards approach is taken for its 
+purpose. 
+The application should describe adequate provisions for the submission of:  
+• 
+annual operational information  
+• 
+accurate design information of facility structures  
+• 
+processes and procedures  
+No safeguards operational and design information is required for an application to prepare a site. 
+ 
+3.13.5 Safeguards equipment, containment and surveillance 
+For an application to construct, operate or decommission a facility, the applicant should 
+demonstrate that adequate resources (for example, power and lighting) are provided to IAEA 
+equipment and that measures are in place for the protection of IAEA equipment and seals. 
+No information about safeguards equipment, containment and surveillance is required for an 
+application to prepare a site. 
+ 
+3.14 
+Packaging and transport 
+In addition to requirements of regulations made under the NSCA, the packaging and transport 
+SCA also addresses the requirements of the Transportation of Dangerous Goods Regulations. 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+27 
+ 
+3.14.1 Package design and maintenance 
+An application to operate or decommission a facility shall describe how the program ensures that 
+all shipping packages are designed and maintained for the protection and containment of the 
+quantities transported, as per the Packaging and Transport of Nuclear Substances Regulations, 
+2015, where applicable.  
+An application to operate or decommission a facility shall describe elements such as package 
+certification, package testing, inspection and maintenance. 
+No information about package design and maintenance is required for an application to prepare a 
+site or construct a facility. 
+3.14.2 Packaging and transport program 
+The application shall describe the measures in place to ensure compliance with all requirements 
+of the Packaging and Transport of Nuclear Substances Regulations, 2015 and the Transportation 
+of Dangerous Goods Regulations.  
+An application to construct, operate or decommission a facility shall describe the measures to 
+ensure that appropriate training is provided for workers involved in the handling, preparation for 
+transport, and transport of dangerous goods, and that training certificates are issued to workers.  
+3.14.3 Registration for use 
+An application to operate or decommission a facility shall describe the measures in place to 
+ensure that certified packages are registered for use prior to transport. 
+No information about registration for use is required for an application to prepare a site or a 
+construct a facility. 
+ 
+3.15 
+Reporting 
+The application should include information on how the applicant intends to comply with the 
+requirements found in REGDOC-3.1.2, Reporting Requirements, Volume I: Non-Power Reactor 
+Class I Facilities and Uranium Mines and Mills [39]. 
+ 
+3.16 
+Public information and disclosure program 
+The application shall contain a public and information disclosure program and should describe 
+how it meets the requirements in REGDOC-3.2.1, Public Information Disclosure [40]. 
+The application shall describe how and with what tools they will communicate with the public, 
+particularly with those persons living in the vicinity of the site, and the general nature and 
+characteristics of the anticipated effects on the environment and the health and safety of persons 
+that may result from the proposed activities.  
+ 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+28 
+ 
+For new facilities, the application should demonstrate that ongoing engagement with appropriate 
+parties has been continued from earlier lifecycle phases (for example, construction activities) and 
+integrated into operational activities. 
+ 
+3.17 
+Indigenous engagement 
+The CNSC, as an agent of the Crown, has the responsibility for fulfilling Canada's legal duty to 
+consult and, where appropriate, to accommodate Indigenous peoples when the CNSC’s decisions 
+may have had adverse effect on potential or established Indigenous or treaty rights. The CNSC is 
+committed to meaningful ongoing engagement and consultation with Indigenous groups who 
+have an interest in facilities and activities regulated by the CNSC. 
+REGDOC-3.2.2, Indigenous Engagement [41], provides guidance to applicants whose proposed 
+projects may raise the Crown's duty to consult. While the CNSC cannot delegate its obligation, it 
+can delegate procedural aspects of the consultation process to licensees, where appropriate. To 
+meet CNSC obligations for consultation, the CNSC may use the information collected and 
+measures proposed by licensees regarding avoiding, mitigating or offsetting adverse effects. 
+4. 
+Standard application information 
+4.1 
+Statement of purpose 
+An applicant must complete a licence application when: 
+• 
+requesting a new licence 
+• 
+renewing, amending, replacing or revoking an existing CNSC licence 
+The application provides details for the licence, which will consequently authorize only specified 
+activities. The applicant must provide: 
+• 
+a description of any nuclear facility and any prescribed equipment or information to be 
+encompassed by the licence 
+• 
+information about all activities to be licensed, as described in any of paragraphs 26(a) to (f) of 
+the NSCA, and their purpose  
+For a licence renewal, the activities requested in this application must match those currently listed 
+on the existing CNSC licence.  
+This information may be provided in summary format, for example, by listing facilities, 
+equipment or information. 
+4.2 
+Licence period 
+The applicant should state the requested licence period, in years or months. The licensee may 
+request a specific licence period to match planned activities or anticipated change in status. 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+29 
+ 
+4.3 
+Description of site 
+The application must contain a description of the site of the activity to be licensed, including the 
+location of any exclusion zone and any structures within that zone. 
+For Class I nuclear facilities, the applicant must provide plans showing the location, perimeter, 
+areas, structures and systems of the facility. 
+4.4 
+Applicant’s name and business address 
+The applicant must provide the applicant's name and business address. 
+The name must be that of the persons or organization applying for the licence, as it appears on the 
+proof of legal status documentation, such as the proof of incorporation or sole proprietorship.  
+The applicant should name an individual, only if that person is a sole proprietor or will be solely 
+responsible for the licence. 
+The business address must be the legal, physical address of the applicant’s head office, including 
+the complete street name and number, city, province or territory and postal code. A post office 
+box number is not acceptable. 
+4.5 
+Mailing address 
+If the mailing address is different from the business address, the applicant must provide the 
+mailing address, including the complete street name and number, city, province or territory and 
+postal code. 
+If no address is provided, any licence issued in response to the application will be mailed to the 
+head office address. A post office box number is acceptable as a mailing address. 
+4.6 
+Authority to act 
+The applicant must notify the Commission of the persons who have authority to act for them in 
+their dealings with the Commission.  
+The applicant should provide a list of names, positions and contact information of all persons who 
+are authorized by the applicant to interact with the CNSC.  
+Note: The applicant may request, for security reasons, this information be subject to 
+confidentiality requirements. 
+4.7 
+Applicant authority 
+The applicant must provide the name, title and contact information (address, email address and 
+telephone number) of the individual who has the legal signing authority for the application. 
+The signature of the applicant authority indicates that all statements and representations made in 
+the application and on supplementary pages are binding on the applicant. 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+30 
+ 
+4.8 
+Proof of legal status 
+Applicants should provide proof of legal status by appending proof of incorporation, corporation 
+number or charter. When submitting an application to renew, a revised proof of legal status 
+should be provided if the applicant's original organization name has changed. 
+If the applicant is a corporation, the application should include the following information: 
+• 
+corporation’s legal name 
+• 
+corporation number 
+• 
+date of incorporation 
+• 
+jurisdiction of incorporation 
+• 
+registered office address (if different from the head office address) 
+4.9 
+Owner or authority for the site 
+The applicant must provide evidence that the applicant is the owner of the site or has authority 
+from the owner of the site to carry on the activity to be licensed.  
+4.10 
+Other information 
+If applicable, the applicant should describe the relationship of this application to any previous 
+licences issued by the CNSC for activities at this facility, including any changes to the licensing 
+basis that were included in previous licences. 
+The applicant should reference any other CNSC licences that apply to the use of other nuclear 
+substances and authorized activities conducted at the facility; for example, licences for nuclear 
+substances and radiation devices, dosimetry service, and import/export of controlled nuclear and 
+nuclear-related substances, equipment and information. 
+Where applicable, the applicant may provide supporting information, including: 
+• 
+the results of experimental programs, tests or analyses (for example, results of manufacturers’ 
+material tests and qualification data) 
+• 
+those that have been submitted to, received from, or published by a foreign national 
+regulatory body 
+• 
+information published by a national agency or an international nuclear agency   
+4.11 
+Cost recovery  
+Where applicable, the application must be accompanied by the appropriate regulatory fee as 
+outlined in the Canadian Nuclear Safety Commission Cost Recovery Fees Regulations. Any 
+questions can be addressed to the CNSC Cost Recovery Advisory Group.  
+4.12 
+Financial guarantees 
+The application must describe the financial guarantees for the costs of decommissioning the 
+facility or licensed activity according to the NSCA and the General Nuclear Safety and Control 
+Regulations (GNSCR). The applicant should also provide a cross-reference to the supporting 
+document regarding the value and form of the financial guarantee. 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+31 
+ 
+For more information about financial guarantees and licensing, consult REGDOC-3.3.1, 
+Financial Guarantees for Decommissioning of Nuclear Facilities and Termination of Licensed 
+Activities [42]. 
+4.13 
+Billing contact person 
+The applicant must provide the following information for the person responsible for the licence 
+fee payments: 
+• 
+name 
+• 
+position 
+• 
+contact information (email, telephone, facsimile) 
+• 
+mailing address, if different from the business address 
+ 
+4.14 
+Notification 
+The applicant must notify the CNSC within 15 days of any changes to the contact names 
+identified in the application. 
+4.15 
+Structuring the application 
+The application may be completed in either of Canada’s official languages. The applicant may 
+choose to organize the information in any structure. However, the applicant is encouraged to 
+organize the licence application according to the SCA framework to facilitate CNSC staff review. 
+The CNSC uses SCAs as the technical topics to assess, review, verify and report on regulatory 
+requirements and performance across all regulated facilities and activities, as outlined in 
+REGDOC-3.5.3, Regulatory Fundamentals [3].  This REGDOC also contains information on 
+licensing and certification, including the licensing basis and other key regulatory concepts, such 
+as the graded approach. 
+4.16 
+Submitting the application 
+The applicant must ensure that the application is complete, dated and signed by the appropriate 
+authority, that all supporting documents are clearly identified and cross-referenced and submitted 
+in a secure format to the CNSC Registry at registry-greffe@cnsc-ccsn.gc.ca. 
+If the applicant chooses to submit the licence application in printed format, the applicant should 
+provide two signed and dated printed copies of the application to: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, ON K1P 5S9 
+Canada 
+All information submitted is subject to the Access to Information Act and the Privacy Act. The 
+applicant must identify, with justification, any material that is subject to confidentiality 
+requirements and not suitable for public disclosure. Any information that is submitted may be 
+presented to the Commission to support the licensing decision. Any such information is also 
+made available to the public upon request, in total or in a redacted form, according to the CNSC’s 
+legal obligations. 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+32 
+ 
+The applicant must keep a record of all licence information, as required by section 27 of the 
+GNSCR. 
+The CNSC may request additional information from the applicant to further substantiate claims 
+made in the application or to address any gaps found in the application. 
+ 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+33 
+ 
+Appendix A: Reference Documents by Safety and Control Area  
+The CNSC’s regulatory requirements and expectations are organized into 14 SCAs, which are subdivided 
+into specific areas. 
+Table 1 outlines each SCA, their specific areas and the reference materials relevant to the licensing of a 
+Class IB processing facility.   
+Table 1: Applicable reference documents by SCA and specific area 
+Safety and 
+control area 
+Specific  
+area 
+Standard(s) or  
+regulatory documents 
+Management 
+system 
+Management 
+system 
+CSA N286, Management system requirements for nuclear facilities [6] 
+Organization 
+CSA N286, Management system requirements for nuclear facilities [6] 
+Performance 
+assessment, 
+improvement and 
+management 
+review 
+CSA N286, Management system requirements for nuclear facilities [6] 
+Operating 
+experience, 
+Problem 
+identification and 
+resolution 
+CSA N286, Management system requirements for nuclear facilities [6] 
+Change 
+management 
+CSA N286, Management system requirements for nuclear facilities [6] 
+Safety culture 
+REGDOC-2.1.2, Safety Culture [7] 
+CSA N286, Management system requirements for nuclear facilities [6] 
+Configuration 
+management 
+CSA N286, Management system requirements for nuclear facilities [6] 
+Records 
+management 
+CSA N286, Management system requirements for nuclear facilities [6] 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+34 
+ 
+Safety and 
+control area 
+Specific  
+area 
+Standard(s) or  
+regulatory documents 
+Business continuity CSA N286, Management system requirements for nuclear facilities [6] 
+Human 
+performance 
+management 
+Human 
+performance 
+program 
+CSA N286, Management system requirements for nuclear facilities [6] 
+ 
+Personnel training 
+ 
+REGDOC-2.2.2, Personnel Training [8] 
+CSA N286, Management system requirements for nuclear facilities [6] 
+ 
+Work organization 
+and job design 
+REGDOC-2.2.5, Minimum Staff Complement [9] 
+REGDOC-2.5.1, General Design Considerations: Human Factors [10] 
+ 
+Fitness for duty 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue [11] 
+REGDOC-2.2.4, Fitness for Duty, Volume II: Managing Alcohol and Drug 
+Use [12] 
+REGDOC-2.2.4, Fitness for Duty, Volume III: Nuclear Security Officer 
+Medical, Physical and Psychological Fitness [34] 
+REGDOC-2.2.5, Minimum Staff Complement [9] 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+35 
+ 
+Safety and 
+control area 
+Specific  
+area 
+Standard(s) or  
+regulatory documents 
+Operating 
+performance 
+Conduct of licensed 
+activities 
+REGDOC-2.2.5, Minimum Staff Complement [9] 
+REGDOC-2.4.4, Safety Analysis for Class IB Nuclear Facilities [13] 
+REGDOC-2.9.1, Environmental Protection: Environmental Principles, 
+Assessments and Protection Measures [4] 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy [37] 
+CSA N286, Management system requirements for nuclear facilities [6] 
+CSA N288.1, Guidelines for modelling radionuclide environmental 
+transport, fate, and exposure associated with the normal operation of 
+nuclear facilities [43] 
+CSA N288.4, Environmental monitoring programs at nuclear facilities and 
+uranium mines and mills [44] 
+CSA N288.5, Effluent and emissions monitoring programs at nuclear 
+facilities [45] 
+CSA N292.3, Management of low- and intermediate-level radioactive 
+waste [46] 
+CSA N294, Decommissioning of facilities containing nuclear substances 
+[47] 
+CSA B51, Boiler, pressure vessel, and pressure piping code [26] 
+ 
+Procedures 
+REGDOC-2.2.5, Minimum Staff Complement [9] 
+REGDOC-2.5.1, General Design Considerations: Human Factors [10] 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy [37] 
+REGDOC-3.3.1, Financial Guarantees for Decommissioning of Nuclear 
+Facilities and Termination of Licensed Activities [42] 
+CSA N286, Management system requirements for nuclear facilities [6] 
+CSA N288.1, Guidelines for modelling radionuclide environmental 
+transport, fate, and exposure associated with the normal operation of 
+nuclear facilities [43] 
+CSA N288.4, Environmental monitoring programs at nuclear facilities and 
+uranium mines and mills [44] 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+36 
+ 
+Safety and 
+control area 
+Specific  
+area 
+Standard(s) or  
+regulatory documents 
+CSA N288.5, Effluent and emissions monitoring programs at nuclear 
+facilities [45] 
+CSA N292.3, Management of low- and intermediate-level radioactive 
+waste [46] 
+CSA B51, Boiler, pressure vessel, and pressure piping code [26] 
+ 
+Reporting and 
+trending 
+ 
+REGDOC-3.1.2, Reporting Requirements, Volume I: Non-Power Reactor 
+Class I Facilities and Uranium Mines and Mills [39] 
+CSA N286, Management system requirements for nuclear facilities [6] 
+CSA N288.1, Guidelines for modelling radionuclide environmental 
+transport, fate, and exposure associated with the normal operation of 
+nuclear facilities [43] 
+CSA N288.4, Environmental monitoring programs at nuclear facilities and 
+uranium mines and mills [44] 
+CSA N288.5, Effluent and emissions monitoring programs at nuclear 
+facilities [45] 
+Safety 
+analysis 
+Criticality safety 
+REGDOC-2.4.4, Safety Analysis for Class IB Nuclear Facilities [13] 
+REGDOC-2.5.1, General Design Considerations: Human Factors [10] 
+ 
+Deterministic 
+safety analysis 
+REGDOC-2.4.4, Safety Analysis for Class IB Nuclear Facilities [13] 
+ 
+Physical 
+design 
+Design governance 
+REGDOC-2.5.1, General Design Considerations: Human Factors [10] 
+CSA N286, Management system requirements for nuclear facilities [6] 
+CSA N393, Fire protection for facilities that process, handle or store 
+nuclear substances [16] 
+CSA B51, Boiler, pressure vessel, and pressure piping code [26] 
+ISO 13485, Medical devices – Quality management systems – 
+Requirements for regulatory purposes [24] 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+37 
+ 
+Safety and 
+control area 
+Specific  
+area 
+Standard(s) or  
+regulatory documents 
+Site 
+characterization 
+REGDOC-2.9.1, Environmental Protection: Environmental Principles, 
+Assessments and Protection Measures [4] 
+CSA N288.6, Environmental risk assessments at Class I nuclear facilities 
+and uranium mines and mills [25] 
+SSR-1, Site Evaluation for Nuclear Installations [17] 
+SSR-4, Safety of Nuclear Fuel Cycle Facilities [1] 
+SSG-5, Safety of Conversion Facilities and Uranium Enrichment Facilities 
+[18] 
+SSG-6, Safety of Uranium Fuel Fabrication Facilities [19]  
+SSG-7, Safety of Uranium and Plutonium Mixed Oxide Fuel Fabrication 
+Facilities [20] 
+SSG-42, Safety of Nuclear Fuel Reprocessing Facilities [21] 
+SSG-43, Safety of Nuclear Fuel Cycle Research and Development 
+Facilities [22] 
+Facility design 
+REGDOC-2.5.6, Design of Rooms Where Unsealed Nuclear Substances 
+Are Handled [23] 
+REGDOC-2.5.1, General Design Considerations: Human Factors [10] 
+REGDOC-2.9.1, Environmental Protection: Environmental Principles, 
+Assessments and Protection Measures [4] 
+CSA N393, Fire protection for facilities that process, handle or store 
+nuclear substances [16] 
+CSA N288.6, Environmental risk assessments at Class I nuclear facilities 
+and uranium mines and mills [25] 
+CSA B51, Boiler, pressure vessel, and pressure piping code [26] 
+SSR-1, Site Evaluation for Nuclear Installations [17] 
+SSR-4, Safety of Nuclear Fuel Cycle Facilities [1] 
+SSG-5, Safety of Conversion Facilities and Uranium Enrichment Facilities 
+[18] 
+SSG-6, Safety of Uranium Fuel Fabrication Facilities [19]  
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+38 
+ 
+Safety and 
+control area 
+Specific  
+area 
+Standard(s) or  
+regulatory documents 
+SSG-7, Safety of Uranium and Plutonium Mixed Oxide Fuel Fabrication 
+Facilities [20] 
+SSG-42, Safety of Nuclear Fuel Reprocessing Facilities [21] 
+SSG-43, Safety of Nuclear Fuel Cycle Research and Development 
+Facilities [22] 
+ 
+Structure design 
+CSA N393, Fire protection for facilities that process, handle or store 
+nuclear substances [16] 
+CSA B51, Boiler, pressure vessel, and pressure piping code [26] 
+SSR-1, Site Evaluation for Nuclear Installations [17] 
+SSR-4, Safety of Nuclear Fuel Cycle Facilities [1] 
+SSG-5, Safety of Conversion Facilities and Uranium Enrichment Facilities 
+[18] 
+SSG-6, Safety of Uranium Fuel Fabrication Facilities [19]  
+SSG-7, Safety of Uranium and Plutonium Mixed Oxide Fuel Fabrication 
+Facilities [20] 
+SSG-42, Safety of Nuclear Fuel Reprocessing Facilities [21] 
+SSG-43, Safety of Nuclear Fuel Cycle Research and Development 
+Facilities [22] 
+ 
+System design 
+CSA B51, Boiler, pressure vessel, and pressure piping code [26] 
+SSR-1, Site Evaluation for Nuclear Installations [17] 
+SSR-4, Safety of Nuclear Fuel Cycle Facilities [1] 
+SSG-5, Safety of Conversion Facilities and Uranium Enrichment Facilities 
+[18] 
+SSG-6, Safety of Uranium Fuel Fabrication Facilities [19]  
+SSG-7, Safety of Uranium and Plutonium Mixed Oxide Fuel Fabrication 
+Facilities [20] 
+SSG-42, Safety of Nuclear Fuel Reprocessing Facilities [21] 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+39 
+ 
+Safety and 
+control area 
+Specific  
+area 
+Standard(s) or  
+regulatory documents 
+SSG-43, Safety of Nuclear Fuel Cycle Research and Development 
+Facilities [22] 
+ 
+Component design 
+CSA B51, Boiler, pressure vessel, and pressure piping code [26] 
+SSR-1, Site Evaluation for Nuclear Installations [17] 
+SSR-4, Safety of Nuclear Fuel Cycle Facilities [1] 
+SSG-5, Safety of Conversion Facilities and Uranium Enrichment Facilities 
+[18] 
+SSG-6, Safety of Uranium Fuel Fabrication Facilities [19]  
+SSG-7, Safety of Uranium and Plutonium Mixed Oxide Fuel Fabrication 
+Facilities [20] 
+SSG-42, Safety of Nuclear Fuel Reprocessing Facilities [21] 
+SSG-43, Safety of Nuclear Fuel Cycle Research and Development 
+Facilities [22] 
+Fitness for 
+service 
+Maintenance  
+CSA N286, Management system requirements for nuclear facilities [6] 
+CSA N393, Fire protection for facilities that process, handle or store 
+nuclear substances [16] 
+ 
+ 
+Aging management CSA N393, Fire protection for facilities that process, handle or store 
+nuclear substances [16] 
+ 
+ 
+Periodic inspection 
+and testing 
+programs 
+CSA B51, Boiler, pressure vessel, and pressure piping code [26] 
+ 
+Radiation 
+protection 
+Application of 
+ALARA 
+REGDOC-2.7.1, Radiation Protection [15] 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+40 
+ 
+Safety and 
+control area 
+Specific  
+area 
+Standard(s) or  
+regulatory documents 
+Worker dose 
+control 
+REGDOC-2.7.1, Radiation Protection [15] 
+REGDOC 2.7.2, Dosimetry, Volume I [27] 
+Radiation 
+protection program 
+performance 
+REGDOC-2.7.1, Radiation Protection [15] 
+REGDOC 2.7.2, Dosimetry, Volume I [27] 
+Radiological 
+hazard control 
+REGDOC-2.7.1, Radiation Protection [15] 
+Conventional 
+health and 
+safety 
+Performance, 
+practices and 
+awareness 
+REGDOC-2.8.1, Conventional Health and Safety [28] 
+Environmental 
+protection 
+Effluent and 
+emissions control 
+(releases) 
+REGDOC-2.9.1, Environmental Protection: Environmental Principles, 
+Assessments and Protection Measures [4] 
+CSA N288.1, Guidelines for modelling radionuclide environmental 
+transport, fate, and exposure associated with the normal operation of 
+nuclear facilities [43] 
+CSA N288.4, Environmental monitoring programs at nuclear facilities and 
+uranium mines and mills [44] 
+CSA N288.5, Effluent and emissions monitoring programs at nuclear 
+facilities [45] 
+CSA N288.6, Environmental risk assessments at Class I nuclear facilities 
+and uranium mines and mills [25] 
+Environmental 
+management 
+system (EMS) 
+REGDOC-2.9.1, Environmental Protection: Environmental Principles, 
+Assessments and Protection Measures [4] 
+CSA N288.1, Guidelines for modelling radionuclide environmental 
+transport, fate, and exposure associated with the normal operation of 
+nuclear facilities [43] 
+CSA N288.4, Environmental monitoring programs at nuclear facilities and 
+uranium mines and mills [44] 
+CSA N288.5, Effluent and emissions monitoring programs at nuclear 
+facilities [45] 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+41 
+ 
+Safety and 
+control area 
+Specific  
+area 
+Standard(s) or  
+regulatory documents 
+CSA N288.6, Environmental risk assessments at Class I nuclear facilities 
+and uranium mines and mills [25] 
+Assessment and 
+monitoring 
+REGDOC-2.9.1, Environmental Protection: Environmental Principles, 
+Assessments and Protection Measures [4] 
+CSA N288.1, Guidelines for modelling radionuclide environmental 
+transport, fate, and exposure associated with the normal operation of 
+nuclear facilities [43] 
+CSA N288.4, Environmental monitoring programs at nuclear facilities and 
+uranium mines and mills [44] 
+CSA N288.5, Effluent and emissions monitoring programs at nuclear 
+facilities [45] 
+CSA N288.6, Environmental risk assessments at Class I nuclear facilities 
+and uranium mines and mills [25] 
+Protection of 
+people 
+REGDOC-2.9.1, Environmental Protection: Environmental Principles, 
+Assessments and Protection Measures [4] 
+REGDOC-2.7.1, Radiation Protection [15] 
+CSA N288.1, Guidelines for modelling radionuclide environmental 
+transport, fate, and exposure associated with the normal operation of 
+nuclear facilities [43] 
+CSA N288.4, Environmental monitoring programs at nuclear facilities and 
+uranium mines and mills [44] 
+CSA N288.5, Effluent and emissions monitoring programs at nuclear 
+facilities [45] 
+CSA N288.6, Environmental risk assessments at Class I nuclear facilities 
+and uranium mines and mills [25] 
+Environmental risk 
+assessment 
+REGDOC-2.9.1, Environmental Protection: Environmental Principles, 
+Assessments and Protection Measures [4] 
+CSA N288.1, Guidelines for modelling radionuclide environmental 
+transport, fate, and exposure associated with the normal operation of 
+nuclear facilities [43] 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+42 
+ 
+Safety and 
+control area 
+Specific  
+area 
+Standard(s) or  
+regulatory documents 
+CSA N288.4, Environmental monitoring programs at nuclear facilities and 
+uranium mines and mills [44] 
+CSA N288.5, Effluent and emissions monitoring programs at nuclear 
+facilities [45] 
+CSA N288.6, Environmental risk assessments at Class I nuclear facilities 
+and uranium mines and mills [25] 
+Emergency 
+management 
+and fire 
+protection 
+Conventional 
+emergency 
+preparedness and 
+response 
+REGDOC-2.2.2, Personnel Training [8] 
+REGDOC-2.10.1, Nuclear Emergency Preparedness and Response [29] 
+CSA N393, Fire protection for facilities that process, handle or store 
+nuclear substances [16] 
+ 
+Nuclear emergency 
+preparedness and 
+response 
+REGDOC-2.2.2, Personnel Training [8] 
+REGDOC-2.10.1, Nuclear Emergency Preparedness and Response [29] 
+Fire emergency 
+preparedness and 
+response 
+REGDOC-2.2.2, Personnel Training [8] 
+REGDOC-2.10.1, Nuclear Emergency Preparedness and Response [29] 
+CSA N393, Fire protection for facilities that process, handle or store 
+nuclear substances [16] 
+Waste 
+management 
+Waste 
+characterization 
+REGDOC-2.11.1, Waste Management, Volume I [30] 
+CSA N292.3, Management of low- and intermediate-level radioactive 
+waste [46] 
+Waste 
+minimization 
+REGDOC-2.11.1, Waste Management, Volume I [30] 
+CSA N292.3, Management of low- and intermediate-level radioactive 
+waste [46] 
+Waste management 
+practices 
+REGDOC-2.11, Framework for Radioactive Waste Management and 
+Decommissioning [31] 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+43 
+ 
+Safety and 
+control area 
+Specific  
+area 
+Standard(s) or  
+regulatory documents 
+REGDOC-2.11.1, Waste Management, Volume I [30] 
+CSA N292.3, Management of low- and intermediate-level radioactive 
+waste [46] 
+Decommissioning 
+plans 
+REGDOC-2.11.2, Decommissioning [32] 
+REGDOC-3.3.1, Financial Guarantees for Decommissioning of Nuclear 
+Facilities and Termination of Licensed Activities [42] 
+CSA N294, Decommissioning of facilities containing nuclear substances 
+[47] 
+Security 
+Response 
+arrangements 
+REGDOC-2.2.4, Fitness for Duty, Volume III: Nuclear Security Officer 
+Medical, Physical and Psychological Fitness [34] 
+REGDOC-2.12.3, Security of Nuclear Substances: Sealed Sources and 
+Category I, II and III Nuclear Materials [5] 
+Security practices 
+REGDOC-2.2.4, Fitness for Duty, Volume III: Nuclear Security Officer 
+Medical, Physical and Psychological Fitness [34] 
+REGDOC-2.12.3, Security of Nuclear Substances: Sealed Sources and 
+Category I, II and III Nuclear Materials [5] 
+IAEA NSS 35-G, Security During the Lifetime of a Nuclear Facility [48] 
+Cyber security 
+REGDOC-2.12.3, Security of Nuclear Substances: Sealed Sources and 
+Category I, II and III Nuclear Materials [5] 
+CSA N290.7, Cyber security for nuclear facilities [49] 
+Safeguards 
+and non-
+proliferation 
+Nuclear material 
+accountancy and 
+control 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy [37] 
+REGDOC-2.13.2, Import and Export [38] 
+IAEA INFCIRC/164 Agreement between Government of Canada and 
+IAEA for the Application of Safeguards in Connection with the Treaty on 
+the Non-Proliferation of Nuclear Weapons IAEA [35] 
+IAEA INFCIRC/164/Add.1, Protocol Additional to the Agreement between 
+Canada and the International Atomic Energy Agency for the Application of 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+44 
+ 
+Safety and 
+control area 
+Specific  
+area 
+Standard(s) or  
+regulatory documents 
+Safeguards in Connection with the Treaty on the Non-Proliferation of 
+Nuclear Weapons [36] 
+Access and 
+assistance to the 
+IAEA 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy [37] 
+REGDOC-2.13.2, Import and Export [38] 
+IAEA INFCIRC/164 Agreement between Government of Canada and 
+IAEA for the Application of Safeguards in Connection with the Treaty on 
+the Non-Proliferation of Nuclear Weapons IAEA [35] 
+IAEA INFCIRC/164/Add.1, Protocol Additional to the Agreement between 
+Canada and the International Atomic Energy Agency for the Application of 
+Safeguards in Connection with the Treaty on the Non-Proliferation of 
+Nuclear Weapons [36] 
+Operational and 
+design information 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy [37] 
+REGDOC-2.13.2, Import and Export [38] 
+IAEA INFCIRC/164 Agreement between Government of Canada and 
+IAEA for the Application of Safeguards in Connection with the Treaty on 
+the Non-Proliferation of Nuclear Weapons IAEA [35] 
+IAEA INFCIRC/164/Add.1, Protocol Additional to the Agreement between 
+Canada and the International Atomic Energy Agency for the Application of 
+Safeguards in Connection with the Treaty on the Non-Proliferation of 
+Nuclear Weapons [36] 
+Safeguards 
+equipment, 
+containment and 
+surveillance 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy [37] 
+IAEA INFCIRC/164 Agreement between Government of Canada and 
+IAEA for the Application of Safeguards in Connection with the Treaty on 
+the Non-Proliferation of Nuclear Weapons IAEA [35] 
+IAEA INFCIRC/164/Add.1, Protocol Additional to the Agreement between 
+Canada and the International Atomic Energy Agency for the Application of 
+Safeguards in Connection with the Treaty on the Non-Proliferation of 
+Nuclear Weapons [36] 
+Packaging and 
+transport 
+Package design and 
+maintenance 
+IAEA SSR-6, Regulations for the Safe Transport of Radioactive Material 
+[50] 
+ 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+45 
+ 
+Glossary 
+For definitions of terms used in this document, see REGDOC-3.6, Glossary of CNSC Terminology, which 
+includes terms and definitions used in the Nuclear Safety and Control Act and the regulations made under 
+it, and in CNSC regulatory documents and other publications. REGDOC-3.6 is provided for reference and 
+information. 
+ 
+ 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+46 
+ 
+References 
+The CNSC may include references to information on best practices and standards such as those published 
+by CSA Group. With permission of the publisher, CSA Group, all nuclear-related CSA standards may be 
+viewed at no cost through the CNSC Web page “How to gain free access to all nuclear-related CSA 
+standards”. 
+1. International Atomic Energy Agency (IAEA), Specific Safety Requirements No. SSR-4 Safety of 
+Nuclear Fuel Cycle Facilities, Vienna, Austria, 2017. 
+2. CNSC, REGDOC-3.5.1, Licensing Process for Class I Nuclear Facilities and Uranium Mines 
+and Mills, Ottawa, Canada, 2017.  
+3. CNSC, REGDOC-3.5.3, Regulatory Fundamentals, Ottawa, Canada, 2023. 
+4. CNSC, REGDOC-2.9.1, Environmental Protection: Environmental Principles, Assessments and 
+Protection Measures, Ottawa, Canada, 2017. 
+5. CNSC, REGDOC-2.12.3, Security of Nuclear Substances: Sealed Sources and Category I, II and 
+III Nuclear Materials, Ottawa, Canada, 2020.  
+6. CSA Group, CSA N286:12 (R2022), Management system requirements for nuclear facilities, 
+Toronto, Canada, 2012. 
+7. CNSC, REGDOC-2.1.2, Safety Culture, Ottawa, Canada, 2018. 
+8. CNSC, REGDOC-2.2.2, Personnel Training, Ottawa, Canada, 2016. 
+9. CNSC, REGDOC-2.2.5, Minimum Staff Complement, Ottawa, Canada, 2019. 
+10. CNSC, REDOC-2.5.1, General Design Considerations: Human Factors, Ottawa, Canada, 2019. 
+11. CNSC, REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue, Ottawa, Canada, 2017. 
+12. CNSC, REGDOC-2.2.4, Fitness for Duty, Volume II: Managing Alcohol and Drug Use, Ottawa, 
+Canada, 2017. 
+13. CNSC, REGDOC-2.4.4, Safety Analysis for Class IB Nuclear Facilities, Ottawa, Canada, 2022. 
+14. CNSC, REGDOC-2.4.3, Nuclear Criticality Safety, Ottawa, Canada, 2019. 
+15. CNSC, REGDOC-2.7.1, Radiation Protection, Ottawa, Canada, 2021. 
+16. CSA Group, CSA N393:13, Fire protection for facilities that process, handle or store nuclear 
+substances, Toronto, Canada, 2013. 
+17. IAEA, Specific Safety Requirements No. SSR-1 Site Evaluation for Nuclear Installations, 
+Vienna, Austria, 2019. 
+18. IAEA, Specific Safety Guide No. SSG-5, Safety of Conversion Facilities and Uranium 
+Enrichment Facilities, Vienna, Austria, 2010. 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+47 
+ 
+19. IAEA, Specific Safety Guide No. SSG-6, Safety of Uranium Fuel Fabrication Facilities, Vienna, 
+Austria, 2010. 
+20. IAEA, Specific Safety Guide No. SSG-7, Safety of Uranium and Plutonium Mixed Oxide Fuel 
+Fabrication Facilities, Vienna, Austria, 2010. 
+21. IAEA, Specific Safety Guide No. SSG-42, Safety of Nuclear Fuel Reprocessing Facilities, 
+Vienna, Austria, 2017. 
+22. IAEA, Specific Safety Guide No. SSG-43, Safety of Nuclear Fuel Cycle Research and 
+Development Facilities, Vienna, Austria, 2017. 
+23. CNSC, REGDOC-2.5.6, Design of Rooms Where Unsealed Nuclear Substances Are Used, 
+Ottawa, Canada, 2023. 
+24. International Organization for Standardization, ISO 13485, Medical devices – Quality 
+management systems – Requirements for regulatory purposes, London, United Kingdom, 2016. 
+25. CSA Group, CSA N288.6-12 (R2017), Environmental risk assessments at Class I nuclear 
+facilities and uranium mines and mills, Toronto, Canada, 2012. 
+26. CSA Group, CSA B51:19, Boiler, pressure vessel, and pressure piping code, Toronto, Canada, 
+2019. 
+27. CNSC, REGDOC-2.7.2, Dosimetry, Volume I: Ascertaining Occupational Dose, Ottawa, Canada, 
+2021 
+28. CNSC, REGDOC-2.8.1, Conventional Health and Safety, Ottawa, Canada, 2019. 
+29. CNSC, REGDOC-2.10.1, Nuclear Emergency Preparedness and Response, Ottawa, Canada, 
+2017. 
+30. CNSC, REGDOC-2.11.1, Waste Management, Volume I: Management of Radioactive Waste, 
+Ottawa, Canada, 2021. 
+31. CNSC, REGDOC-2.11, Framework for Radioactive Waste Management and Decommissioning 
+in Canada, Ottawa, Canada, 2021. 
+32. CNSC, REGDOC-2.11.2, Decommissioning, Ottawa, Canada, 2021. 
+33. CNSC, Guidance Document on Confidential Filings, Ottawa, Canada, 2014. 
+34. CNSC, REGDOC-2.2.4, Fitness for Duty, Volume III: Nuclear Security Officer Medical, 
+Physical, and Psychological Fitness, Ottawa, Canada, 2018 
+ 
+35. IAEA, Agreement between Government of Canada and IAEA for the Application of Safeguards in 
+Connection with the Treaty on the Non-Proliferation of Nuclear Weapons IAEA, INFCIRC/164, 
+Vienna, Austria, 1972. 
+36. IAEA, Protocol Additional to the Agreement between Canada and the International Atomic 
+Energy Agency for the Application of Safeguards in Connection with the Treaty on the Non-
+Proliferation of Nuclear Weapons, IAEA INFCIRC/164/Add 1, Vienna, Austria, 2000. 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+48 
+ 
+37. CNSC, REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy, Ottawa, Canada, 2018. 
+38. CNSC, REGDOC-2.13.2, Import and Export, Ottawa, Canada, 2018. 
+39. CNSC, REGDOC-3.1.2, Reporting Requirements, Volume I: Non-Power Reactor Class I 
+Facilities and Uranium Mines and Mills, Ottawa, Canada, 2018. 
+40. CNSC, REGDOC-3.2.1, Public Information and Disclosure, Ottawa, Canada, 2018. 
+41. CNSC, REGDOC-3.2.2, Indigenous Engagement, Ottawa, Canada, 2018. 
+42. CNSC, REGDOC-3.3.1, Financial Guarantees for Decommissioning of Nuclear Facilities and 
+Termination of Licensed Activities, Ottawa, Canada, 2021. 
+43. CSA Group, CSA N288.1:20, Guidelines for modelling radionuclide environmental transport, 
+fate, and exposure associated with the normal operation of nuclear facilities, Toronto, Canada, 
+2020 
+ 
+44. CSA Group, CSA N288.4:19, Environmental monitoring programs at nuclear facilities and 
+uranium mines and mills, Toronto, Canada, 2019 
+ 
+45. CSA Group, CSA N288.5:22, Effluent and emissions monitoring programs at nuclear facilities, 
+Toronto, Canada, 2022 
+ 
+46. CSA Group, CSA N292.3-14, Management of low- and intermediate-level radioactive waste, 
+Toronto, Canada, 2014 
+ 
+47. CSA Group, CSA N294:19, Decommissioning of facilities containing nuclear substances, 
+Toronto, Canada, 2019 
+ 
+48. IAEA, Nuclear Security Series No. 35-G, Security During the Lifetime of a Nuclear Facility, 
+Vienna, Austria, 2019. 
+ 
+49. CSA Group, CSA N290.7:21, Cyber security for nuclear facilities, Toronto, Canada, 2021 
+ 
+50. IAEA, Safety Standards Series No. SSR-6 (Rev. 1), Regulations for the Safe Transport of 
+Radioactive Material, Vienna, Austria, 2018. 
+ 
+ 
+January 2024 
+REGDOC-1.2.2, Licence Application Guide: Class IB Processing Facilities 
+ 
+49 
+ 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the CNSC. In addition to the 
+Nuclear Safety and Control Act and associated regulations, these facilities and activities may also be 
+required to comply with other regulatory instruments such as regulatory documents or standards. 
+CNSC regulatory documents are classified under the following categories and series: 
+1.0 
+Regulated facilities and activities 
+Series 1.1 
+Reactor facilities 
+1.2 
+Class IB facilities 
+1.3 
+Uranium mines and mills 
+1.4 
+Class II facilities 
+1.5 
+Certification of prescribed equipment 
+1.6 
+Nuclear substances and radiation devices 
+2.0 
+Safety and control areas 
+Series 2.1 
+Management system 
+2.2 
+Human performance management 
+2.3 
+Operating performance 
+2.4 
+Safety analysis 
+2.5 
+Physical design 
+2.6 
+Fitness for service 
+2.7 
+Radiation protection 
+2.8 
+Conventional health and safety 
+2.9 
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0 
+Other regulatory areas  
+Series 3.1 
+Reporting requirements 
+3.2 
+Public and Indigenous engagement 
+3.3 
+Financial guarantees 
+3.4 
+Commission proceedings 
+3.5 
+CNSC processes and practices 
+3.6 
+Glossary of CNSC terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. Visit the CNSC’s website for 
+the latest list of regulatory documents. 
+ 

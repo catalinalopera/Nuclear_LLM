@@ -1,0 +1,1119 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Packaging and Transport 
+Packaging and Transport, Volume II: 
+Radiation Protection Program Design 
+for the Transport of Nuclear 
+Substances  
+ 
+ 
+REGDOC-2.14.1, Volume II  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 2018
+ 
+ 
+ 
+ 
+ 
+ 
+Packaging and Transport, Volume II:  
+Radiation Protection Program Design for the Transport of Nuclear Substances  
+Regulatory document REGDOC-2.14.1, Volume II   
+ 
+© Canadian Nuclear Safety Commission (CNSC) 2018  
+Cat. No. CC172-125/2-2018E-PDF 
+ISBN 978-0-660-28358-6 
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+Également publié en français sous le titre : Emballage et transport, tome II : Conception d’un programme 
+de radioprotection pour le transport des substances nucléaires  
+ 
+Document availability 
+This document can be viewed on the CNSC website. To request a copy of the document in English or 
+French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, ON  K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Fax: 613-995-5086 
+Email: cnsc.info.ccsn@canada.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+LinkedIn: linkedin.com/company/cnsc-ccsn 
+Publishing history 
+March 2012 
+GD-314, Radiation Protection Program Design for the Transport of Nuclear Substances  
+ 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+i 
+Preface 
+This document provides guidance for the implementation of a radiation protection program to transport 
+nuclear substances in accordance with the Nuclear Safety and Control Act (NSCA) and the regulations 
+made under the NSCA.  
+Requirements associated with this document are found in the Packaging and Transport of Nuclear 
+Substances Regulations, 2015. 
+ 
+The CNSC reviewed international studies on doses to workers who handle packages containing nuclear 
+substances. In addition, the organization initiated its own research project to gather information on doses 
+received by Canadian transport workers. The research revealed that some employees of trucking and 
+courier companies who are not normally licensed by the CNSC were receiving radiation doses in excess 
+of the current limits set for the public. As a result, the CNSC is providing information on radiation 
+protection programs to assist in reducing these doses. 
+Some carriers, and most consignors and consignees, are licensed by the Canadian Nuclear Safety 
+Commission (CNSC) and are covered by radiation protection programs implemented through the CNSC’s 
+licensing process. While most carriers do not require a licence from the CNSC, they remain subject, 
+however, to the requirement for a radiation protection program pursuant to the Packaging and Transport 
+of Nuclear Substances Regulations, 2015. This document is intended to assist carriers that are regulated 
+but not licensed by the CNSC.  
+This document does not address criticality safety that may be necessary for packages containing fissile 
+material. Packages containing fissile material need additional considerations that are beyond the scope of 
+this document. For guidance in this area, please contact the CNSC at cnsc.transport.ccsn@canada.ca. 
+Key principles and elements used in developing this document are consistent with national and 
+international standards; for example, the International Maritime Dangerous Goods Code published by the 
+International Maritime Organization. In particular, this guidance document aligns with the IAEA Safety 
+Standards Series No. TS-G-1.3, Radiation Protection Programmes for the Transport of Radioactive 
+Material, published in 2007. 
+Nothing contained in this guidance document is to be construed as relieving any person from pertinent 
+requirements. It is the person’s responsibility to identify and comply with all applicable regulations. 
+Note: In 2013, the CNSC adopted a revised regulatory framework structure with a new system for naming 
+and numbering regulatory documents. This document has been published as part of the CNSC’s initiative 
+to bring regulatory documents that were published before the current framework was adopted into the 
+new system. The requirements and guidance in this document have not changed.  
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+........................................................................................................................1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant regulations ........................................................................................................... 1 
+2. 
+Background ........................................................................................................................2 
+3. 
+Radiation Protection Program..........................................................................................2 
+4. 
+Risk-Informed Approach to a Radiation Protection Program 
+......................................3 
+4.1 
+Low risk .............................................................................................................................. 3 
+4.2 
+Medium risk 
+........................................................................................................................ 3 
+4.3 
+High risk ............................................................................................................................. 4 
+5. 
+Elements of a Radiation Protection Program .................................................................4 
+5.1 
+Scope and risk assessment .................................................................................................. 4 
+5.2 
+Roles and responsibilities ................................................................................................... 4 
+5.3 
+Dose assessment ................................................................................................................. 4 
+5.4 
+Monitoring radiation doses ................................................................................................. 6 
+5.5 
+Surface contamination ........................................................................................................ 7 
+5.6 
+Segregation of packages containing nuclear substances 
+..................................................... 8 
+5.7 
+Emergency response ........................................................................................................... 8 
+5.8 
+Training 
+............................................................................................................................... 8 
+5.9 
+Written work procedures..................................................................................................... 9 
+Glossary ........................................................................................................................................10 
+Appendix A: Information on the Design of a Radiation Protection Program for the 
+Transport of Nuclear Substances ...................................................................................12 
+References 
+.....................................................................................................................................18 
+Additional Information ...............................................................................................................19 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+1 
+ 
+Radiation Protection Program Design  
+for the Transport of Nuclear Substances 
+1. 
+Introduction 
+1.1 
+Purpose  
+This document provides guidance for designing a radiation protection program for the transport 
+of nuclear substances in accordance with the Nuclear Safety and Control Act (NSCA) [1] and the 
+regulations made under the NSCA. 
+1.2 
+Scope 
+This document describes a typical radiation protection program that carriers of nuclear substances 
+can implement, to comply with the requirements of the Packaging and Transport of Nuclear 
+Substances Regulations, 2015 (PTNSR 2015) [2]. 
+This document is intended to assist carriers who are regulated under the NSCA but not licensed 
+by the Canadian Nuclear Safety Commission (CNSC). Consignors, carriers, and consignees who 
+are licensed are already covered by the requirements for a radiation protection program through 
+the CNSC’s licensing process. 
+This guidance document aligns with the IAEA Safety Standards Series No. TS-G-1.3, Radiation 
+Protection Programmes for the Transport of Radioactive Material, published in 2007 [3]. It does 
+not address nuclear criticality safety that may be necessary for packages containing fissile 
+material. This material requires additional considerations that are beyond the scope of this 
+document. For guidance in this area, please contact CNSC staff at cnsc.transport.ccsn@canada.ca. 
+1.3 
+Relevant regulations 
+The PTNSR 2015, made under the NSCA, include a number of obligations that are relevant to 
+this guide: 
+1. Paragraph 25(4)(c) states that “Every carrier of radioactive material must implement and maintain 
+work procedures to ensure compliance with these Regulations and keep a record of documenting 
+those procedures.” 
+ 
+2. Subsection 31(1) states that “Every consignor, carrier and consignee of radioactive material, other 
+than one who only handles or transports excepted packages, must implement a radiation 
+protection program and must, as part of that program, 
+ 
+(a) keep the amount of exposure to radon progeny and the effective dose and equivalent 
+dose received by and committed to persons as low as reasonably achievable, taking 
+into account social and economic factors, through the implementation of 
+(i) 
+management control over work practices, 
+(ii) 
+personnel qualification and training, 
+(iii) 
+control of exposure to radiation by personnel and the public, and 
+(iv) 
+planning for unusual situations; 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+2 
+ 
+(b) prevent persons from receiving doses of radiation higher than the radiation dose limits 
+prescribed by the Radiation Protection Regulations [4]; 
+(c) assess the radiation at the workplace and 
+(i) 
+conduct workplace or individual monitoring if it may reasonably be 
+expected that the doses of radiation received by persons at the workplace 
+will be 1 mSv or more but less than 5 mSv a year, or 
+(ii) 
+conduct individual monitoring if it may reasonably be expected that the 
+doses of radiation received by persons at the workplace will be 5 mSv a 
+year or more; and;  
+(d) train the persons referred to in the program on the application of the program.” 
+ 
+3. Subsection 31(2) states that “Every consignor, carrier and consignee must 
+(a) keep a record documenting their radiation protection program and of any information 
+collected under it; and 
+(b) retain the record for a period ending two years after the day on which the information 
+is collected.” 
+2. 
+Background 
+Most consignors and consignees and some carriers are licensed under the NSCA and its 
+associated regulations. As part of the CNSC’s licensing requirements, these licensees must have 
+established radiation protection programs that cover all activities associated with nuclear 
+substances.  
+Transport activities are generally exempt from CNSC licensing, provided they comply with all 
+regulatory requirements. The majority of carriers do not have a CNSC licence, but they remain 
+subject to requirements in the PTNSR 2015, including the requirement to have a radiation 
+protection program in place if they transport nuclear substances. 
+To ensure that nuclear substances are transported safely, a consignor should request a carrier to 
+demonstrate that it has a radiation protection program in place. 
+3. 
+Radiation Protection Program 
+A radiation protection program is a system or plan that provides adequate consideration of 
+radiation protection measures with respect to certain activities of a business or operation. The 
+program’s aim is to control activities involving nuclear substances so that radiation doses to 
+workers and the public are kept as low as reasonably achievable (ALARA), taking into account 
+social and economic factors. 
+The level of risk, including the probability and amount of radiation exposure to workers and the 
+public, determines the nature and extent of a radiation protection program. For example, if the 
+risk of exposure is low, the program is typically simple. On the other hand, if the risk is high, the 
+program should be detailed and comprehensive. 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+3 
+ 
+As part of a radiation protection program, carriers should keep radiation doses ALARA by: 
+• 
+implementing management controls over work practices 
+• 
+qualifying and training personnel 
+• 
+controlling occupational and public exposures to radiation 
+• 
+planning for unusual situations 
+For more information on ALARA, refer to the CNSC’s regulatory guide G-129, Keeping 
+Radiation Exposures and Doses “As Low As Reasonably Achievable (ALARA)” [5], as amended 
+from time to time. 
+In addition, persons should not receive radiation doses higher than the radiation dose limits 
+prescribed in the Radiation Protection Regulations, and those persons referred to in the radiation 
+protection program should be trained on the application of the program. 
+In a radiation protection program, all aspects of transport for normal and accident conditions 
+should be included, with emphasis on transport operations where radiation exposure is likely to 
+occur. This can include handling, loading, storage in transit, and the movement of packages. 
+In accordance with subsection 31(2) of the PTNSR 2015, the radiation protection program and 
+any information collected under the program must be recorded. These records must be retained 
+for the period ending two years after the date it was collected. CNSC inspectors and designated 
+officers may request to review records associated with the radiation protection program. 
+Radiation protection in the transport of nuclear substances is only one aspect relevant to the 
+protection and safety of workers, the general public, and the environment. Radiation protection 
+programs are generally established and managed with other health and safety programs such as 
+industrial health and safety, and fire safety. A radiation protection program can refer to these 
+other programs where appropriate. 
+4. 
+Risk-Informed Approach to a Radiation Protection Program 
+Based on international trends, working experience and historical worker dose information, three 
+categories of risk have been established in respect of radiation protection in the transport of 
+nuclear substances: low, medium and high. These three risk categories take into consideration 
+potential radiation exposure to workers, which determines the nature and extent of the radiation 
+protection program needed, as follows: 
+4.1 
+Low risk 
+Workers in the low-risk category are unlikely to receive a dose greater than 1 millisievert (mSv) 
+per year, the maximum allowable for a member of the public. A comprehensive radiation 
+protection program is not necessary. Each worker involved in the handling and transport of the 
+packages should have an understanding of basic radiation protection principles. 
+4.2 
+Medium risk 
+Workers in the medium-risk category can potentially receive doses greater than 1 mSv per year, 
+but less than 5 mSv per year. A more detailed radiation protection program is needed for this 
+category, and each worker involved in the handling and transport of the packages should be 
+trained in the program. 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+4 
+ 
+4.3 
+High risk 
+Workers in the high-risk category have the potential to receive 5 mSv or more per year, but may 
+not exceed limits specified in the Radiation Protection Regulations. A detailed radiation 
+protection program is recommended for this category. Each worker involved in the handling and 
+transport of the packages should be trained in the program. 
+5. 
+Elements of a Radiation Protection Program 
+A radiation protection program normally includes the following elements: 
+1. scope (including a risk assessment) 
+2. roles and responsibilities 
+3. dose assessment 
+4. monitoring radiation doses (not required for carriers in the low-risk category) 
+5. surface contamination 
+6. segregation (for Category II-Yellow, Category III-Yellow, and exclusive use) 
+7. emergency response 
+8. training 
+9. written work procedures 
+If a carrier transports nuclear substances, the checklist provided in appendix A may help the 
+individual responsible for the radiation protection program in organizing and presenting the 
+information.  
+Most consignors and consignees should already have radiation protection programs in place, 
+pursuant to the Radiation Protection Regulations. Consignors, carriers, and consignees are 
+encouraged to cooperate and take advantage of any common elements of the existing radiation 
+protection programs, to ensure radiation protection without duplication of effort. 
+Additional guidance is available from the CNSC upon request; contact the CNSC at 
+cnsc.transport.ccsn@canada.ca. 
+5.1 
+Scope and risk assessment 
+The scope of the radiation protection program should be determined by the category of risk of 
+radiation exposure, as described in section 4 of this document. The scope should document the 
+program’s policy and objectives, and normally include a commitment from management to keep 
+radiation doses ALARA and to meet other regulatory requirements. 
+5.2 
+Roles and responsibilities 
+The radiation protection program should identify who is responsible for such areas as training, 
+dose assessment and radiation dose monitoring, emergency response, reporting to relevant 
+authorities and periodic program review. A contact person for the organization or, if applicable, a 
+list of contact persons for each facility should be included in the program’s documentation. 
+5.3 
+Dose assessment 
+A dose assessment is an evaluation of the radiation dose that a person might receive while 
+performing certain activities (e.g., handling or storage of packages containing nuclear 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+5 
+ 
+substances). Dose assessment is a key element of a radiation protection program and should 
+consider two fundamental radiation protection principles: 
+1. Identify the sources of radiation doses in normal working conditions (i.e., consider both the 
+actual and potential sources of radiation when handling and transporting packages). 
+2. Measure or estimate the radiation doses to workers and the public, and the frequency of 
+exposures (both actual and potential). 
+5.3.1 
+General assumptions for dose assessments 
+Doses to transport workers who handle packages of nuclear substances will normally depend on 
+the surface dose rate from the package, time of exposure to the package, distance from the 
+package, and shielding from the radiation. The category of package (Category I-White, Category 
+II-Yellow, and Category-III Yellow), the package handling methods and the number of packages 
+in each category are also important considerations to take into account when assessing 
+transport-related doses. 
+External radiation levels of excepted packages and Category I-White packages are low, and 
+therefore are generally considered safe to handle without special restrictions. An explicit dose 
+assessment is not normally required for operations involving only these categories of packages. 
+Several studies have shown a correlation between the Transport Index (TI) and the doses received 
+by the workers. A Canadian study [6] confirms that handling less than a total of 300 TI of 
+medical isotopes annually (regardless of individual package TI) is not likely to result in a total 
+effective dose greater than 1 mSv per year. Such carriers may not require detailed monitoring, 
+dose assessment, or individual records. 
+Where a worker is involved in the regular shipment of similar consignments from year to year, it 
+is usually possible to estimate radiation exposures from normal transport by examining previously 
+collected exposure data. The same types of transport operations under similar conditions are 
+likely to result in similar exposures. 
+If an individual worker is monitored using a dosimeter, the measured doses can be used to 
+estimate doses of workers performing similar tasks. This is commonly referred to as the 
+“grouping of workers.” 
+For Category II-Yellow and Category III-Yellow packages, correlations based on similar 
+operations can be used if the information is available and properly justified by the carrier. 
+It is necessary to periodically reassess or review the assumptions used in estimating worker doses 
+in order to verify their accuracy, especially if there is an increase in the number of packages 
+containing nuclear substances handled and transported. 
+Records of the dose assessment, including estimations, calculations, measurements and 
+justifications, should be maintained as part of the record of procedures for the radiation protection 
+program. 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+6 
+ 
+5.3.2 
+Dose assessment methods 
+Dose assessments can be done using different methods; for example: 
+1. using existing dose records and dose assessment information from similar operations 
+2. using accepted dose assessment models (such as the one described in appendix A) 
+3. monitoring an area or an individual using radiation detection equipment or individual dose 
+monitoring devices, such as thermoluminescent dosimeters (TLDs), for a specific period of 
+time to measure the actual radiation dose 
+5.4 
+Monitoring radiation doses 
+The Radiation Protection Regulations set out limits for radiation doses. The effective dose limit 
+for members of the public is 1 mSv per year. Any person who has a reasonable probability of 
+receiving a dose greater than the limit for the public in the course of their business or occupation 
+is classified as a nuclear energy worker (NEW), as defined in section 2 of the NSCA. The dose 
+limits for NEWs are specified in section 13 of the Radiation Protection Regulations. These limits 
+are meant to ensure that no individual is exposed to unacceptable risk due to radiation exposure. 
+While the Radiation Protection Regulations specify dose limits, carriers are required to keep 
+doses ALARA, with social and economic factors taken into account. For further information on 
+keeping doses ALARA, carriers should refer to the CNSC’s guidance document G-129, Keeping 
+Radiation Exposure and Doses as Low as Reasonably Achievable (ALARA), as amended from 
+time to time. 
+If using personal monitoring devices, such as TLDs, it is advisable to use a dosimetry service 
+licensed by the CNSC. Contact the CNSC at cnsc.transport.ccsn@canada.ca for the current list of 
+licensees offering this service. 
+Periodic re-assessment or review of how the doses were determined is suggested, especially when 
+there is a change in the number or types of packages handled and transported. 
+5.4.1 
+Risk categories 
+The three categories of risk require monitoring as follows: 
+5.4.1.1 Low risk  
+Workers in the low-risk category are unlikely to receive a dose greater than 1 mSv per year. 
+Routine monitoring is not normally needed. Area monitoring can be done in the vicinity of the 
+worker to demonstrate that the working conditions remain satisfactory and do not exceed the dose 
+limit for this risk category. 
+5.4.1.2 Medium risk  
+Workers in the medium-risk category are likely to receive a dose greater than 1 mSv but less than 
+5 mSv in a year. These workers should be classified as NEWs. Individual monitoring is 
+recommended to help ensure that the working conditions are satisfactory and do not exceed the 
+dose limits for this risk category. If an individual worker is monitored using a dosimeter, the 
+measured doses can be used to estimate doses of workers carrying out similar tasks. 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+7 
+ 
+5.4.1.3 High risk  
+In the high-risk category, the expected annual dose to a worker is likely to equal or exceed 5 mSv. 
+These workers should be classified as NEWs. Individual monitoring should be part of the 
+radiation protection program in an effort to ensure that dose limits prescribed by the Radiation 
+Protection Regulations are not exceeded. 
+5.4.2 
+Nuclear Energy Workers 
+Any worker who is likely to receive more than 1 mSv per year in the course of their normal duties 
+is considered a NEW in accordance with section 13 of the Radiation Protection Regulations. 
+Carriers who are licensed by the CNSC have specific obligations with respect to NEWs. 
+For those not licensed by the CNSC, it is suggested that NEWs be informed in writing: 
+1. that they are considered to be NEWs 
+2. of the risks associated with the radiation to which the workers may be exposed in the course 
+of their duties 
+3. of the risks associated with exposure of embryos and foetuses to radiation 
+4. of the applicable effective dose limits 
+5. of the equivalent dose limits 
+6. of the worker’s dose, if being monitored 
+It is further suggested that female NEWs: 
+1. are informed of the specific dose limits for pregnant NEWs, as specified in section 13 of the 
+Radiation Protection Regulations 
+2. are advised to inform their employers when aware that they are pregnant, so that appropriate 
+work adjustments can be considered to limit exposure to 4 mSv for the remainder of 
+pregnancy 
+Where the above information is provided to NEWs, they should acknowledge in writing that they 
+have been informed of the matters mentioned above. 
+5.5 
+Surface contamination 
+Periodic monitoring for contamination on the surfaces of packages, components, equipment, and 
+conveyances is recommended. This monitoring may be conducted by the consignor or by the 
+carrier. If done by the carrier, the method should be described as part of the radiation protection 
+program. 
+Pursuant to the PTNSR 2015, the limits for non-fixed radioactive contamination as specified in 
+paragraphs 508–514 of the IAEA Safety Standards Series No. SSR-6, Regulations for the Safe 
+Transport of Radioactive Material [7] must not be exceeded.  
+SSR-6 states that non-fixed contamination on the external surfaces of any package or conveyance 
+shall be kept as low as practicable and, under routine conditions of transport, shall not exceed the 
+following limits: 
+1. 4 Bq/cm2 for beta and gamma emitters and low toxicity alpha emitters 
+2. 0.4 Bq/cm2 for all other alpha emitters 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+8 
+ 
+These limits are applicable when averaged over any area of 300 cm2 of any part of the surface. 
+Every effort should be made to minimize surface contamination as it may affect radiation doses to 
+individuals. The conventional approach to routine monitoring for surface contamination is to 
+monitor a representative fraction of surfaces in an area or on packages. 
+The frequency of monitoring will depend on factors such as the number of packages handled or 
+transported, how the packages are handled, and previous contamination monitoring results. 
+The program should include the applicable criteria for controlling surface contamination and 
+provide an outline of the type and extent of the monitoring program. 
+5.6 
+Segregation of packages containing nuclear substances 
+Simple segregation techniques, such as placing packages away from drivers, or storing packages 
+in secluded, unoccupied areas of a warehouse, can help to reduce exposures to all workers, 
+including those who do not handle packages containing nuclear substances. Segregation should 
+be included in a radiation protection program for workers who handle Category II-Yellow and 
+Category III-Yellow packages and exclusive use shipments. 
+Segregation tables can be used to determine the minimum distance for an occupied position based 
+on the transport index of the packages being transported. These tables can be found in the IAEA 
+Specific Safety Guide No. SSG-26 [8], the Technical Instructions for the Safe Transport of 
+Dangerous Goods by Air [9], and the International Maritime Dangerous Goods Code [10]. The 
+use of segregation tables as a guide to determine and monitor dose limits does not remove the 
+requirement for keeping doses ALARA. 
+5.7 
+Emergency response 
+The radiation protection program should provide emergency response procedures to deal with any 
+emergency or other unusual situations such as lost or incorrectly delivered packages, and 
+unclaimed or found packages. The program should include the following information: 
+1. the name of the person responsible for the carrier’s emergency response 
+2. a telephone number at which that person can be reached 24 hours a day, 7 days a week 
+3. any other relevant information about the carrier’s emergency response plan for nuclear 
+substances. 
+5.8 
+Training 
+In accordance with paragraph 31(1)(d) of the PTNSR 2015, persons referred to in a radiation 
+protection program must be trained on the implementation and application of the program. 
+Training should be related to specific jobs or tasks and include detailed actions and protective 
+measures to take during normal job functions as well as in the event of an accident. It also 
+explains the basic principles of radiation protection: time, distance and shielding and provides 
+useful examples, such as placing the packages away from the driver or in unoccupied areas of the 
+warehouse.  
+In some cases, the training may need to include the use of specific equipment, such as dosimeters, 
+radiation survey meters, contamination meters, and information on ionizing radiation and their 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+9 
+ 
+effects on people. The amount of training needed relates to the nature and extent of the risk, as 
+assessed using the methods previously discussed. 
+Adequate training requires an ongoing commitment from both the employer and employee, and 
+involves initial training and refresher courses at appropriate intervals. Periodic evaluation of the 
+effectiveness of the training is suggested, especially where there is a change in tasks being 
+performed by the employee. 
+Relevant records pertaining to the training should be maintained as part of the record of the 
+radiation protection program. 
+In addition to training on the radiation protection program, all workers involved in the transport 
+of nuclear substances should be trained in the application of the PTNSR 2015. 
+5.9 
+Written work procedures 
+In accordance with paragraph 25(4)(c) of the PTNSR 2015, carriers of nuclear substances are 
+required to implement and maintain work procedures and keep a record of those procedures. 
+Radiation protection is based on the basic principles of time, distance and shielding; and these 
+factors should be considered when developing written work procedures. As a result, work 
+procedures should take into account the following: 
+• 
+To reduce the dose received, it is important to minimize the time spent handling packages and 
+to use the maximum distance between the worker and the packages. It is good practice to 
+carry Category III-Yellow packages using a cart whenever possible, even for light packages. 
+• 
+Doses received are related to the distance from which the packages are handled or stored. 
+Packages containing nuclear substances should always be located away from workers and 
+members of the public. Unless necessary, workers should not work or stay close to packages. 
+• 
+The amount of dose received is also based on the amount and type of shielding. To minimize 
+the dose while the nuclear substance is being transported, packages should always be located 
+as far away from the workers as possible. To provide additional shielding, other goods being 
+transported should be placed between the worker and the packages containing the nuclear 
+substances. 
+For additional protection when transporting Category II-Yellow and Category III-Yellow 
+packages, portable shielding can be used to lower the dose received if the distance between the 
+packages and the worker is limited or if the packages will be transported for several hours.  
+The longer a package is handled or transported, the greater the potential exists for a higher dose to 
+be received by the worker. To minimize any possible radiation dose to workers or the public, 
+carriers should factor in time, distance and shielding into their written work procedures. 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+10 
+ 
+Glossary 
+ALARA (ALARA) 
+The concept of As Low As Reasonably Achievable, taking social and economic factors into account. 
+Carrier (transporteur) 
+A person who — regardless of whether for hire or reward — has possession of dangerous goods while 
+they are in transport (Transportation of Dangerous Goods Regulations [11]). 
+Consignee (destinataire) 
+A person to whom a consignment is being or is intended to be transported (Packaging and Transport of 
+Nuclear Substance Regulations, 2015 [2]). 
+Consignor (expéditeur) 
+A person in Canada who: 
+(1) 
+is named in a shipping document as the consignor; 
+(2) 
+imports or who will import dangerous goods into Canada; or 
+(3) 
+if paragraphs (1) and (2) do not apply, has possession of dangerous goods immediately before 
+they are in transport. 
+A person may be both a consignor and a carrier of the same consignment; for example, a manufacturer 
+who also transports the dangerous goods he or she produces (Transportation of Dangerous Goods 
+Regulations [11]). 
+Conveyance (moyen de transport) 
+ 
+(1) for transport by road or rail: any vehicle 
+(2) for transport by water: any vessel, or any hold, compartment, or defined deck area of a vessel 
+(3) for transport by air: any aircraft 
+effective dose (dose efficace) 
+The sum of the products, in sieverts, obtained by multiplying the equivalent dose of radiation received by 
+and committed to each organ or tissue set out in column 1 of an item of Schedule 1 (Radiation Protection 
+Regulations [4]) by the tissue weighting factor set out in column 2 (Radiation Protection Regulations) of 
+that item. 
+equivalent dose (dose équivalente) 
+The product, in sieverts, obtained by multiplying the absorbed dose of radiation of the type set out in 
+column 1 of an item of Schedule 2 (Radiation Protection Regulations [4]) by the radiation weighting 
+factor set out in column 2 (Radiation Protection Regulations) of that item. 
+nuclear energy worker (NEW) (travailleur du secteur nucléaire [TSN]) 
+A person who is required, in the course of the person’s business or occupation in connection with a 
+nuclear substance or nuclear facility, to perform duties in such circumstances that there is a reasonable 
+probably that the person may receive a dose of radiation that is greater than the prescribed limit for the 
+general public (Nuclear Safety and Control Act [1]). 
+thermoluminescent dosimeter (TLD) (dosimètre thermoluminescent [DTL]) 
+A device used to monitor exposure to radiation. 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+11 
+transport index (TI) (indice de transport [IT]) 
+The maximum radiation level in microsieverts per hour at 1 metre from the external surface of the 
+package divided by 10.  
+Example: For a dose of 1 µSv/h (0.1 mrem/h) at 1 m, TI = 0.1. 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+12 
+ 
+Appendix A: Information on the Design of a Radiation Protection Program for the 
+Transport of Nuclear Substances 
+The following is the type of information that the CNSC expects to see in a radiation protection program 
+and is included here to assist carriers to develop a program. Additional guidance is available from the 
+CNSC upon request; contact the CNSC at cnsc.transport.ccsn@canada.ca. 
+A.1 
+Carrier information 
+Include the name of the company that is transporting the nuclear substances. Use an individual’s name 
+only if that person is a sole proprietor. 
+Include the legal, physical address of the company’s head office, including the complete street name and 
+number, and rural route number if appropriate, city, province or territory, and postal code. A post office 
+box number may be included in addition to the street address. Provide a telephone number including the 
+area code. 
+A.2 
+Roles and responsibilities 
+Include the name, title and telephone number (including area code) of the person who is responsible for 
+the company’s radiation protection program. 
+Include the name, title and telephone number (including area code) of the manager who is responsible for 
+supervising the company’s radiation protection program. 
+Include a list of all the operational centres and locations that the company uses when transporting or 
+storing nuclear substances. With each site (operational centre or location), include the name, title and 
+telephone number (including area code) of a contact person for each site.  
+A.3 
+Scope and risk assessment 
+The number of packages handled or transported each year affects the dose received by workers. The type 
+of package also affects the dose. Include an actual count or “best estimate” of the total number of 
+packages containing nuclear substances that the company transports per year. 
+Describe the types of nuclear substance packages transported. Packages containing nuclear substances are 
+classified as follows: 
+1. Category I-White, Category II-Yellow and Category III-Yellow, based on the dose emitted at 
+the surface and at 1 metre from the package. 
+2. “Excepted” packages do not have labels and can be used to transport only a limited quantity 
+of nuclear substances. The dose rate at the surface is similar to the Category I-White. No 
+special precautions are required for excepted packages and packages with Category I-White 
+labels as the dose rate is low. 
+Identify the risks 
+If the company transports fewer than 40 packages per year and no Category III-Yellow packages are 
+involved, the risk is low. Otherwise, estimate the maximum radiation dose to identify the appropriate risk 
+category. Part D provides a method for estimating the dose. 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+13 
+ 
+A.4 
+Dose assessments 
+The following provides one example of an accepted dose assessment model. This model is based on the 
+number of packages in each category that an employee would handle in a year. If another dose assessment 
+method is used, attach all information relevant to the dose measurement or calculation. 
+Dose assessment model 
+This table provides background information when calculating the estimated dose. 
+This information may be used for the formula calculation to estimate the maximum radiation dose to 
+employees. 
+This table provides two estimates of the maximum number of packages over a one-year period: 
+1. for individuals who do not handle packages, but are in proximity to them 
+2. for individuals who handle packages 
+Category of Packages 
+Number of packages handled that could result in  
+an annual dose of 1 mSv or greater 
+For each package, worker 
+is at 1 metre for 
+30 minutes 
+For each package, worker is 
+in contact for 5 minutes and 
+at 1 metre for 30 minutes 
+Category I-White 
+4,000 packages 
+1,600 packages 
+Category II-Yellow 
+200 packages 
+40 packages * 
+Category III-Yellow 
+20 packages 
+7 packages ** 
+Category III-Yellow + exclusive use 
+0 packages 
+0 packages 
+* Packages with an average dose rate of 0.25 mSv/h at contact and Transport Index = 1 
+** Packages with an average dose rate of 1.25 mSv/h at contact and Transport Index = 10 
+ 
+Formula calculation to estimate the maximum radiation dose to employees 
+Calculate the estimated dose and determine the risk category, as follows: 
+Step 1: Provide an actual count or “best estimate” of the maximum number of packages of each type that 
+an employee would handle in a one-year period. 
+Step 2: Use the numbers from Step 1 to calculate the estimated dose (D). 
+Step 3: Use the estimated dose (D) to determine the risk category. 
+This calculation assumes that the worker receives the maximum exposure to each package. The maximum 
+exposure to a package is defined as the worker being in contact with the package for five minutes and at a 
+distance of 1 metre from the package for 30 minutes. 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+14 
+ 
+Step 1:  
+Calculate the estimated dose: 
+List the maximum number of packages in Categories I, II, and III that an employee would handle 
+in a one-year period. 
+• 
+Category I-White   
+A = ______________ packages per year 
+• 
+Category II-Yellow  
+ 
+B = ______________ packages per year 
+• 
+Category III-Yellow  
+C = ______________ packages per year 
+Step 2:  
+Calculate the estimated dose (D) 
+• 
+D (mSv)  
+= (A/1600) + (B/40) + (C/7) 
+• 
+D (mSv)  
+= (__________/1600) + (__________/40) + (__________/7) 
+• 
+D (mSv)  
+= ______________________ 
+Step 3:  Determine the risk category for the radiation protection program 
+• 
+□ Low  
+ 
+If D is less than or equal to 1 mSv 
+• 
+□ Medium  
+If D is greater than 1 mSv and less than 5 mSv 
+• 
+□ High 
+ 
+If D is equal to or greater than 5 mSv 
+A.5 
+Monitoring radiation doses 
+Dose limits are meant to ensure that no individual is exposed to an unacceptable risk due to radiation 
+exposure, and monitoring ensures that dose limits are not exceeded.  
+It is suggested to periodically reassess or review how doses were determined, especially when there is a 
+change in the number or types of packages handled and transported. 
+When the area is classified as low risk, area monitoring can be done in the vicinity of the worker to 
+demonstrate that working conditions remain satisfactory and meet regulatory requirements. 
+If using personal monitoring devices (such as thermoluminescent dosimeters), it is advisable to use a 
+CNSC-licensed dosimetry service. Contact the CNSC at cnsc.transport.ccsn@canada.ca for a list of 
+licensed dosimetry services. 
+Any worker who is likely to receive more than 1 mSv per year in the normal course of their duties is 
+considered a nuclear energy worker (NEW). Most workers in the medium- and high-risk categories 
+should be classified as NEWs.  
+A.6 
+Surface contamination 
+Periodic monitoring for contamination on surfaces of packages, components, equipment, and conveyances 
+is recommended, and may be conducted by the consignor or by the carrier. 
+If surface contamination is checked internally (by the carrier), include the relevant information such as the 
+following: 
+1. the frequency of monitoring 
+2. the criteria for controlling surface contamination 
+3. an outline of the type and extent of the monitoring program 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+15 
+ 
+A.7 
+Segregation 
+Segregation involves keeping the packages away from people while in transport, in transit, or in storage. 
+Simple techniques, such as placing packages away from drivers, or storing packages in secluded, 
+unoccupied areas of a warehouse, can help to reduce exposures.  
+Include a description of segregation techniques that are practiced by workers handling packages 
+containing nuclear substances, in storage and in transit. 
+A.8 
+Emergency response 
+Include the name, title, and telephone number (including area code) of the person, title or position 
+responsible for the company’s emergency response plan. Note that this individual should be available at 
+this telephone number 24 hours a day, 7 days a week. 
+Include any other relevant information about the company’s emergency response plan for nuclear 
+substances. 
+A.9 
+Training 
+All workers involved in the transport of nuclear substances should be trained on the company’s radiation 
+protection program as well as the Packaging and Transport of Nuclear Substances Regulations, 2015 and 
+the Transportation of Dangerous Goods Regulations. Other training may be offered to workers, as 
+required. 
+A.10 Written work procedures 
+A company’s written work procedures should explain the handling, segregation, loading, storage, and 
+identification and documentation of packages containing radioactive substances.  
+A.11 Signatures  
+At least two individuals should sign the radiation protection program confirming that they understand 
+their responsibilities with respect to the company’s safe transport of nuclear substances. These individuals 
+include the person responsible for the radiation protection program, as well as the manager responsible for 
+supervising the program. 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+16 
+ 
+A.12  Checklist 
+The following checklist may be used when designing a radiation protection program for the transport of 
+nuclear substances. It will help identify information that should be included in a program. 
+Components of a radiation protection program 
+Information 
+included  
+Not applicable  
+A. Carrier information 
+Carrier’s name and address 
+ 
+ 
+B. Roles and responsibilities 
+Individual responsible for the radiation protection program 
+ 
+ 
+Manager responsible for radiation protection program 
+ 
+ 
+List of site offices, and contact person for each site 
+ 
+ 
+C. Scope and risk assessment 
+Number of packages transported annually 
+ 
+ 
+Types of packages transported 
+ 
+ 
+D. Radiation dose estimate 
+Estimate of maximum radiation dose to employees 
+ 
+ 
+Use formula to estimate maximum radiation dose to employees 
+and determine risk category 
+ 
+ 
+E. Monitoring of radiation doses 
+Include procedures for periodic dose re-assessments, if 
+conducted 
+ 
+ 
+Is radiation detection equipment used? If so, what type and by 
+whom? 
+ 
+ 
+Are workers classified as nuclear energy workers (NEWs)? 
+ 
+ 
+F. Surface contamination 
+Are radioactive surface contamination checks on surfaces of 
+packages, components, equipment, and conveyances carried out? 
+If so, are they done by the carrier or consignor? 
+ 
+ 
+Frequency of surface contamination checks 
+ 
+ 
+Criteria for controlling surface contamination 
+ 
+ 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+17 
+ 
+Components of a radiation protection program 
+Information 
+included 
+Not applicable 
+Outline of the type and extent of the monitoring program 
+ 
+ 
+G. Segregation 
+Description of segregation techniques used in storage and in 
+transit by workers handling packages containing nuclear 
+substances 
+ 
+ 
+H. Emergency response information 
+Emergency response contact name, title or position, and a 24/7 
+telephone number including area code. 
+ 
+ 
+Provide relevant details of the company’s emergency response 
+plan for nuclear substances. 
+ 
+ 
+I. Training 
+Packaging and Transport of Nuclear Substance Regulations, 
+2015 
+ 
+ 
+Transportation of Dangerous Goods Regulations 
+ 
+ 
+Application of this radiation protection program 
+ 
+ 
+Other training 
+ 
+ 
+J. Written work procedures 
+To explain the company’s emergency response plan 
+ 
+ 
+To explain the handling of packages containing radioactive 
+substances 
+ 
+ 
+To explain the segregation of packages containing radioactive 
+substances 
+ 
+ 
+To explain the loading of packages containing radioactive 
+substances 
+ 
+ 
+To explain the storage of packages containing radioactive 
+substances 
+ 
+ 
+To verify the identification and documentation of packages 
+containing radioactive substances 
+ 
+ 
+K. Signatures 
+Individual responsible for the radiation protection program 
+ 
+ 
+Manager responsible for supervising the radiation protection 
+program 
+ 
+ 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+18 
+ 
+References 
+1. Nuclear Safety and Control Act (S.C. 1997, c.9) 
+2. Packaging and Transport of Nuclear Substances Regulations, 2015 (SOR/2015-145) 
+3. International Atomic Energy Agency (IAEA), Radiation Protection Programmes for the 
+Transport of Radioactive Material, Safety Standards Series No. TS-G-1.3, IAEA Vienna (2007), 
+or as amended from time to time. 
+4. Radiation Protection Regulations (SOR/2000-203) 
+5. Regulatory Guide Keeping Radiation Exposures and Doses “As Low as Reasonably Achievable 
+(ALARA)”, G-129, Revision 1, or as amended from time to time. 
+6. “Doses to Transport Workers: Phase 2”, ECOMatters Inc. RSP 0158, a report prepared for the 
+Canadian Nuclear Safety Commission, Ottawa, Canada (2002). 
+7. IAEA, Regulations for the Safe Transport of Radioactive Material, Safety Standards Series No. 
+SSR-6, 2012 Edition, IAEA Vienna (2012). 
+8. IAEA, Advisory Material for the IAEA Regulations for the Safe Transport of Radioactive 
+Material (2012 Edition), Specific Safety Guide No. SSG-26, IAEA, Vienna (2014), or as 
+amended from time to time. 
+9. International Civil Aviation Organization, Technical Instructions for the Safe Transport of 
+Dangerous Goods by Air, Doc. 9284 AN/905 (2015–16), or as amended from time to time. 
+10. International Maritime Organization, International Maritime Dangerous Goods Code, including 
+Amendment No. 38-16 (2016), or as amended from time to time. 
+11. Transportation of Dangerous Goods Regulations (SOR/2001-286). This section may contain 
+reference information such as links to other documents on the Internet/Intranet. 
+ 
+ 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+19 
+ 
+Additional Information 
+The following documents contain additional information that may be of interest to persons involved in 
+implementing a radiation protection program: 
+1. International Atomic Energy Agency (IAEA), Planning and Preparing for Radioactive 
+Material Transport Emergencies, Safety Standards Series No. TS-G-1.2, IAEA, Vienna 
+(2002). 
+2. IAEA, Radiation Protection and Safety of Radiation Sources: International Basic Safety 
+Standards, General Safety Requirements Part 3, IAEA, Vienna (2014). 
+3. IAEA, International Labour Office, Occupational Radiation Protection, Safety Standards 
+Series No. RS-G-1.1, IAEA, Vienna (1999). 
+4. IAEA, International Labour Office, Assessment of Occupational Exposure due to External 
+Sources of Radiation, Safety Standards Series No. RS G 1.3, IAEA, Vienna (1999). 
+5. IAEA, International Labour Office, Assessment of Occupational Exposure due to Intakes of 
+Radionuclides, Safety Standards Series No. RS-G-1.2, IAEA, Vienna (1999). 
+6. IAEA, Optimisation of Radiation Protection in the Control of Occupational Exposure, IAEA 
+Safety Report No. 21, IAEA, Vienna (2002). 
+November 2018 
+REGDOC-2.14.1, Packaging and Transport, Volume II: Radiation 
+Protection Program Design for the Transport of Nuclear Substances 
+ 
+20 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the Canadian Nuclear Safety 
+Commission (CNSC). In addition to the Nuclear Safety and Control Act and associated regulations, these 
+facilities and activities may also be required to comply with other regulatory instruments such as 
+regulatory documents or standards. 
+Effective April 2013, the CNSC’s catalogue of existing and planned regulatory documents has been 
+organized under three key categories and twenty-five series, as set out below. Regulatory documents 
+produced by the CNSC fall under one of the following series: 
+1.0  
+Regulated facilities and activities 
+Series 1.1  
+Reactor facilities 
+1.2  
+Class IB facilities 
+1.3  
+Uranium mines and mills 
+1.4  
+Class II facilities 
+1.5  
+Certification of prescribed equipment 
+1.6  
+Nuclear substances and radiation devices 
+2.0  
+Safety and control areas 
+Series 2.1  
+Management system 
+2.2  
+Human performance management 
+2.3  
+Operating performance 
+2.4  
+Safety analysis 
+2.5  
+Physical design 
+2.6  
+Fitness for service 
+2.7  
+Radiation protection 
+2.8  
+Conventional health and safety 
+2.9  
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0  
+Other regulatory areas  
+Series 3.1  
+Reporting requirements 
+3.2  
+Public and Aboriginal engagement 
+3.3  
+Financial guarantees 
+3.4  
+Commission proceedings 
+3.5  
+CNSC processes and practices 
+3.6  
+Glossary of CNSC terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. For the latest list of regulatory 
+documents, visit the CNSC’s website. 
+ 

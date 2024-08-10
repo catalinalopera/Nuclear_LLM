@@ -1,0 +1,2536 @@
+Safeguards and Nuclear Material 
+Accountancy 
+ 
+ 
+REGDOC-2.13.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+February 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Safeguards and Nuclear Material Accountancy 
+Regulatory document REGDOC-2.13.1 
+© Canadian Nuclear Safety Commission (CNSC) 2018 
+Cat. No. CC172-185/2018E-PDF 
+ISBN 978-0-660-24397-9 
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+Également publié en français sous le titre : Garanties et comptabilité des matières nucléaires 
+Document availability 
+This document can be viewed on the CNSC website. To request a copy of the document in English or 
+French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa ON  K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Fax: 613-995-5086 
+Email: cnsc.info.ccsn@canada.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+Publishing history 
+February 2018  
+Version 1.0 
+ 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+ 
+ 
+i 
+Preface 
+This regulatory document is part of the Canadian Nuclear Safety Commission’s (CNSC) Safeguards and 
+non-proliferation series of regulatory documents. The full list of regulatory document series is included at 
+the end of this document and can also be found on the CNSC’s website. 
+Regulatory document REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy, sets out 
+requirements and guidance for safeguards programs for applicants and licensees who possess nuclear 
+material, operate a uranium and/or thorium mine, carry out specified types of nuclear fuel-cycle related 
+research and development work, and/or carry out specified types of nuclear-related manufacturing 
+activities. The requirements and guidance in this document are essential to Canadian compliance with the 
+safeguards agreements entered into with the International Atomic Energy Agency, and are consistent with 
+modern national and international practices. 
+This document supersedes RD-336, Accounting and Reporting of Nuclear Material, and GD-336, 
+Guidance for Accounting and Reporting of Nuclear Material, which were both published in June, 2010. 
+REGDOC-2.13.1 is intended to form part of the licensing basis for a regulated facility or activity within 
+the scope of the document. It is intended for inclusion in licences as either part of the conditions and 
+safety and control measures in a licence, or as part of the safety and control measures to be described in a 
+licence application and the documents needed to support that application. 
+For new applicants: This document will be used to assess new licence applications. 
+Guidance contained in this document exists to inform the applicant, to elaborate further on requirements 
+or to provide direction to licensees and applicants on how to meet requirements. It also provides more 
+information about how CNSC staff evaluate specific problems or data during their review of licence 
+applications. Licensees are expected to review and consider guidance; should they choose not to follow it, 
+they should explain how their chosen alternate approach meets regulatory requirements.  
+For existing licensees: The requirements contained in this document do not apply unless they have been 
+included, in whole or in part, in the licence or licensing basis.  
+A graded approach, commensurate with risk, may be defined and used when applying the requirements 
+and guidance contained in this regulatory document. The use of a graded approach is not a relaxation of 
+requirements. With a graded approach, the application of requirements is commensurate with the risks 
+and particular characteristics of the facility or activity. 
+An applicant or licensee may put forward a case to demonstrate that the intent of a requirement is 
+addressed by other means and demonstrated with supportable evidence. 
+ 
+Important note: Where referenced in a licence either directly or indirectly (such as through licensee-
+referenced documents), this document is part of the licensing basis for a regulated facility or activity.  
+The licensing basis sets the boundary conditions for acceptable performance at a regulated facility or 
+activity, and establishes the basis for the CNSC’s compliance program for that regulated facility or 
+activity.  
+Where this document is part of the licensing basis, the word “shall” is used to express a requirement to 
+be satisfied by the licensee or licence applicant. “Should” is used to express guidance or that which is 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+ 
+ 
+ii 
+advised. “May” is used to express an option or that which is advised or permissible within the limits of 
+this regulatory document. “Can” is used to express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+ 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+....................................................................................................................................1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant legislation and obligations ................................................................................... 2 
+1.3.1 
+Legislation and regulations 
+.................................................................................... 2 
+1.3.2 
+International Atomic Energy Agency safeguards agreements 
+............................... 2 
+2. 
+Nuclear Material Classification ....................................................................................................3 
+2.1 
+Group 1 material ................................................................................................................. 3 
+2.1.1 
+Group 1A material – Full-scope safeguards .......................................................... 3 
+2.1.2 
+Group 1B material – Exemption from safeguards ................................................. 3 
+2.2 
+Group 2 material – Ore concentrates .................................................................................. 4 
+3. 
+Categorization of Licensees 
+...........................................................................................................4 
+3.1 
+Facilities 
+.............................................................................................................................. 4 
+3.2 
+Locations outside facilities ................................................................................................. 4 
+3.3 
+Other licensees 
+.................................................................................................................... 5 
+4. 
+Safeguards Program ......................................................................................................................5 
+5. 
+Safeguards Equipment and Seals .................................................................................................5 
+6. 
+International Atomic Energy Agency Access ..............................................................................6 
+6.1 
+Inspections .......................................................................................................................... 6 
+6.2 
+Design information verification 
+.......................................................................................... 7 
+6.3 
+Complementary access ....................................................................................................... 7 
+6.4 
+Access to IAEA equipment 
+................................................................................................. 8 
+7. 
+Nuclear Material Accountancy 
+.....................................................................................................9 
+7.1 
+Measurement of nuclear material 
+........................................................................................ 9 
+7.2 
+Inventory tracking 
+............................................................................................................... 9 
+7.3 
+Physical inventory taking 
+.................................................................................................... 9 
+7.4 
+Inventory difference 
+.......................................................................................................... 10 
+7.5 
+Foreign obligations ........................................................................................................... 11 
+8. 
+Provision of Information .............................................................................................................12 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+ 
+ 
+8.1 
+Nuclear material accountancy reports 
+............................................................................... 12 
+8.1.1 
+Electronic reporting ............................................................................................. 12 
+8.1.2 
+Inventory change document 
+................................................................................. 13 
+8.1.3 
+General ledger 
+...................................................................................................... 13 
+8.1.4 
+List of inventory items 
+......................................................................................... 14 
+8.1.5 
+Physical-key measurement point inventory summary ......................................... 15 
+8.1.6 
+Reconciliation statement 
+...................................................................................... 15 
+8.1.7 
+Obligated material inventory summary ............................................................... 15 
+8.2 
+Design information ........................................................................................................... 16 
+8.3 
+Operational information 
+.................................................................................................... 17 
+8.4 
+Information required by the Additional Protocol 
+.............................................................. 17 
+9. 
+Retention of Records....................................................................................................................18 
+Appendix A: List of Declarable Nuclear-Related Manufacturing Activities .....................................19 
+Appendix B: List of Nuclear Fuel Cycle-Related Research and Development Activities .................20 
+Appendix C: Guidance on Materials Not Subject to Safeguards ........................................................21 
+Appendix D: Nuclear Material Accountancy Reference Tables..........................................................22 
+Glossary 
+............................................................................................................................................39 
+References 
+............................................................................................................................................40 
+ 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+1 
+ 
+Safeguards and Nuclear Material Accountancy 
+1. 
+Introduction 
+The Treaty on the Non-Proliferation of Nuclear Weapons (NPT) [1] is the cornerstone of the 
+global nuclear non-proliferation regime. States that are party to the NPT have commitments and 
+obligations in the areas of non-proliferation, disarmament, and the peaceful use of nuclear 
+material and technology.  
+To fulfil commitments made under the NPT, Canada has concluded binding safeguards 
+agreements with the International Atomic Energy Agency (IAEA), which provide for the 
+application of IAEA safeguards in Canada. Under the safeguards agreements, Canada has an 
+obligation to report to the IAEA on all nuclear material and on certain types of nuclear research 
+and manufacturing in Canada, and to accept IAEA inspections of those areas. In turn, the IAEA 
+has an obligation to ensure that safeguards are applied to all nuclear material in Canada, for the 
+purpose of verifying that such material is not diverted to non-peaceful uses.  
+Under the Nuclear Safety and Control Act (NSCA), the Canadian Nuclear Safety Commission 
+(CNSC) has the mandate to achieve Canadian conformity with these agreements. To do so, the 
+CNSC imposes obligations on its licensees for reporting required by the IAEA and for the access 
+necessary for IAEA verification of this reporting. 
+1.1 
+Purpose 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy, sets out CNSC requirements 
+and guidance for the establishment and maintenance of a safeguards program. 
+1.2 
+Scope 
+This document specifies the information, access and support that licensees shall provide to the 
+CNSC and the IAEA to facilitate Canadian compliance with Canada’s safeguards agreements 
+with the IAEA, and with licensee obligations established in the General Nuclear Safety and 
+Control Regulations (GNSCR).  
+The term “safeguards” refers to an international system of monitoring and verifying nuclear 
+material and specified nuclear activities, administered in Canada by the CNSC and verified by the 
+IAEA, to deter the diversion of nuclear material from legitimate peaceful activities. The NPT 
+requires that IAEA safeguards apply to nuclear material, in any quantity, wherever it is present in 
+Canada. 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy, provides safeguards 
+requirements and guidance for licensees who:  
+a) possess nuclear material, which is defined as: plutonium-239, uranium-233, uranium 
+enriched in the isotopes of 235 or 233, uranium containing the mixture of isotopes occurring 
+in nature, uranium depleted in the isotope 235, and thorium, and/or  
+b) operate a uranium and/or thorium mine, and/or 
+c) carry out nuclear-related manufacturing activities as specified in Appendix A: List of 
+Declarable Nuclear-Related Manufacturing Activities, and/or 
+d) engage in nuclear fuel cycle-related research and development activities as defined in 
+Appendix B: List of Nuclear Fuel Cycle-Related Research and Development Activities  
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+2 
+ 
+The following materials are not subject to this document’s requirements: 
+a) uranium or thorium which occurs naturally in rock or soil, including uranium and thorium 
+ore 
+b) nuclear material in transit through Canada 
+c) uranium, plutonium-239 and thorium that is in a non-nuclear end use form, from which the 
+CNSC has determined that the uranium, plutonium-239 and thorium is practicably 
+irrecoverable 
+Additional guidance on materials not subject to safeguards is provided in Appendix C: Guidance 
+on Materials Not Subject to Safeguards.  
+1.3 
+Relevant legislation and obligations 
+1.3.1 
+Legislation and regulations 
+The following provisions of the NSCA and the regulations made under it are relevant to this 
+document:  
+ 
+Subparagraph 9(a)(iii) of the NSCA establishes that one of the objects of the Commission 
+is to “achieve conformity with measures of control and international obligations to which 
+Canada has agreed”.  
+ 
+Paragraph 24(4)(b) of the NSCA states that “[n]o licence shall be issued, renewed, 
+amended or replaced — and no authorization to transfer one given — unless, in the 
+opinion of the Commission, the applicant or, in the case of an application for an 
+authorization to transfer the licence, the transferee…will, in carrying on that activity, 
+make adequate provision for the protection of the environment, the health and safety of 
+persons and the maintenance of national security and measures required to implement 
+international obligations to which Canada has agreed”. 
+ 
+Paragraph 27(b) of the NSCA states that “[e]very licensee and every prescribed person 
+shall (b) make the prescribed reports and file them in the prescribed manner”. 
+ 
+Paragraph 12(1)(i) of the GNSCR states that “[e]very licensee shall…take all necessary 
+measures to facilitate Canada’s compliance with any applicable safeguards agreement”. 
+ 
+Section 30 of the GNSCR identifies situations in which safeguards reports shall be 
+provided by licensees to the Commission. Regulatory document series 3.1, Reporting 
+Requirements, sets out the CNSC’s requirements for event and compliance monitoring 
+reporting by licensees.  
+1.3.2 
+International Atomic Energy Agency safeguards agreements 
+The IAEA implements safeguards through legally binding treaty-level agreements with states and 
+regional authorities. The Agreement Between the Government of Canada and the International 
+Atomic Energy Agency for the Application of Safeguards in Connection with the Treaty on the 
+Non-Proliferation of Nuclear Weapons (Safeguards Agreement) [2] came into force on February 
+21, 1972 and the Protocol Additional to the Agreement Between Canada and the International 
+Atomic Energy Agency for the Application of Safeguards in Connection with the Treaty on the 
+Non-Proliferation of Nuclear Weapons (Additional Protocol) [3] came into force on September 8, 
+2000.  
+The Safeguards Agreement [2] lays out the safeguards system that Canada shall adhere to, 
+including what materials are subject to safeguards, and what information shall be reported to the 
+IAEA. As per the Safeguards Agreement, the objective of IAEA safeguards is “the timely 
+detection of diversion of significant quantities of nuclear material from peaceful nuclear activities 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+3 
+ 
+to the manufacture of nuclear weapons or of other nuclear explosive devices or for purposes 
+unknown, and deterrence of such diversion by the risk of early detection.”  
+The Additional Protocol [3] contains further requirements for the provision of information and 
+access, including the obligation to allow access to some locations on 24 hours’ notice, and the 
+obligation to provide information on and access to certain nuclear manufacturers and researchers, 
+neither of which need involve nuclear material. These tools allow the IAEA to have confidence 
+that there is an absence of undeclared nuclear material and nuclear activities in Canada.  
+2. 
+Nuclear Material Classification 
+The CNSC has defined two groups and two sub-groups of nuclear material for the purpose of the 
+graded application of reporting and access requirements. It is possible for licensees to possess a 
+combination of material groups; however, material from different groups shall be stored 
+separately. For permissible inventory changes for each group, refer to Appendix D: Table D3. 
+2.1 
+Group 1 material 
+Group 1 material is uranium, plutonium-239, and thorium that are sufficiently pure to be used for 
+fuel fabrication or for isotopic enrichment. This includes all materials in the nuclear fuel cycle 
+past the point of ore concentrate, or anything created from such materials, including depleted 
+uranium. Uranium ore concentrate that meets the purity specifications in table 1 of ASTM C753-
+04, Standard Specification for Nuclear-Grade, Sinterable Uranium Dioxide Powder [4] is 
+considered to be Group 1 material. Once a given item or batch of nuclear material is considered to 
+be Group 1 material, it remains so unless terminated from safeguards by agreement with the 
+IAEA. 
+2.1.1 
+Group 1A material – Full-scope safeguards 
+Group 1A material is Group 1 material that is subject to full-scope safeguards – that is, open to 
+routine verification by the IAEA and detailed nuclear material accountancy is required (see  
+Appendix D: Table D1 for reporting frequencies, and section 6 for further information on IAEA 
+access rights applicable to Group 1A material). 
+Group 1A material may only be stored at sites categorized as “facilities” or “locations outside 
+facilities” for safeguards purposes (see section 3 for categorization of licensees). 
+Licensees can seek the termination of safeguards on Group 1A material by submitting a request to 
+the CNSC using the “Request for termination” form available on the CNSC’s Safeguards and 
+nuclear materials accountancy forms Web page. Termination requests will only be approved by 
+the CNSC and IAEA if it is determined that the material has been consumed, or has been diluted 
+in such a way that it is no longer usable for any nuclear activity, or has become practicably 
+irrecoverable. Material which has been terminated from safeguards ceases to be subject to 
+detailed nuclear material accountancy and IAEA access requirements. 
+2.1.2 
+Group 1B material – Exemption from safeguards 
+Group 1B material is Group 1 material that has been exempted from some reporting and 
+verification obligations, with permission from both the IAEA and the CNSC. Refer to Appendix 
+D: Table D1 for reporting frequencies, and section 6.3 for further information for IAEA access 
+rights applicable to Group 1B material. 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+4 
+ 
+Under Article 36 of the Safeguards Agreement [2], nuclear material may be exempted from 
+safeguards under the following conditions: 
+a) the material is used in gram quantities or less as a sensing component in instruments, or 
+b) the material is used in non-nuclear activities, or 
+c) the material is plutonium with a plutonium-238 content exceeding 80 percent  
+Under Article 37 of the Safeguards Agreement [2], material not fitting the above criteria may still 
+be exempted from safeguards if the quantity limits specified for Canada in Article 37 are not 
+exceeded. The CNSC tracks the total quantity of material in Canada exempted under Article 37 to 
+ensure that these limits are not exceeded. 
+Licensees can request that Group 1A material be exempted from safeguards or that Group 1B 
+material be de-exempted from safeguards, by submitting a request to the CNSC using the 
+“Request for exemption” and “Request for de-exemption” forms available on the CNSC’s 
+Safeguards and nuclear materials accountancy forms Web page.  
+2.2 
+Group 2 material – Ore concentrates 
+Group 2 material is uranium and thorium that has not reached the stage in the nuclear fuel cycle 
+where the composition and purity is suitable for fuel fabrication or isotopic enrichment. Group 2 
+material typically includes only uranium and thorium ore concentrates that do not meet the purity 
+specifications in ASTM C753-04 Standard Specification for Nuclear-Grade, Sinterable Uranium 
+Dioxide Powder [4]. 
+This type of material is not subject to routine verification by the IAEA, but is still subject to some 
+access and nuclear material accountancy requirements (see Appendix D: Table D1 for reporting 
+frequencies, and section 6.3 for further information on IAEA access rights applicable to Group 2 
+material). 
+3. 
+Categorization of Licensees  
+For the purposes of safeguards, licensees are categorized as “facilities”, “locations outside 
+facilities”, or “other licensees” according to the criteria below.  
+3.1 
+Facilities 
+Licensees who possess Group 1A material are referred to as facilities for safeguards purposes if 
+they meet one of the following criteria: 
+a) the licence includes a reactor and/or a critical facility, or, a nuclear material conversion, 
+fabrication, reprocessing or isotope separation plant, or, a separate nuclear material storage 
+installation, or 
+b) the licence includes a location where Group 1A material in amounts greater than 1 effective 
+kilogram is customarily used 
+3.2 
+Locations outside facilities 
+Licensees who possess Group 1A material but do not meet the above criteria are referred to as 
+locations outside facilities for safeguards purposes.  
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+5 
+ 
+3.3 
+Other licensees 
+Licensees who do not possess Group 1A material, and who:  
+a) possess Group 1B or Group 2 material, and/or  
+b) conduct nuclear fuel cycle-related research and development activities, and/or  
+c) carry out specified nuclear-related manufacturing activities 
+ 
+are referred to as other licensees, and are subject to a reduced set of safeguards requirements.   
+4. 
+Safeguards Program 
+Every licensee categorized as a facility, location outside facility or other licensee shall have a 
+documented safeguards program that provides for the fulfillment of applicable safeguards 
+requirements:  
+ 
+Safeguards Equipment and Seals (section 5) 
+ 
+IAEA Access (section 6) 
+ 
+Nuclear Material Accountancy (section 7)  
+ 
+Provision of Information (section 8) 
+ 
+Retention of Records (section 9)  
+Guidance  
+A licensee’s safeguards program should include the measures the licensee will take to ensure that 
+the safeguards requirements for that licensee are discharged in a consistent, satisfactory manner. 
+Every licensee who possesses nuclear material, or carries out nuclear fuel cycle-related research 
+and development activities, or carries out specified nuclear-related manufacturing activities 
+should designate a person responsible for the maintenance and fulfillment of that licensee’s 
+safeguards program. The identity of this person should be disclosed to the CNSC.  
+5. 
+Safeguards Equipment and Seals 
+Every licensee shall, at the CNSC’s request, install safeguards equipment at the licensed site or 
+facilitate the IAEA’s installation of such equipment. Every licensee shall provide the services 
+required for the operation of such equipment, in accordance with the specifications provided.  
+No licensee shall interfere with or interrupt the operation of safeguards equipment at the facility, 
+or alter, deface or break a safeguards seal, except at the CNSC’s request. Every licensee shall 
+implement measures to prevent damage to, or the theft, loss, tampering with, or sabotage of 
+safeguards equipment, seals, or samples. Licensees shall communicate any such events to their 
+own security staff, where such staff exist. 
+As per section 30 of the GNSCR, reports shall be provided by licensees to the Commission in the 
+event of interference with or an interruption to the operation of safeguards equipment, or the 
+alteration, defacement or breakage of a safeguards seal, among other events. 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+6 
+ 
+Guidance 
+Requests to install safeguards equipment at the licensed site will be preceded by consultation with 
+the licensee. As per Article 15 of the Safeguards Agreement [2], “…if the Government of Canada 
+or persons under its jurisdiction incur extraordinary expenses as a result of a specific request by 
+the Agency, the Agency shall reimburse such expenses provided that it has agreed in advance to 
+do so.”. 
+At licensee sites where safeguards seals and equipment are or are likely to be present, part of a 
+licensee’s safeguards program should include familiarizing all relevant persons with the 
+requirements surrounding IAEA seals and equipment. Safeguards seals and equipment are more 
+commonly used at licensee sites categorized as facilities, and less commonly used at other types 
+of licensee sites.  
+Licensees should contact the CNSC when it is not clear if there has been interference with or an 
+interruption to the operation of safeguards equipment. For instance, most safeguards equipment 
+can tolerate short-duration outages to power and/or data connectivity, so such instances may not 
+constitute reportable events under section 30 of the GNSCR.  
+6. 
+International Atomic Energy Agency Access 
+Every licensee shall provide access to IAEA inspectors in order to enable the IAEA to verify 
+Canada’s declarations to the IAEA, as required by the Canada-IAEA safeguards agreements. The 
+IAEA may require access to a given site for a variety of purposes, as described below. 
+At the CNSC’s request, licensees shall report to the CNSC on the outcomes of any IAEA 
+activities that occur on their sites. 
+Guidance 
+Licensees can contact the CNSC to verify the identity of IAEA inspectors requesting site access.  
+6.1 
+Inspections 
+The IAEA has the right to carry out inspections at licensees categorized as facilities and locations 
+outside facilities. During inspections, the IAEA has the right to verify all Group 1A material on 
+the site and to verify relevant records and reports, including safeguards-relevant documentation 
+which has not been submitted to the CNSC (such as source data).  
+During an inspection, the licensee shall provide a list of inventory items (LII) covering the 
+material subject to inspection, and then facilitate IAEA verification of that inventory. Further 
+information on the LII is provided in section 8.1.4. The requirement to provide an LII during a 
+given type of inspection may be waived by mutual agreement between the licensee, the CNSC 
+and the IAEA; for example, LIIs may not be required during some unannounced inspections. 
+IAEA inspection activities can include, among other activities: 
+ 
+measurement of nuclear material  
+ 
+taking of samples of nuclear material 
+ 
+review of data from IAEA containment and surveillance equipment 
+ 
+application and verification of IAEA seals 
+ 
+examination of safeguards-relevant records and reports 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+7 
+ 
+For inspections where samples of nuclear material are taken, the licensee shall provide such 
+reasonable assistance as is required to enable the shipment of those samples. 
+Guidance 
+Depending on the size and complexity of the inventory to be verified, the frequency of IAEA 
+inspections can vary, and can range in duration from hours to weeks. Notification of an IAEA 
+inspection will typically be sent between 24 hours and a week in advance. The IAEA maintains 
+the right to carry out unannounced inspections at licensees categorized as facilities with a content 
+or annual throughput exceeding five effective kilograms of nuclear material. As a method of 
+verifying licensee compliance with CNSC requirements, and of verifying IAEA compliance with 
+the Canada-IAEA safeguards agreements, the CNSC will seek to participate in all IAEA 
+inspections in Canada, where possible.  
+6.2 
+Design information verification 
+The IAEA has the right to carry out design information verification (DIV) visits at licensees 
+categorized as facilities to verify the design information provided by those licensees (see 
+section 8.2 for more information on design information requirements). During a DIV, licensees 
+shall provide the IAEA with the latest design information submitted to the CNSC, and then 
+facilitate IAEA verification of that information. The IAEA will provide one week’s notice for 
+DIV visits. As a method of verifying licensee compliance with CNSC requirements, and of 
+verifying IAEA compliance with the Canada-IAEA safeguards agreements, the CNSC will seek 
+to participate in all IAEA DIVs in Canada, where possible. 
+6.3 
+Complementary access 
+Under the Additional Protocol [3], the IAEA has the right to request complementary access (CA) 
+to any location in Canada with at least 24 hours’ notice, or 2 hours’ notice1 if the IAEA is already 
+present at a facility or location outside facility, on the same site, for an inspection or DIV.  
+Upon receipt of a request for CA, every licensee shall provide the IAEA and CNSC with access 
+to any: 
+ 
+location on any site declared as a facility or location outside facility 
+ 
+decommissioned or closed down facility and/or location outside facility 
+ 
+uranium or thorium mine, mill or concentration plant 
+ 
+location possessing, importing or exporting more than 10 metric tonnes of uranium ore 
+concentrate and/or more than 20 metric tonnes of thorium ore concentrate in a given calendar 
+year 
+ 
+location where materials exempted from safeguards under Article 37 of the Safeguards 
+Agreement [2] are stored, or where materials exempted from safeguards under Article 36 of 
+the Safeguards Agreement are stored, if those materials are not yet in their non-nuclear end 
+use form 
+ 
+location involved in the further processing of wastes containing plutonium, high enriched 
+uranium or uranium-233 on which safeguards have been terminated 
+For locations subject to CA requests that are not listed above (for example, locations involved in 
+nuclear fuel cycle-related research and development activities or specified nuclear-related 
+                                                     
+ 
+ 
+1 As per Article 4b.(ii) of the Additional Protocol [3], in exceptional circumstances, the IAEA may give 
+less than two hours’ notice. 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+8 
+ 
+manufacturing), upon receipt of a request for CA, every licensee shall make every reasonable 
+effort to provide the IAEA and CNSC with access.  
+Access shall be provided within the timeframes specified in the notification of CA.  
+Guidance 
+A CA will only take place during regular working hours. For CAs in remote locations, the IAEA 
+typically provides more than 24 hours’ notice. Activities that the IAEA may perform during a CA 
+include: 
+ 
+visual observation 
+ 
+collection of environmental samples 
+ 
+utilization of radiation detection and measurement devices 
+ 
+item counting of nuclear material2 
+ 
+application of seals and/or other tamper indicating devices 
+ 
+discussions with persons who are or have been involved in work that is reportable under 
+the safeguards agreements 
+ 
+examination of records relevant to the goals of the CA 
+IAEA access during a CA can be managed in order to prevent the dissemination of proliferation-
+sensitive information, to meet safety or physical protection requirements, and to protect 
+proprietary or commercially sensitive information. Any such need for managed access should be 
+communicated to the CNSC via the licensee’s annual update under the Additional Protocol [3] 
+(see section 8.4 for further details). This does not preclude the possibility of a need for managed 
+access arising during the CA. As a method of verifying licensee compliance with CNSC 
+requirements, and of verifying IAEA compliance with the Canada-IAEA safeguards agreements, 
+the CNSC will seek to participate in all IAEA CAs in Canada, where possible. 
+So that licensees may prepare appropriately, the CNSC will notify all licensees on a given site 
+whenever the IAEA will be present at that site for an inspection or DIV, with the exception of 
+unannounced inspections. 
+6.4 
+Access to IAEA equipment 
+The IAEA has the right to access their installed equipment, including for maintenance and 
+servicing. The licensee shall facilitate access to IAEA equipment, including the provision of 
+ladders, scaffolding, lifting equipment, or training, as needed.  
+Guidance 
+Licensees should inform the CNSC of training requirements necessary to access IAEA equipment 
+through design information submissions (see section 8.2).  
+Note: The IAEA may request access to its equipment on short notice. 
+                                                     
+ 
+ 
+2 Note that item counting of nuclear material is limited to CAs called at specified locations, namely, those 
+which must be declared under Articles 2.a.(v) – (viii) of the Additional Protocol [3].  
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+9 
+ 
+7. 
+Nuclear Material Accountancy 
+Nuclear material accountancy is the program of nuclear material accounting and reporting 
+implemented by licensees and the CNSC, to satisfy the requirements of the Safeguards 
+Agreement [2]. 
+Nuclear material accountancy covers licensee activities carried out to establish the quantities of 
+nuclear material present within defined areas, and the changes in those quantities within a defined 
+time period. This includes nuclear material measurement, record keeping, preparation and 
+submission of accounting reports, and verification of accounting information. For licensees 
+possessing Group 1A material, this further includes the establishment of material balance areas 
+(MBAs), where flows and inventory of nuclear material can be determined, and key measurement 
+points (KMPs) within those MBAs, where flows and inventories of nuclear material can be 
+measured. 
+7.1 
+Measurement of nuclear material 
+All licensee safeguards programs shall include the maintenance and calibration of any 
+instruments used to measure nuclear material for safeguards purposes. The documented results of 
+any calibration activity or measurement of nuclear material are classified as source data and thus 
+shall be available on request, including during IAEA inspections.  
+Guidance 
+In general, instruments used to measure nuclear material should be calibrated at least once in the 
+period between physical inventory takings (see section 7.3 below for further detail). The accuracy 
+of licensee measurements should meet or exceed the standards set in the IAEA document 
+STR-368, International Target Values 2010 for Measurement Uncertainties in Safeguarding 
+Nuclear Materials [5], where applicable.  
+Rounding errors should be minimized (for example, when a sum of measurements is reported, 
+rounding should only be performed for the final reported number). In addition, the number of 
+significant digits should reflect the uncertainty in the overall measurement. Measurements should 
+be provided with the same number of significant digits in all reports pertaining to the same item 
+or batch. 
+7.2 
+Inventory tracking  
+All licensees possessing nuclear material shall be capable, at the CNSC’s request, of providing an 
+up-to-date LII, covering all of the Group 1 material in their possession.  
+All items in inventory shall be uniquely identified, for instance with a stamped or engraved serial 
+number, a label, or a tag, such that a CNSC or IAEA inspector can easily relate the licensee’s LII 
+to the physical inventory. 
+7.3 
+Physical inventory taking 
+All licensees categorized as facilities or locations outside facilities shall carry out a physical 
+inventory taking (PIT) each calendar year, and not more than 14 months after their previous PIT. 
+The licensee’s PIT date shall be declared to the CNSC as part of the annual operational program 
+(see section 8.3).  
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+10 
+ 
+A licensee’s PIT shall: 
+ 
+confirm the presence of all Group 1 material on the LII  
+ 
+verify that an item’s unique identifier matches the information on the LII 
+ 
+verify that there is no Group 1 material present which is not included on the LII  
+The CNSC and/or the IAEA may choose to verify the results of a licensee’s PIT. Should the 
+IAEA choose to verify the results of a licensee’s PIT, their inspection is termed a physical 
+inventory verification (PIV). Should the CNSC choose to do so, it is termed a physical inventory 
+taking evaluation (PIT-E). The PIV and/or PIT-E may occur shortly after the PIT or coincide with 
+it. A PIV will involve the verification of some or all Group 1A material onsite at the time of the 
+PIT, while a PIT-E will involve the verification of some or all Group 1 material onsite at the time 
+of the PIT. Licensees shall be prepared to support an IAEA PIV and/or a CNSC PIT-E following 
+each PIT. 
+Guidance 
+For licensees with large and complex inventories, the PIT should be scheduled to take place when 
+nuclear material movements and inventory are at a minimum, and when equipment used to 
+process nuclear material can be emptied and cleaned out to the extent reasonably possible. 
+Nuclear material that is held up in equipment at the time of a PIT should be sampled and 
+analyzed, where possible, to determine characteristics relevant to the determination of nuclear 
+material mass. The nuclear material in items that have not changed in mass since the previous 
+inventory taking, or since their creation or receipt, does not need to be remeasured as part of a 
+PIT. 
+In the following cases, Group 1B material may be accounted for using source documents (for 
+instance, commercial or shipping documents) that indicate the location of the material:  
+ 
+Group 1B material that is difficult to access; for instance, items stored in sealed 
+containers. Documentation should indicate the type and quantity of material in a given 
+storage location, and the date at which it became inaccessible.  
+ 
+Group 1B material that is under the ownership of the licensee but that has been 
+transferred temporarily at the time of a PIT. Documentation should indicate the location 
+of the material and the arrangements in place related to its return. 
+The CNSC may select a PIT date for the licensee based on availability of CNSC resources, and in 
+consideration of licensee resources. 
+7.4 
+Inventory difference 
+All licensees who carry out a PIT shall calculate inventory difference (ID) as an outcome of that 
+PIT, and report it to the CNSC. ID is also known as material unaccounted for (MUF). ID is 
+calculated over a material balance period; that is, the interval between two inventory takings.  
+ID shall be calculated using the material balance equation provided below:  
+ID = BE – PE 
+and 
+BE = PB + X - Y 
+ 
+ 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+11 
+ 
+where 
+BE = the book ending inventory; that is, the sum of the physical beginning inventory and all 
+inventory changes over the material balance period 
+PE = the physical ending inventory, as established by the current inventory taking 
+PB = the physical beginning inventory, as established by the previous inventory taking 
+X = the sum of all inventory increases over the material balance period 
+Y = the sum of all inventory decreases over the material balance period 
+ID shall be reported to the CNSC on the following reports:  
+ 
+an inventory change document (ICD), if ID is non-zero (see section 8.1.2)  
+ 
+the final general ledger of the material balance period (applicable only to licensees 
+designated as facilities; see section 8.1.3) 
+ 
+the reconciliation statement (see section 8.1.6)  
+The CNSC evaluates all instances of ID reported by licensees. On the basis of this evaluation, the 
+CNSC may require follow-up actions for instances of a non-zero ID for nuclear material in bulk 
+form. Licensees shall investigate any instances of a non-zero ID for nuclear material in item form, 
+and  shall communicate the results of the investigation to the CNSC and to their own security 
+staff, where such staff exist. Reports on the results of such investigations shall be submitted 
+within 30 days of the PIT, shall include the licensees’ conclusions as to the source of ID and any 
+correcting measures, and shall be submitted via email to the CNSC safeguards mailbox 
+(cnsc.safeguards-garanties.ccsn@canada.ca). 
+7.5 
+Foreign obligations 
+Canada has negotiated nuclear cooperation agreements (NCAs) with nuclear trading partners 
+worldwide. When nuclear material is imported into Canada pursuant to the terms and conditions 
+of an NCA, it is generally subject to foreign obligations, including a requirement for Canada to 
+track and report back on that nuclear material as long as it is in Canada.  
+The CNSC will inform the importer at the time an import licence is issued whether a foreign 
+obligation will be attributed to the nuclear material. Where there has been no such notification by 
+the CNSC, the nuclear material in question is considered unobligated while it remains in Canada.  
+All licensees shall track any foreign obligations associated with their nuclear material inventories 
+and inventory changes. For further information see sections 8.1.2 and 8.1.7.  
+Once assigned, foreign obligations associated with an item shall be kept associated with that item, 
+unless the integrity of the item is destroyed through processing. Note that nuclear material can be 
+simultaneously obligated to multiple countries.  
+Foreign obligations on domestic transfers or internal inventory changes shall be assigned by the 
+licensee based on the obligations in their inventory. Foreign obligations on nuclear material to be 
+exported from Canada, if any, shall be declared to the CNSC by the licensee as part of the 
+application process for a CNSC export licence. If unobligated nuclear material is to be exported 
+from Canada for nuclear use, the CNSC will assign a Canadian obligation to that material at the 
+time of export.  
+Guidance 
+For more information on CNSC’s import and export control program, please see regulatory 
+document REGDOC-2.13.2, Import and Export.  
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+12 
+ 
+8. 
+Provision of Information 
+Licensees shall have measures in place to prevent the compromise of systems used to generate, 
+store and transmit safeguards-relevant information. 
+All information supplied to the CNSC shall be transmitted using appropriate information security 
+measures. Communications up to and including a security level of Protected B can be transmitted 
+via the CNSC’s Nuclear Materials Accountancy Reporting (NMAR) e-business system (see 
+section 8.1.1), and encrypted email via the CNSC safeguards mailbox (cnsc.safeguards-
+garanties.ccsn@canada.ca). Licensees shall make alternate arrangements with the CNSC when 
+information to be submitted is Protected C or classified.  
+Guidance 
+Licensees may refer to CSA standard N290.7-14, Cyber Security for Nuclear Power Plants and 
+Small Reactor Facilities [6] for guidance on cyber security for safeguards systems. 
+For further guidance on security level classification, licensees may refer to the levels of security 
+published by the Government of Canada. For further guidance on the selection of appropriate 
+transmittal methods, licensees may refer to the Government of Canada’s Operational Security 
+Standard on Physical Security. 
+8.1 
+Nuclear material accountancy reports 
+All licensees who possess nuclear material shall make reports to the CNSC, according to the 
+reporting frequencies listed in Appendix D: Table D1. The CNSC may require some reports to be 
+submitted more frequently, to support IAEA verification activities. 
+Descriptions of the data to be included in each type of report are provided in Appendix D: Table 
+D2. Forms for nuclear material accountancy reports are available from the CNSC’s Safeguards 
+and nuclear materials accountancy forms Web page. For the Inventory Change Document and the 
+Physical-Key Measurement Point Inventory Summary, these shall be the only forms used. 
+Alternatively, Extensible Mark-up Language (.xml) specifications can be obtained for these two 
+forms, upon request.  
+8.1.1 
+Electronic reporting  
+All licensees who are required to submit nuclear material accountancy reports (see section 8.1), 
+shall do so using the NMAR e-business system website.  
+Guidance 
+The NMAR e-business system accepts reports in the following formats:  
+Report type 
+Accepted format  
+Inventory change document  
+Extensible Markup Language (.xml) 
+Microsoft Excel (.xls, .xlsx) 
+Physical-key measurement point inventory summary  
+General ledger 
+Microsoft Excel (.xls, .xlsx)  
+Portable Document Format (.pdf) 
+List of inventory items 
+Reconciliation statement 
+Obligated material inventory summary  
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+13 
+ 
+Report type 
+Accepted format  
+Requests for exemption, de-exemption and termination  Portable Document Format (.pdf) 
+Note: Where a given report is acceptable in both Microsoft Excel and Portable Document Format, 
+the CNSC’s preference is for Microsoft Excel.  
+An NMAR access code can be obtained from the CNSC. Alternate arrangements can be made 
+with the CNSC for files that cannot be submitted via NMAR; for example, because of file size.  
+Further information relevant to the use of NMAR is available on the NMAR e-business system 
+website.  
+8.1.2 
+Inventory change document 
+An inventory change is any increase or decrease, in terms of batches, in a licensee’s nuclear 
+material inventory. All inventory changes shall be reported to the CNSC on an inventory change 
+document (ICD), using the inventory change codes defined in Appendix D: Table D3. For all 
+shipments of nuclear material, the shipper shall provide a copy of the ICD to the receiver. 
+Correcting or deleting an inventory change document 
+Corrections to ICDs shall be effected by submitting a correcting ICD with the necessary changes. 
+A correcting ICD shall be dated with the current date, not the date on which the original 
+transaction occurred. The correcting ICD will be identical to the original, save for the date in 
+Label 412, the fields being corrected, the entry of ‘C’ (for ‘correction’) in Label 309, and Label 
+1021 being incremented by 1. A note shall be added to the remarks section of a correcting ICD to 
+explain the reason for the correction. 
+Deleting ICDs can be used to completely withdraw an ICD. Deleting ICDs shall be effected by 
+submitting an ICD identical to the original except dated with the current date in Label 412 and the 
+entry of ‘D’ for ‘delete’ in Label 309 (Label 1021 remains 0). A note shall be added to the 
+remarks section in Label 1004 of deleting ICDs explaining the reason for the deletion. 
+Some fields on the ICD (Date, Batch Name, MBA, IC Type, Safeguards Status and Element 
+Code, if the change to Element Code impacts the Safeguards Status) cannot be corrected by 
+submitting a correcting ICD. In these cases, the original ICD shall be deleted and a new ICD 
+submitted. Both the deleting ICD and the new ICD shall be dated with the current date in Label 
+412.  
+In specific situations and in consultation with the CNSC, a correcting or deleting ICD can be 
+reported with a date other than the current date, or an ICD can be withdrawn and replaced without 
+modifying Label 309 or Label 1021. 
+8.1.3 
+General ledger 
+A general ledger is a monthly listing of all inventory changes occurring during that month and 
+provides the book inventory, that is, a running balance of the material in the MBA.  
+General ledgers shall be kept by licensees categorized as facilities; the CNSC will maintain 
+general ledgers on behalf of licensees categorized as locations outside facilities. The information 
+for an inventory change recorded on the general ledger shall be consistent with information on the 
+ICD for each inventory change, with the exception of corrections to weights, as described below, 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+14 
+ 
+under “Recording a correcting or deleting ICD on a general ledger”. A separate general ledger 
+shall be submitted for each element/isotope of Group 1A material. 
+For months in which no transactions occur, licensees categorized as facilities are not required to 
+submit general ledgers to the CNSC. For licensees categorized as facilities, such general ledgers 
+are considered to be source data and shall still be created, retained, and provided on request. 
+Correcting a general ledger 
+Corrections to general ledgers shall be effected by submitting a new report with the revision 
+number incremented by 1 and the date of the revision indicated in the appropriate field. 
+Recording a correcting or deleting ICD on a general ledger 
+When a correcting or deleting ICD is submitted, the correction or deletion shall be recorded on 
+the general ledger for the month in which the correction or deletion was reported. For a correcting 
+ICD, if the correction is to the weight, then the weight recorded on the general ledger shall be the 
+difference between the last reported weight and the corrected weight. For instance, if a weight 
+were originally reported as 10 kg and then corrected to 11 kg, the general ledger entry 
+corresponding to the correcting ICD would show 1 kg (11kg-10kg), even though the correcting 
+ICD continues to state 11 kg. This is the only instance where the weight reported on a general 
+ledger is not exactly the same as that reported on the corresponding ICD.  
+8.1.4 
+List of inventory items 
+The LII consists of a listing of Group 1 material. The LII may cover all Group 1 material onsite at 
+a given time, as would result from a licensee’s PIT (see section 7.3), or it may cover only a subset 
+of Group 1material onsite as needed to support a specific CNSC and/or IAEA inspection activity.  
+A separate LII shall be kept for each element/isotope category present onsite. Group 1A and 
+Group 1B materials shall be recorded on separate sets of LIIs. An item is generally defined as the 
+smallest individually labelled unit in inventory. Licensees shall be able to generate an accurate 
+LII upon request. 
+Note: LIIs for spent fuel at CANDU stations are a special case, due to the extremely large number 
+of items present. For LIIs covering spent fuel at CANDU stations, it is acceptable to provide a 
+single line reporting each element present in each KMP, showing the number of bundles and the 
+nuclear material mass. Itemized listings covering subsets of the spent fuel inventory shall be 
+available on request to facilitate verification activities. At licensee request, the CNSC will 
+consider similar arrangements for other large, homogenous inventories. 
+Correcting a list of inventory items 
+A correction to an LII shall be effected by submitting a new report with the revision number 
+incremented by 1 and the date of the revision indicated in the appropriate field. The date on the 
+corrected LII report shall stay the same, that is, the date for which the submitted LII was current. 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+15 
+ 
+8.1.5 
+Physical-key measurement point inventory summary 
+The physical-KMP inventory summary (P-KMPIS) is a summary of Group 1A material by 
+physical-KMP. The P-KMPIS shall summarize the LII by grouping items with the same material 
+description codes into batches. In instances where a licensee possesses small inventories of 
+nuclear material, at the licensee’s request, the CNSC may waive the requirement to create and 
+report a P-KMPIS. 
+Correcting or deleting a physical-key measurement point inventory summary  
+Corrections to P-KMPIS reports shall be effected by submitting a new report with the entry of ‘C’ 
+for ‘correction’ in Label 309, and Label 1021 being incremented by 1. The date on the P-KMPIS 
+report shall stay the same; that is, the date of the PIT being reported on. When submitting a 
+correcting P-KMPIS, only the batches that are being corrected shall be included. For instance, if 
+an original P-KMPIS had 10 batches and 2 needed correction, the correcting P-KMPIS shows 
+only the 2 batches being corrected. 
+Deleting a P-KMPIS is done when it is necessary to completely withdraw some or all of the 
+reported batches. The deletion shall be effected by submitting a P-KMPIS with the entry of ‘D’ 
+for ‘delete’ in Label 309 (Label 1021 remains 0) and listing only the batches that need to be 
+withdrawn exactly as they were reported in the original P-KMPIS. A note shall be added to the 
+remarks section of correcting and deleting P-KMPIS batches explaining the reason for the 
+change. 
+Some fields on the P-KMPIS (Date, Batch Name, MBA, Safeguards Status and Element Code, if 
+it impacts Safeguards Status) cannot be corrected by submitting a correcting P-KMPIS. In these 
+cases, the affected batches on the P-KMPIS shall be deleted and resubmitted on a new P-KMPIS. 
+In specific situations and in consultation with the CNSC, a correcting or deleting P-KMPIS can 
+be withdrawn and replaced without modifying Label 309 or Label 1021. 
+8.1.6 
+Reconciliation statement 
+A reconciliation statement is a report that calculates ID (see section 7.4); that is, the difference 
+between the book ending inventory, derived from the most recent general ledger (for licensees 
+categorized as facilities) or the ICDs (for licensees categorized as locations outside facilities), and 
+the physical ending inventory, derived from the P-KMPIS or LII. A reconciliation statement shall 
+be prepared for Group 1A material after each PIT.  
+When a licensee possesses small inventories of nuclear material, at the licensee’s request, the 
+CNSC may waive the requirement to create and report a reconciliation statement. 
+Correcting a reconciliation statement 
+A correction to a reconciliation statement shall be effected by submitting a new report with the 
+revision number incremented by 1 and the date of the revision indicated in the appropriate field. 
+The date on the reconciliation statement shall stay the same; that is, the PIT date. 
+8.1.7 
+Obligated material inventory summary 
+The obligated material inventory summary (OMIS) is a list of opening and ending balance 
+weights, by country of obligation, for any nuclear material that has foreign obligations at the 
+licensee’s site. Both Group 1 and Group 2 materials can be subject to foreign obligations. 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+16 
+ 
+The OMIS report covers a calendar year; the opening balance shall be as of January 1 of the 
+reporting year, and the closing balance shall be as of December 31 of that same year.  
+Unless requested by the CNSC, an OMIS report is not required for any year in which 
+foreign-obligated material was not possessed. 
+Correcting an obligated material inventory summary 
+A correction to an OMIS report is effected by submitting a new report with the revision number 
+incremented by 1 and the date of the revision indicated in the appropriate field. The dates on the 
+OMIS shall stay the same; that is, January 1 and December 31 for the reporting year. 
+8.2 
+Design information 
+All licensees categorized as facilities or locations outside facilities shall ensure that the CNSC is 
+in possession of up-to-date design information. The structure of MBAs and KMPs at a given 
+facility or location outside facility shall be accurately described in the design information 
+submitted to the CNSC by that licensee. Once the CNSC has reviewed and accepted a licensee’s 
+design information, the CNSC will submit it to the IAEA. 
+For licensees categorized as facilities, design information shall include all of the following: 
+1. the identification of the facility, stating its general character, purpose, nominal capacity and 
+geographic location, and the name and address to be used for routine business purposes  
+2. a description of the general arrangement of the facility, including site and building maps as 
+needed, with reference to the form, location and flow of nuclear material and to the general 
+layout of important items of equipment which are used to handle, produce or process nuclear 
+material  
+3. a description of features of the facility relating to nuclear material accountancy, containment 
+and surveillance 
+4. a description of the existing and proposed procedures at the facility for nuclear material 
+accountancy and control, with special reference to MBAs established by the operator, 
+organizational responsibility, measurements of nuclear material, the random and systematic 
+uncertainties of such measurements, and procedures for PIT 
+5. health and safety procedures that the IAEA shall observe and with which the inspectors shall 
+comply at the facility 
+For licensees categorized as locations outside facilities, design information shall include all of the 
+following: 
+1. a general description of the use of the nuclear material, its geographic location, the user's 
+name and address for routine business purposes, and site and building maps as needed  
+2. a general description of the existing and proposed procedures for nuclear material 
+accountancy and control, including organizational responsibility, measurements of nuclear 
+material, the random and systematic uncertainties of such measurements, and procedures for 
+PIT 
+3. health and safety procedures that the IAEA shall observe and with which the inspectors shall 
+comply at the facility 
+Design information shall be updated and submitted to the CNSC as soon as the decision is taken 
+to make changes that would render the information previously provided incomplete or inaccurate. 
+For the construction of new facilities or locations outside facilities, preliminary design 
+information shall be submitted to the CNSC as soon as the decision to construct or to authorize 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+17 
+ 
+construction has been taken, whichever is earlier. An update to that preliminary design 
+information shall be submitted to the CNSC no later than 270 days before the start of 
+construction. Similarly, final design information or design information approved for construction 
+shall be submitted to the CNSC no later than 270 days before the first receipt of nuclear material 
+at the facility. 
+Guidance 
+Licensees should provide design information on the appropriate IAEA design information 
+questionnaire (DIQ) form, available on request from the CNSC. Licensees should review their 
+design information annually to verify that it is up to date. The CNSC may require that updates to 
+design information be provided on a specified timeline, and the CNSC may request design 
+information supplemental to that listed above. 
+8.3 
+Operational information 
+All licensees categorized as facilities shall submit an annual operational program to the CNSC, 
+covering safeguards-relevant information for the upcoming calendar year. This program shall be 
+submitted to the CNSC by September 30 each year, and shall be updated by the licensee as 
+necessary so that the operational program remains current.  
+Every facility shall submit an annual operational program that includes all of the following 
+information: 
+1. the licensee’s preferred PIT date for the upcoming calendar year 
+2. any anticipated shutdown periods during the upcoming calendar year 
+3. information on expected transfers of nuclear material in the next calendar year 
+4. updates on current or upcoming projects of relevance to safeguards, such as the construction 
+or decommissioning of a building, the commencement of projects involving nuclear material, 
+changes to the types of nuclear material being possessed, etc.  
+Guidance 
+In consultation with affected licensees, the CNSC may request updates to operational information 
+on a more frequent basis, e.g. quarterly or weekly, to facilitate IAEA verification activities. 
+Forms for submission of operational data are available on the CNSC’s Safeguards and nuclear 
+materials accountancy forms Web page. 
+Where there is uncertainty, the CNSC can be contacted for guidance in determining which 
+projects are of relevance to safeguards.  
+8.4 
+Information required by the Additional Protocol 
+All licensees shall submit the following information (as applicable) to the CNSC by March 15 
+each year, so that the CNSC may submit Canada’s annual update under the Additional Protocol 
+[3] to the IAEA: 
+1. A general description of, and information specifying, the location of nuclear fuel cycle related 
+research and development activities, as defined in Appendix B: List of Nuclear Fuel 
+Cycle-Related Research and Development Activities.  
+2. For licensees categorized as facilities or locations outside facilities, current drawings of the 
+site, a general description of each building on the site, including its use and, if not apparent 
+from that description, its contents. Note that current site drawings need only be submitted if 
+previously-submitted site drawings are no longer accurate. 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+18 
+ 
+3. A description of the scale of operations for each location engaged in the activities specified in 
+Appendix A: List of Declarable Nuclear-Related Manufacturing Activities. 
+4. Information specifying the location, operational status, annual production capacity and the 
+current annual production of uranium mines and concentration plants and thorium 
+concentration plants. 
+5. Information regarding each location with a stockpile of uranium or thorium ore concentrates 
+greater than 1 metric tonne, including the quantities, the chemical composition and the use or 
+intended use of such material. The provision of this information does not require detailed 
+nuclear material accountancy, and shall not include material considered to be in transit. 
+6. Information regarding Group 1B material, as follows: 
+a. for materials exempted from safeguards pursuant to Article 37 of the Safeguards 
+Agreement [2], the quantities, uses and locations of such material 
+b. for materials exempted from safeguards pursuant to Article 36 of the Safeguards 
+Agreement, but where the material is not yet in a non-nuclear end-use form, 
+information regarding the quantities and uses at each location 
+7. Information regarding the location or further processing of intermediate or high-level waste 
+containing plutonium, high enriched uranium or uranium-233 on which safeguards have been 
+terminated pursuant to Article 11 of the Safeguards Agreement. For the purpose of this 
+paragraph, “further processing” does not include repackaging of the waste or its further 
+conditioning not involving the separation of elements, for storage or disposal.  
+8. General plans for the succeeding 10-year period relevant to the development of the nuclear 
+fuel cycle (including planned nuclear fuel cycle-related research and development activities) 
+when approved by the appropriate authorities in Canada. 
+Information in licensee submissions shall cover the previous calendar year.  
+Guidance 
+Licensees should use the IAEA’s Protocol Reporter software when submitting such information 
+to the CNSC. Copies of this software are available upon request from the CNSC. 
+9. 
+Retention of Records 
+Licensees shall retain copies of any records required under this regulatory document: 
+1. for the period specified under applicable CNSC regulations, or  
+2. as long as nuclear material relevant to the records remains in the licensee’s possession, or  
+3. as long as the licensee continues to perform declarable nuclear-related manufacturing 
+activities (as defined in Appendix A: List of Declarable Nuclear-Related Manufacturing 
+Activities) relevant to the records, or  
+4. as long as the licensee continues to perform nuclear fuel cycle-related research and 
+development activities (as defined in Appendix B: List of Nuclear Fuel Cycle-Related 
+Research and Development Activities) relevant to the records, or  
+5. for a minimum of five years, whichever is longer 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+19 
+ 
+Appendix A: List of Declarable Nuclear-Related Manufacturing Activities  
+For the purposes of facilitating Canada’s compliance with its safeguards agreements, certain nuclear-
+related manufacturing activities shall be reported to the Canadian Nuclear Safety Commission (see 
+section 8.4). These activities are defined in annex I to the Additional Protocol [3] and include: 
+(i) 
+the manufacture of centrifuge rotor tubes or the assembly of gas centrifuges for use in isotopic 
+separation processes 
+(ii) 
+the manufacture of gaseous diffusion barriers for use in isotopic separation processes 
+(iii) 
+the manufacture or assembly of laser-based systems for isotopic separation 
+(iv) 
+the manufacture or assembly of electromagnetic isotope separators 
+(v) 
+the manufacture or assembly of columns or extraction equipment especially designed or prepared 
+for use in isotopic separation systems using chemical exchange or ion exchange 
+(vi) 
+the manufacture of aerodynamic separation nozzles or vortex tubes for use in isotopic separation 
+processes 
+(vii) 
+the manufacture or assembly of uranium plasma generation systems 
+(viii) 
+the manufacture of zirconium tubes 
+(ix) 
+the manufacture or upgrading of heavy water or deuterium 
+(x) 
+the manufacture of nuclear grade graphite, having a purity level better than 5 parts per million 
+boron equivalent and with a density greater than 1.50 g/cm3 
+(xi) 
+the manufacture of flasks for the transportation and/or storage of irradiated fuel 
+(xii) 
+the manufacture of reactor control rods 
+(xiii) 
+the manufacture of criticality safe (e.g. small diameter, annular or slab) tanks and vessels. 
+(xiv) 
+the manufacture of irradiated fuel element chopping machines 
+(xv) 
+the construction of hot cells, meaning a cell or interconnected cells outfitted with equipment for 
+remote operations, totalling at least 6 m3 in volume, and with shielding equal to or greater than 
+the equivalent of 0.5 m of concrete with a density of 3.2 g/cm3 or greater 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+20 
+ 
+Appendix B: List of Nuclear Fuel Cycle-Related Research and Development 
+Activities  
+For the purposes of facilitating Canada’s compliance with its safeguards agreements, certain nuclear fuel 
+cycle-related research and development activities shall be reported to the Canadian Nuclear Safety 
+Commission (see section 8.4). Nuclear fuel cycle-related research and development activities are defined 
+in Article 18(a) of the Additional Protocol [3] as those activities which are specifically related to any 
+process or system development aspect of any of the following:  
+ 
+conversion of nuclear material 
+ 
+enrichment of nuclear material 
+ 
+nuclear fuel fabrication 
+ 
+reactors 
+ 
+critical facilities 
+ 
+reprocessing of nuclear fuel including the selective separation of elements from nuclear fuel, or 
+from irradiated targets 
+ 
+processing (not including repackaging or conditioning not involving the separation of elements, 
+for storage or disposal) of intermediate or high-level waste containing plutonium, high enriched 
+uranium or uranium-233 
+ 
+Note that this does not include activities related to: 
+ 
+theoretical or basic scientific research  
+ 
+research and development on industrial radioisotope applications, medical, hydrological and 
+agricultural applications, health and environmental effects, and improved maintenance 
+ 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+21 
+ 
+Appendix C: Guidance on Materials Not Subject to Safeguards 
+The Canadian Nuclear Safety Commission (CNSC) considers that the following substances are material 
+in a non-nuclear end use form from which the uranium, plutonium-239 and thorium is practicably 
+irrecoverable, and as such, are not subject to safeguards. Note that this list is representative and not 
+exhaustive. 
+ 
+ 
+thorium in lantern mantles, welding rods, light bulbs, lenses or optical components, and electronic 
+components 
+ 
+natural uranium, depleted uranium or thorium as a minor constituent in an alloy which is not 
+being used for its nuclear properties 
+ 
+natural uranium, depleted uranium or thorium used as a colorant, pigment, stain or glaze 
+ 
+nuclear material as contamination at activity concentrations equal to or less than the exemption 
+quantities listed in column 2 of Schedule 1 of the Nuclear Substances and Radiation Devices 
+Regulations 
+ 
+For material in non-nuclear end use forms not listed above, please contact the CNSC for guidance on 
+safeguards reporting. 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+22 
+ 
+Appendix D: Nuclear Material Accountancy Reference Tables  
+This section contains the following reference tables:  
+ 
+D1: Reporting frequency for nuclear material accountancy reports 
+D2: Labels and data elements used in nuclear material accountancy reports 
+D3: Inventory change codes 
+D4: Material description codes 
+D5: Element and isotope codes 
+D6: Measurement basis codes 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+23 
+ 
+Table D1: Reporting frequency for nuclear material accountancy reports 
+ 
+Report type 
+Group 1 material 
+Group 2 material  
+1A  
+1B 
+Inventory change 
+document (ICD) 
+Next business day following the inventory change3 
+General ledger 
+For facilities: By the seventh 
+business day after the end of the 
+reporting month, only in months in 
+which an inventory change 
+occurred 
+Not required 
+Not required 
+Split general ledger 
+(for months in 
+which a physical 
+inventory taking  
+[PIT] occurs but 
+where the PIT date 
+is not the end of the 
+month) 
+For facilities: First report: by the 
+seventh business day after a PIT is 
+conducted, only if an inventory 
+change occurred in the period 
+between the beginning of the 
+month and the PIT date 
+ 
+For facilities: Second report: by 
+the seventh business day after the 
+end of the reporting month, only if 
+an inventory change occurred in 
+the period between the PIT date 
+and the end of the month 
+Not required 
+Not required 
+List of inventory 
+items 
+Required to be submitted by the 
+seventh business day after a PIT, 
+or upon the CNSC’s request 
+Upon request by the 
+Canadian Nuclear 
+Safety Commission 
+(CNSC) 
+Not required 
+Physical-KMP 
+inventory summary 
+Required to be submitted by 
+seventh business day after a PIT 
+Not required 
+Not required 
+Obligated material 
+inventory summary 
+Annually on January 31 for any year in which foreign-obligated material was 
+possessed, and upon the CNSC’s request 
+Reconciliation 
+statement 
+Required to be submitted by the 
+seventh business day after a PIT 
+Not required 
+Not required  
+ 
+ 
+                                                     
+ 
+ 
+3 Movements of Group 1B material must be reported to the CNSC on an ICD. However, no such reporting 
+is required when material is transferred temporarily and the ownership of the material does not change. 
+Licensees must, however, keep source data that indicates the location of the nuclear material involved in 
+such transfers. 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+24 
+ 
+Table D2: Labels and data elements used in nuclear material accountancy reports 
+Label 
+Data element 
+Applicable reports 
+Description4 
+N/A 
+Report type 
+Inventory change 
+document (ICD) 
+Enter the report type for the inventory change; 
+there are six options: internal, domestic, 
+import, export, retransfer, and from holding 
+account. 
+N/A 
+Licensee reference 
+no.  
+ICD, Physical-key 
+measurement point 
+inventory summary  
+(P-KMPIS) 
+Optionally enter a licensee reference number. 
+N/A 
+Location 
+identification  (LOC 
+ID) 
+ICD 
+If applicable, enter the LOC ID provided by 
+the Canadian Nuclear Safety Commission 
+(CNSC). 
+N/A 
+Tracking identifier 
+ICD 
+Enter tracking identifier provided by the 
+CNSC when reporting exempted/de-exempted 
+material. 
+N/A 
+Facility name 
+General ledger (GL), 
+list of inventory items 
+(LII), obligated 
+material inventory 
+summary (OMIS), 
+reconciliation 
+statement (RS) 
+Enter the facility name. 
+N/A 
+Revision date 
+GL, LII, OMIS, RS 
+Enter the date the report is first issued or is 
+revised. 
+015 
+Reporting period/date 
+GL, LII, P-KMPIS, 
+OMIS, RS 
+GL:  
+1. FROM: the date of the first day of the 
+ledger, usually the first day of the month 
+2. TO: the date of the last day of the period, 
+usually the last day of the month 
+(If a physical inventory taking (PIT) is 
+conducted on any day other than the last of the 
+month, split GLs are required, one covering 
+the period from the 1st of month to the PIT 
+date, and one covering the day after the PIT 
+date to the last of the month.) 
+LII, P-KMPIS, and RS: 
+Enter the PIT date. 
+OMIS: 
+1. FROM: the first day of the calendar year 
+                                                     
+ 
+ 
+4 The following symbols shall not be used when reporting information in labels 015 through 800: colon, 
+forward slash, semi-colon, and number sign (#). 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+25 
+ 
+Label 
+Data element 
+Applicable reports 
+Description4 
+and 
+2. TO: the last day of the calendar year 
+207 
+Facility code 
+GL, LII, OMIS, RS 
+Enter the appropriate code for the reporting 
+facility or location outside facility; codes are 
+available on the CNSC’s Safeguards and 
+nuclear materials accountancy forms Web 
+page. 
+307 
+Material balance area 
+(MBA) code 
+GL, LII, P-KMPIS, 
+OMIS, RS 
+Enter the appropriate code for the reporting 
+facility or location outside facility; codes are 
+available on the CNSC’s Safeguards and 
+nuclear materials accountancy forms Web 
+page. 
+309 
+Entry status 
+ICD, P-KMPIS 
+Use “N” for a new report, “C” to correct a 
+previous report, and “D” to delete a previous 
+report. 
+ICD: 
+Use “U” when reporting the following 
+inventory change codes: L+, L-, R+ and R-. 
+370 
+MBA/country 
+code/facility code 
+from 
+ICD, GL 
+Enter the code for the shipping MBA for 
+domestic transfers and the country code for 
+imports. For domestic shippers who do not 
+have an MBA code, enter “NA”. 
+Codes are available on the CNSC’s 
+Safeguards and nuclear materials accountancy 
+forms Web page . 
+ICD: 
+The facility code is optional (foreign facility 
+codes are provided by the CNSC).  
+372 
+MBA/country 
+code/facility code to 
+ICD, GL 
+Enter the code for the receiving MBA for 
+domestic transfers and the country code for 
+exports; for an internal inventory change, enter 
+the MBA reporting the change; for domestic 
+receivers who do not have an MBA code, 
+enter “NA”. 
+Codes are available on the CNSC’s 
+Safeguards and nuclear materials accountancy 
+forms Web page. 
+ICD: 
+The facility code is optional (foreign facility 
+codes are provided by the CNSC). 
+407 
+Key measurement 
+point (KMP) code 
+ICD, GL, LII, P-
+KMPIS 
+For this label there are two fields to complete, 
+one for the shipper and one for the receiver; 
+flow-KMP and physical-KMP codes are 
+specified in the design information for 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+26 
+ 
+Label 
+Data element 
+Applicable reports 
+Description4 
+facilities and locations outside facilities. In all 
+other cases, codes are provided by the CNSC. 
+ICD: 
+Enter the appropriate code: 
+1. For transfers between MBAs, the shipper 
+enters their flow-KMP code under the 
+shipper’s name and the receiver enters their 
+flow-KMP code under the receiver’s name. 
+The shipper/receiver also enters the physical-
+KMP code for transfers involving the Canada 
+location outside facility. Such entities are 
+listed on the Safeguards and nuclear materials 
+accountancy forms Web page. 
+2. For internal inventory changes, enter the 
+flow-KMP in the internal/receiver field, and 
+3. For movements of Group 1B or Group 2 
+material, use “2” for the shipper and “1” for 
+the receiver. 
+LII: 
+Enter the physical-KMP code where the item 
+resides at the date of the PIT. 
+P-KMPIS: 
+List each physical-KMP for the reporting 
+MBA. 
+411 
+Inventory change 
+code 
+ICD, GL 
+For shipments/receipts, the shipper and 
+receiver each enter the applicable inventory 
+change code, in the appropriate field. 
+For internal inventory changes, the initiating 
+MBA enters the applicable code in the 
+receiver’s field. 
+Inventory change codes are listed in Table D3. 
+412 
+Shipped date and 
+internal/received date 
+ICD, GL 
+Enter the date on which the inventory change 
+occurred or was established. 
+ICD: 
+Use the internal/receiver field when reporting 
+internal inventory changes. 
+430 
+Material description 
+code (MDC) 
+ICD, LII, P-KMPIS 
+This label consists of a four character code 
+indicating the physical and chemical form, 
+type of container, and irradiation status of the 
+material. Enter the code using Table D4; each 
+batch can have only one MDC. 
+436 
+Chemical and 
+physical description 
+ICD 
+Enter a textual description of the batch of 
+material (maximum 100 characters). 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+27 
+ 
+Label 
+Data element 
+Applicable reports 
+Description4 
+446 
+Batch name 
+(internal/receiver 
+inventory changes) 
+ICD, GL, P-KMPIS 
+Enter the batch name in alphanumeric format 
+(up to 16 characters). 
+ICD and GL: 
+This label is used for reporting batch names 
+related to receipts and internal inventory 
+changes. When reporting a receipt, the batch 
+name can be either one assigned by the 
+receiver or the same one used by the shipper 
+as reported in label 447. If the inventory 
+change code in label 411 is “DI” 
+(shipper/receiver difference), then the batch 
+name is the same as that reported in label 446 
+for the original ICD receipt. 
+P-KMPIS: 
+For each physical-KMP, enter batch names 
+covering all material present at the time of a 
+PIT. 
+447 
+Shipper’s batch name 
+(shipper inventory 
+changes) 
+ICD, GL 
+The batch name is entered in alphanumeric 
+format, up to a maximum of 16 characters. 
+This label is used for reporting batch names 
+related to shipments. For imports, enter the 
+foreign shipper’s batch name or enter the 
+keyword “unknown”. 
+469 
+Measurement basis 
+code 
+ICD, LII, P-KMPIS 
+Enter the appropriate measurement basis code 
+to describe where the mass has been 
+determined, and whether or not it has been 
+reported previously. Measurement basis codes 
+are listed in Table D6. 
+470 
+Number of items 
+ICD, GL, LII, P-
+KMPIS 
+ICD and GL: 
+Enter the number of items involved in the 
+inventory change. 
+LII: 
+If more than one item is included on the line 
+entry, enter the total number. In the case of 
+bulk material, and generally when a number 
+would not be meaningful, the number “1” 
+should be placed in label 470. The label 
+cannot be left blank. 
+P-KMPIS: 
+Enter the total number of items for each batch 
+of items. 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+28 
+ 
+Label 
+Data element 
+Applicable reports 
+Description4 
+610 
+Element weight – 
+natural uranium 
+ICD, GL, LII, P-
+KMPIS, OMIS, RS 
+Report the element weight of each category of 
+nuclear material in the item or batch, with not 
+less than one decimal place and up to six 
+decimal places. 
+ICD: 
+Enter the element weight of the item or batch, 
+subdivided by countries of origin if applicable 
+(see label 2003). 
+LII: 
+Enter the element weights of individual items. 
+P-KMPIS: 
+Enter the element weight for each batch.  
+RS: 
+Enter the element weights for BE, taken from 
+the ending balance of the GL, which ends on 
+the PIT date, and the element weights for the 
+physical ending inventory (PE), taken from the 
+totals of each element as reported on the P-
+KMPIS or LII. 
+OMIS: 
+Enter the opening and ending balances for 
+each element by country of obligation. 
+620 
+Element weight – 
+depleted uranium 
+ICD, GL, LII, P-
+KMPIS, OMIS, RS 
+See description for label 610. 
+630 
+Element weight - 
+enriched uranium 
+ICD, GL, LII, P-
+KMPIS, OMIS, RS 
+See description for label 610. 
+640, 
+660, 
+670 
+Isotope weight – 
+enriched uranium 
+ICD, GL, LII, P-
+KMPIS, OMIS, RS 
+Report the isotope weight of each category of 
+nuclear material in the item or batch, with not 
+less than one decimal place and up to six 
+decimal places. 
+ICD: 
+Enter the isotope weight of the item or batch, 
+subdivided by countries of origin if applicable 
+(see label 2003). 
+Note: Different isotopes of enriched uranium 
+cannot be reported in the same batch.  
+LII: 
+Enter the isotope weights of individual items 
+on the LII. 
+P-KMPIS: 
+Enter the isotope weight for each batch.  
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+29 
+ 
+Label 
+Data element 
+Applicable reports 
+Description4 
+RS: 
+Enter the element weights for BE, taken from 
+the ending balance of the GL, which ends on 
+the PIT date, and the element weights for PE, 
+taken from the totals of each element as 
+reported on the P-KMPIS or LII. 
+OMIS: 
+Enter the opening and ending balances for 
+each element by country of obligation. 
+700 
+Element weight – 
+plutonium 
+ICD, GL, LII, P-
+KMPIS, OMIS, RS 
+See description for label 610. 
+800 
+Element weight – 
+thorium 
+ICD, GL, LII, P-
+KMPIS, OMIS, RS 
+See description for label 610. 
+1000 
+Line number 
+GL 
+Number each line entry consecutively with an 
+integer. The first line number is “0” (zero) and 
+the opening balance is reported on that line. 
+The ending balance for the reporting period is 
+reported on the last line. 
+1001 
+Item identification 
+(item ID) 
+LII 
+Enter the item ID for individual items. For 
+example, bundle serial number, drum number, 
+or source serial number. 
+1002 
+Corrections - 
+previous date 
+GL 
+For corrections, enter the date that the ICD 
+being corrected was originally reported or the 
+date of the most recent correction to it.  
+1003 
+Corrections - line 
+number 
+GL 
+In the case of corrections, enter the line 
+number of the general ledger on which the 
+original ICD, or the most recent correction to 
+it, was reported.  
+1004 
+Comments/remarks 
+ICD, GL, LII, P-
+KMPIS, OMIS 
+Enter any additional information to explain or 
+assist in identifying the batch or items 
+reported, as applicable.  
+ICD, GL, LII, OMIS:  
+Use a maximum of 2000 characters.  
+P-KMPIS:  
+Use a maximum of 64 characters. 
+1006 
+Element code 
+ICD, GL, LII, P-
+KMPIS 
+Enter the appropriate element code for the 
+material on the report, from Table D5. 
+1020 
+Safeguards status 
+ICD, P-KMPIS 
+Enter the safeguards status of the material. 
+Label 1020 has 4 options: “1A” for Group 1A 
+material, “2” for Group 2 material, “Exempt 
+U” for material exempted from safeguards 
+under Article 36 of the Safeguards Agreement 
+[2], and “Exempt Q” for material exempted 
+from safeguards under Article 37 of the 
+Safeguards Agreement. 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+30 
+ 
+Label 
+Data element 
+Applicable reports 
+Description4 
+1021 
+Correction/report 
+revision no. 
+ICD, GL, LII, P-
+KMPIS, OMIS, RS 
+Enter “0” for original reports and increase the 
+number by 1 for each subsequent report. 
+1023 
+Units 
+ICD, GL, LII, P-
+KMPIS 
+Enter the appropriate weight unit for the 
+element/isotope reported. Units for reporting 
+shall be in grams for enriched uranium (both 
+element and isotope weights) and plutonium, 
+and in kilograms for natural uranium and 
+thorium, and depleted uranium. 
+1024 
+Isotope code 
+ICD, GL, LII, P-
+KMPIS 
+Enter the appropriate isotope code for the 
+material on the report, from Table D5. Isotope 
+codes are only reported for enriched uranium. 
+1025 
+Unique identifier 
+(optional) 
+ICD, GL, LII 
+Optionally enter batch or item identification 
+information such as the lot number or storage 
+location. This data is intended to supplement 
+that supplied under labels 446, 447 or 1001. 
+Use a maximum of 20 characters. 
+1027 
+Shipper company 
+ICD 
+Enter the company name, contact name and 
+address of the shipper. 
+1028 
+Internal/receiver 
+company 
+ICD, P-KMPIS 
+Enter the company name and contact name. 
+ICD: 
+Additionally enter address of receiver or the 
+initiator of an internal inventory change.  
+1030 
+Element weight 
+balance 
+GL 
+On line 0, enter the opening balance of the 
+element weight, which is the ending balance 
+of the previous GL period. Beginning on line 
+1, enter the running element weight balance. 
+This balance may be reported to a maximum 
+of six decimal places. On the last line of the 
+ledger, enter the ending balance of the element 
+weight in the MBA for the reported period.  
+1031 
+Isotope weight 
+balance 
+GL 
+On line 0, enter the opening balance of the 
+isotope weight, which is the ending balance of 
+the previous GL period. Beginning on line 1, 
+enter the running isotope weight balance. This 
+balance may be reported to a maximum of six 
+decimal places. On the last line of the ledger, 
+enter the ending balance of the isotope weight 
+in the MBA for the reported period. 
+1032 
+Element weight – 
+natural uranium 
+concentrate 
+ICD, OMIS 
+See description for label 610. 
+1634 
+Element weight – 
+thorium concentrate 
+ICD, OMIS 
+See description for label 610. 
+2001 
+Export licence 
+number 
+ICD 
+Enter the full CNSC export licence (e.g., EL-
+A1-1234.1/2015) under which the export of 
+nuclear material has been authorized, or the 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+31 
+ 
+Label 
+Data element 
+Applicable reports 
+Description4 
+CNSC letter of consent number when 
+reporting a transfer of nuclear material from a 
+holding account. In cases involving holding 
+accounts, it is also necessary to enter the 
+abbreviation “HA” (holding account) in label 
+411, and to enter the code for the holding 
+account from which the transfer was made in 
+label 2005. 
+2002 
+Import licence 
+number 
+ICD 
+Enter the full CNSC import licence (e.g., IL-
+A1-1234.1/2015) under which an import of 
+nuclear material has been authorized. 
+2003 
+Country of origin 
+code 
+ICD 
+Enter the country where the nuclear material 
+was mined or created, on the report. For 
+multiple countries of origin, enter only one 
+country of origin on each line of the form. 
+Country codes are available on the Safeguards 
+and nuclear materials accountancy forms Web 
+page. 
+2004 
+Obligated material – 
+country code 
+ICD, OMIS 
+Enter country codes for countries of obligation 
+for the material being reported, if any. For 
+imports or exports, such codes are provided by 
+the CNSC, while for domestic transfers, such 
+codes are provided by the licensee. If the 
+material has no foreign obligations, this field 
+and the obligated weight fields (labels 2006, 
+2007) are left blank.  
+2005 
+Holding account code ICD 
+Enter the applicable holding account code 
+where nuclear material is exported to or 
+transferred from. Holding account codes are 
+available on the Safeguards and nuclear 
+materials accountancy forms Web page. 
+2006 
+Obligated material – 
+element weight 
+ICD 
+Enter the element weight for each foreign 
+obligation code entered in label 2004. For 
+unobligated and Canadian material, this field 
+is left blank.  
+2007 
+Obligated material – 
+isotope weight 
+ICD 
+Enter the isotope weight for each foreign 
+obligation code provided in label 2004. For 
+unobligated and Canadian material, this field 
+is left blank. 
+ 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+32 
+ 
+Table D3: Inventory Change Codes 
+Keyword 
+Code 
+Explanation 
+Internal 
+Inventory 
+Change? 
+Applicable 
+Material 
+Groups 
+Accidental 
+gain 
+GA 
+Nuclear material unexpectedly found to be present 
+in the Material Balance Area (MBA). GA cannot 
+be used for material unexpectedly detected in the 
+course of a Physical Inventory Taking (PIT) – in 
+that case, the found material must be reported as 
+ID. 
+Yes 
+Group 1A 
+Accidental 
+loss 
+LA 
+Irreversible and inadvertent loss of a known 
+quantity of nuclear material. LA cannot be used for 
+material unexpectedly found to be missing in the 
+course of a PIT – in that case, the missing material 
+must be reported as inventory difference (ID). 
+Yes 
+Group 1A 
+Category 
+change 
+DE 
+DN 
+ED 
+EN 
+ND 
+NE 
+Quantity of uranium that has changed category as a 
+result of blending, enrichment, depletion, or burn-
+up. The first letter denotes the original category, 
+the second letter the resulting category: (E = 
+enriched, N = natural, D = depleted uranium). 
+Yes 
+Group 1A 
+De-exemption 
+quantity 
+DQ 
+Reapplication of safeguards on Group 1B material 
+previously exempted from safeguards under Article 
+37 of the Safeguards Agreement [2]. 
+Yes 
+Group 1B 
+De-exemption 
+use 
+DU 
+Reapplication of safeguards on Group 1B material 
+previously exempted from safeguards under Article 
+36 of the Safeguards Agreement [2].  
+Yes 
+Group 1B 
+Exemption 
+quantity 
+EQ 
+Exemption of Group 1A material from safeguards 
+under Article 37 of the Safeguards Agreement [2]. 
+This code can only be used with advance 
+permission from the Canadian Nuclear Safety 
+Commission (CNSC) and the International Atomic 
+Energy Agency (IAEA), obtained by submitting 
+the form found on the Safeguards and nuclear 
+materials accountancy forms Web page. 
+Yes 
+Group 1A 
+Exemption use 
+EU 
+Exemption of Group 1A material from safeguards 
+under Article 36 of the Safeguards Agreement [2]. 
+This code can only be used with advance 
+permission from the CNSC and IAEA, obtained by 
+submitting the form found on the Safeguards and 
+nuclear materials accountancy forms Web page. 
+Yes 
+Group 1A 
+Measured 
+discard 
+LD 
+Loss of a measured or estimated quantity of nuclear 
+material that has been consumed or disposed of in 
+such a way that it is not suitable for further nuclear 
+use. 
+Yes 
+Group 1A 
+Nuclear loss 
+LN 
+Consumption of nuclear material due to its 
+transformation into other elements or isotopes as a 
+result of nuclear reactions. 
+Yes 
+Group 1A 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+33 
+ 
+Keyword 
+Code 
+Explanation 
+Internal 
+Inventory 
+Change? 
+Applicable 
+Material 
+Groups 
+Nuclear 
+production 
+NP 
+Production of plutonium-239 or uranium-233 in a 
+nuclear reactor. 
+Yes 
+Group 1A 
+Receipt 
+domestic 
+RD 
+A receipt of nuclear material from a domestic 
+shipper. 
+No 
+Group 1, 
+Group 2 
+Receipt 
+foreign 
+RF 
+A receipt of nuclear material imported into Canada. 
+No 
+Group 1A, 
+Group 2 
+Receipt at 
+starting point 
+RS 
+A receipt of nuclear material at the starting point of 
+detailed nuclear material accountancy. 
+Yes 
+Group 1A 
+Re-batching – 
+decrease in 
+batch content  
+RM 
+Quantity by which the batch mentioned in the entry 
+is diminished due to re-batching. 
+Yes 
+Group 1A 
+Re-batching – 
+increase in 
+batch content  
+RP 
+Quantity of material added to the batch mentioned 
+in the entry from another batch due to re-batching. 
+Yes 
+Group 1A 
+Retained 
+waste – 
+transfer to 
+TW 
+The transfer of Group 1A material to retained 
+waste, after receipt of approval from the CNSC and 
+IAEA.  
+ 
+Material to be designated as retained waste must 
+contain nuclear material which is unrecoverable, 
+and it must be stored separately from other nuclear 
+material. Material designated as retained waste 
+remains Group 1A material but is not subject to 
+routine IAEA verification and so must not appear 
+on the list of inventory items (LII) or Physical-key 
+measurement point inventory summary (P-KMPIS) 
+for the storing MBA. A separate LII covering only 
+retained waste must be available on CNSC request. 
+Foreign obligations on retained waste must 
+continue to be tracked and reported on the OMIS 
+report. Material designated as retained waste 
+cannot be processed or transferred out of the MBA, 
+without first being transferred back from retained 
+waste.  
+Yes 
+Group 1A 
+Retained 
+waste – 
+transfer from 
+FW 
+Transfer of material that had been stored as 
+retained waste back to the main Group 1A material 
+inventory. Such material once again becomes 
+subject to routine IAEA verification and so must be 
+included on the LII and P-KMPIS of the storing 
+MBA. 
+Yes 
+Group 1A 
+Shipment 
+domestic 
+SD 
+A shipment of nuclear material to a domestic 
+receiver. 
+No 
+Group 1, 
+Group 2 
+Shipment 
+foreign 
+SF 
+An export of nuclear material out of Canada. 
+No 
+Group 1A, 
+Group 2 
+Shipper-
+Receiver 
+Difference 
+DI 
+Difference between the quantity reported by the 
+shipper and the quantity measured by the receiver. 
+DI should only be reported in cases where the 
+Yes 
+Group 1A 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+34 
+ 
+Keyword 
+Code 
+Explanation 
+Internal 
+Inventory 
+Change? 
+Applicable 
+Material 
+Groups 
+shipper and receiver cannot agree on revising the 
+weight of the shipment. Only the receiver can 
+report DI. DI = (shipper's declared weight) - 
+(receiver's measured weight) 
+Termination 
+TU 
+Termination of safeguards on nuclear material 
+which has been consumed or diluted in such a way 
+that it is no longer useable for any nuclear activity, 
+or has become practicably irrecoverable. This code 
+can only be used with advance permission from the 
+CNSC and IAEA. 
+Yes 
+Group 1A 
+Positive ID 
+L- 
+To report a positive ID. In label 309, use “U” when 
+using this code. 
+Yes 
+Group 1A 
+Negative ID 
+L+ 
+To report a negative ID. Use the absolute value of 
+ID, i.e. enter the negative ID as a positive value on 
+the inventory change document (ICD). In label 
+309, use “U” when using this code. 
+Yes 
+Group 1A 
+Rounding 
+R+ 
+To report rounding up. In label 309, use “U” when 
+using this code. 
+Yes 
+Group 1A 
+Rounding 
+R- 
+To report rounding down. Use the absolute value, 
+i.e. enter the rounding down as a positive value on 
+the ICD. In label 309, use “U” when using this 
+code. 
+Yes 
+Group 1A 
+ 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+35 
+ 
+Table D4: Material description codes 
+First two characters: Physical and chemical forms 
+First keyword 
+Second keyword 
+First two 
+characters 
+Ceramics 
+Pellets 
+CP 
+Spheres 
+CS 
+Other 
+CO 
+Fuel 
+Rods, pins 
+ER 
+Plates 
+EP 
+Bundles 
+EB 
+Assemblies 
+EA 
+Other 
+EO 
+Liquid waste 
+Low active 
+WL 
+Medium active 
+WM 
+High active 
+WH 
+Metal 
+Pure 
+MP 
+Alloys 
+MA 
+Powder 
+Homogeneous 
+PH 
+Heterogeneous 
+PN 
+Sealed sources 
+– 
+QS 
+Small quantities, samples 
+– 
+SS 
+Scrap 
+Homogeneous 
+SH 
+Heterogeneous  
+(cleanouts, clinkers, sludge, fines, other) 
+SN 
+Solid waste 
+Hulls 
+AH 
+Mixed  
+(plastics, gloves, papers, etc.) 
+AM 
+Contaminated equipment 
+AC 
+Other 
+AO 
+Solution 
+Nitrate 
+LN 
+Fluorides 
+LF 
+Other 
+LO 
+ 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+36 
+ 
+ 
+Third character: Container types 
+Third keyword 
+Third character 
+Cylinder 
+C 
+Pack 
+P 
+Drum 
+D 
+Discrete fuel units (fuel only) 
+S 
+Bird cage 
+B 
+Bottle 
+F 
+Other 
+O 
+ 
+Fourth character: Characterization of material 
+Fourth keyword 
+Fourth character 
+Unirradiated material 
+F 
+Irradiated material 
+I 
+Retained waste 
+W 
+Irrecoverable material 
+N 
+Recoverable material 
+R 
+ 
+Special cases 
+Material type 
+Code 
+Uranium or thorium ore concentrate 
+CONC 
+ 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+37 
+ 
+Table D5: Element and isotope codes 
+Element code 
+(label 1006) 
+Element 
+Weight units  
+(label 1023) 
+Group 1 material 
+N 
+Natural uranium 
+kg  
+D 
+Depleted uranium 
+kg 
+E (uranium enriched in 
+either uranium 235, or 
+uranium 233, or both) 
+Enriched uranium 
+g 
+P 
+Plutonium 
+g 
+T 
+Thorium 
+kg 
+Group 2 material 
+C 
+Natural uranium concentrate 
+kg 
+TC 
+Thorium concentrate 
+kg  
+Isotope code 
+(label 1024) 
+Element 
+Weight units  
+(label 1023) 
+K 
+Enriched – Uranium-233 content 
+g 
+J 
+Enriched – Uranium-233 and 
+Uranium-235 content 
+g 
+G 
+Enriched – Uranium-235 content 
+g 
+ 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+38 
+ 
+Table D6: Measurement basis codes 
+ 
+Mass value for batch 
+not reported previously 
+by the reporting 
+material balance area 
+(MBA) 
+Mass value for batch 
+reported previously by 
+the reporting MBA 
+Mass value based on a 
+measurement made by 
+the reporting MBA 
+M 
+T 
+Mass value based on 
+measurement carried 
+out elsewhere (e.g., at 
+another MBA) 
+N 
+L 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+39 
+ 
+Glossary 
+For definitions of terms used in this document, see REGDOC–3.6, Glossary of CNSC Terminology. 
+REGDOC–3.6 includes terms and definitions used in the Nuclear Safety and Control Act (NSCA), the 
+regulations made under the NSCA, and CNSC regulatory documents and other publications. REGDOC–
+3.6 is provided for reference and information. 
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+40 
+ 
+References 
+1. Treaty on the Non-Proliferation of Nuclear Weapons (NPT), United Nations, 1970.  
+2. Agreement Between the Government of Canada and the International Atomic Energy Agency for 
+the Application of Safeguards in Connection with the Treaty on the Non-Proliferation of Nuclear 
+Weapons, 1972, INFCIRC/164.   
+3. Protocol Additional to the Agreement Between Canada and the International Atomic Energy 
+Agency for the Application of Safeguards in Connection with the Treaty on the Non-Proliferation 
+of Nuclear Weapons, 2000, INFCIRC/164/Add.1.  
+4. ASTM C753-04, Standard Specification for Nuclear-Grade, Sinterable Uranium Dioxide 
+Powder, ASTM International, West Conshohocken, PA, 2004.   
+5. STR-368, International Target Values 2010 for Measurement Uncertainties in Safeguarding 
+Nuclear Materials, IAEA, Vienna, Austria, 2010. 
+6. N290.7-14, Cyber Security for Nuclear Power Plants and Small Reactor Facilities, CSA Group, 
+2014.  
+February 2018 
+REGDOC-2.13.1, Safeguards and Nuclear Material Accountancy 
+ 
+41 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the Canadian Nuclear Safety 
+Commission (CNSC). In addition to the Nuclear Safety and Control Act and associated regulations, these 
+facilities and activities may also be required to comply with other regulatory instruments such as 
+regulatory documents or standards. 
+Effective April 2013, the CNSC’s catalogue of existing and planned regulatory documents has been 
+organized under three key categories and twenty-five series, as set out below. Regulatory documents 
+produced by the CNSC fall under one of the following series: 
+1.0 
+Regulated facilities and activities 
+Series 
+1.1 
+Reactor facilities 
+1.2 
+Class IB facilities 
+1.3 
+Uranium mines and mills 
+1.4 
+Class II facilities 
+1.5 
+Certification of prescribed equipment 
+1.6 
+Nuclear substances and radiation devices 
+2.0 
+Safety and control areas 
+Series 
+2.1 
+Management system 
+2.2 
+Human performance management 
+2.3 
+Operating performance 
+2.4 
+Safety analysis 
+2.5 
+Physical design 
+2.6 
+Fitness for service 
+2.7 
+Radiation protection 
+2.8 
+Conventional health and safety 
+2.9 
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0 
+Other regulatory areas  
+Series 
+3.1 
+Reporting requirements 
+3.2 
+Public and Aboriginal engagement 
+3.3 
+Financial guarantees 
+3.4 
+Commission proceedings 
+3.5 
+CNSC processes and practices  
+3.6 
+Glossary of CNSC terminology  
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. For the latest list of regulatory 
+documents, visit the CNSC’s website. 

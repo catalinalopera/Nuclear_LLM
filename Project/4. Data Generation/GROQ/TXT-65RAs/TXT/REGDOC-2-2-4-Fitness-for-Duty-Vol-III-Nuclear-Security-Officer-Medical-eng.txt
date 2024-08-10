@@ -1,0 +1,571 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Human Performance Management 
+Fitness for Duty, Volume III: Nuclear 
+Security Officer Medical, Physical 
+and Psychological Fitness 
+ 
+ 
+REGDOC-2.2.4  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 2018
+ 
+ 
+ 
+ 
+ 
+ 
+Fitness for Duty, Volume III: Nuclear Security Officer Medical, Physical and Psychological Fitness 
+Regulatory document REGDOC-2.2.4  
+© Canadian Nuclear Safety Commission (CNSC) 2018 
+PWGSC catalogue number CC172-166/3-2018E-PDF 
+ISBN 978-0-660-27458-4 
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+Également publié en français sous le titre : Aptitude au travail, tome III : Aptitudes psychologiques, 
+médicales et physiques des agents de sécurité nucléaire  
+Document availability 
+This document can be viewed on the CNSC website. To request a copy of the document in English or 
+French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, Ontario K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Facsimile: 613-995-5086 
+Email: cnsc.info.ccsn@canada.ca  
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+LinkedIn: linkedin.com/company/cnsc-ccsn 
+Publishing history 
+August 2018 
+ 
+Version 1.0 
+ 
+July 2018 
+REGDOC-2.2.4, Fitness for Duty, Volume III:  
+                                                             Nuclear Security Officer Medial, Physical and Psychological Fitness 
+ 
+ 
+ 
+ 
+i 
+Preface 
+REGDOC-2.2.4, Fitness for Duty, Volume III, Nuclear Security Officer Medical, Physical, and 
+Psychological Fitness, was developed to address key considerations for licensees of nuclear power plants 
+and nuclear facilities, who will be providing Nuclear Security Officer (NSO) authorization under the 
+Nuclear Security Regulations. 
+This regulatory document sets out the expectations of the Canadian Nuclear Safety Commission (CNSC) 
+concerning minimum requirements for Nuclear Security Officer (NSO) medical, physical, and 
+psychological certificates. This regulatory document applies to all persons whom the licensee is 
+considering authorizing or has authorized to act as an NSO at a high-security site as defined in the 
+Nuclear Security Regulations. 
+This regulatory document aligns with relevant international and national documents including: 
+1. Recruitment, Qualification and Training of Personnel for Nuclear Power Plants (International 
+Atomic Energy Agency)  
+2. Physical Abilities Requirement Evaluation (Royal Canadian Mounted Police) and  
+3. Personnel Licensing Procedures Manual (Transport Canada). 
+ 
+July 2018 
+REGDOC-2.2.4, Fitness for Duty, Volume III:  
+                                                             Nuclear Security Officer Medial, Physical and Psychological Fitness 
+ 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Purpose................................................................................................................................1 
+2. 
+Scope....................................................................................................................................1 
+3. 
+Relevant Regulations .........................................................................................................1 
+4. 
+Certificate Requirements ..................................................................................................2 
+4.1 
+Medical Certificate ............................................................................................................. 2 
+4.2 
+Physical Certificate ............................................................................................................. 3 
+4.3 
+Psychological Certificate .................................................................................................... 3 
+5. 
+Special Circumstances .......................................................................................................3 
+Appendix A: Canadian Nuclear Security Fitness Test (CNSFT) ..............................................4 
+A.1 
+Background 
+......................................................................................................................... 4 
+A.2 
+Objectives ........................................................................................................................... 4 
+A.3 
+Test ..................................................................................................................................... 4 
+Glossary ..........................................................................................................................................8 
+References 
+.......................................................................................................................................9 
+Additional Information ...............................................................................................................10 
+ 
+July 2018 
+REGDOC-2.2.4, Fitness for Duty, Volume III:  
+                                                             Nuclear Security Officer Medial, Physical and Psychological Fitness 
+ 
+ 
+1 
+ 
+Fitness for Duty, Volume III: Nuclear Security Officer Medical,  
+Physical and Psychological Fitness 
+1. Purpose 
+This regulatory document sets out the expectations of the Canadian Nuclear Safety Commission 
+(CNSC) concerning minimum requirements for Nuclear Security Officer (NSO) medical, 
+physical, and psychological certificates. 
+2. Scope 
+This regulatory document outlines the required documentation and necessary medical, physical, 
+and psychological certification that a person must obtain before a licensee can authorize the 
+person to act as an NSO. This regulatory document applies to all Nuclear Security Officers 
+3. Relevant Regulations 
+The provisions of the Nuclear Security Regulations relevant to this document include: 
+1. Subsection 18(2) of the Nuclear Security Regulations, which provides that, “Subject to 
+section 18.6, no person shall act as a nuclear security officer without the recorded 
+authorization of the licensee”; 
+2. Section 18.2 of the Nuclear Security Regulations, which provides that, “A licensee, before 
+issuing an authorization referred to in subsection 18(2) to a person referred to in that 
+subsection, shall satisfy the conditions set out in section 18.1 in respect of the person—other 
+than the condition set out in paragraph 17(2)(b)—and shall obtain from the person… 
+(b) a certificate, signed by a duly qualified medical practitioner, certifying that the person 
+does not have a medical condition that would prevent them from performing the tasks 
+that are likely to be assigned by the licensee,  
+(c) a certificate, signed by a fitness consultant recognized by the Canadian Society for 
+Exercise Physiology or a person with equivalent or higher qualifications, certifying that 
+the person is physically able to perform tasks that are likely to be assigned by the 
+licensee, and  
+(d) a certificate, signed by a duly qualified psychologist, certifying that the person is 
+psychologically able to perform tasks that are likely to be assigned by the licensee”;  
+3. Section 18.4 of the Nuclear Security Regulations, which provides that, “An authorization 
+referred to in section 18 may be issued for any term not exceeding five years and shall be 
+subject to any terms and conditions necessary to minimize the risk to the security of the 
+facility”; 
+4. Section 30 of the Nuclear Security Regulations, which provides that, “Every licensee shall at 
+all times have available at a facility at which it carries on licensed activities a sufficient 
+number of nuclear security officers to enable the licensee to comply with this Part and do the 
+following: 
+ 
+July 2018 
+REGDOC-2.2.4, Fitness for Duty, Volume III:  
+                                                             Nuclear Security Officer Medial, Physical and Psychological Fitness 
+ 
+ 
+2 
+ 
+(a) control the movement of persons, materials and land vehicles;  
+(b) conduct searches of persons, materials and land vehicles for weapons, explosive substances 
+and Category I, II or III nuclear material;  
+(c) conduct preventive foot and land vehicle patrols of the facility and the perimeter of the  
+protected area to inspect for security breaches and vulnerabilities;  
+(d) respond to and assess alarm incidents;  
+(e) apprehend and detain unarmed intruders;  
+(f) observe and report on the movements of armed intruders; and  
+(g) operate security equipment and systems.” 
+4. Certificate Requirements 
+As per section 18.2 of the Nuclear Security Regulations, before authorizing a person to act as an 
+NSO, the licensee shall obtain from the person medical, physical, and psychological certificates. 
+Medical, physical, and psychological certificates shall be retained by the licensee. The licensee 
+must permit the CNSC to have access to the certificates for review, inspection, or audit purposes 
+when required to do so. 
+4.1 
+Medical Certificate 
+A medical assessment shall be undertaken to determine whether the person, from a medical 
+perspective, is capable of performing the tasks that are likely to be assigned by the licensee and as 
+such does not pose a risk to his or her own safety, the safety of others, or the facility. 
+The medical assessment shall include medical examination(s), vision test(s), and hearing test(s). 
+The duly qualified medical practitioner shall determine the medical examination(s), vision test(s), 
+and hearing test(s) to be used in the medical assessment. 
+When conducting the medical assessment, the medical practitioner may be guided by: 
+1. Police health: A physician’s guide for the assessment of police officers [1];  
+2. Ontario Association of Chiefs of Police document titled Constable Selection System: 
+Guidelines for Examining Physicians – Medical Evaluation of Police Constable Applicants 
+[2];  
+3. Ontario Association of Chiefs of Police document titled Constable Selection System:  
+Guidelines for Examining Ophthalmologists / Optometrists [3];  
+4. Ontario Association of Chiefs of Police document titled Constable Selection System: Hearing 
+Performance Standard [4]; and  
+5. Other equivalent recognized guidelines for policing within the province of employment. 
+Subsequent to the medical assessment, a certificate, signed by a duly qualified medical 
+practitioner, will certify that the person is medically capable of safely performing the tasks that 
+are likely to be assigned by the licensee. 
+An NSO shall undergo the described medical assessment at least every two years. 
+The licensee is responsible for retaining medical certificates. 
+July 2018 
+REGDOC-2.2.4, Fitness for Duty, Volume III:  
+                                                             Nuclear Security Officer Medial, Physical and Psychological Fitness 
+ 
+ 
+3 
+ 
+4.2 
+Physical Certificate 
+A physical fitness test shall be undertaken to determine whether the person, from a physical 
+perspective, is capable of performing the tasks that are likely to be assigned by the licensee and as 
+such does not pose a risk to his or her own safety, the safety of others, or the facility. 
+The physical fitness test shall be the CNSC-approved NSO Physical Fitness Test found in 
+Appendix A, or equivalent. The physical fitness test shall be administered by a fitness consultant 
+recognized by the Canadian Society for Exercise Physiology, or a person with equivalent or 
+higher qualifications. 
+Subsequent to passing the physical fitness test, a certificate, signed by a fitness consultant 
+recognized by the Canadian Society for Exercise Physiology or a person with equivalent or higher 
+qualifications, will certify that the person is physically capable of safely performing the tasks that 
+are likely to be assigned by the licensee. 
+An NSO shall undergo a physical fitness test every twelve months. 
+The licensee is responsible for retaining physical certificates. 
+4.3 
+Psychological Certificate 
+A psychological assessment shall be undertaken to determine whether the person from a 
+psychological perspective, is capable of performing the tasks that are likely to be assigned by the 
+licensee and as such does not pose a risk to his or her own safety, the safety of others, or the 
+facility. 
+The psychological assessment shall include an interview and test(s). A duly qualified 
+psychologist shall determine the interview and test(s) to use in the assessment. The interview and 
+test(s), along with their interpretation, shall be conducted by the psychologist. 
+Subsequent to the psychological assessment, a certificate, signed by a duly qualified psychologist, 
+will certify that the person is psychologically capable of safely performing the tasks that are 
+likely to be assigned by the licensee. 
+The licensee is responsible for retaining psychological certificates. 
+5. Special Circumstances 
+NSO certificate requirements represent reasonable occupational and operational requirements for 
+an NSO in the execution of their duties at high-security sites. Where a person obtains and 
+maintains NSO certificate(s), the licensee may authorize the person to act as an NSO. The 
+employer is responsible to assess the extent, where considered necessary, of the duty to 
+accommodate. The licensee is also responsible to ensure that any duties assigned to a person do 
+not pose a risk to his or her own health or safety, the health or safety of others, the safety of the 
+facility, and do not impact the operational effectiveness of the licensee’s operation.  
+July 2018 
+REGDOC-2.2.4, Fitness for Duty, Volume III:  
+                                                             Nuclear Security Officer Medial, Physical and Psychological Fitness 
+ 
+ 
+4 
+ 
+Appendix A: Canadian Nuclear Security Fitness Test (CNSFT) 
+A.1 
+Background 
+Physiology is the identification of physiological mechanisms underlying physical activity, thereby 
+enabling comprehensive delivery of treatment services concerned with the analysis, improvement, and 
+maintenance of health and fitness. The Canadian Society for Exercise Physiology is a voluntary 
+organization composed of professionals involved in the scientific study of exercise physiology, exercise 
+biochemistry, fitness, and health. The Canadian Society for Exercise Physiology (then known as the 
+Canadian Association of Sport Sciences), was founded at the 1967 Pan American Games, in Winnipeg, 
+Manitoba , the result of four years of cooperative efforts by the Canadian Medical Association and the 
+Canadian Association for Health, Physical Education, Recreation and Dance. 
+A physical fitness assessment is a snapshot of a person’s current physical fitness level. The Canadian 
+Society for Exercise Physiology sets national standards of practice required for validity, accuracy, and 
+reliability in physical fitness assessments. These standards must be met in order for an organization to be 
+designated as an Accredited Fitness Appraisal Centre (AFAC). This designation demonstrates meeting 
+required criteria for direct physiological exercise assessments, thereby ensuring accurate, valid, and 
+reliable data. 
+A.2 
+Objectives 
+The physical fitness test is designed to assess the following: 
+1. static balance in three planes of motion, proprioception, and flexibility 
+2. base aerobic fitness and agility, middle aerobic fitness 
+3. core strength, grip strength and force discrimination 
+A.3 
+Test 
+This physical fitness test involves a series of stations, as described below. In order to pass the physical 
+fitness test, the individual must obtain a pass mark at each station. The individual must complete each 
+station in the order they appear below. If the individual fails to pass any station, the entire test must be 
+repeated. 
+Station 1 – Search Station 
+Station 1 is a series of five traffic cones (28-inch pylons) set in line with a 60.96-cm (2-ft) separation 
+between each cone. A symbol (or shape or other identifiable item) measuring about 21 cm (8 in.) is 
+concealed by the bottom of the cone. The individual is given the following instructions: 
+At the first cone, raise both arms overhead, go up on tiptoes and hold the position for two seconds. Return 
+to your original stance. Stand at arm’s length from cone, lower into a squat position, tip the cone and 
+report the symbol seen. Return the cone to its original position, stand up and return to the start position. 
+Move to the second cone, stand at arm’s length with the cone to your left, and lower your body until the 
+hand contacts the top of the cone. Tip the cone with one hand and report the symbol seen. Return the cone 
+to its original position, stand up and return to the start position. 
+Move to the third cone, stand at arm’s length with the cone to your left, and lower your body while 
+twisting until the right hand contacts the top of the cone. Tip the cone with one hand on one of the cone’s 
+July 2018 
+REGDOC-2.2.4, Fitness for Duty, Volume III:  
+                                                             Nuclear Security Officer Medial, Physical and Psychological Fitness 
+ 
+ 
+5 
+ 
+edges and report the symbol seen. Return the cone to its original position, stand up and return to the start 
+position. 
+Move to the fourth cone, stand at arm’s length with the cone to your right, and lower your body while 
+twisting until the left hand contacts the top of the cone. Tip the cone onto one edge of the cone with one 
+hand and report the symbol seen Return the cone to its original position, stand up and return to the start 
+position. 
+Move to the fifth cone, stand at arm’s length with the cone to your right, and lower your body until the 
+right hand contacts the top of the cone. Tip the cone on to one of its edges with one hand and report the 
+symbol seen. Return the cone to its original position, stand up and return to the start position. 
+Return to the first cone wearing a 9-kg (19.8-lb) vest. Perform the above station 1 series again, while 
+wearing the vest. 
+This vest will be worn for all subsequent stations in the test. 
+Station 1 – Pass mark 
+The individual must complete station 1 with no faults permitted. Faults are defined as: losing balance or 
+falling, taking a step (*feet may rotate), not tipping the pylon on one of the four edges, two errors in 
+reporting numbers on the same movement. This station is not timed. 
+Station 2A – Speed walk station 
+Station 2A is a series of speed walks conducted around a rectangular perimeter with 13.72 m (45 ft.) sides 
+and 13.72 m (45 ft.) ends, demarcated by perimeter tape circumscribing the perimeter at a 1.22-m (4-ft.) 
+height. The individual is given the following instructions: 
+At the command "Go", walk clockwise around the circuit at sufficient speed to complete the circuit 
+around the perimeter in less than 37 seconds while under control and without touching the perimeter 
+boundary line. Upon return to the start point, rest for 10 seconds. 
+This circuit is then repeated 11.25 more times (total distance of 2205 ft.) in less than 37 seconds per 
+circuit, with a 10-second rest permitted after each lap. Each alternate lap is to be conducted counter-
+clockwise. 
+Station 2A – Pass mark 
+The individual must complete station 2A in the prescribed time and without any faults. Faults are defined 
+as: tripping, falling or striking the perimeter tape or the tape support at the corners, or not completing the 
+circuit in less than 37 seconds. 
+Station 2B – Stair climb station 
+Station 2B is a series of stair climbs and descents on a stairway with a vertical rise of continuous stairs 
+(See the stair matrix below). The individual is given the following instructions: 
+At the command "Go", climb the stairs using the same size step (one or two stairs at a time) throughout 
+the climb using the railing if desired, until reaching the top. Turnabout and immediately descend the stairs 
+July 2018 
+REGDOC-2.2.4, Fitness for Duty, Volume III:  
+                                                             Nuclear Security Officer Medial, Physical and Psychological Fitness 
+ 
+ 
+6 
+ 
+under control to the start point. Time for the climb and descent is 30 seconds. Any time remaining once 
+the NSO has completed the descent is used for rest before commencing the next ascent.   
+Station 2B – Pass mark 
+The individual must complete station 2B in the prescribed time and without any faults. Faults are defined 
+as: tripping, falling, or not completing the climb and descent in less than 30 seconds. 
+ 
+Station 3 – Lift/carry for control station 
+ 
+Station 3 involves a series of movements of a 34.07-litre (36-qt) container loaded with an unstable weight 
+load (water) of 12.3 kg (27 lbs) contained freely within the container. The individual stands facing a 1.83 
+x by 0.91 m (6 x 3 ft.) table, with the waist touching the table edge. The table is circumscribed by a 0.91 
+m (3 ft.) border outward from the table. The original position of the container is marked on the table with 
+a rectangular border area 2.54 cm (1 in.) larger on each side in comparison to the container. 
+The individual is given the following instructions: 
+Lift the container until it is in contact with your chest. Move to the end of the table, keeping the container 
+in contact with your chest. Tilt the container right 30 degrees and return it to the center balanced position. 
+Keeping the container in contact with your chest, move to the opposite end of the table. Tilt the container 
+left 30 degrees and return it to the centre balanced position. 
+Keeping the container in contact with your chest, move to the original start position and place the 
+container back in its original position. 
+Station 3 – Pass mark 
+ 
+The individual must complete Station 3with no faults permitted.  Faults are defined as: dropping the 
+container, losing control of the container as evidenced by the need to re grip the container, failure to 
+maintain the container in contact with the chest while walking, or contacting the station perimeter 
+markers.  
+ 
+The test for the NSO is complete at this point.
+July 2018 
+REGDOC-2.2.4, Fitness for Duty, Volume III:  
+                                                             Nuclear Security Officer Medial, Physical and Psychological Fitness 
+ 
+ 
+7 
+ 
+ 
+STAIR MATRIX for Station 2B- Fig. 1.1 
+Site 
+Stairs  
+(#) 
+Height/Stair 
+(in) 
+Repeats 
+(#) 
+Faults 
+Time Standard 
+(+ 0.2 sec Timing 
+Standard) 
+CNL (NSO) 
+12 
+8 
+10 + 6 
+0 
+30 or less/repeat 
+Gentilly-2 (NSO) 
+10 
+7.5 
+13 + 4 
+0 
+30 or less/repeat 
+P. Lepreau (NSO) 
+8 
+9 
+14 + 0 
+0 
+30 or less/repeat 
+OPG (NSO) 
+14 
+6.75 
+10 + 10 
+0 
+30 or less/repeat 
+Bruce (NSO) 
+12 
+7 
+12 + 0 
+0 
+30 or less/repeat 
+Note: Any additional steps to obtain the total required distance are untimed; only the 
+repeats are timed 
+Note: The total height of the stair climb, which is the sum of height climbed on each 
+repeat times the number of repeats, is the same (within 2%) regardless of the height of the 
+stairs within the 7-9 in range 
+Note: Total vertical climb is 1008 in. If stairs are not uniform, measure each stair and 
+follow the example below to get the required number of repeats and additional stairs to get 
+the required climb within 2% 
+ 
+E.g.,  7.5 in stairs and 12 stairs = 7.5 x 12 = 90 vertical inches per climb 
+        1008 / 90 = 11.2 or 11 repeats and 20% of 12 stairs = 2 additional stairs (within 
+ 0.03% of range) 
+July 2018 
+REGDOC-2.2.4, Fitness for Duty, Volume III:  
+                                                             Nuclear Security Officer Medial, Physical and Psychological Fitness 
+ 
+ 
+8 
+ 
+Glossary 
+For definitions of terms used in this document, see REGDOC-3.6, Glossary of CNSC Terminology. 
+REGDOC-3.6 includes terms and definitions used in the Nuclear Safety and Control Act (NSCA), the 
+regulations made under the NSCA, and CNSC regulatory documents and other publications. 
+REGDOC-3.6 is provided for reference and information. 
+July 2018 
+REGDOC-2.2.4, Fitness for Duty, Volume III:  
+                                                             Nuclear Security Officer Medial, Physical and Psychological Fitness 
+ 
+ 
+9 
+ 
+References 
+1. 
+Trottier and J. Brown, Police Health: Physician’s Guide for the Assessment of Police Officers, 
+Canada Communication Group, 1994. Ottawa 
+2. 
+Ontario Association of Chiefs of Police, Constable Selection System: Guidelines for Examining 
+Physicians – Medical Evaluation of Police Constable Applicants, Ontario Association of Chiefs 
+of Police, 2006. Toronto. 
+3. 
+Ontario Association of Chiefs of Police, Constable Selection System: Guidelines for Examining 
+Ophthalmologists/Optometrists – Vision Assessment of Police Constable Applicants, Ontario 
+Association of Chiefs of Police, 2006. Toronto. 
+4. 
+Ontario Association of Chiefs of Police, Constable Selection System: Hearing Performance 
+Standard, Ontario Association of Chiefs of Police, 2006. Toronto. 
+ 
+July 2018 
+REGDOC-2.2.4, Fitness for Duty, Volume III:  
+                                                             Nuclear Security Officer Medial, Physical and Psychological Fitness 
+ 
+ 
+10 
+ 
+Additional Information 
+• 
+International Atomic Energy Agency, Recruitment, Qualification and Training of Personnel 
+for Nuclear Power Plants: Safety Guide, Safety standards series, NS-G-2.8, December 2002. 
+Vienna.  
+• 
+Royal Canadian Mounted Police, Physical Abilities Requirement Evaluation (PARE), 2007. 
+Ottawa. 
+• 
+Transport Canada, TP 2943, Personnel Licensing Procedures Manual, 2006. Ottawa. 
+July 2018 
+REGDOC-2.2.4, Fitness for Duty, Volume III:  
+                                                             Nuclear Security Officer Medial, Physical and Psychological Fitness 
+ 
+ 
+11 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the Canadian Nuclear Safety 
+Commission (CNSC). In addition to the Nuclear Safety and Control Act and associated regulations, these 
+facilities and activities may also be required to comply with other regulatory instruments such as 
+regulatory documents or standards. 
+Effective April 2013, the CNSC’s catalogue of existing and planned regulatory documents has been 
+organized under three key categories and twenty-five series, as set out below. Regulatory documents 
+produced by the CNSC fall under one of the following series: 
+1.0  
+Regulated facilities and activities 
+Series 1.1  
+Reactor facilities 
+1.2  
+Class IB facilities 
+1.3  
+Uranium mines and mills 
+1.4  
+Class II facilities 
+1.5  
+Certification of prescribed equipment 
+1.6  
+Nuclear substances and radiation devices 
+2.0  
+Safety and control areas 
+Series 2.1  
+Management system 
+2.2  
+Human performance management 
+2.3  
+Operating performance 
+2.4  
+Safety analysis 
+2.5  
+Physical design 
+2.6  
+Fitness for service 
+2.7  
+Radiation protection 
+2.8  
+Conventional health and safety 
+2.9  
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0  
+Other regulatory areas  
+Series 3.1  
+Reporting requirements 
+3.2  
+Public and Aboriginal engagement 
+3.3  
+Financial guarantees 
+3.4  
+Commission proceedings 
+3.5  
+CNSC processes and practices 
+3.6  
+Glossary of CNSC Terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. For the latest list of regulatory 
+documents, visit the CNSC’s website. 
+ 

@@ -1,0 +1,3854 @@
+Environmental Protection 
+Controlling Releases to the 
+Environment 
+REGDOC-2.9.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+March 2024 
+ 
+ 
+ 
+Environmental Protection: Controlling Releases to the Environment 
+Regulatory document REGDOC-2.9.2 
+© His Majesty the King in Right of Canada, as represented by the Minister of Natural Resources, 2024 
+Cat. No. CC172-255/2024E-PDF 
+ISBN 978-0-660-70695-5  
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission (CNSC). 
+Également publié en français sous le titre : Contrôle des rejets dans l’environnement 
+Document availability 
+This document can be viewed on the CNSC website. To request a copy of the document in English or 
+French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, Ontario K1P 5S9 
+Canada 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Fax: 613-995-5086 
+Email: cnsc.information.ccsn@canada.ca  
+Website: cnsc-ccsn.gc.ca/ 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+LinkedIn: linkedin.com/company/cnsc-ccsn 
+Publishing history 
+March 2024 
+ 
+Version 1.0 
+ 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+ 
+i 
+ 
+Preface 
+This regulatory document is part of the CNSC’s environmental protection series of regulatory documents, 
+which also covers environmental principles, assessments, and protection measures. The full list of 
+regulatory document series is included at the end of this document and can also be found on the 
+CNSC website. 
+Regulatory document REGDOC-2.9.2, Controlling Releases to the Environment, clarifies the CNSC’s 
+requirements and provides guidance for controlling releases to the environment, through: 
+• 
+applying the concept of best available technology and techniques economically achievable 
+• 
+establishing and implementing licensed release limits and action levels for releases to the 
+environment 
+• 
+commissioning a treatment system and confirming system performance 
+• 
+implementing adaptive management where required 
+This is the first published version of this regulatory document. It is meant to be used in conjunction with 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures. 
+These requirements and guidance apply to licence applications for proposed new nuclear facilities or 
+activities and applications for licence renewals and amendments. This document will also be used to 
+assess a licensee’s environmental protection measures when a potential for unreasonable risk has been 
+identified and adaptive management is required. 
+Early engagement with CNSC staff is encouraged for facilities or activities with potential interactions 
+with the environment or where there is uncertainty regarding the potential for interaction with the 
+environment. CNSC staff can provide facility- or activity-specific guidance to assist applicants and 
+licensees. 
+For information on the implementation of regulatory documents and on the graded approach, see 
+REGDOC-3.5.3, Regulatory Fundamentals. 
+The words “shall” and “must” are used to express requirements to be satisfied by the licensee or 
+licence applicant. “Should” is used to express guidance or that which is advised. “May” is used to 
+express an option or that which is permissible within the limits of this regulatory document. “Can” is 
+used to express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+.................................................................................................................................... 1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant legislation 
+............................................................................................................. 3 
+1.4 
+National and international standards 
+................................................................................... 4 
+1.5 
+CNSC contact information 
+.................................................................................................. 4 
+2. 
+Background .................................................................................................................................... 5 
+2.1 
+Tiered approach to regulation of releases ........................................................................... 5 
+2.1.1 
+Overview of licensed release limits ....................................................................... 6 
+2.1.2 
+Overview of action levels ...................................................................................... 6 
+2.1.3 
+Overview of upper value of normal operation 
+....................................................... 7 
+3. 
+Environmental Control Measures ................................................................................................ 9 
+3.1 
+Controlling releases to the environment (from all facilities and activities) ...................... 14 
+3.2 
+New facility or activity, or existing facility or activity undergoing a major modification 
+15 
+3.3 
+Existing facility or activity under normal operation ......................................................... 15 
+4. 
+Best Available Technology and Techniques Economically Achievable .................................. 17 
+4.1 
+Requirements for conducting a BATEA assessment ........................................................ 17 
+4.2 
+Required elements of a BATEA assessment .................................................................... 17 
+4.3 
+Guidance for a BATEA assessment 
+.................................................................................. 18 
+4.3.1 
+Documentation of the BATEA assessment and results ....................................... 20 
+5. 
+Licensed Release Limits .............................................................................................................. 22 
+5.1 
+Requirements for establishing and documenting proposed release limits ........................ 23 
+5.2 
+Requirements for responding to licensed release limit exceedances ................................ 28 
+5.3 
+Requirements for revising licensed release limits............................................................. 29 
+6. 
+Action Levels for Environmental Protection 
+............................................................................. 30 
+6.1 
+Requirements for setting action levels 
+.............................................................................. 30 
+6.1.1 
+Contaminants and physical stressors ................................................................... 30 
+6.1.2 
+Other environmental controls .............................................................................. 31 
+6.1.3 
+Documenting development of action levels 
+......................................................... 31 
+6.2 
+Requirements for responding to action level exceedances ............................................... 31 
+6.3 
+Guidance for action levels ................................................................................................ 31 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+ 
+ 
+7. 
+Commissioning a Treatment System 
+.......................................................................................... 32 
+8. 
+Adaptive Management................................................................................................................. 34 
+8.1 
+Requirements for adaptive management 
+........................................................................... 34 
+8.2 
+Guidance for adaptive management 
+.................................................................................. 35 
+8.2.1 
+Components of an adaptive management plan .................................................... 35 
+8.2.2 
+Components of an interim pollution prevention plan .......................................... 35 
+Appendix A: Role of Clearance Levels in the Graded Approach to the Application of the 
+Environmental Protection Framework 
+...................................................................................... 36 
+A.1 
+Basis for the calculation of generic conditional clearance levels ..................................... 38 
+Appendix B: Additional Information 
+...................................................................................................... 47 
+B.1 
+Optimization of Protection and Pollution Prevention ....................................................... 47 
+B.2 
+Environmental release targets, maximum predicted design release characteristics, 
+licensed release limits, and action levels ....................................................................................... 49 
+Appendix C: Establishing Environment Release Targets ..................................................................... 52 
+C.1 
+Introduction 
+....................................................................................................................... 52 
+C.2 
+Overview of the process ................................................................................................... 52 
+C.3 
+Identify final release points 
+............................................................................................... 53 
+C.4 
+Identify contaminants and physical stressors that require control .................................... 53 
+C.5 
+Calculate the proposed environmental release target 
+........................................................ 53 
+C.5.1 
+Exposure-based approach for nuclear substances 
+................................................ 53 
+C.5.2 
+Exposure-based approach for hazardous substances ........................................... 54 
+C.5.2.1 Dilution Factors ...................................................................................... 55 
+C.5.2.2 Releases to sewer 
+.................................................................................... 55 
+C.5.2.3 Releases into cooling water discharge .................................................... 56 
+C.5.2.4 Example calculations of exposure-based environmental release targets 
+for hazardous substances released to surface water using a simple mixing zone 
+approach 
+............................................................................................................... 56 
+C.5.3 
+Technology-based approach ................................................................................ 57 
+C.6 
+Select the most restrictive environmental release targets ................................................. 57 
+C.7 
+Document and justify the selection 
+................................................................................... 57 
+Appendix D: Guidance on Developing a Commissioning Plan and on Confirming Performance of a 
+Treatment System ........................................................................................................................ 58 
+D.1 
+Additional guidance for developing a commissioning plan for a treatment system ......... 58 
+D.2 
+Additional guidance for confirming performance of the treatment system ...................... 60 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+ 
+ 
+Glossary ..................................................................................................................................................... 62 
+References 
+.................................................................................................................................................. 63 
+Additional Information ............................................................................................................................ 65 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+1 
+ 
+Controlling Releases to the Environment 
+1. 
+Introduction 
+1.1 
+Purpose 
+For nuclear facilities and activities, environmental protection is done in accordance with the 
+Nuclear Safety and Control Act (NSCA) and the regulations made under it. The legislation 
+includes provisions to ensure that licensees are meeting the CNSC’s mandate to protect health, 
+safety and security and the environment. Under the NSCA and its regulations, licensees are 
+required to take all reasonable precautions to control the release of nuclear and hazardous 
+substances to the environment from licensed facilities or activities. 
+As part of an application for a licence to construct, operate or decommission a nuclear facility, 
+applicants and licensees are required to assess the effects on the environment and the health and 
+safety of persons, and identify prevention or mitigation measures. In addition, the application 
+must identify the: 
+• 
+proposed location(s) of releases  
+• 
+proposed maximum quantities and concentrations 
+• 
+anticipated volume and flow rate of releases of nuclear and hazardous substances into the 
+environment  
+• 
+proposed measures to control releases of nuclear substances and hazardous substances into 
+the environment 
+This regulatory document describes the requirements and guidance for controlling releases to the 
+environment, through: 
+• 
+applying the concept of best available technology and techniques economically 
+achievable (BATEA) 
+• 
+implementing licensed release limits and action levels for releases to the environment  
+• 
+commissioning a treatment system and confirming performance 
+• 
+implementing adaptive management where required  
+1.2 
+Scope 
+This document applies to nuclear facilities or activities that, under normal operation, release or 
+are anticipated to release nuclear or hazardous substances to the environment. It applies to nuclear 
+and / or hazardous substances directly released to air, surface water, sewer, or through the ground, 
+including where natural or engineered barriers for control are proposed or incorporated. This 
+regulatory document also applies to refurbishment and decommissioning facilities, and the 
+normal operation of any treatment system(s) during refurbishment and decommissioning. 
+This document is meant to be used in conjunction with REGDOC-2.9.1, Environmental 
+Principles, Assessments and Protection Measures [1], which provides requirements and guidance 
+for developing and implementing environmental protection measures to monitor and control 
+releases to the environment, to perform an environmental risk assessment, and to develop and 
+implement an environmental management system. This regulatory document provides 
+requirements and guidance for additional environmental protection measures (such as action 
+levels and licensed release limits) that are related to, affected by, and influence the environmental 
+protection measures described in REGDOC-2.9.1 [1]. 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+2 
+ 
+Applicants and licensees are expected to use these documents to develop or revise their 
+environmental protection measures, or to develop additional environmental protection measures 
+when adaptive management is required. 
+The CSA Group standards that are referenced in this regulatory document apply to Class I nuclear 
+facilities and uranium mines and mills. For facilities or activities other than Class I nuclear 
+facilities and uranium mines and mills, the CNSC reviews every licence application to verify that 
+there are no significant interactions with the environment. If the CNSC’s review of the 
+application determines that the facility or activity would not interact with the environment, then 
+only the CNSC’s guiding principles for environmental protection (see REGDOC-2.9.1 [1]) are 
+relevant as guidance for such facilities or activities. 
+For licence applications other than a Class I nuclear facility or uranium mine and mill, if the 
+CNSC’s review determines that the facility or activity has potential interactions with the 
+environment and that additional consideration is warranted, the information in this document may 
+be applied in a graded manner. The applicant or licensee may demonstrate that it meets the intent 
+of this regulatory document as follows: 
+• 
+for the control of nuclear substances, by comparing the proposed maximum quantities and 
+concentrations to be released to the environment associated with the design of the facility or 
+activity under normal operation: 
+• 
+to the exemption criteria or unconditional clearance levels specified under the Nuclear 
+Substances and Radiation Devices Regulations, or  
+• 
+to the generic conditional clearance levels (CCLs) specified in appendix A: 
+• 
+for any radionuclide that exceeds the generic CCLs, the CNSC may establish 
+practice-specific CCLs that are applicable to the type of facility or activity 
+• 
+for any radionuclide where the proposed maximum release is below the applicable 
+CCLs (either generic or practice-specific), the CCLs are applied as the licensed 
+release limits 
+• 
+for any radionuclide where the proposed maximum release exceeds the CCLs 
+(generic or practice-specific), the balance of information in this document shall be 
+applied 
+• 
+for the control of hazardous substances, by comparing the proposed maximum quantities and 
+concentrations to be released to the environment associated with the design of the facility or 
+activity under normal operation: 
+• 
+to federal, provincial, territorial, or municipal environmental quality guidelines 
+• 
+where any proposed maximum release exceeds the environmental quality guidelines, the 
+balance of information in this document shall be applied 
+Early engagement with CNSC staff is encouraged for facilities or activities with potential 
+interactions with the environment or where there is uncertainty regarding the potential for 
+interactions with the environment. CNSC staff can provide facility- or activity-specific guidance 
+to assist applicants and licensees. 
+This regulatory document does not address the management of spills, fugitive emissions or 
+uncontrolled releases. 
+The intent of this document is to not replace nor duplicate requirements in other federal, 
+provincial, territorial, or municipal legislation. Meeting these other legislative requirements may 
+be adequate for addressing the requirements of this regulatory document. In many instances, this 
+regulatory document provides requirements and guidance to reduce regulatory duplication, where 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+3 
+ 
+possible, while continuing to apply the CNSC’s mandate under the NSCA to ensure the control of 
+the release of nuclear and hazardous substances. 
+1.3 
+Relevant legislation 
+The following provisions of the NSCA and the regulations made under it are relevant to this 
+document: 
+• 
+NSCA: 
+• 
+subsection 24(4) 
+• 
+subsection 24(5) 
+• 
+General Nuclear Safety and Control Regulations: 
+• 
+paragraph 3(1)(f) 
+• 
+paragraphs 12(1)(c) and (f) 
+• 
+Class I Nuclear Facilities Regulations: 
+• 
+paragraphs 3(e), (g), (h) and (j) 
+• 
+paragraphs 4(b), (c) and (e) 
+• 
+paragraphs 5(b), (i), (j) and (k) 
+• 
+paragraphs 6(h), (i), (j) and (k) 
+• 
+paragraphs 7(e), (f), (g), (h), (i) and (k) 
+• 
+paragraph 8(b) 
+• 
+Class II Nuclear Facilities and Prescribed Equipment Regulations: 
+• 
+paragraph 3(p) 
+• 
+paragraphs 5(e), (f), (h) and (i) 
+• 
+Radiation Protection Regulations: 
+• 
+paragraphs 4(a) and (b) 
+• 
+subsections 6(1) and (2) 
+• 
+subsection 13(1) 
+• 
+Nuclear Substances and Radiation Devices Regulations: 
+• 
+paragraphs 3(1)(b), (g) and (i) 
+• 
+paragraph 12(1)(k) 
+• 
+Uranium Mines and Mills Regulations: 
+• 
+subparagraph 3(a)(v) 
+• 
+subparagraphs 3(c)(ii), (iii), (v), (vi), (vii), (viii), (ix) and (x) 
+• 
+subparagraphs 3(d)(i) and (vi) 
+• 
+subparagraphs 4(1) and (2) 
+The CNSC also considers pertinent legislation from other government departments, including: 
+• 
+Impact Assessment Act 
+• 
+Canadian Environmental Assessment Act, 2012 
+• 
+Canadian Environmental Protection Act, 1999 
+• 
+Fisheries Act 
+• 
+Species at Risk Act 
+• 
+Migratory Birds Convention Act, 1994 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+4 
+ 
+1.4 
+National and international standards 
+Key principles and elements used in developing this document are consistent with national and 
+international standards. 
+The following standards from CSA Group are relevant to this regulatory document: 
+• 
+CAN/CSA ISO-14001, Environmental Management Systems – Requirements with Guidance 
+for Use (2004 edition or successor editions) 
+• 
+CSA N288.0, Environmental management of nuclear facilities: Common requirements of the 
+CSA N288 series Standards 
+• 
+CSA N288.1, Guidelines for modelling radionuclide environmental transport, fate, and 
+exposure associated with the normal operation of nuclear facilities [2] 
+• 
+CSA N288.3.4, Performance testing of nuclear air-cleaning systems at nuclear facilities [3] 
+• 
+CSA N288.4, Environmental monitoring programs at Class I nuclear facilities and uranium 
+mines and mills 
+• 
+CSA N288.5, Effluent monitoring programs at Class I nuclear facilities and uranium mines 
+and mills [4] 
+• 
+CSA N288.6, Environmental risk assessment at Class I nuclear facilities and uranium mines 
+and mills [5] 
+• 
+CSA N288.7, Groundwater protection programs at Class I nuclear facilities and uranium 
+mines and mills [6] 
+• 
+CSA N288.8, Establishing and implementing action levels for releases to the environment 
+from nuclear facilities [7] 
+The International Atomic Energy Agency (IAEA) general safety guide GSG-9, Regulatory 
+Control of Radioactive Discharges to the Environment [21], is also relevant to this regulatory 
+document. 
+1.5 
+CNSC contact information 
+The applicant or licensee should engage with CNSC staff early in the planning process (before 
+submission of a licence application) to identify the applicable regulatory documents and confirm 
+an understanding of the CNSC’s licensing process. To contact the CNSC, refer to the CNSC’s 
+website. 
+ 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+5 
+ 
+2. 
+Background 
+The CNSC requires the environmental effects of all nuclear facilities or activities to be considered 
+and evaluated when licensing decisions are made. REGDOC-2.9.1, Environmental Principles, 
+Assessments and Protection Measures [1], documents the environmental protection requirements 
+along with additional guidance for a licensee’s overall environmental protection program. This 
+regulatory document focuses on controlling releases to the environment under normal operations. 
+Paragraph 12(1)(f) of the General Nuclear Safety and Control Regulations, deals with 
+“reasonable precautions” regarding control of releases. REGDOC-2.9.1 [1] specifies that 
+reasonable precaution in the context of controlling releases involves the application of best 
+available technology and techniques economically achievable (BATEA), and the application of 
+the as low as reasonably achievable (ALARA) principle. Licensees are required to control 
+releases to limits specified within regulation and demonstrate the application of BATEA and 
+ALARA. Hereafter, the term BATEA is used when referring to both nuclear and hazardous 
+substances, and the term ALARA is used when referring solely to nuclear substances. For 
+requirements and guidance associated with the application of BATEA see section 4. 
+2.1 
+Tiered approach to regulation of releases 
+A tiered approach has been established to ensure the protection of human health and the 
+environment, and to demonstrate pollution prevention through the application of BATEA. The 
+tiers are substance-specific and consist of the licensed release limits, action levels, the upper 
+values of normal operation and the clearance level (where no further optimization is required). 
+Figure 1 is conceptual and not necessarily to scale. The actual range between the values depends 
+on the site-specific design and operation of the facility or activity, and on the expected variability 
+in effluent and/or emission quality under normal operations. 
+Figure 1: Conceptual relationship between an upper value of normal operation for a 
+nuclear or hazardous substance, an action level, and a licensed release limit.  
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+6 
+ 
+The CNSC uses regulatory instruments, such as licensed release limits and action levels, to 
+monitor whether the licensee is operating within its licensing basis. 
+2.1.1 
+Overview of licensed release limits 
+As part of the CNSC’s regulatory framework, licensed limits may be applied to different safety 
+and control area programs and/or control measures. A licensed limit is part of the licensing basis 
+and, if exceeded, represents a loss of control of part of the licensee’s program(s) or control 
+measure(s). Exceeding a licensed limit indicates that the licensee is operating outside their 
+licensing basis for normal operation, but does not necessarily imply an unreasonable risk to the 
+environment, to the health and safety of persons or to national security. Exceeding a licensed 
+limit is a non-compliance and triggers a requirement for the licensee to take specific action.  
+Note: The licensed limits may include any limits specified in the licensing basis. 
+Licensed release limits are a subset of licensed limits, that are specific to releases to the 
+environment, and are part of the licensing basis. If these limits are exceeded, this represents a loss 
+of control of part of the licensee’s environmental protection program(s) or control measure(s). 
+Exceeding a licensed release (that is, a red light) limit indicates that the licensee is operating 
+outside their licensing basis for normal operation, and represents a clear loss of control of the 
+environmental protection program and/or control measure(s). A release outside of the licensing 
+basis indicates a major failure of control systems and is subject to enforcement action. It does not 
+necessarily imply an unreasonable risk to the environment or to the health and safety of persons. 
+Exceeding a licensed release limit is a non-compliance and triggers a requirement for the licensee 
+to take specific action. 
+Implementing licensed release limits ensures that: 
+• 
+human health and the environment are protected 
+• 
+the licensee applies appropriate control measures (including abatement strategies) for 
+pollution prevention, demonstrating optimization through the application of BATEA and 
+ALARA 
+• 
+the licensee is operating within the licensing basis for normal operation 
+The applicant or licensee proposes release limits as part of the licence application. When 
+approved by the CNSC, these become licensed release limits and form part of the licensing basis 
+for the facility or activity. Since licensed release limits are based on either the accepted design of 
+the facility or those identified within federal/provincial/territorial regulation, they rarely change 
+over time. If there is a major modification to the nuclear facility and/or activity or the regulation, 
+the licensing basis and licensed released limits would be updated to reflect the modification. 
+Licensed release limits are often site-specific or subsector-specific, as design characteristics vary 
+across the nuclear industry, and each facility or activity has a unique environmental protection 
+program or control measures. Licensed release limits are values for releases over a specified 
+period and are not typically applied to any individual sample. 
+For more information, see section 5 on licensed release limits. 
+2.1.2 
+Overview of action levels  
+Action levels for environmental protection provide the licensee with a tool to demonstrate 
+adequate control of their environmental protection program. Action levels are typically set below 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+7 
+ 
+licensed release limits and above the upper value of normal operation in order to serve as an early 
+warning indicator. 
+Exceeding an action level (that is, a yellow light): 
+• 
+indicates a potential loss of control of the licensee’s environmental protection program 
+• 
+signals a potential reduction in effectiveness of the environmental protection program or of 
+the control measures 
+• 
+indicates a possible deviation from normal operation 
+• 
+triggers a requirement for specific action to be taken by the licensee 
+Action levels are proposed by the licensee and submitted for review and approval by the CNSC. 
+Action levels are operationally/performance-based, are derived using the current upper value of 
+normal operation, and lie within the maximum upper-end of normal operation (that is, licenced 
+release limit). Action levels for existing facilities are based on the most recent (for example, 
+5-year) monitoring results that correspond to a licensee’s effluent and emissions monitoring 
+program and are reflective of the current operation (that is, current state of the facility such as 
+care and maintenance or refurbishment, current production rates, current ore body quality, etc.). 
+Since action levels lie within the upper end of normal operation they are expected to be 
+periodically reached, and if reached, may indicate a potential loss of control of part of the 
+environmental protection program and/or control measure(s). Licensed release limits on the other 
+hand, are established at the upper end (that is, maximum) of normal operation, and are not 
+expected to be reached, unless there is a clear loss of control of the environmental protection 
+program and or control measure(s). 
+Action levels are periodically reviewed (at a minimum of every 5 years in accordance with CSA 
+N288.8, Establishing and implementing action levels for releases to the environment from 
+nuclear facilities [7]) to be reflective of current operations, and therefore may change over time, 
+either increasing or decreasing. The operation of the facility must fall within the licensing basis. 
+Licensed release limits on the other hand, do not change over time, unless there is a major 
+modification to the operations of the facility, which results in a change to the release 
+characteristics. 
+Exceeding an action level signals a potential loss of control (that is, a yellow light) or reduction in 
+the effectiveness of the program and/or control measure(s), and may indicate a deviation from 
+normal operation. Exceeding a licensed release limit indicates a clear loss of control (that is, a red 
+light), and that the facility is operating outside of its approved facility design, and hence its 
+licensing basis. For more information on action levels, see section 6. 
+2.1.3 
+Overview of upper value of normal operation 
+The upper value of normal operation is based on the predicted or current operating conditions, 
+and is typically determined using either: 
+• 
+a prospective approach for a new facility or activity, based on the approved design and other 
+relevant information 
+• 
+a retrospective approach for an existing facility or activity, using all available performance 
+data (including historical data) 
+The applicant or licensee may also use the upper value of normal operation as internal control 
+levels, or to inform internal control levels (also commonly known as internal investigation levels 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+8 
+ 
+or administrative levels). Exceeding the upper value of normal operation typically triggers 
+internal action by the licensee; however, use of internal control levels are not a regulatory 
+requirement. Their use is at the discretion of the licensee. 
+Figure 2 shows operational performance data that demonstrates the relationship between the 
+upper value of normal operation, the action level, and the licensed release limit. 
+Figure 2: Release performance data for a quantity or concentration of a sample nuclear or 
+hazardous substance over time 
+ 
+Action levels are compared to the environmental releases (effluent and/or emissions) monitoring 
+program results (for example, daily or weekly grab or composite sample concentrations, daily or 
+weekly or monthly loading rate) that correspond to a licensee’s effluent and/or emission 
+monitoring program, designed in accordance with CSA N288.5, Effluent monitoring programs at 
+Class I nuclear facilities and uranium mines and mills [4]. 
+ 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+9 
+ 
+3. 
+Environmental Control Measures 
+Figure 3 on the following page shows the life-cycle process for establishing environmental 
+control measures for:  
+• 
+a new facility or activity 
+• 
+an existing facility or activity in normal operation 
+• 
+an existing facility or activity that is undergoing a major modification 
+A major modification is one that requires a change in the licensing basis for the facility or 
+activity. Some examples of major modifications are: 
+• 
+changes to the licensed physical facility, or to facility or activity processes, that have the 
+potential to change the nature of the effluents and/or emissions and the resulting risks to 
+receptors (for example, commissioning a treatment system) 
+• 
+a response to adaptive management 
+• 
+a result of a periodic safety review (PSR) 
+Environmental management system 
+An organization’s environmental policy, documented in the environmental management 
+system (EMS), includes the organization’s commitment to continuous improvement, pollution 
+prevention and other specific areas, which may include sustainable development and adaptive 
+management. These principles are the core components in controlling releases to the environment 
+to ensure the application of ALARA and BATEA. 
+The EMS includes clearly defined release targets and objectives. The scope of these targets and 
+objectives may include the following elements, which are described in this regulatory document: 
+• 
+design related items such as environmental release targets (see section 4) 
+• 
+licensed release limits (see section 5) and action levels (see section 6) 
+• 
+other performance indicators (for example, continuous improvement initiatives) (see 
+section 8) 
+• 
+pollution prevention initiatives (see section 8) 
+A loss of control of the environmental protection program occurs if releases are outside the 
+bounds established in the licensee’s licensing basis (that is, the licensed release limits). 
+In normal operations, the licensing basis sets bounds on releases through the maximum quantities 
+and concentrations contained within the licensee’s licensing basis documentation. 
+The predictions of environmental effects are submitted as part of a licence application and forms 
+part of the licensing basis. This may be supported with the predictions of environmental effects as 
+described in the approved environmental risk assessment (ERA) or similar documentation 
+submitted in support of a licence application. 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+10 
+ 
+Figure 3: Simplified overview of the integrated process for establishing and implementing control measures on releases to the 
+environment  
+Note: The following figures 3a, 3b and 3c show the details of each subsection of figure 3. 
+ 
+Commissioning of treatment system
+Utility specifications
+Federal/provincial/
+territorial/municipal limits 
+on releases to the 
+environment
+ Establish environmental 
+release target(s)
+Maximum predicted design 
+release concentrations and 
+quantities
+Detailed design
+Environmental management system
+Environmental risk assessment
+Effluent/emission control (releases)
+Assessment and monitoring
+Protection of the people
+Construction of treatment system
+Documentation of BATEA 
+assessment and results
+Active commissioning 
+plan
+Proposed licensed release 
+limits on releases to the 
+environment
+Proposed action levels
+ (CSA N288.8)
+Environmental risk 
+assessment predictions
+Notify the Commission
+Develop and document 
+adaptive management 
+response plan
+Implement interim pollution 
+prevention plan
+Licensed release limits
+ERA review
+ERA predictions
+New science
+New legislation
+Action levels
+Periodic safety review (PSR)
+New risk or 
+potential risk 
+identified?
+No
+Yes
+Conduct BATEA assessment
+Implement longterm solution 
+and revise licensing basis
+Existing nuclear facility or activity under normal operation
+Monitoring and assessment with adaptive management
+New nuclear facility or activity
+Or facility undergoing major modification
+Existing facility 
+or activity 
+undergoing 
+major 
+modification
+Technology/techniques  
+options analysis
+Design option selected
+Existing 
+facility or 
+activity 
+undergoing 
+major 
+modification
+Existing facility or 
+activity under normal 
+operation
+CNSC to authorize 
+licensed release limits 
+on releases to the 
+environment
+Existing facility or 
+activity under normal 
+operation
+Commissioning 
+report
+Action levels 
+appropriate?
+No
+Yes
+Environmental 
+release targets 
+achieved?
+Yes
+Licensed 
+release limits 
+met?
+Implement additional 
+optimization, mitigation 
+measures or techniques
+No
+Additional 
+control 
+measure(s) 
+successful?
+Revise licensed release 
+limits and update ERA
+No
+Unreasonable 
+risk to human 
+health or the 
+environment?
+No
+Yes
+Yes
+No
+Adopt revised 
+licensed release 
+limits
+Revise action levels 
+(CSA N288.8)
+Integrate into EMS
+Active commissioning
+Successful inactive commissioning
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+11 
+ 
+Figure 3a: Information on control measures for releases to the environment to be submitted for a new facility or activity applying for a 
+licence to construct, or an existing facility undergoing a major modification and requiring a licence amendment 
+ 
+Utility specifications
+Federal/provincial/
+territorial/municipal limits 
+on releases to the 
+environment
+ Establish environmental 
+release target(s)
+Maximum predicted design 
+release concentrations and 
+quantities
+Detailed design
+Environmental management 
+system
+Environmental risk assessment
+Effluent/emission control 
+(releases)
+Assessment and monitoring
+Documentation of BATEA 
+assessment and results
+Active commissioning
+plan
+Proposed licensed release 
+limits on releases to the 
+environment
+Proposed action levels
+ (CSA N288.8)
+Environmental risk 
+assessment predictions
+Technology/techniques  
+options analysis
+Design option selected
+To 
+figure 
+3b
+From 
+figure 
+3c
+Existing 
+facility or 
+activity 
+undergoing 
+major 
+modification
+Protection of people
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+12 
+ 
+Figure 3b: Commissioning treatment system(s) 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+13 
+ 
+Figure 3c: The part of the overall process for establishing control measures that is specifically for a nuclear facility or activity under 
+normal operation 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+14 
+ 
+Effluent and emission monitoring and control 
+The effluent and emission monitoring measures are used to: 
+• 
+inform the development of action levels and licensed release limits 
+• 
+demonstrate compliance with those action levels and licensed release limits 
+Environmental risk assessment 
+The results of an environmental risk assessment (ERA) can be used to identify any contaminants 
+or physical stressors that may require mitigation including implementation of additional controls 
+on releases to the environment. An ERA may also: 
+• 
+identify nuclear and hazardous substances that merit action levels or licensed release limits 
+• 
+identify supporting information about mixing zone models, or detailed environmental 
+transport and pathway exposure models, that can be used: 
+• 
+in the calculation of exposure-based environmental release targets for new facilities or 
+existing facilities undergoing a major modification 
+• 
+to demonstrate that technology-based environmental release targets are acceptable 
+• 
+identify the receptors and associated exposure scenarios used to determine appropriate 
+benchmark value criteria (that is, to determine the release and exposure benchmarks that 
+define the “limiting” release scenario) 
+• 
+demonstrate that the licensed release limits are protective of people and the environment 
+The ERA also provides information that will be used in any decisions regarding adaptive 
+management. 
+3.1 
+Controlling releases to the environment (from all facilities and activities) 
+The following requirements and guidance apply to all facilities and activities. For additional 
+requirements and guidance for controlling releases to the environment: 
+• 
+from a new facility or activity, or an existing facility or activity that is undergoing a major 
+modification; see section 3.2 
+• 
+from an existing facility or activity under normal operation; see section 3.3 
+Requirements 
+The applicant or licensee shall: 
+• 
+describe the control measures that will be taken for the protection of the environment, 
+including the pollution control and abatement technologies and techniques 
+• 
+demonstrate that reasonable precautions have been taken: 
+• 
+to prevent or mitigate physical disturbances and releases of nuclear or hazardous 
+substances 
+• 
+to prevent or minimize any effects associated with those disturbances and releases 
+• 
+demonstrate that the principles of ALARA and BATEA have been incorporated (based on the 
+approved design; see section 4) to: 
+• 
+minimize controlled releases and prevent uncontrolled releases of nuclear and hazardous 
+substances to the environment  
+• 
+mitigate physical effects such as impingement and entrainment of biota 
+• 
+reduce exposures of radiation 
+• 
+ensure that releases are not acutely lethal 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+15 
+ 
+For more information, see REGDOC-2.9.1, Environmental Principles, Assessments and 
+Protection Measures [1]. 
+Guidance 
+The description of the control measures should include: 
+• 
+a list of all structures, systems and components that are important control measures (for 
+example, engineered barriers, wastewater treatment systems, air pollution control technology 
+systems, liquid waste monitoring equipment and stack monitoring equipment) 
+• 
+the maintenance program established to ensure the sustained operational performance of 
+preventive and control measures 
+• 
+any alarm systems to be installed to respond to failure of control measures 
+• 
+the methods to be used: 
+• 
+to prepare, store and retain records of releases that will be made routinely from the site 
+• 
+to compare those records of releases to available performance indicators (for example, 
+internal investigation levels, administrative levels, and other environmental monitoring 
+objectives and targets) 
+• 
+identification of the measures that will be taken to make appropriate information available to 
+the authorities and the public (for more information, see REGDOC-3.2.1, Public Information 
+and Disclosure [8]) 
+3.2 
+New facility or activity, or existing facility or activity undergoing a major 
+modification 
+Requirements 
+As part of the licence application for a new facility or activity, or for an existing facility or 
+activity that is undergoing a major modification, the applicant or licensee shall: 
+• 
+conduct a BATEA assessment to determine the maximum predicted design release 
+characteristics (see section 4) 
+• 
+establish the proposed release limits (see section 5) 
+• 
+establish the action levels (see section 6) 
+• 
+conduct an ERA in accordance with REGDOC-2.9.1, Environmental Principles, Assessments 
+and Protection Measures [1] 
+• 
+establish a commissioning plan and implement commissioning of the treatment system and 
+control measures (see section 7) 
+3.3 
+Existing facility or activity under normal operation 
+For an existing facility or activity under normal operation, a BATEA assessment is not required 
+unless a new risk (see section 8.1) has been identified in the ERA that merits adaptive 
+management. 
+Requirements 
+For an existing facility or activity under normal operation, and in line with its environmental 
+protection program, the licensee shall: 
+• 
+conduct routine effluent and/or emission and environmental monitoring as described in the 
+licensee’s approved environmental protection program 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+16 
+ 
+• 
+assess effluent and/or emission monitoring results against the licensed release limits and 
+action levels 
+• 
+assess the environmental monitoring results against: 
+• 
+the predictions in the ERA 
+• 
+any new or changes in legislation 
+• 
+update the site-specific ERA and characterize the risks to the environment (as per ERA 
+periodic update requirements) 
+• 
+upon completion of the ERA, notify the Commission if a previously unmanaged risk is 
+identified in the ERA, and adaptive management is required to restore the effectiveness of the 
+environmental protection program 
+Note: Some examples of unmanaged risks are those identified as the result of new science or 
+new legislation, or evidence of a significant increase in magnitude or spatial extent of a 
+previously known risk to an extent likely to have a measurable impact on ecological or 
+biological health, as identified in the ERA. 
+Where adaptive management is required, the licensee shall: 
+• 
+develop and document an adaptive management response plan (see section 8) 
+• 
+implement an interim pollution prevention plan, as applicable (see section 8) 
+• 
+conduct a BATEA assessment to determine the maximum predicted design release(s) 
+characteristics (MPDRCs) and update proposed release limits to be used in the new or revised 
+ERA (see section 4) 
+• 
+submit the information for the proposed revision to the licensing basis to the CNSC 
+• 
+as applicable, implement the long-term solution arising from the BATEA assessment (see 
+section 8) 
+Note: Once an adaptive management plan is established, it can be integrated into the facility’s 
+routine monitoring and reporting program. 
+Guidance 
+New science or the application of adaptive management may provide evidence to support the 
+removal of a licensed release limit. A licensee may submit a request to the CNSC for the removal 
+of a licensed release limit as part of the periodic review of its environmental protection program.  
+The implementation of BATEA during operations is part of a licensee’s commitment to pollution 
+prevention and to continuous improvement, as part of its environmental policy and as managed 
+through the EMS. As with the ALARA principle, the licensee should apply the BATEA concept 
+throughout the lifecycle of the facility or activity. Best practice for licensees is to periodically 
+re-evaluate the adequacy of their technology and techniques: for example, when managing the 
+aging of structures, systems, and components, or making improvements to an existing facility or 
+activity that could affect releases to the environment. For more information, see section 4. 
+Evaluation of the adequacy of the licensee’s technologies involves consideration of component 
+lifecycle upgrades and other cost-effective refinements to the existing facility or activity. These 
+considerations are often already considered as continuous improvements and documented within 
+the EMS or integrated management system. For nuclear power plants, the periodic evaluation of 
+major pollution prevention and control treatment systems and measures should be addressed as 
+part of the PSR. For more information, see: 
+• 
+REGDOC-2.3.3, Periodic Safety Reviews [10] 
+• 
+REGDOC-2.6.3, Aging Management [11] 
+ 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+17 
+ 
+4. 
+Best Available Technology and Techniques Economically Achievable 
+A best available technology and techniques economically achievable (BATEA) assessment does 
+not apply to nuclear facility technology (for example, reactor technology, mining and/or milling 
+technology and/or techniques). However, this type of assessment does apply to treatment and/or 
+control technologies and techniques applied to untreated pollutant sources being released from a 
+nuclear facility. 
+For a BATEA assessment, the applicant or licensee reviews new and existing technology and 
+techniques to: 
+• 
+determine an adequate design of pollution control technologies and techniques to reduce 
+releases to the environment, to ensure that: 
+• 
+appropriate control measures (including abatement strategies) for pollution prevention are 
+applied 
+• 
+risks are mitigated to protect human health and the environment 
+• 
+identify the maximum predicted design release(s) characteristics (MPDRCs) to: 
+• 
+set licensed release limits 
+• 
+develop action levels (for new facilities) 
+In accordance with the Class I Nuclear Facilities Regulations and the Uranium Mines and Mills 
+Regulations, the MPDRCs include the proposed location of the points of release, the proposed 
+maximum quantities and concentrations, and the anticipated volume and flow rate of nuclear and 
+hazardous substances expected to be released to the environment, including their physical, 
+chemical and radiological characteristics. The MPDRCs correspond to the residual release: that 
+is, the remaining release of a nuclear or hazardous substance, after accounting for all treatment 
+and mitigation through the application of BATEA. 
+4.1 
+Requirements for conducting a BATEA assessment 
+For facilities and activities that are new or are undergoing major modifications that have the 
+potential to increase or change the nature of releases to the environment and the resulting risks to 
+receptors, the applicant or licensee shall conduct an assessment to identify the best available 
+technologies, or the best available techniques for control, that have been demonstrated on an 
+industrial scale to reduce the release of contaminants or physical stressors to the environment.  
+Note: Demonstration of a technology or technique as a best practice in a similar industry or 
+activity may indicate that the technology or technique is economically achievable. The applicant 
+or licensee may decide to assess the use of emerging technologies, with justification that a similar 
+or better outcome is achieved. 
+The applicant or licensee shall document the BATEA assessment and results and shall submit 
+them to the CNSC (see figure 3a). This document may form part of the licensing basis for the 
+facility or activity. 
+4.2 
+Required elements of a BATEA assessment 
+A BATEA assessment shall contain the following elements: 
+• 
+characterization of pollutant source or sources 
+• 
+identification of contaminants and physical stressors that will require control 
+• 
+establishment of environmental release targets 
+• 
+analysis of options for technology and techniques 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+18 
+ 
+• 
+identification of the maximum predicted design release characteristics 
+• 
+analysis of benefits 
+• 
+selection of best BATEA option 
+4.3 
+Guidance for a BATEA assessment 
+The applicant or licensee should use a systematic approach to conduct a BATEA assessment. 
+The BATEA assessment includes the optimization process that was used to identify the adequate 
+design of pollution control technologies and techniques. Appendix B provides additional 
+information on the role of radiation protection principles such as optimization and dose 
+constraints relative to BATEA assessments and the setting of release limits for nuclear 
+substances. 
+Characterization of pollutant sources 
+Characterization of the pollutant sources includes identifying the expected nature, quality, and 
+quantity to be treated prior to release to the environment from the facility or activity. 
+Some examples of pollutant sources are process waters, untreated collection waters, gaseous 
+releases, and other waste streams. 
+The quantity should be calculated using the average and maximum predicted influent 
+concentrations over the operating lifecycle of the facility or activity. 
+Identification of contaminants and physical stressors 
+A screening assessment identifies the contaminants and physical stressors that will require control 
+(that is, treatment or management). 
+The contaminants and physical stressors that require control include the pollutant sources that are: 
+• 
+nuclear substances identified as exceeding conditional clearance levels established by the 
+CNSC (see appendix A) 
+• 
+subject to existing federal, provincial, territorial, or municipal requirements applicable to 
+releases 
+• 
+identified as potentially exceeding applicable and most scientifically defensible federal, 
+provincial, territorial, or municipal environmental quality guidelines, objectives, standards, or 
+criteria, before consideration of treatment 
+• 
+identified within the ERA as requiring control, where an unreasonable risk or potential 
+unreasonable risk to human health and the environment has been identified 
+Establishment of environmental release targets 
+Environmental release targets (ERTs) are not licence limits; rather they are evaluation criteria 
+used as the basis of the design of the treatment technologies and techniques being appraised as 
+part of the BATEA assessment. Two basic types of ERTs may be used: 
+• 
+dose constraints, concentrations, or total loadings identified in federal and/or provincial 
+regulations as applicable to the substance and type of release (emission/effluent) being 
+evaluated 
+• 
+risk based ERTs based on receiving environment quality criteria (for example, dose 
+constraints, Canadian Council of Ministers of the Environment Environmental Quality 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+19 
+ 
+Guidelines, Federal Environmental Quality Guidelines, Canadian Ambient Air Quality 
+Standards) 
+Due to the complexities and trade-offs associated with optimizing treatment design for complex 
+releases (multiple waste stream characteristics and compositions) and the limits of technology, 
+not all ERTs may be achievable. The BATEA assessment identifies the optimal design 
+composition (technologies and techniques) which: 
+• 
+achieves any ERTs specified as limits within federal or provincial regulations, and 
+• 
+achieve the most comprehensive suite of receiving environment ERTs. 
+Note: Due to the wide range of potential ERTs and the many differences in their derivation and 
+site-specific application, detailed discussion and examples are provided in appendix C on 
+establishing environmental release targets and their role in the BATEA assessment and the final 
+development of licensed release limits. 
+Analysis of options for technology and techniques 
+Analysis of the technology options identifies: 
+• 
+available technologies 
+• 
+their performance in reducing source contaminants and physical stressors (that is, treatment 
+efficiencies and expected concentrations) 
+• 
+their associated benefits and drawbacks 
+A techniques analysis identifies areas of optimization that may have a direct effect on reducing 
+releases to the environment. A techniques analysis should include: 
+• 
+the engineering aspects of applying various types of control techniques 
+• 
+different configurations of a technology 
+• 
+the processes employed and the process changes 
+• 
+human factors 
+• 
+management oversight and process 
+• 
+water management 
+• 
+management of greenhouse gases 
+• 
+how contaminants and physical stressors are released to the environment 
+• 
+trade-offs associated with applying a given technique (for example, energy requirements, air 
+pollution and greenhouse gases, waste generation, worker exposure and public exposure) 
+• 
+other site-specific factors, as appropriate to the facility or activity 
+The analysis should review top-performing similar facilities or activities to identify technologies 
+and techniques that should be considered as part of the BATEA assessment. The analysis should 
+demonstrate that the selected technologies and techniques represents an optimized design to 
+achieve the environmental release targets. 
+The analysis should consider the potential impacts the technology and/or techniques will have on 
+climate change. The identification of the technology and/or techniques that are BATEA should 
+consider the minimization of greenhouse gases released to the environment. 
+Treatment systems should be designed to accommodate the potential for extreme weather events 
+and should consider the future impacts of climate change on those events (for example, 1-in-100-
+years weather event). 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+20 
+ 
+This analysis may be supported by any bench-scale, laboratory-scale, or pilot project-scale testing 
+to confirm treatment efficiencies and expected treated effluent and/or emission concentrations. 
+Licensees of nuclear facilities emitting radioactive particulates and radioiodines should consider 
+the use of CSA N288.3.4, Performance testing of nuclear air-cleaning systems at nuclear 
+facilities [3] for the design, commissioning, and maintenance of air pollution control systems. 
+Some examples of techniques are: 
+• 
+improved procedures for changing filters 
+• 
+faster mixing using diffusers 
+• 
+discharging into fast- versus slow-moving water bodies 
+• 
+limiting or preventing discharge during environmentally sensitive time periods 
+• 
+use of high stack height and/or reduced diameter for the stack 
+• 
+improvement in the chemical reagents used 
+• 
+increased certainty in orebody concentrations 
+• 
+minimizing human errors through improvement in the training programs 
+• 
+optimizing operating conditions 
+Identification of the maximum predicted design release characteristics 
+For the combination of technologies and techniques under consideration, determination of the 
+MPDRCs includes the concentration and quantities expected to be released from the facility or 
+activity. 
+When determining the MPDRCs, the applicant or licensee should consider: 
+• 
+the maximum expected influent characteristics 
+• 
+the anticipated treatment efficiencies for full-scale operations 
+• 
+a margin of operational flexibility 
+Analysis of benefits 
+An analysis of benefits (for example, cost-benefit analysis, or a multi-value criteria analysis) 
+supports the selection of an appropriate technology or technique. 
+Selection of most applicable BATEA option 
+Based on the assessments described above, the applicant or licensee should select the most 
+applicable BATEA option for the facility or activity. 
+4.3.1 
+Documentation of the BATEA assessment and results 
+The applicant or licensee should document the following information about the BATEA 
+assessment and results: 
+• 
+a summary of the results of the characterization of pollutant sources, including: 
+• 
+the nature of the source 
+• 
+the average and maximum predicted influent concentrations 
+• 
+quantities to be treated 
+• 
+the established environmental release targets and the methodology used in their derivation 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+21 
+ 
+• 
+a summary of the results of the technology options analysis, including a list of the 
+technologies assessed and their expected performance (that is, the expected treatment 
+efficiency) in treating identified contaminants and physical stressors 
+• 
+a description of the techniques to be applied 
+• 
+if applicable, a summary of the results of the cost-benefit analysis, or the multi-value criteria 
+analysis 
+• 
+the final proposed design and its justification as the BATEA option 
+• 
+the predicted treatment efficiencies, MPDRCs, and a comparison to the established 
+environmental release targets 
+For more information on how the CNSC considers cost-benefit information, refer to REGDOC-
+3.5.3, Regulatory Fundamentals [12].  
+ 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+22 
+ 
+5. 
+Licensed Release Limits 
+Licensed release limits apply to releases to the environment from the licensed facility or activity 
+and are applied to the final point of control. For radioactive nuclear substances, where there are 
+multiple release points, facility- and/or activity- wide licensed release limits may be authorized. 
+In establishing licensed release limits, the objective is to constrain the quantity or concentration 
+of contaminants and physical stressors that may be released into the environment. In line with this 
+objective, a licensed release limit is based on the proposed maximum quantities or concentrations 
+that could be released during normal operation, in other words the maximum predicted design 
+release concentrations (MPDRCs). These MPDRCs are based on the facility design, include a 
+margin of operational flexibility as discussed in section 4.3, and form part of the licensee’s design 
+basis documentation submitted in support of their licence application. Therefore, exceeding a 
+licensed release limit indicates that there is a loss of control of part of the environmental 
+protection program or control measure(s), and that the licensee is operating outside the licensing 
+basis. 
+The implementation of licensed release limits ensures: 
+• the application of acceptable control measures (including abatement strategies) for pollution 
+prevention 
+• the protection of human health and the environment 
+• that the licensee is operating within the licensing basis for normal operation for that facility or 
+activity 
+As licensed release limits represent the upper-end (that is, maximum) on acceptable releases 
+during normal operations, it is necessary to ensure that these releases do not pose an unreasonable 
+risk to the environment or to the health and safety of persons. This can be demonstrated through a 
+site-specific ERA. 
+For new facilities, or existing facilities undergoing major modifications that require an 
+amendment to the licence, the proposed release limits are submitted as part of a licence 
+application and are approved by the Commission. Any changes to the licensed release limits for 
+an existing facility would require approval by the CNSC. 
+When a licence is issued, the licensee is authorized to release to the environment in accordance 
+with the licensed release limits. Authorization to release must be received from all applicable 
+jurisdictions prior to any releases: 
+• 
+authorization under other jurisdictions does not constitute authorization from the CNSC 
+• 
+authorization from the CNSC does not constitute authorization under other jurisdictions 
+The CNSC will work with other jurisdictions to ensure that, to the extent possible, authorizations 
+are acceptable to all applicable jurisdictions. Section 5.1 identifies procedures for harmonizing 
+CNSC licensed release limits with those currently in federal/provincial/territorial regulations that 
+apply to the licensed activity. Licensed release limits are only applicable to normal operation. 
+During emergency events, licensed release limits do not apply – emergency management 
+procedures take effect until normal operation is restored. During this period, CNSC staff are in 
+on-going communications with the licensee and apply enhanced regulatory oversight. 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+23 
+ 
+Exceeding a licensed release limit demonstrates a lack of compliance with requirements and is 
+subject to enforcement action. Enforcement action, which is commensurate with the level of 
+release, associated risks to human health and the environment, and prior compliance history, may 
+include any of the CNSC’s graduated enforcement tools. For more information, see the CNSC’s 
+approach to compliance verification and enforcement. 
+Note: Licensed release limits are set at a level that ensures no unreasonable risk to human health 
+and the environment, and as a result are protective of human health and the environment. The 
+implementation of licensed release limits, which includes how to respond to a licence limit 
+exceedance and those actions taken to restore the effectiveness of the environmental protection 
+program, accomplish this protection. 
+5.1 
+Requirements for establishing and documenting proposed release limits 
+The applicant or licensee shall submit to the CNSC: 
+• 
+the locations of the proposed controlled release points 
+• 
+for radioactive nuclear substances, either: 
+• 
+the proposed release limit(s) associated with each proposed controlled release point for 
+each contaminant, or 
+• 
+the proposed release limit(s) for the facility and/or activity for each contaminant  
+• 
+for hazardous substances, the proposed release limit(s) associated with each proposed 
+controlled release point for each contaminant and/or physical stressor 
+• 
+the methodology used to establish the proposed release limit(s) 
+Note: For new facilities, proposed release limits for radioactive nuclear substances should be 
+specific to each release point. 
+The site-specific proposed release limit(s): 
+• 
+shall be at or below any applicable release limits found in existing legislation 
+• 
+are subject to approval by the Commission (and therefore become part of the licensing basis; 
+that is, licensed release limits) 
+For contaminants and physical stressors that do not have established limits on releases, the 
+applicant or licensee shall use the MPDRCs to establish appropriate proposed release limits. 
+For all nuclear substances released from the facility or activity, the applicant or licensee shall 
+demonstrate that, based on the proposed release limit(s), the maximum predicted annual total 
+effective dose to a member of the public is less than the regulatory public dose limit.  
+To establish the proposed release limit(s), the applicant or licensee shall: 
+• 
+identify the controlled release points where proposed release limit(s) will apply 
+• 
+identify the MPDRCs 
+• 
+identify each contaminant and physical stressor that requires a release limit 
+• 
+establish the proposed release limit(s) 
+• 
+demonstrate that the proposed release limits respect the radiological regulatory public dose 
+limit, and do not pose an unreasonable risk to human health or the environment 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+24 
+ 
+Guidance 
+The applicant or licensee should use a systematic, structured process to establish the proposed 
+release limits. 
+Identify the controlled release points where proposed release limit(s) will apply 
+The list of proposed controlled release point(s) should be in alignment with the facility design and 
+with those controlled release points established in the effluent and/or emissions monitoring 
+program. For nuclear substances, where there are multiple release points, facility- and/or activity- 
+wide licensed release limits may be applied. 
+In alignment with the prohibition on dilution as an internationally accepted best practice, 
+controlled release points where licensed release limits apply should be prior to combining with 
+water or any other effluent for the purpose of diluting effluent before it is released (for example, 
+cooling water discharge). 
+Identify the maximum predicted design release characteristics 
+Identify the MPDRCs for each proposed controlled release point: 
+• 
+for a new facility or activity, or for an existing facility or activity that is undergoing major 
+modifications, this information is documented as part of the BATEA assessment and results 
+• 
+for an existing facility or activity under normal operation: 
+• 
+this information may be documented in the approved design documentation for normal 
+operation 
+• 
+otherwise, the MPDRCs should be established by using historical performance data for 
+each controlled release point 
+• 
+for nuclear substances, facility-wide and/or activity-wide MPDRCs can be established 
+through the following methodology: 
+i. 
+for each radionuclide/radionuclide group, identify a level that represents the 
+maximum facility- and/or activity-wide release(s) during normal operation based on 
+historical performance data 
+ii. calculate the total effective dose to the representative person (or critical receptor) 
+using the maximum release values obtained in step i 
+iii. calculate the dose corresponding to the MPDRCs by applying a factor to the dose 
+calculated in step ii, to account for operational flexibility based on an understanding 
+of the anticipated operation of the facility and/or activity, and professional judgement 
+iv. for each radionuclide/radionuclide group, determine their fraction of contribution to 
+the total effective dose identified in step iii 
+v. for each radionuclide/radionuclide group, back calculate from the dose corresponding 
+to the MPDRCs, and multiply by its fraction contribution to the total dose identified 
+in step iv, to obtain a facility-wide and/or activity-wide MPDRC 
+The applicant or licensee may use the methodology described in CSA N288.8, Establishing and 
+implementing action levels for releases to the environment from nuclear facilities [7], such as a 
+retrospective approach. This approach could use a percentile that represents the upper value of 
+normal operation and apply a factor to represent the maximum predicted design release. This 
+should be informed by site-specific knowledge and professional judgement. 
+For those licensed nuclear facilities where, due to the nature of the operation (for example, 
+research and development, providing services for nuclear industry), releases are dependent on the 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+25 
+ 
+type of active work, which may change over time, an appropriate margin for operational 
+flexibility should be factored into the MPDRCs to account for anticipated operations throughout 
+the lifecycle of the facility. 
+Identify each contaminant and physical stressor that requires a licensed release limit 
+All contaminants and physical stressors that require a licensed release limit should be identified: 
+i. 
+that are subject to existing federal, provincial, territorial, or municipal requirements on 
+releases; or 
+ii. where the MPDRC exceeds applicable, to the facility and/or activity, and most scientifically 
+defensible federal, provincial, territorial, or municipal environmental quality guidelines, 
+objectives, standards, or criteria not covered by i; or 
+iii. by reviewing the ERA and considering contaminants and physical stressors that pose an 
+unreasonable or potentially unreasonable risk, or require mitigation in the case where due to 
+the precautionary approach, mitigation measures have been recommended in the ERA. 
+The applicant or licensee should demonstrate that a review has been completed of existing 
+legislation, regulation, and associated limits or controls applicable to the facility or activity that 
+should be considered when proposing release limits. 
+Note: this review is already required for a licensee’s environmental management system. 
+A licensed release limit may not be required where the applicant or licensee can demonstrate that, 
+for controlled releases under all foreseeable circumstances (as identified in the ERA): 
+• 
+for the combination of all nuclear substances released at their MPDRCs from the licensed 
+facility or activity under normal operations, the maximum predicted total effective annual 
+dose to the public does not exceed 0.01 mSv/year 
+• 
+for a hazardous substance, the MPDRCs is lower than the applicable and most scientifically 
+defensible federal, provincial, territorial, or municipal environmental quality guidelines, 
+objectives, standards, or criteria (for example, Canadian Council of Ministers of the 
+Environment) 
+If a licensed release limit is not required, the licensee or applicant: 
+• 
+is still required to demonstrate annually (through monitoring or modelling) that the total 
+effective annual dose does not exceed the regulatory public dose limit of 1 mSv, and that 
+licensed release limits continue to not be required by confirming the dose remains below 
+0.01 mSv and any applicable CNSC prescribed dose constraint (for example, where potential 
+for cumulative exposure from multiple licensed activities exists) 
+Note: This assessment would be part of the facility’s existing annual radiological dose 
+assessment, using the site-specific public dose assessment model. Determination would be for 
+the total licensed facility and/or activity. 
+• 
+may be required to conduct routine effluent and/or emissions monitoring, as well as 
+environmental monitoring (as described in REGDOC-2.9.1 [1]) 
+Establish the proposed release limit(s) 
+The applicant or licensee should establish the proposed release limits as follows: 
+Step 1: Adopt applicable governmental requirements on releases that were previously identified 
+• 
+where there are other government requirements for releases that apply to the facility 
+and/or activity, the applicant or licensee may harmonize with those requirements (in 
+particular, with any reporting processes and procedures) and use these values as the 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+26 
+ 
+proposed release limit(s). Some examples include federal or provincial regulations 
+(including those for local air quality at the point of impingement), municipal by-laws, 
+and provincial or territorial permits, authorizations, or licences. 
+• 
+proposed release limits adopted from provincial permits may be applied on a 
+monthly, quarterly, or annual basis, as deemed appropriate based on the nature of the 
+release, and discussions with CNSC. 
+• 
+some release limits in provincial permits may be more suitable for the purpose of 
+action levels if they are used to indicate a deviation from normal operation and 
+identify a potential loss of control of part of the licensee’s programs and/or control 
+measures. In this case, those provincial release limits may be proposed as action 
+levels. The licensee may still be required to propose release limits as per the guidance 
+described in this regulatory document. 
+• 
+to harmonize with requirements on releases to protect local air quality (for example, 
+Ontario Regulation on Local Air Quality O. REG 419/05 [13]), proposed release 
+limits for those contaminants and/or physical stressors of regulatory interest may be 
+established by back-calculating from the point of impingement, using site-specific 
+release characteristics (for example, flow rates, stack heights, stack temperature). 
+• 
+licensed release limits harmonized with other government requirements may change 
+from time to time, as those requirements are updated. CNSC staff should be notified 
+of any such changes ahead of issuance, in order to review the proposed changes, and 
+update the licence conditions handbook. The updated licensed release limits will be 
+in effect in accordance with the date specified by the respective jurisdiction. 
+• 
+where existing federal/provincial/territorial requirements do not adequately protect 
+the environment (as supported through an ERA or other scientifically defensible 
+assessment), the CNSC will engage with the applicable jurisdictions when 
+determining the most appropriate licensed release limit. 
+Step 2: Set the proposed release limit(s) as the maximum predicted design release concentration 
+• 
+set the proposed release limit as the maximum predicted design release concentration, 
+which applies to the maximum mean concentration over a specified period of time 
+(for example, weekly, quarterly, or bi-annual averaging period). This should be done 
+for each contaminant requiring proposed release limits (where requirements on 
+releases do not exist, are deemed to not be adequately protective of the environment, 
+or where the applicant or licensee chooses not to adopt, for the purposes of 
+harmonization, those applicable governmental requirements on releases that were 
+previously identified). Only a proposed release limit corresponding to the maximum 
+mean concentration over a specified period of time is required. However, to account 
+for uncertainty in sampling results, a proposed release limit corresponding to an 
+individual grab sample or an individual composite sample may be established. A 
+proposed release limit that applies to an individual composite sample can be 
+established by multiplying the maximum mean concentration by 1.5. A proposed 
+release limit that applies to an individual grab sample can be established by 
+multiplying the maximum mean concentration by 2. This is a common regulatory 
+approach. It should be noted that this approach is unrelated to the factor providing a 
+margin of operational flexibility that is incorporated in the derivation of the MPDRC. 
+• 
+when historical monitoring data is used to establish the MPDRCs, it may be based on 
+a set of grab samples or a set of composite samples. If the dataset is comprised of 
+grab samples, then the MPDRC is set to the maximum historical grab sample value 
+multiplied by a factor for operational flexibility. The MPDRC is then divided by 2 to 
+determine the maximum mean concentration over a specified period of time for the 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+27 
+ 
+proposed release limit. If the dataset is comprised of composite samples (for 
+example, batch pond release composite), then the MPDRC is set to the maximum 
+historical composite sample value multiplied by a factor for operational flexibility. 
+The MPDRC is then divided by 1.5 to determine the maximum mean concentration 
+for the proposed release limit. 
+Step 3: Establish rate-based proposed release limit(s) 
+• 
+where a proposed release limit is to be established on the quantity of the contaminant 
+released in each period (that is, rate/loading), multiply the maximum predicted design 
+release concentration by the maximum design flow rate over the specific period. 
+• 
+for nuclear substances, facility-wide and/or activity-wide release limit(s) may be 
+established for those facilities with multiple release points. 
+• 
+licensed release limits based on the MPDRCs are based on the approved physical 
+design of the facility, which should account for operational flexibility based on the 
+anticipated operation of the facility and/or activity. Therefore, they are not expected 
+to change over time, unless there is a major modification to the nuclear facility and/or 
+activity that has the potential to increase or change the nature of releases to the 
+environment and the resulting risks to receptors, which would be outside the existing 
+licensing basis.  
+• 
+during the transition from operation to decommissioning, if there is no 
+anticipated increase in release characteristics, and existing control measures will 
+continue to operate within the current licensed release limits, then the facility 
+and/or activity remains within its licensing basis. However, if there is a proposed 
+major modification of the facility and/or activity that may change the release 
+characteristics to exceed the current licensed release limits, the result would be 
+outside the existing licensing basis, trigger a request for a licence amendment, 
+and require the conduct of a BATEA assessment and an update to the licensed 
+release limits to reflect the major modification or change in activities. 
+• 
+for nuclear substances, this approach incorporates limitation of exposure and 
+optimization to achieve ALARA. Limitation is represented by the Radiation 
+Protection Regulations public dose limit of 1 mSv/year. As this limit applies to the 
+summation of exposures from all licensed releases, it is not used as the basis for 
+establishing a licensed release limit for a single facility. A facility’s licensed release 
+limit is based on the optimization of the facility’s design and treatment systems 
+through the application of BATEA. See appendix B for further information on the 
+role of radiation protection principles such as optimization and dose constraints 
+relative to setting licensed release limits for nuclear substances. 
+Demonstrate that the proposed release limits respect the regulatory public dose limit and do 
+not pose an unreasonable risk to human health or the environment 
+For all nuclear substances released from the facility or activity, the maximum predicted annual 
+total effective dose (based on the proposed release limits) to a member of the public is required to 
+be less than the regulatory public dose limit and the applicant or licensee must demonstrate that 
+releases have been optimized (see appendix B). 
+To demonstrate this, the applicant or licensee should: 
+• 
+identify the information from the most recent ERA, where available 
+• 
+estimate the information using an appropriate environmental transport and exposure pathway 
+model 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+28 
+ 
+For nuclear and hazardous substances, the applicant or licensee should assess the proposed 
+release limits using ERA methodology to demonstrate that, at the level of the proposed release 
+limits, there is no unreasonable risk to human health or to the environment. 
+A licensed release limit is recognized by the CNSC and Environment and Climate Change 
+Canada as an authorization that the licensee can release up to the limit. Therefore, the applicant or 
+licensee is expected to demonstrate that releases at the proposed release limit will not result in an 
+unreasonable risk to human health and the environment. This can be demonstrated by applying 
+the proposed release limits as a source term in a scenario, using ERA methodology. This may be 
+assessed conservatively through a scenario whereby a continuous release at the proposed release 
+limit(s) is assumed. This may be used for any industrial facility that has a very stable, continuous 
+release over its operational lifetime, or for a low-risk facility whose licensee wishes to 
+conservatively demonstrate that its releases are protective. 
+If, due to the nature of the facility and/or activity, the proposed release limit(s) is only expected to 
+be reached during a specific period of normal operations or periodically for short durations, the 
+applicant or licensee may wish to model this situation instead. In scenarios where periodic or 
+time-limited higher releases are anticipated, the proposed release limit may incorporate temporal 
+limits. 
+For an existing facility where proposed release limits are based on historical data, only the 
+proposed release limit needs to be applied in the scenario. 
+In addition, the scenario corresponding to the release of nuclear substances at the proposed 
+release limits should demonstrate that they are protective of aquatic life and/or terrestrial life, by 
+comparing to peer-reviewed guidelines established for the protection of aquatic life and/or 
+terrestrial life adopted by a federal or provincial body. 
+Note: The maximum predicted annual total effective dose includes direct gamma exposure. 
+For more information on the role and development of environmental transport and exposure 
+pathway models, see: 
+• 
+REGDOC-2.9.1, Environmental Principles, Assessments and Protection Measures [1] 
+• 
+CSA N288.1, Guidelines for modelling radionuclide environmental transport, fate, and 
+exposure associated with the normal operation of nuclear facilities [2] 
+• 
+CSA N288.6, Environmental risk assessment at Class I nuclear facilities and uranium mines 
+and mills [5] 
+5.2 
+Requirements for responding to licensed release limit exceedances 
+When a licensee becomes aware that a licensed release limit has been exceeded, the licensee 
+shall: 
+• 
+limit, to the extent possible, the effect and magnitude of the exceedance 
+• 
+conduct an investigation to establish the cause and determine the magnitude of the 
+exceedance 
+• 
+assess the potential effects on human health and the environment 
+• 
+identify and take action to restore the effectiveness of the environmental protection program 
+and/or control measure(s) implemented, and prevent recurrence (this may include the 
+application of adaptive management; see section 8) 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+29 
+ 
+• 
+follow the reporting requirements described in the regulatory document applicable to the 
+facility or activity: 
+• 
+REGDOC-3.1.1, Reporting Requirements for Nuclear Power Plants [14] 
+• 
+REGDOC-3.1.2, Reporting Requirements, Volume I: Non-Power Reactor Class I 
+Facilities and Uranium Mines and Mills [15] 
+• 
+REGDOC-3.1.3, Reporting Requirements for Waste Nuclear Substance Licensees, 
+Class II Nuclear Facilities and Users of Prescribed Equipment, Nuclear Substances and 
+Radiation Devices [16] 
+5.3 
+Requirements for revising licensed release limits 
+Licensed release limits shall be revised in response to: 
+• 
+a major modification of the operations of the facility, leading to a change in the licensing 
+basis 
+• 
+new or updated governmental requirements (for example, federal, provincial, territorial, and 
+municipal requirements) 
+The licensee may apply for a revision to the release limits for reasons outside of those listed 
+above, with adequate justification. 
+ 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+30 
+ 
+6. 
+Action Levels for Environmental Protection 
+Within the licensing basis for a specific site, the licensee should review action levels on a 
+periodic basis and adjust them to reflect any changes to site activities, conditions, or processes. 
+Any revisions to action levels may be subject to CNSC review and approval. 
+Exceeding an action level triggers a requirement for a specific action to be taken. Exceeding an 
+action level is not considered a lack of compliance; however, failure to respond appropriately is. 
+To respond to an exceedance, a licensee must follow:  
+• 
+the steps in subsection 6(2) of the Radiation Protection Regulations 
+• 
+requirements in the licensee’s code of practice, as set out in subsection 4(2) of the Uranium 
+Mines and Mills Regulations, where applicable 
+• 
+additional requirements that may be included in the licensee’s licensing basis 
+When responding to an action level exceedance, the successful implementation of the required 
+follow-up activities (such as notification, investigation, and corrective actions) is a clear 
+demonstration of a well-maintained and managed environmental protection program and control 
+measures. 
+Action levels are site-specific. For more information, see: 
+• 
+for nuclear power plants, REGDOC-3.1.1, Reporting Requirements for Nuclear Power 
+Plants [14] 
+• 
+for Class I nuclear facilities (excluding power reactors) and uranium mines and mills, 
+REGDOC-3.1.2, Reporting Requirements, Volume I: Non-Power Reactor Class I Nuclear 
+Facilities and Uranium Mines and Mills [15] 
+• 
+CSA N288.8, Establishing and implementing action levels for releases to the environment 
+from nuclear facilities [7] 
+An action level is defined as a specific dose of radiation or other parameter that, if reached, may 
+indicate a loss of control of part of a licensee’s radiation protection program or environmental 
+protection program, and triggers a requirement for specific action to be taken. 
+An action level is an indicator of a potential loss of control of part of a program and/or control 
+measure(s). Exceeding an action level signals a potential reduction in the effectiveness of the 
+program and/or control measure(s) and may indicate a deviation from normal operation. 
+6.1 
+Requirements for setting action levels 
+The applicant or licensee shall develop and set appropriate action levels, as control measures, on 
+the operational parameters of the nuclear facility or activity. 
+6.1.1 
+Contaminants and physical stressors 
+For contaminants and physical stressors released to the environment, the licensee shall establish 
+and implement action levels in accordance with CSA N288.8, Establishing and implementing 
+action levels for releases to the environment from nuclear facilities [7]. 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+31 
+ 
+6.1.2 
+Other environmental controls 
+The applicant or licensee shall establish and implement action levels on other environmental 
+controls that are necessary to ensure the effectiveness of the environmental protection program 
+and control measures. For example, action levels may be established on: 
+• 
+flow (to ensure adequate control of flow into a watershed to prevent downstream flooding or 
+stream channel disruption) 
+• 
+hydraulic head across engineered or natural barriers (to ensure adequate control of 
+containment of contaminants and physical stressors) 
+Note: These types of action levels have typically been applied at uranium mines and mills; they 
+may be applied at other nuclear facilities and on other environmental controls. 
+6.1.3 
+Documenting development of action levels 
+The applicant or licensee shall: 
+• 
+document the development of the action levels in accordance with CSA N288.8, Establishing 
+and implementing action levels for releases to the environment from nuclear facilities [7] 
+• 
+submit this documentation and the proposed action levels to the CNSC 
+This documentation will form part of the licensing basis for the nuclear facility or activity. 
+The action levels are expected to change over time as they reflect actual operating conditions. The 
+licensee shall submit any changes to the action levels and to the supporting documentation to the 
+CNSC. 
+6.2 
+Requirements for responding to action level exceedances 
+When an action level is exceeded, the licensee shall: 
+• 
+notify and report to the Commission as specified in the licence or licence conditions 
+handbook 
+• 
+conduct an investigation to identify the basis for exceeding the action level 
+• 
+where necessary, take action to restore the effectiveness of the program or control measures 
+that have been implemented 
+6.3 
+Guidance for action levels 
+Within the licensing basis for a specific site, action levels should be adjusted depending on 
+changes to site activities or processes. The licensee should: 
+• 
+review the action levels periodically in accordance with CSA N288.8, Establishing and 
+implementing action levels for releases to the environment from nuclear facilities [7] 
+• 
+revise them if appropriate, considering: 
+• 
+data collected from operations and performance of the nuclear facility or activity from 
+start of operation to the current date (also called a retrospective approach) 
+• 
+current operations and performance of the nuclear facility or activity 
+Where appropriate, the applicant or licensee may adapt the performance-based approach 
+described in CSA N288.8 [7] to establish action levels on other environmental controls (for 
+example, engineered or natural barriers, or flow control). 
+ 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+32 
+ 
+7. 
+Commissioning a Treatment System 
+Commissioning is essential to verify performance against the approved design and to ensure that 
+the licensed release limits are achievable and are set at a level that is protective of the 
+environment. 
+All new treatment systems must be commissioned to verify: 
+• 
+whether the system has been constructed and will operate in accordance with the design basis 
+before commencing releases to the environment 
+• 
+that the system is not exceeding the maximum predicted design release(s) characteristics 
+(MPDRCs) 
+• 
+that the previously established action levels and licensed release limits are appropriate 
+Wherever possible, the CNSC harmonizes this process with that of any other approving 
+jurisdiction. 
+Note: This section applies to licensed activities, and to hazardous substances or hazardous waste, 
+other than nuclear substances, used or produced while carrying on a licensed activity that may 
+pose a risk to the environment or the health and safety of persons. This would include a 
+conventional sewage treatment facility that is on the licensed site. 
+Requirements 
+For any facility or activity that has a new treatment system to be commissioned, or a major 
+modification to an existing treatment system, the licensee shall submit a commissioning plan to 
+the CNSC. 
+The licensee shall commission the treatment system and control measures in accordance with the 
+approved commissioning plan. 
+After the treatment system is commissioned, the licensee shall submit a commissioning report 
+that: 
+• 
+includes an assessment of the operating performance of the treatment system against the 
+licensed release limits and MPDRCs to ensure the operating performance is within the 
+licensed release limits 
+• 
+confirms whether the proposed action levels remain appropriate 
+If the licensee discovers that a specific licensed release limit on releases to the environment 
+cannot be met, the licensee shall: 
+• 
+notify the Commission 
+• 
+determine the nature of the unexpected performance or behaviour 
+• 
+assess if the licensed release limit can be met through further optimization, or through 
+application of additional mitigation measures or techniques to bring releases to levels below 
+the licensed release limit 
+If the licensee determines that the treatment system performance is unable to meet a specific 
+licensed release limit, the licensee shall: 
+• 
+establish a revised release limit based on achievable technology 
+• 
+reassess the ERA to determine whether the predictions of the ERA remain valid 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+33 
+ 
+• 
+if the reassessment of the ERA: 
+• 
+identifies an unreasonable risk to human health or the environment, then the licensee 
+shall implement additional optimization, mitigation measures or techniques and repeat 
+the three bullets above 
+• 
+determines there is no unreasonable risk to human health or to the environment; in this 
+case, the licensee shall: 
+• 
+request that the CNSC amend the licensing basis 
+• 
+submit the revised ERA and proposed release limits 
+Guidance 
+The applicant or licensee should submit the commissioning plan at the end of their construction 
+phase. The licensee’s commissioning plan should include the following information: 
+• 
+commissioning schedule and process 
+• 
+responsibilities 
+• 
+transitioning to the next stage of commissioning (“package turnover”) 
+• 
+operational performance 
+• 
+performance assessment 
+• 
+management system (particularly quality assurance and quality control (QA/QC)) 
+• 
+safety (occupational health and safety, and radiation protection) 
+• 
+training 
+• 
+records and records maintenance 
+• 
+site plan and sample locations 
+To confirm the performance of the treatment system, the licensee should assess the operating 
+performance against the environmental release targets established in section 4.3.1 (as part of the 
+BATEA assessment). 
+For more information on the components of a commissioning plan and on confirming the 
+performance of the treatment system, see appendix D. 
+For more information on the commissioning of a wastewater treatment system, see: 
+• 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning 
+Programs [9] 
+• 
+guidance from the U.S. Department of Defense, Planning and Commissioning Wastewater 
+Treatment Plants [17] 
+ 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+34 
+ 
+8. 
+Adaptive Management 
+Adaptive management involves, among other things, the implementation of new or modified 
+mitigation measures over the life of a project to address unanticipated environmental effects. 
+Adaptive management ensures that licensees take corrective actions to mitigate an identified 
+unreasonable risk or a potential unreasonable risk to the environment to a level accepted by the 
+CNSC. The CNSC expects licensees to take a proactive approach if an unreasonable risk or a 
+potential unreasonable risk to the environment has been identified. 
+An adaptive management plan may be considered analogous to a corrective action plan that is 
+implemented in response to a non-conformance with the licensing basis. 
+8.1 
+Requirements for adaptive management 
+Adaptive management is required in response to: 
+• 
+identification of an unreasonable risk or a potential unreasonable risk through the ERA or 
+through monitoring; for example, because of: 
+• 
+changes to the operation or to the licensed activity 
+• 
+changes in the scientific understanding of a substance’s toxicity or physical effect 
+• 
+changes in the regulatory status of a substance (for example, Environment and Climate 
+Change Canada classification of a substance as toxic under the Canadian Environmental 
+Protection Act, 1999) 
+• 
+new or updated regulatory requirements 
+When a requirement for adaptive management is identified, the licensee shall: 
+• 
+notify the Commission 
+• 
+develop, document, and implement an adaptive management plan to: 
+• 
+reduce releases of the identified contaminants and physical stressors to the environment 
+• 
+mitigate any potential effects on the environment 
+• 
+provide periodic updates as needed to reflect the current operation 
+The interim period is the time from when adaptive management is triggered through to 
+completion of commissioning of the new treatment system or other control measures. During this 
+interim period, at a frequency specified by the CNSC, the periodic updates shall include: 
+• 
+a summary of the technology and techniques being applied and their performance in reducing 
+the contaminants and physical stressors 
+• 
+for each contaminant and physical stressor: 
+• 
+an assessment of the historic and current effluent and/or emission performance data 
+• 
+an assessment of the predicted future trends in effluent and/or emission performance 
+• 
+an update summarizing the potential and residual risks to the environment 
+• 
+the status of implementation of the long-term adaptive management plan 
+The implementation of adaptive management should consider the potential impacts that 
+mitigation measures will have on climate change, to reduce the release of greenhouse gas 
+emissions. 
+Once an adaptive management plan is established, it can be integrated into the facility’s routine 
+monitoring and reporting program. 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+35 
+ 
+8.2 
+Guidance for adaptive management 
+Early engagement with CNSC staff is encouraged for adaptive management plans. CNSC staff 
+can provide facility- or activity-specific guidance to assist applicants and licensees. 
+8.2.1 
+Components of an adaptive management plan 
+An adaptive management plan should include: 
+• 
+an interim pollution prevention plan (IPPP) 
+• 
+a BATEA assessment to identify and implement a long-term treatment solution 
+• 
+the schedule of expected timelines for the implementation of the adaptive management plan 
+8.2.2 
+Components of an interim pollution prevention plan 
+The intent of the IPPP is to focus on short-term mitigation while long-term solutions are 
+evaluated (that is, to mitigate any potential risks in the short term, until a viable long-term 
+treatment solution is implemented). The licensee should consider the full scope of treatment 
+options that were identified within the BATEA assessment. 
+The IPPP should include: 
+• 
+an assessment of any upstream processes that may affect the concentration of each 
+contaminant entering the treatment system 
+• 
+a description of the technology and techniques that have been implemented to reduce 
+contaminant concentrations and loadings to the environment 
+• 
+a description of any technology and techniques that have been assessed but not yet 
+implemented, with a schedule outlining their expected implementation dates 
+• 
+the technology and techniques that will be assessed for continuous improvement to control 
+releases to the environment during the period of the BATEA assessment 
+• 
+any changes, including any special field studies, to: 
+• 
+the effluent and/or emission monitoring programs 
+• 
+the environmental monitoring programs 
+Within the interim period, updates to the IPPP should identify: 
+• 
+the existing continuous improvement techniques being applied 
+• 
+any new continuous improvement techniques that are being assessed to reduce the levels of 
+the contaminants and physical stressors in the environment 
+Updates to the IPPP may be submitted as a separate report, or as a section of a routine compliance 
+report. 
+ 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+36 
+ 
+Appendix A: Role of Clearance Levels in the Graded Approach to the Application 
+of the Environmental Protection Framework 
+The information in this appendix should be consulted as referred to in the applicable sections of this 
+regulatory document. The information in this appendix applies to Class I nuclear facilities or uranium 
+mines and mills when assessing whether a radiological contaminant requires control as per section 4.3 and 
+appendix B of this regulatory document. In addition, the information in this appendix applies to all other 
+nuclear facilities. 
+The following terminology and acronyms are provided to assist in understanding the different types of 
+clearance levels: 
+• 
+Exemption Quantity (EQ): As specified in the Nuclear Substances and Radiation Devices 
+Regulations 
+• 
+Clearance Levels 
+• 
+Unconditional Clearance Levels (UCLs): As specified in the Nuclear Substances and Radiation 
+Devices Regulations 
+• 
+Conditional Clearance Levels (CCLs) 
+• 
+Generic CCLs: As specified in table A.1 of this appendix 
+• 
+Practice-specific CCLs: Established by the CNSC for a specific industrial facility/activity 
+This appendix provides information on the application of unconditional and conditional (generic 
+conditional and practice-specific conditional) clearance levels as they relate to the need for site-specific 
+environmental risk assessments and authorization of operational releases to the environment. As 
+described in section 2, licensees whose routine operational releases of radionuclides meet the radionuclide 
+specific UCLs and/or CCLs and associated conditions identified in this appendix may not require site-
+specific environmental risk assessments and/or site-specific licensed release limits. 
+To provide further clarification and to ensure that the social benefits associated with these activities are 
+not overly burdened with regulatory requirements out of proportion with the associated radiological risk, 
+the CNSC has developed its environmental protection (EP) decision framework as outlined in 
+REGDOC-2.9.1 [1]. 
+Environmental protection requirements for licensed activities limited to the use of sealed sources 
+Licensed activities limited to the use of sealed sources are characterized by the following elements 
+regarding releases of nuclear substances to the environment: 
+• 
+there are no routine interactions with, or releases to, the environment 
+• 
+sealed source leak testing requirements within the Nuclear Substance and Radiation Devices 
+Regulations (NSRDR) and Class II Nuclear Facilities and Prescribed Equipment Regulations 
+adequately address potential breaches of sealed source encapsulation, including regulatory 
+requirements for periodic testing, mitigation, and reporting 
+• 
+the Packaging and Transport of Nuclear Substances Regulations, 2015 adequately address similar 
+considerations for dealing with either sealed sources or unsealed radioactive materials involved in 
+transport incidents, which could potentially result in releases to the environment 
+Based on these characteristics, the following conclusions are drawn regarding EP requirements for these 
+licences: 
+• 
+as there are no routine interactions with the environment, and leaks and accidents are otherwise 
+addressed in regulation, there is no need for a site-specific ERA 
+• 
+as there are no planned releases, there is no need for authorization of releases 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+37 
+ 
+Environmental Protection requirements for licences involving the use of limited quantities of 
+unsealed nuclear substances 
+The following criteria apply regarding disposal or releases related to the use of unsealed sources: 
+• 
+standard exemption quantity and unconditional clearance levels specified in Schedules 1 and 2, 
+respectively, of the NSRDR 
+• 
+generic CCLs (documented in table A.1), on the condition that releases occur only through the 
+specified pathway (that is, solids to municipal landfill, gases to atmosphere, liquids to municipal 
+sewer) 
+• 
+practice-specific CCLs, which are CCLs that are only applicable to a defined practice or activity, and 
+were developed by the CNSC for application to multiple licensees carrying out the specific practice or 
+activity 
+As the activities and/or concentrations associated with the above criteria were derived from conservative 
+public exposure risk assessment modelling (using dose criteria associated with de minimis risk ~ 
+10 µSv/year), there is no need for further facility/activity-specific risk assessment(s). In other words, the 
+dose calculations associated with their derivation serves as a generic radiological ERA applicable to the 
+facility/activity (see subsection A.1). 
+The criteria pertaining to unsealed sources also serve as the basis for determining whether an 
+authorization of disposal/discharge(s) is required, inform the nature or complexity of the authorization 
+and support determination of associated compliance activities. 
+Based on these criteria, where an applicant or licensee can demonstrate (that is, at the licence application 
+stage) that releases will not exceed: 
+• 
+Criterion i): standard EQs and UCLs identified in the NSRDR, then: 
+• 
+there is no requirement to authorize a release within a licence condition or the licence 
+• 
+there is no need to monitor or record releases beyond the nuclear substance record-keeping 
+requirements specified in the NSRDR 
+• 
+the CNSC may require notification of any change in practice or activity with the potential to 
+result in releases greater than the specified exemption quantities or UCLs 
+• 
+Criterion ii): generic CCLs (see table A.1), then: 
+• 
+a licence condition is applied using the generic CCLs as licensed release limit, conditional to the 
+specified release pathway (that is, to atmosphere, municipal sewer, municipal solid waste stream) 
+• 
+the compliance verification methodology is determined by licensing specialists using a 
+graded, risk informed approach as appropriate to the facility/activity. Potential mechanisms 
+include: 
+• 
+review of release or disposal records during an inspection  
+• 
+simple confirmation, for example, via the annual compliance reports that the total quantity 
+acquired/used over one year is less than the corresponding generic CCL 
+• 
+Criterion iii): practice-specific CCLs applicable to the facility/activity  
+• 
+a licence condition is applied to limit key release parameters to the levels and under the 
+conditions incorporated within the public dose calculations used to derive the practice-specific 
+CCL(s) 
+• 
+a monitoring program including annual reporting of releases and any associated parameters (for 
+example, flow rates) should be required 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+38 
+ 
+Note: Subsection A.1 provides further clarification related to the application of the CCLs where the 
+release contains more than one radionuclide. 
+Where an applicant or licensee is handling or producing sufficiently high radioactivity of unsealed nuclear 
+substances under circumstances where potential releases could exceed the above criteria (i–iii), then 
+environmental protection measures are required in accordance with the environmental protection 
+regulatory documents REGDOC-2.9.1 [1] and REGDOC-2.9.2. Examples of such protection measures 
+could include, but are not limited to, a site-specific ERA, radiological release limits, and monitoring and 
+reporting requirements. 
+Note: The levels in table A.1 are screening levels below which no site-specific authorization is required. 
+Disposal or discharge above these levels may be acceptable but requires authorization and additional site-
+specific supporting information and consideration of the range of environmental protection measures 
+documented in REGDOC-2.9.1 [1]. 
+A.1 
+Basis for the calculation of generic conditional clearance levels  
+To ensure a uniform approach to the application of EP requirements as they relate to extremely low risk 
+disposals/releases, the CNSC has developed generic CCLs. These were developed to identify levels of 
+releases representing such low exposures and associated risks to the public/environment that there was no 
+need for authorization for a licensee to dispose or discharge the materials through the specified pathway. 
+These CCLs were developed to: 
+• 
+be as simple as possible but as complex as necessary 
+• 
+respect current national and international practices on disposal and discharge of radioactive material, 
+including the requirements for disposal and discharge of radioactive material in the International 
+Atomic Energy Agency GSR Part 3, Radiation Protection and Safety of Radiation Sources: 
+International Basic Safety Standards [18] 
+• 
+have regard for currently available methodologies and international experience in dealing with 
+disposal and discharge of radioactive material by users in hospitals, universities, etc. as specified in 
+IAEA-TECDOC-1000, Clearance of materials resulting from the use of radionuclides in medicine, 
+industry and research [19] 
+• 
+take account of likely exposure of people and of the environment 
+• 
+be based on conservative but reasonably foreseeable exposure scenarios and modelling considered 
+applicable to Canadian conditions 
+• 
+formally document and, where necessary, refine current regulatory practices 
+Disposal and/or discharges above CCLs require site-specific regulatory approvals. 
+Core international radiation protection concepts associated with the derivation of CCLs 
+The IAEA radiation protection framework and that of the Nuclear Safety and Control Act (NSCA) are 
+built on a hierarchical structure incorporating the radiation protection concepts of Exclusion, Exemption, 
+Clearance (either unconditional or conditional) and Authorization of Discharge (that is, “release” in 
+parlance of regulations made under the NSCA). 
+The various IAEA concepts can be summarized as follows. Exclusion is for sources/exposures where it is 
+impossible to exert control over them. As such, they are completely outside of the law and warrant no 
+further legal considerations (for example, natural background exposures – cosmic radiation, potassium-40 
+in foods, terrestrial radiation), as expressed in section 10 of the General Nuclear and Safety Control 
+Regulations (GNSCR). Exemption is for sources/exposures where control is potentially feasible, but it is 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+39 
+ 
+considered unnecessary or unwarranted, and a decision is made a priori to exempt it from regulatory 
+control (for example, GNSCR s.10. NSRDR s.5(1)). Clearance can be thought of as exemption from 
+within where it serves as permission for the materials developed or arising from a regulated activity to 
+exit the regulatory system with no further regulatory requirements or oversight (NSRDR s.5.1). 
+Authorization for discharge is a separate but related concept which allows the release (that is, discharge to 
+the environment) of the substance while continuing to maintain regulatory control and oversight of the 
+release through the maintenance of additional regulatory requirements, such as periodic re-evaluation of 
+the adequacy of control measures, monitoring of releases and, where necessary, monitoring of the 
+receiving environment. Authorization for discharge is not necessary for releases meeting unconditional 
+clearance levels. Conversely, conditional clearance levels inherently require a defined set of conditions 
+that constrain the releases, including, but not necessarily limited to, controlling the release pathway such 
+that the basis for the CCL remains valid. This in turn implies that some form of authorization for 
+discharge is generally required, and necessary requirements can be incorporated using a graded approach 
+as a condition of the licence. 
+The International Atomic Energy Agency (IAEA), in TECDOC-1000 [19], provides: 
+• 
+“…. guidance on regulatory considerations in granting clearances and on the nature and scope of 
+radiation dose calculations which must be performed in deriving clearance levels” and  
+• 
+“… conservatively derived generic clearance levels …” 
+These generic CCLs are described as radioisotope-specific “values, expressed in terms of release rates of 
+radionuclides to the environment or activity concentrations in solid materials, below which there is no 
+need for further regulatory control.” These are conditional clearance levels, as the specific releases are 
+restricted to specified release pathways, namely solids to municipal landfill, gaseous wastes to 
+atmosphere and water-soluble liquid wastes to sewer. 
+The CNSC CCLs presented here have been derived using the same basic methodology as 
+IAEA TECDOC-1000 [19], the basics of which are provided below. 
+Dose criterion for deriving generic CCLs 
+The CCLS are: 
+• 
+IAEA de minimis dose concept of 10 µSv/year for a member of the public 
+• 
+10 µGy/hour for the non-human biota.  
+For a member of the public, this is the same public dose value used internationally for the development of 
+the exemption quantities and clearance levels in IAEA GSR part III and adopted by the NSCA for the 
+Nuclear Substances and Radiation Devices Regulations as EQs and Unconditional Clearance Levels, 
+respectively. 
+For non-human biota, an environmental dose rate of 10 µGy/hour was adopted as being representative of 
+the no-effect level below which environmental risks would be negligible (Andersson et al 2009). This is 
+the dose rate used by the ERICA Assessment Tool (Brown et al 2008, 2016) for calculating media 
+specific screening criteria based on the limiting organism (that is, most sensitive). This dose rate is the 
+lowest recommended internationally (that is, less than ICRP, AIAEA, UNSCEAR and U.S. DOE) and is 
+thus considered an appropriate proxy screening value representing de minimis exposure for non-human 
+biota. 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+40 
+ 
+Exposure scenarios 
+Following the release of radionuclides, radioactive decay during transport from the point of release to the 
+exposure location was considered. Following release to the atmosphere, buildup and decay of deposited 
+activity on the ground was calculated over a 30-year operating period of the facility. Deposition on food 
+crops and forage, as well as transfer to milk and meat, was calculated as per IAEA Safety Series No. 19, 
+Generic Models for Use in Assessing the Impact of Discharges of Radioactive Substances to the 
+Environment [20]. Transfer to crops occurs only during growing seasons, which were taken to be 30 days 
+per year for forage and 60 days per year for food crops. Decay from the time of harvest to consumption 
+was considered, assuming hold-up times of 14 days for food crops, 90 days for stored animal feed and 0 
+days for forage. The decay time between collecting fresh milk and consumption is 1 day, and for meat 
+consumption, the decay time is 20 days. These decay times are consistent with those recommended in 
+IAEA Safety Series No. 19 [20]. 
+Two main categories of exposure were considered: 
+• 
+external exposure from radionuclides present in the air or in material incorporated in soils or 
+sediment, for example 
+• 
+internal exposure from the inhalation or ingestion of radionuclides present in air or incorporated in 
+water or foods respectively 
+The relative importance of different exposure pathways was dependent on the: 
+• 
+magnitude of the discharge 
+• 
+route of discharge 
+• 
+physical and chemical characteristics of the radionuclides discharged 
+• 
+characteristics of the radioactive decay 
+Disposal to municipal landfill 
+As recommended in IAEA TECDOC-1000 [19], the CNSC has chosen to adopt the exemption and 
+unconditional clearance levels in the NSRDR as appropriate CCLs for release to municipal landfills. 
+These values are based on the most restrictive exposures associated with such scenarios as public 
+exposure from tampering with the radioactive source and from inhalation, ingestion, and skin exposure 
+pathways. 
+Release to atmosphere 
+The licensed release limits for the release of radionuclides to the atmosphere assume that the release is 
+from a vent from the side of a building. The receptor is assumed to reside in a building 20 m away from 
+the source. In addition, the receptor is assumed to consume all vegetables and other crops from a location 
+100 m away from the source of the atmospheric releases, and that meat and milk that are consumed are 
+from a location 800 m from the source of the releases. The licensed release limits consider the following 
+exposure pathways: 
+• 
+inhalation of radionuclides released to air 
+• 
+external dose from the cloud (immersion) 
+• 
+external dose from material deposited on the ground 
+• 
+ingestion of radionuclides in food 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+41 
+ 
+Release to sewer 
+For discharges to municipal sewer systems, the licensed release limits are based on 2 main groups of 
+pathways: those resulting from the retention of radionuclides in sewage sludge at the wastewater 
+treatment plant (WTP), and those from the wastewater treatment plant effluent discharged to a river. 
+The sewage sludge pathways assume that all radionuclides are retained in sludge at the WTP. The 
+concentration in sludge is calculated assuming that the WTP serves a population of 20,000. This is a 
+conservative assumption, since large WTPs would allow for greater dilution with waste not affected by 
+radionuclides. Two exposure pathways to WTP workers are included: 
+• 
+external exposure to sludge 
+• 
+inhalation of re-suspended activity 
+The pathways related to discharges to a river conservatively assume that all radionuclides received at the 
+WTP are eventually discharged to the river, with no radionuclides retained in sludge. The following 
+pathways are included in this group: 
+• 
+ingestion of radionuclides in drinking water 
+• 
+ingestion of radionuclides in fish 
+• 
+external dose from radionuclides in sediment 
+Licensed release limits are calculated separately for both groups of pathways, namely those resulting from 
+the retention of radionuclides in sewage sludge and those from the WTP effluent discharged to a river. 
+The limits are calculated so that the annual effective dose to the receptor is 10 μSv from each of the two 
+groups of pathways. The smaller of the 2 limits calculated in this manner was rounded to the nearest 
+multiple of 10 and selected as the CCL for sewer release. 
+Table A.1 lists the resultant concentrations of radionuclides at the input of the WTP. These values were 
+calculated for a reference WTP serving a population of 20,000, as per IAEA TECDOC-1000[19]. The 
+influent flow rate (in m3/year) for this reference WTP was estimated by considering Canadian WTP 
+influent rates for 2016–18 for 3 WTPs in Toronto and 5 WTPs in Vancouver. The “per capita” annual 
+average inflow rate was approximately 130 m3/year, which is equivalent to 2.6 million m3/year for a 
+population of 20,000. The values in column 4 of table A.1 were divided by 2.6 million m3/year to obtain 
+the resultant concentrations. 
+Releases containing more than 1 radioisotope 
+When more than 1 radionuclide is released via 1 mode of release (that is, releases to municipal landfills, 
+releases to the atmosphere or releases to the municipal sewer system), for each mode of release, the 
+following condition applies: 
+∑𝑄𝑖,𝑘
+𝐶𝐶𝐿𝑖,𝑘
+ ≤1
+𝑛
+𝑖=1
+ 
+In the above expression: 
+• 
+Qi, k represents the activity or activity concentration, as applicable, of radionuclide i that is released 
+via mode of release k in 1 calendar year 
+• 
+CCLi, k is the corresponding conditional clearance level for radionuclide i, and release mode k, as 
+listed in table A.1 
+• 
+n is the number of radionuclides released via mode of release k in 1 calendar year 
+ 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+42 
+ 
+Table A.1: Generic conditional clearance levels for the release of solids, liquids and gases to the 
+environment based on conservative dose modelling approximating a de minimis dose of 10 µSv/year 
+(5 – 20 µSv/year) 
+Column 1 
+Column 2 
+Column 3 
+Column 4 
+Radionuclide  Municipal landfill 
+(Bq/g) 
+Note: 1 
+Annual activity released 
+to atmosphere (MBq) 
+Note: 2 
+Annual activity released 
+to municipal sewer (MBq) 
+Note: 2, 3 
+H-3 
+1,000,000 
+100,000 
+1,000,000 
+C-11 
+10 
+100,000 
+-  
+C-14 
+10,000 
+10,000 
+10,000 
+F-18 
+10 
+10,000 
+0.1 
+Na-22 
+10 
+1 
+0.1 
+Na-24 
+10 
+1,000 
+100 
+P-32 
+1000 
+100 
+1 
+P-33 
+100,000 
+1,000  
+10 
+S-35 
+100,000 
+100 
+1,000 
+Cl-36 
+10,000 
+10 
+10,000 
+Ar-37 
+- 
+1.00E+11 
+-  
+K-42 
+100 
+10,000 
+1,000 
+Ca-45 
+10,000 
+1,000 
+10,000 
+Ca-47 
+10 
+1,000 
+100 
+Sc-46 
+10 
+-  
+0.1 
+Cr-51 
+1,000 
+ 1,000 
+100 
+Mn-54 
+10 
+-  
+1 
+Mn-56 
+10 
+-  
+0.1 
+Fe-55 
+10,000 
+-  
+10,000 
+Fe-59 
+10 
+100  
+1 
+Co-57 
+100 
+1,000 
+1,000 
+Co-58 
+10 
+1,000 
+100 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+43 
+ 
+Column 1 
+Column 2 
+Column 3 
+Column 4 
+Radionuclide  Municipal landfill 
+(Bq/g) 
+Note: 1 
+Annual activity released 
+to atmosphere (MBq) 
+Note: 2 
+Annual activity released 
+to municipal sewer (MBq) 
+Note: 2, 3 
+Co-60 
+10 
+1 
+0.1 
+Ni-63 
+100,000 
+ - 
+10,000 
+Cu-64 
+100 
+ - 
+1 
+Zn-65 
+10 
+10 
+1 
+Ga-67 
+100 
+10,000 
+100 
+Ge-68+ 
+10 
+ - 
+0.1 
+Se-75 
+100 
+100 
+1 
+Br-82 
+10 
+-  
+0.1 
+Rb-83 
+100 
+1,000 
+1 
+Rb-86 
+100 
+-  
+10 
+Sr-82+ 
+10 
+100 
+0.1 
+Sr-85 
+100 
+100 
+1 
+Sr-89 
+1,000 
+100 
+1,000 
+Sr-90+ 
+100 
+1 
+1 
+Y-88 
+10 
+10 
+0.1 
+Y-90 
+1,000 
+10,000 
+10,000 
+Mo-99 
+100 
+1,000 
+100 
+Tc-99 
+10,000 
+10 
+10,000 
+Tc-99m 
+100 
+100,000 
+1,000 
+Pd-103 
+1,000 
+ - 
+10 
+Ag-110m 
+10 
+ - 
+0.1 
+Cd-109 
+10,000 
+100 
+10 
+In-111 
+100 
+1,000 
+100 
+Sb-124 
+10 
+ - 
+0.1 
+Sb-125 
+100 
+100 
+1 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+44 
+ 
+Column 1 
+Column 2 
+Column 3 
+Column 4 
+Radionuclide  Municipal landfill 
+(Bq/g) 
+Note: 1 
+Annual activity released 
+to atmosphere (MBq) 
+Note: 2 
+Annual activity released 
+to municipal sewer (MBq) 
+Note: 2, 3 
+I-123 
+100 
+10,000 
+1,000 
+I-124 
+10 
+100 
+10 
+I-125 
+1,000 
+ 100 
+100 
+I-131 
+100 
+100 
+10 
+Xe-127 
+- 
+100,000 
+- 
+Xe-133 
+- 
+1,000,000 
+- 
+Cs-125 
+10 
+ - 
+100,000 
+Cs-134 
+10 
+ - 
+0.1 
+Cs-137 
+10 
+ - 
+1 
+Ba-133 
+100 
+ - 
+1 
+La-140 
+10 
+ - 
+0.1 
+Ce-139 
+100 
+100 
+1 
+Ce-141 
+100 
+ - 
+10 
+Ce-143 
+100 
+ - 
+1 
+Nd-147 
+100 
+ - 
+1 
+Pm-147 
+10,000 
+10,000 
+10,000 
+Sm-153 
+100 
+ - 
+10 
+Eu-152 
+10 
+1 
+1 
+Eu-154 
+10 
+1 
+1 
+Gd-153 
+100 
+ - 
+10 
+Er-169 
+10,000 
+10,000 
+10,000 
+Tm-170 
+1,000 
+1,000 
+100 
+Yb-169 
+100 
+100 
+1 
+Lu-177 
+1,000 
+1,000 
+10 
+Lu-177m 
+10 
+ - 
+0.1 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+45 
+ 
+Column 1 
+Column 2 
+Column 3 
+Column 4 
+Radionuclide  Municipal landfill 
+(Bq/g) 
+Note: 1 
+Annual activity released 
+to atmosphere (MBq) 
+Note: 2 
+Annual activity released 
+to municipal sewer (MBq) 
+Note: 2, 3 
+Re-186 
+1,000 
+1,000 
+10 
+Ir-192 
+10 
+ - 
+1 
+Au-198 
+100 
+1,000 
+100 
+Hg-194 
+10 
+ - 
+10 
+Hg-197 
+100 
+10,000 
+1,000 
+Hg-203 
+100 
+100 
+10 
+Tl-201 
+100 
+10,000 
+100 
+Tl-204 
+10,000 
+ - 
+100 
+Pb-210+ 
+10 
+ - 
+1 
+Bi-210 
+1,000 
+ - 
+10 
+Po-208 
+10 
+ - 
+10 
+Po-209 
+10 
+ - 
+10 
+Po-210 
+10 
+ - 
+10 
+Ra-223+ 
+100 
+ - 
+1 
+Ra-224+ 
+10 
+ - 
+0.1 
+Ra-226 
+10 
+1 
+1 
+Ra-228+ 
+10 
+0.1 
+0.1 
+Ac-227+ 
+0.1 
+ - 
+1 
+Th-230 
+1 
+ - 
+100 
+Th-228 
+1 
+ - 
+100 
+Th-228+ 
+1 
+0.1 
+0.1 
+Th-229 
+1 
+ - 
+1 
+Th-232 
+1 
+0.1 
+1 
+U-232+ 
+1 
+ - 
+0.1 
+U-233 
+10 
+1 
+- 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+46 
+ 
+Column 1 
+Column 2 
+Column 3 
+Column 4 
+Radionuclide  Municipal landfill 
+(Bq/g) 
+Note: 1 
+Annual activity released 
+to atmosphere (MBq) 
+Note: 2 
+Annual activity released 
+to municipal sewer (MBq) 
+Note: 2, 3 
+U-235 
+10 
+1 
+- 
+U-234 
+10 
+1 
+- 
+U-238 
+10 
+1 
+- 
+Np-237 
+1 
+ - 
+10 
+Pu-238 
+1 
+0.01 
+1 
+Pu-239 
+1 
+ - 
+1 
+Pu-240 
+1 
+ - 
+1 
+Am-241 
+1 
+0.1 
+10 
+Am-243+ 
+1 
+ - 
+1 
+Cm-244+ 
+10 
+0.1 
+0.1 
+ 
+Notes: 
+1. Standard licence condition includes a limit of 3 tonnes per building per year, and a requirement for 
+demonstration of uniformity of distribution of the radionuclide. 
+2. The CCLs apply to a site that may consist of several buildings. For example, a hospital to university 
+may be considered a site, from which there could be several points of release to a sewer or to the 
+atmosphere.  
+3. The CCLs for releases to the sewer apply only to water-soluble liquids. 
+ 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+47 
+ 
+Appendix B: Additional Information 
+B.1 
+Optimization of Protection and Pollution Prevention 
+The radiation protection principle of optimization of protection can be considered as complementary to 
+the environmental protection principle of pollution prevention. In practice, the application of BATEA is 
+part of optimization of protection that is specific to the minimization of contaminant pollution through the 
+control on releases to the environment, with the additional concept of ensuring that any trade-offs 
+associated with worker and public dose are balanced out (that is, the limit of release for a small reduction 
+in public dose is not at the expense of a large increase in worker dose). The dose associated with the final 
+optimized release is simply an artifact of optimization; it is not the target of the optimization (dose 
+constraints are sometimes inappropriately interpreted as being site-specific dose limits or targets for 
+establishing site-specific licensed release limits, rather than as tools for guiding optimization). 
+Figure B.1 shows a general relationship between optimization and the authorization of radioactive 
+releases to the environment (that is, licensed release limits). Through optimization, licensed release limits 
+for both nuclear and hazardous substances can be identified. Additionally, optimization requires the 
+application of BATEA to control releases such that they represent a site-specific public dose or doses 
+constrained to a region less than the public dose limit (specified dose constraint) but greater than doses 
+considered to be “de minimis.” Internationally, effective doses of approximately 10 microSieverts (µSv) 
+per year have been used to derive clearance levels (unconditional or conditional) representing 
+radionuclide activities (total or concentrations) that can be cleared from any further regulatory control. 
+Figure B.1: Relationship between optimization and the authorization of releases to the 
+environment1 
+ 
+ 
+ 
+1 Figure adapted from IAEA, General Safety Guide No. GSG 9, Regulatory Control of Radioactive Discharges to 
+the Environment, Vienna, Austria, 2018 [20]. 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+48 
+ 
+When applying the concept of optimization to establish licensed release limits, modelled doses 
+approximating 10 µSv/year are recommended as the level below which further optimization and 
+application of BATEA are no longer necessary. However, it is necessary to make a distinction between 
+this dose criterion (that is, 10 µSv/year) applied to a site-specific dose assessment associated with a 
+licence application, versus its use in developing exemption and clearance levels. The former tends to 
+incorporate relatively realistic (but still conservative) site-specific transport and exposure scenarios. The 
+latter are deliberately hyper-conservative to ensure that exemption from licensing or from discharge 
+authorization can be safely given under a wide range of scenarios encompassing a range of potential site-
+specific variability. Authorized releases remain under regulatory control (including periodic re-evaluation, 
+monitoring requirements and annual public dose calculations), while exemptions from licensing or 
+authorization result in no further regulatory controls post-release (that is, no licence requirements to 
+receive the materials, and no environmental monitoring), hence the need for the hyper-conservatism. 
+Thus, licensees (other than Class I facilities and uranium mines and mills, whose routine operational 
+releases of radionuclides meet the radionuclide-specific conditional clearance values and associated 
+conditions identified in appendix A) may not require further regulatory authorization for their releases. 
+For more information, see appendix A. 
+The approved facility or activity design will have demonstrated to the satisfaction of the CNSC that 
+BATEA has been applied regarding the minimization of waste production and the control of releases. The 
+maximum releases associated with the approved optimized design (which includes the addition of a 
+margin for operational flexibility) become the authorized licensed release limits (for more information, 
+see section 5). The dose associated with these releases can then be determined through the application of 
+the site-specific radionuclide transport and exposure pathway model. This calculated public dose can be 
+used for public risk communication purposes indicating that releases have been constrained to levels 
+representing exposures lower than the regulatory public dose limit. 
+As the licensed release limit is based on the expected maximum release (including a margin for 
+operational flexibility), any exceedance of this limit represents a release outside of the licensing basis and 
+demonstrates a lack of compliance with the licence, and therefore indicates a failure in the design or 
+operation of the facility or activity. Thus, the licensee would be non-compliant under section 12(1)(f) of 
+the General Nuclear Safety and Control Regulations. However, as the licensed release limit is based on 
+the optimized design representing a public dose less than 1 mSv/year, the exceedance would not 
+necessarily represent an exceedance of the Radiation Protection Regulations public dose limit and is in no 
+way meant to replace that public dose limit. For more information, see section 5. 
+Optimization is a core element of the design and planning process. Optimization of protection regarding 
+radioactive discharges is not simply a matter of considering the balance between the radiation risks 
+associated with the discharges during normal operation and the costs of making any reductions. The effect 
+of waste management decisions on the exposure of workers and on the safety of the entire facility or 
+activity should also be considered. For example, a reduction in discharges may lead to an increase in 
+radioactive waste stored on the site, with related increases in occupational exposures; therefore, such a 
+reduction may not be the optimal solution. 
+Optimization and dose constraints 
+Public dose constraints are estimates of public dose, less than the regulatory public dose limit, that are 
+either established or approved by the CNSC for use in the optimization process. The dose constraint for 
+each source is intended to ensure that the sum of doses from planned operations of that source and of all 
+the authorized sources that may contribute to the exposure of the public remains within the dose limit (see 
+figure 1). 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+49 
+ 
+Dose constraints may be generic (that is, applicable to a specific subsector of the nuclear fuel cycle) or 
+specific to a facility or activity being regulated. The CNSC may specify a generic dose constraint for a 
+subsector or approve a facility- or activity-specific dose constraint based on an applicant’s or licensee’s 
+demonstration of BATEA regarding facility design and control on releases. In situations where multiple 
+licensees may be operating in close proximity (for example, nuclear research or energy parks), the CNSC 
+will specify a facility- or activity-specific dose constraint as an upper bound for the optimization process 
+(see figure 1). This factor ensures responsible apportionment of the 1 mSv/year dose limit to the public 
+from all sources. 
+During the design phase, modern facility designs, which incorporate BATEA and both minimize waste 
+production and control releases, are reviewed to establish a range of maximum predicted design quantities 
+and concentrations of radionuclides that can be released during normal operation. For each design option, 
+the site-specific public dose calculations, using these maximum design releases, provide the maximum 
+equivalent doses associated with the various design options. These feed into the overall optimization 
+process, which considers cost-benefit trade-offs between worker and public dose (see figure 1). The 
+maximum predicted design quantities and concentrations corresponding to the best option (regarding 
+optimization), along with a margin of error to provide operational flexibility, establishes the licensed 
+release limits. 
+The public dose corresponding to the licensed release limits is determined through the application of these 
+limits to the site-specific environmental transport and exposure model (for example, CSA N288.1, 
+Guidelines for modelling radionuclide environmental transport, fate, and exposure associated with the 
+normal operation of nuclear facilities [2]). Thus, rather than the CNSC specifically defining dose 
+constraints, the CNSC reviews and approves the facility or activity design and the controls on releases to 
+determine the adequacy of the application of BATEA within the optimization process and the 
+acceptability of the associated public dose outcomes. 
+B.2 
+Environmental release targets, maximum predicted design release characteristics, 
+licensed release limits, and action levels 
+REGDOC-2.9.2 adopts an internationally recognized framework for controlling releases to the 
+environment, through the application of the principle of optimization of protection, pollution prevention 
+and BATEA. 
+Within this framework, for new facilities or existing facilities undergoing a major modification that 
+require a BATEA assessment, risk-based guidelines in the receiving environment (for example, 
+radiological dose constraints, CCME Environmental Quality Guidelines, Canadian Ambient Air Quality 
+Standards) are used to establish environmental release targets (ERTs), taking into consideration an 
+acceptable level of dilution within the environment (based on applicable federal/provincial guidelines) to 
+ensure the environment remains protected. There may be instances where technology-based limits from 
+other jurisdictions that are applicable to the facility already exist, and in those cases should be considered 
+as potential environmental release target(s). In this scenario, the most restrictive of the exposure-based or 
+technology-based targets should be carried through the assessment as the ERT. 
+The selected ERTs are used as the basis for the design of the treatment system. As part of the BATEA 
+assessment, an options analysis is conducted to identify the most appropriate technology and techniques 
+that have been demonstrated on an industrial scale to achieve the ERTs. Hence, since the treatment 
+system is designed to meet the ERTs, the treatment system is designed to meet risk-informed targets. 
+The design option identified as BATEA may achieve significantly better effluent or emissions quality for 
+some contaminants under their maximum design conditions (that is, maximum expected influent 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+50 
+ 
+concentrations and flow rates). Likewise, the design option may be unable to achieve the ERTs for other 
+contaminants, and the applicant may be limited by the current state of technology and techniques. This 
+residual release merits site-specific risk assessment to ensure there is no unreasonable risk to the 
+environment and may require additional follow-up monitoring (assessed during the establishment of 
+proposed release limits). 
+The proponent identifies the maximum predicted design release characteristics (MPDRCs) based on the 
+identified BATEA design option, taking into account a margin for operational flexibility. If, for an 
+existing facility, no design documentation is readily available, a licensee should apply historical 
+performance data, to determine the MPDRCs. This should be informed by site-specific knowledge and 
+professional judgement, and factor in a margin for operational flexibility to account for anticipated 
+operations throughout the remaining lifecycle of the facility. 
+The MPDRCs are used develop the proposed release limits; however, to reduce regulatory duplication, 
+proposed release limits should first be harmonized with applicable limits in other jurisdictions. In cases 
+where applicable federal, provincial, territorial, and/or municipal release limits already exist, these limits 
+can be adopted in order to harmonize with other regulators, as long as they are protective. Where no limits 
+exist, or where existing limits are deemed by the CNSC to not be protective (for example, based on an 
+assessment within the ERA), then the MPDRCs, which now form part of the licensing basis of the 
+facility, are established as the proposed release limits. It should be re-iterated that licensed release limits 
+that are developed from MPDRCs are based on the design of the facility, which in itself is risk-informed. 
+The proposed release limits are then used in a scenario using environmental risk assessment (ERA) 
+methodology to confirm that the environment will be protected. 
+Since the licensed release limits represents the maximum concentrations and quantities that could be 
+released from the facility during normal operation, exceeding a licensed release limit signals that the 
+licensee is operating outside the licensing basis (that is, approved facility design) for normal operation, 
+and represents a clear loss of control of the environmental protection program and/or control measure(s). 
+A release outside of the licensing basis indicates a major failure of control systems. 
+Since licensed release limits that are based on the MPDRCs depend on the design of the facility, they do 
+not change over time, unless there is a major modification to the nuclear facility and/or activity that has 
+the potential to increase or change the nature of releases to the environment and the resulting risks to 
+receptors that would be outside the existing licensing basis. 
+Action levels are operationally/performance-based, are derived using the current upper value of normal 
+operation and lie within the maximum upper-end of normal operation (that is, licenced release limit). 
+Licensed release limits that are based on the maximum predicted design release depend on the design of 
+the facility and represent the maximum upper end of normal operation over the entire lifecycle of the 
+facility. 
+For existing facilities, there should be sufficient margin between the action level and the licensed release 
+limit, as described above. This is due to the fact that the facility is not likely to operate at its maximum 
+design capacity throughout its entire lifecycle. There is a margin of operational flexibility incorporated 
+into the licensed release limit (through the MPDRCs), and most importantly, licensees are required to 
+apply the principles of continuous improvement, ALARA and the BATEA throughout the operating 
+lifecycle of the facility. 
+For new facilities, during the initial period of operation when no historical performance data exists, action 
+levels are based on a prospective approach to account for operational uncertainty (in accordance with 
+CSA N288.8, Establishing and implementing action levels for releases to the environment from nuclear 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+51 
+ 
+facilities [7]). With this approach, the action level may be set at the same magnitude as the licensed 
+release limit; however, the sample type and averaging period that would apply to either would be 
+different. Once sufficient operating data is available, in accordance with CSA N288.8 [7], action levels 
+would be revised using a retrospective approach. The newly revised action levels should lie within the 
+maximum upper end of normal operation (that is, below the licensed release limit), and there should be 
+sufficient margin between the action level and the licensed release limit. 
+The environmental releases (effluent and/or emissions) monitoring program results (for example, daily or 
+weekly grab or composite sample concentrations, daily or weekly or monthly loading rate) that 
+correspond to a licensee’s effluent and/or emission monitoring program, designed in accordance with 
+CSA N288.5, Effluent monitoring programs at Class I nuclear facilities and uranium mines and mills [4], 
+are assessed against the action levels to determine whether an action level has been reached. Monitoring 
+results averaged over a longer period (for example, weekly, monthly or biannual average concentrations) 
+are assessed against the licensed release limits to ensure that the licensee is not operating outside of their 
+licensing basis. This provides multiple early warnings, and allows time for the licensee to respond to the 
+triggering of these action levels and restore the effectiveness of the program before a licensed release 
+limit is potentially exceeded and complete loss of control occurs. If weeks have gone by and the licensee 
+has triggered the action level repeatedly with little response, this may result in exceeding the licensed 
+release limit, and is in itself a demonstration of loss of control of the environmental protection program. 
+ 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+52 
+ 
+Appendix C: Establishing Environment Release Targets 
+This appendix provides guidance on establishing environmental release targets. 
+C.1 
+Introduction 
+Environmental release targets apply during the design and commissioning phases. If these targets cannot 
+be met, they become integrated as targets or objectives in the environmental management system (EMS). 
+Environmental release targets are not licensed release limits but are guides in the design and development 
+of the maximum predicted design release characteristics that become the licensed release limits. 
+Environmental release targets are used as criteria to inform the design of wastewater treatment systems or 
+air pollution control systems, to constrain the quantity and concentration of contaminants and physical 
+stressors released into the environment. Environmental release targets ensure: 
+• 
+risks to human health and the environment are mitigated 
+• 
+the identification of acceptable control measures (including abatement strategies) for pollution 
+prevention (for example, to establish a minimum level of protection across a specified industrial 
+sector) 
+• 
+continuous improvement for proactive pollution prevention and control (for example, for those 
+adopted into the EMS as continuous improvement objectives or targets) 
+To meet these objectives, environmental release targets are established using one of the following 
+approaches: 
+• 
+an exposure-based approach (to meet protective environmental quality guidelines at an acceptable 
+location within the receiving environment) 
+• 
+a technology-based approach (to meet technology-based licensed release limits or design criteria 
+existing in federal, provincial/territorial, or municipal requirements or as recommended by the CNSC 
+and in consultation with the applicant or licensee) 
+• 
+a combination of exposure-based and technology-based approaches 
+The most restrictive environmental release targets should be used. 
+Note: Environmental release targets that are technology-based may be equivalent to licensed release 
+limits in existing federal, provincial/territorial or municipal requirements (for example, Metal and 
+Diamond Mining Effluent Regulations). Provided they are the most stringent, they are used to inform the 
+design of the wastewater treatment systems or air pollution control systems. 
+C.2 
+Overview of the process 
+The licensee should establish environmental release targets using a systematic and informed process. 
+A summary of a sample systematic and informed process is as follows: 
+1. identify the final effluent or emission release points 
+2. identify the contaminants and physical stressors that require environmental release targets 
+3. where appropriate, identify existing federal, provincial, territorial, and municipal requirements, and 
+harmonize with those requirements 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+53 
+ 
+4. where step 3 does not apply: 
+a. calculate the proposed environmental release targets for each contaminant and physical stressor, 
+using one of the following approaches: 
+i. 
+an exposure-based approach for nuclear substances 
+ii. an exposure-based approach for hazardous substances 
+iii.  a technology-based approach for nuclear and hazardous substances 
+Note: For substances that are considered both a nuclear substance and a hazardous substance (for 
+example, uranium), calculate the proposed environmental release targets using all applicable 
+approaches. 
+b. select the most restrictive environmental release targets identified in step a 
+5. document and justify selection of the proposed environmental release targets 
+For additional details on each step, see the following sections. 
+C.3 
+Identify final release points 
+The licensee should identify all points of controlled releases (effluent or emission) from the facility or 
+activity to the environment. 
+C.4 
+Identify contaminants and physical stressors that require control 
+The licensee should conduct a screening assessment, as described in section 4.3, to identify the 
+contaminants and physical stressors that require control, such as those that are: 
+• 
+subject to existing federal, provincial, territorial, or municipal requirements 
+• 
+potentially exceeding federal, provincial, or territorial environmental quality criteria prior to the 
+consideration of treatment 
+• 
+identified as exceeding standard conditional clearance levels established by the CNSC (see 
+appendix A) 
+• 
+meriting control (according to the environmental risk assessment (ERA)) 
+C.5 
+Calculate the proposed environmental release target 
+The licensee should calculate a proposed environmental release target for each contaminant and physical 
+stressor that has been identified. 
+The licensee should use either an exposure-based approach for nuclear substances, an exposure-based 
+approach for hazardous substances, a technology-based approach, or a combination of all applicable 
+approaches. 
+C.5.1 
+Exposure-based approach for nuclear substances 
+For nuclear substances, the licensee should develop environmental release targets using a structured 
+approach. The following is a sample methodology: 
+• 
+identify an appropriate dose constraint to a representative person or critical group (this may be 
+informed by the historic performance of the facility or activity, or of existing similar facilities or 
+activities, or as specified by the CNSC) 
+• 
+for each radionuclide that may be released, calculate an environmental release target from the dose 
+constraint to the effluent or emission source (back calculation) using an appropriate environmental 
+transport and pathway exposure model 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+54 
+ 
+For additional guidance on appropriate environmental transport and exposure pathway models, see: 
+• 
+REGDOC-2.9.1, Environmental Protection: Environmental Principles, Assessments and Protection 
+Measures [1] 
+• 
+CSA N288.1, Guidelines for modelling radionuclide environmental transport, fate, and exposure 
+associated with the normal operation of nuclear facilities [2] 
+• 
+CSA N288.6, Environmental risk assessment at Class I nuclear facilities and uranium mines and 
+mills [5] 
+• 
+IAEA, TECDOC 1714, Management of Discharge of Low Level Liquid Radioactive Waste Generated 
+in Medical, Educational, Research and Industrial Facilities [22] 
+Note: CNSC staff may accept the use of alternate methodologies based on the nature of the nuclear 
+facility or activity. 
+C.5.2 
+Exposure-based approach for hazardous substances 
+For hazardous substances, the licensee should develop environmental release targets using a structured 
+approach. The following is a sample methodology: 
+1. For each contaminant or physical stressor identified as requiring control at each release point, 
+determine the most restrictive applicable environmental quality criteria that is protective of the most 
+sensitive species, human receptor (generic or site-specific) or end use (for example, drinking water, 
+recreational waters). 
+2. Determine the specific point within the environment at which the selected environmental quality 
+criteria is expected to be achieved 
+3. Identify an appropriate environmental transport and exposure pathway model whose complexity is 
+determined by the receptor or end use as follows: 
+• 
+for releases to surface waters for the protection of aquatic life, protection of drinking water, or 
+protection of recreational use, a simple mixing zone approach is acceptable 
+• 
+for releases to air for the protection of human health, a point-of-impingement (POI) approach is 
+acceptable 
+• 
+for all other releases, including those to groundwater for the protection of drinking water or other 
+end uses, the licensee should propose an appropriate model 
+4. Calculate the environmental release target from the receptor or end use to the final point of release; 
+this release target cannot be acutely lethal at the point of discharge (see section 3.1) 
+The most restrictive criteria may include: 
+• 
+federal environmental quality guidelines, such as: 
+• 
+CCME Guidance on the Site-Specific Application of Water Quality Guidelines in Canada [23] 
+• 
+CCME A Protocol for the Derivation of Water Quality Guidelines for the Protection of Aquatic 
+Life 2007 [24] 
+• 
+provincial or territorial standards, objectives, criteria, or guidelines 
+The most sensitive site-specific species may be identified as a valued component and is generally 
+informed by an ERA. 
+For releases to air, for a POI approach, the POI should be defined to align with the applicable federal or 
+provincial requirements. 
+For more information about releases to groundwater, see CSA N288.7, Groundwater protection programs 
+at Class I nuclear facilities and uranium mines and mills [6]. 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+55 
+ 
+C.5.2.1 
+Dilution Factors 
+For calculating the environmental release targets: 
+• 
+where federal, provincial, or territorial guidance exists for dilution factors, the licensee should follow 
+that guidance 
+• 
+where such guidance does not exist, the licensee should apply the general rules shown in table B.1 
+Table B.1: General rules for using mixing zones for calculating environmental release targets 
+(adapted from Calculation and Interpretation of Effluent Discharge Objectives for Contaminants in 
+the Aquatic Environment, 2nd Edition [25]) 
+Release point 
+Dilution factor 
+Lake 
+1 in 10 
+Slow-moving stream or river 
+1 in 100 
+Fast-moving stream or river 
+1 in 100 (based on critical low flow) 
+Groundwater 
+Modelled based on distance to the designated end use 
+Air 
+Modelled based on distance from the stack to the POI using an 
+acceptable dispersion model (for example, the AERMOD air 
+dispersion model) 
+For more information on site-specific determination of the spatial extent of the initial mixing zone (also 
+called a dilution zone), see provincial mixing zone guidance (for example, Calculation and Interpretation 
+of Effluent Discharge Objectives for Contaminants in the Aquatic Environment, 2nd Edition [25] and 
+CCME Guidance on the Site-Specific Application of Water Quality Guidelines in Canada [23]). 
+C.5.2.2 
+Releases to sewer 
+Releases to sewer are considered a special case. 
+For releases to sewer: 
+• 
+the licensee should use applicable municipal bylaw limits as the environment release targets 
+• 
+for substances where no limit is specified by the municipality, the licensee should use an exposure-
+based approach, where the calculation considers: 
+• 
+an appropriate mixing zone in the final receiving waterbody applied only to the volume of effluent 
+released into the sewer by the licensee 
+• 
+additional dilution from the collection of other municipal waters by the municipal wastewater 
+treatment plant 
+Note: The calculation of the environmental release targets should not consider any treatment provided by 
+the municipal wastewater treatment plant. 
+The mixing zone: 
+• 
+applies only to the controlled volume regulated by the CNSC 
+• 
+does not apply to the collection of other municipal waters, as they are not regulated by the CNSC 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+56 
+ 
+C.5.2.3 
+Releases into cooling water discharge 
+Similarly, releases that enter or mix with cooling water discharge, are considered a special case.  
+The licensee should use an exposure-based approach, where the calculation considers: 
+• 
+an appropriate mixing zone in the final receiving waterbody applied only to the volume of effluent 
+released prior to mixing with cooling water discharge 
+• 
+additional dilution provided by the volume of cooling water discharge 
+The mixing zone applies only to the controlled volume released prior to mixing with cooling water 
+discharge. 
+C.5.2.4 
+Example calculations of exposure-based environmental release targets for hazardous 
+substances released to surface water using a simple mixing zone approach 
+For releases to surface waters for the protection of aquatic life, protection of drinking water, or protection 
+of recreational use, a simple mixing zone approach is acceptable. An example of a mixing zone model is 
+provided in figure C.1. 
+Figure C.1: Elements of the loading mass balance 
+ 
+Based on the mixing zone approach, the following mass balance can be derived: 
+𝐶𝑐(𝑄𝑠+ 𝑄𝑒) = 𝐶𝑠𝑄𝑠+ 𝐶𝐸𝑅𝑇𝑄𝑒           [1] 
+where:  
+Cc is the concentration corresponding to the water quality criterion 
+ 
+ 
+Cs is the upstream or background concentration 
+CERT is the effluent concentration corresponding to the environmental release target 
+Qs is the upstream flow rate 
+Qe is the effluent flow rate 
+The above mass balance can then be re-arranged to isolate for CERT, to back-calculate the ERT from the 
+appropriate water quality criteria, where: 
+ 
+𝐶𝐸𝑅𝑇𝑄𝑒= 𝐶𝑐(𝑄𝑠+ 𝑄𝑒) −𝐶𝑠𝑄𝑠         [2] 
+𝐶𝐸𝑅𝑇=
+𝐶𝑐(𝑄𝑠+𝑄𝑒)−𝐶𝑠𝑄𝑠
+𝑄𝑒
+             [3] 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+57 
+ 
+A dilution factor can be defined as: 
+𝐹𝑑=
+𝑄𝑒
+𝑄𝑠+𝑄𝑒           [4] 
+Through the substitution of equation [1] and equation [4] into equation [3], a simplification can be made 
+where the resulting equation is independent of effluent and upstream flow rate and can be calculated by 
+knowing the upstream or background receiving water concentrations, the appropriate water quality 
+criteria for the relevant designated use, and its corresponding dilution factor. 
+𝐶𝐸𝑅𝑇=
+𝐶𝑐−𝐶𝑠
+𝐹𝑑+ 𝐶𝑠       [5] 
+The dilution factor should be selected based on existing federal, provincial, or territorial guidance, or 
+when none exists, on the general mixing zone rules provided in table B.1. 
+C.5.3 
+Technology-based approach 
+The licensee should develop the environmental release targets to ensure that acceptable control measures 
+(including abatement strategies) for pollution prevention are applied by considering: 
+• 
+any technology-based release limits or targets that already exist in other international, federal, 
+provincial, territorial, or municipal requirements and guidance 
+• 
+when necessary, any technology-based release targets established by the CNSC for substances of 
+common concern within a sector 
+• 
+historical performance of the facility or activity, including known or identified loss-of-control events 
+Note: Technology-based release limits are included in federal and provincial legislation. For example, the 
+Metal and Diamond Mining Effluent Regulations (SOR/2002-222) use technology-based release limits to 
+establish a baseline level of protection across a specified industrial sector.  
+C.6 
+Select the most restrictive environmental release targets 
+To ensure that all intended objectives are met, the licensee should review the environmental release 
+targets that have been identified and select the most restrictive ones. 
+C.7 
+Document and justify the selection 
+The licensee should document: 
+• 
+the environmental release targets that have been selected 
+• 
+the methodology used to establish them 
+• 
+justification for selection of the final values 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+58 
+ 
+Appendix D: Guidance on Developing a Commissioning Plan and on Confirming 
+Performance of a Treatment System 
+Some examples of treatment systems are wastewater control treatment systems and air pollution control 
+treatment systems. 
+D.1 
+Additional guidance for developing a commissioning plan for a treatment system 
+As described in section 7, the applicant or licensee submits a commissioning plan to the CNSC. The 
+commissioning plan should consider the following information. 
+Commissioning schedule and process 
+The applicant or licensee should establish a schedule (an expected timeframe) for completion of 
+commissioning. The schedule should: 
+• 
+consider seasonal variations and their effects on operations and process (for example, effects of levels 
+of contaminants and physical stressors, volume of effluent) 
+• 
+indicate the commissioning dates of different subsystems (for example, water treatment subsystems, 
+residual solids management) and identify where limitations may be encountered (for example, delays 
+in testing or delivery of specialty parts or equipment) 
+The applicant or licensee should describe the overall commissioning process. For example: 
+• 
+factory acceptance testing 
+• 
+installation acceptance inspection (also referred to as site acceptance testing (SAT)) 
+• 
+start-up testing 
+• 
+non-active functional testing 
+• 
+non-active operational training 
+• 
+transition from non-active to active 
+• 
+active operational training 
+• 
+active performance testing 
+Description of responsibilities 
+The applicant or licensee should provide a list of position titles, a list of any external personnel involved 
+in commissioning activities, and descriptions of their responsibilities. 
+For example, the applicant or licensee may include a description of the commissioning team, operations 
+staff, licensing representatives, facility manager, management system personnel (in particular, those 
+responsible for quality assurance and quality control (QA/QC)), and external organizations. 
+Transitioning to the next stage of commissioning (“package turnover”) 
+The applicant or licensee should describe the turnover process from inactive commissioning to active 
+commissioning, and from active commissioning to operations. The description should include the 
+contents of the turnover package. 
+Typical contents of a turnover package may include: 
+• 
+operations and maintenance manuals and data 
+• 
+standard operating procedures (SOPs) 
+• 
+as-built drawings and specifications 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+59 
+ 
+• 
+installation checklists, product information and data, and performance verification records 
+• 
+spare parts, special tools, and maintenance materials 
+• 
+materials samples and finishes, and related information 
+• 
+training manuals and resources 
+• 
+results of SAT and factory acceptance testing (FAT) 
+• 
+inspection and manufacturer’s certificates 
+• 
+a final site survey 
+Operational performance 
+The applicant or licensee should describe the operational performance for commissioning activities, 
+including: 
+• 
+checking process systems and unit operations to ensure they are operating correctly 
+• 
+an ongoing assessment of influent/effluent and/or emission quality, removal efficiencies, flow rates 
+and total loadings 
+• 
+any revisions to the operation and maintenance manual that reflect actual operating experiences 
+• 
+operator training 
+• 
+engineering consultation 
+• 
+reviewing laboratory procedures 
+• 
+other activities as appropriate to the facility or activity 
+Performance assessment 
+The applicant or licensee should describe the performance assessment, including an assessment of 
+operational performance against the performance criteria developed during the design of the facility or 
+activity (including all performance criteria, not specific to effluent or emissions quality). 
+Regarding effluent or emissions quality and regulatory requirements, the licensed release limits and 
+environmental release targets should be used as the criteria to assess the performance. 
+Management system (particularly quality assurance / quality control) 
+The applicant or licensee should provide a description of how the management system (particularly 
+quality assurance and quality control) will be applied to commissioning.  
+Note: Not all facilities or activities require a full management system. 
+Safety 
+The applicant or licensee should reference any occupational health and safety (OHS) and radiation 
+protection requirements relevant during commissioning. In particular, any new safety aspects arising from 
+the commissioning and eventual operation of the new system should be identified and addressed. 
+Training 
+The applicant or licensee should describe a training plan for the commissioning and operation of the 
+treatment system that ensures the staff are trained appropriately. For more information, see 
+REGDOC-2.2.2, Personnel Training [26]. 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+60 
+ 
+Records and records maintenance 
+The applicant or licensee should provide references for records and records maintenance, such as: 
+• 
+the SOPs that will be developed 
+• 
+the process for revising, finalizing, and maintaining the SOPs for each process or system as part of the 
+systems operations and maintenance manuals, to reflect actual operating experience 
+• 
+the results of SAT and FAT 
+• 
+site drawings 
+• 
+verification reports 
+• 
+product information 
+Site plan and sample locations 
+The applicant or licensee should provide a site plan that includes: 
+• 
+a process diagram of the treatment system 
+• 
+the location of the influent and effluent and/or emissions sampling points (to assess the performance 
+of pertinent unit operations) 
+D.2 
+Additional guidance for confirming performance of the treatment system 
+As described in section 7, the licensee confirms the performance of the treatment system. 
+Confirm whether the action levels remain appropriate 
+The licensee should review the commissioning performance results to confirm that the action levels 
+remain indicative of a potential loss of control of the environmental protection program or control 
+measures. 
+If the action levels do not remain appropriate, the licensee should revise them in accordance with 
+CSA N288.8, Establishing and implementing action levels for releases to the environment from nuclear 
+facilities [7]. 
+The licensee may use the prospective approach and should update the action level documentation 
+accordingly. 
+Assess the operating performance against the environmental targets 
+The licensee should assess the operating performance against the environmental targets. If any 
+environmental targets cannot be met, the licensee should integrate them as objectives for continuous 
+improvement within the licensee’s environmental management system. 
+Develop a commissioning report 
+The commissioning report should include the following information: 
+• 
+influent and effluent and/or emissions performance data 
+• 
+calculated treatment efficiencies 
+• 
+a comparison of actual performance data to the maximum predicted design release characteristics 
+• 
+trending of data over time 
+• 
+a comparison of performance data to the environmental release targets 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+61 
+ 
+• 
+confirmation that the action levels are appropriate 
+• 
+confirmation that the licensed release limits are being met 
+Note: CNSC staff may conduct a commissioning inspection that includes taking independent influent and 
+effluent samples to confirm the performance results. 
+ 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+62 
+ 
+Glossary 
+For definitions of terms used in this document, see REGDOC-3.6, Glossary of CNSC Terminology, which 
+includes terms and definitions used in the Nuclear Safety and Control Act and the regulations made under 
+it, and in CNSC regulatory documents and other publications. REGDOC-3.6 is provided for reference and 
+information. 
+The following terms are either new terms being defined, or include revisions to the current definition for 
+that term. Following public consultation, the final terms and definitions will be submitted for inclusion in 
+the next revision of REGDOC-3.6, Glossary of CNSC Terminology. 
+ 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+63 
+ 
+References 
+The CNSC may include references to information on best practices and standards such as those published 
+by CSA Group. With permission of the publisher, CSA Group, all nuclear-related CSA standards may be 
+viewed at no cost through the CNSC webpage “How to gain free access to all nuclear-related CSA 
+standards”. 
+1. Canadian Nuclear Safety Commission (CNSC), REGDOC-2.9.1, Environmental Principles, 
+Assessments and Protection Measures 1.1, Ottawa, Canada, 2017. 
+2. CSA Group, CSA N288.1, Guidelines for modelling radionuclide environmental transport, fate, and 
+exposure associated with the normal operation of nuclear facilities. 
+3. CSA Group, CSA N288.3.4, Performance testing of nuclear air-cleaning systems at nuclear 
+facilities, reaffirmed in 2018. 
+4. CSA Group, CSA N288.5, Effluent monitoring programs at Class I nuclear facilities and uranium 
+mines and mills. 
+5. CSA Group, CSA N288.6, Environmental risk assessment at Class I nuclear facilities and uranium 
+mines and mills. 
+6. CSA Group, CSA N288.7, Groundwater protection programs at Class I nuclear facilities and 
+uranium mines and mills. 
+7. CSA Group, CSA N288.8, Establishing and implementing action levels for releases to the 
+environment from nuclear facilities. 
+8. CNSC, REGDOC-3.2.1, Public Information and Disclosure, Ottawa, Canada, 2018. 
+9. CNSC, REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs, 
+Ottawa, Canada, 2016. 
+10. CNSC, REGDOC-2.3.3, Periodic Safety Reviews, Ottawa, Canada, 2015. 
+11. CNSC, REGDOC-2.6.3, Aging Management, Ottawa, Canada, 2014. 
+12. CNSC, REGDOC-3.5.3, Regulatory Fundamentals, Ottawa, Canada, 2023. 
+13. Ontario Regulation, O. Reg. 419/05: AIR POLLUTION – LOCAL AIR QUALITY, 2022. 
+14. CNSC, REGDOC-3.1.1, Reporting Requirements for Nuclear Power Plants, Ottawa, Canada, 2016. 
+15. CNSC, REGDOC-3.1.2, Reporting Requirements, Volume 1: Non-Power Reactor Class I Facilities 
+and Uranium Mines and Mills, Ottawa, Canada, 2022. 
+16. CNSC, REGDOC-3.1.3, Reporting Requirements for Waste Nuclear Substance Licensees, Class II 
+Nuclear Facilities and Users of Prescribed Equipment, Nuclear Substances and Radiation Devices, 
+Ottawa, Canada, 2020. 
+17. U.S. Department of Defense, Military Handbook: Planning and Commissioning Wastewater 
+Treatment Plants, MIL-HDBK-353, United States of America, 1996. 
+18. IAEA, GSR Part 3, Radiation Protection and Safety of Radiation Sources: International Basic Safety 
+Standards, Vienna, Austria, 2014. 
+19. IAEA, TECDOC-1000, Clearance of Materials Resulting from the Use of Radionuclides in Medicine, 
+Industry and Research, Vienna, Austria, 1998. 
+20. IAEA, Safety Series No. 19, Generic Models for Use in Assessing the Impact of Discharges of 
+Radioactive Substances to the Environment, Vienna, Austria, 2001. 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+64 
+ 
+21. IAEA, IAEA GSG-9: Regulatory control of discharges to the environment: General Safety Guide, 
+Vienna, Austria, 2018. 
+22. IAEA, IAEA TECDOC 1714, Management of Discharge of Low Level Liquid Radioactive Waste 
+Generated in Medical, Educational, Research and Industrial Facilities, Vienna, Austria, 2013 
+23. Canadian Council of Ministers of the Environment (CCME), Canadian Water Quality Guidelines for 
+the Protection of Aquatic Life, Guidance on the Site-Specific Application of Water Quality Guidelines 
+in Canada, 2003. 
+24. CCME, Canadian Water Quality Guidelines for the Protection of Aquatic Life, A Protocol for the 
+Derivation of Water Quality Guidelines for the Protection of Aquatic Life, 2007. 
+25. Ministère du Développement durable, Environnement et Parcs Québec, Calculation and 
+Interpretation of Effluent Discharge Objectives for Contaminants in the Aquatic Environment, 
+2nd Edition, 2007 (translation, 2008). 
+26. CNSC, REGDOC-2.2.2, Personnel Training, Ottawa, Canada, 2016. 
+ 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+65 
+ 
+Additional Information 
+The CNSC may recommend additional information on best practices and standards such as those 
+published by CSA Group. With permission of the publisher, CSA Group, all nuclear-related CSA 
+standards may be viewed at no cost through the CNSC webpage “How to gain free access to all nuclear-
+related CSA standards”. 
+The following documents provide additional information that may be relevant and useful for 
+understanding the requirements and guidance provided in this regulatory document: 
+• 
+IAEA, Application of the Concepts of Exclusion, Exemption and Clearance, IAEA Safety Guide No. 
+RS-G-1.7., 2004.  
+• 
+Canadian Environmental Assessment Agency, Practitioners Glossary for the Environmental 
+Assessment of Designated Projects Under the Canadian Environmental Assessment Act, 2012, 
+Ottawa, Canada 
+• 
+CSA Group, CAN/CSA ISO 14001, Environmental Management Systems – Requirements with 
+Guidance for Use, 2004 (1st edition).  
+or 
+CSA Group, CAN/CSA ISO 14001, Environmental Management Systems – Requirements with 
+Guidance for Use (successor editions). 
+• 
+CSA Group, CSA N288.0, Environmental management of nuclear facilities: Common requirements 
+of the CSA N288 series of Standards, 2022 (1st edition). 
+• 
+CSA Group, CSA N288.4, Environmental monitoring programs at Class I nuclear facilities and 
+uranium mines and mills. 
+• 
+Government of Canada, A Framework for the Application of Precaution in Science-based Decision 
+Making about Risk, Ottawa Canada, 2003. 
+• 
+United States Environmental Protection Agency (USEP), Guidance on the Development, Evaluation, 
+and Application of Environmental Models, Washington, DC, USA, 2009. 
+ 
+ 
+March 2024 
+REGDOC-2.9.2, Controlling Releases to the Environment 
+ 
+66 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the CNSC. In addition to the 
+Nuclear Safety and Control Act and associated regulations, these facilities and activities may also be 
+required to comply with other regulatory instruments such as regulatory documents or standards. 
+CNSC regulatory documents are classified under the following categories and series: 
+1.0 
+Regulated facilities and activities 
+Series 1.1 
+Reactor facilities 
+1.2 
+Class IB facilities 
+1.3 
+Uranium mines and mills 
+1.4 
+Class II facilities 
+1.5 
+Certification of prescribed equipment 
+1.6 
+Nuclear substances and radiation devices 
+2.0 
+Safety and control areas 
+Series 2.1 
+Management system 
+2.2 
+Human performance management 
+2.3 
+Operating performance 
+2.4 
+Safety analysis 
+2.5 
+Physical design 
+2.6 
+Fitness for service 
+2.7 
+Radiation protection 
+2.8 
+Conventional health and safety 
+2.9 
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0 
+Other regulatory areas  
+Series 3.1 
+Reporting requirements 
+3.2 
+Public and Indigenous engagement 
+3.3 
+Financial guarantees 
+3.4 
+Commission proceedings 
+3.5 
+CNSC processes and practices 
+3.6 
+Glossary of CNSC terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. Visit the CNSC’s website for 
+the latest list of regulatory documents. 

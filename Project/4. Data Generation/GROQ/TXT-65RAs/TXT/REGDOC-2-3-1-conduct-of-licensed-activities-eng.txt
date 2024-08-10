@@ -1,0 +1,3368 @@
+ 
+ 
+Operating Performance 
+Conduct of Licensed Activities: 
+Construction and Commissioning 
+Programs 
+ 
+ 
+REGDOC-2.3.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 
+ 2016 
+ 
+ 
+Conduct of Licensed Activities: Construction and Commissioning Programs 
+Regulatory document REGDOC-2.3.1  
+© Canadian Nuclear Safety Commission (CNSC) 2016 
+PWGSC catalogue number CC172-123/2016E-PDF 
+ISBN 978-0-660-04168-1  
+ 
+Published by the Canadian Nuclear Safety Commission (CNSC) 
+ 
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+ 
+Également publié en français sous le titre de : Réalisation des activités autorisées : Programmes de 
+construction et de mise en service 
+Document availability 
+This document can be viewed on the CNSC website at nuclearsafety.gc.ca or to request a copy of the 
+document in English or French, please contact: 
+ 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, Ontario K1P 5S9 
+CANADA 
+ 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Facsimile: 613-995-5086 
+Email: cnsc.information.ccsn@canada.ca 
+Web site: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+Publishing history 
+January 2016  Version 1.0
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Preface 
+This regulatory document is part of the CNSC's Operating Performance series of regulatory documents, 
+which also covers accident management and periodic safety reviews. The full list of regulatory document 
+series is included at the end of this document and can be found on the CNSC’s website. 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs, sets out 
+requirements and guidance for the construction and commissioning of facilities in Canada that use nuclear 
+reactors. These facilities (referred to as “reactor facilities” in this document) include: 
+• 
+nuclear power plants (NPPs) or small reactors for the generation of power or heat for industrial 
+process 
+• 
+small reactors for non-power-generation uses (e.g., isotope production, and research and development 
+activities) 
+The requirements and guidance in this document apply primarily to NPPs. However, the principles behind 
+the requirements and guidance are equally applicable to smaller facilities in a risk-informed (graded) 
+manner, and should be considered in the overall safety case for any reactor facility. 
+This document is intended to form part of the licensing basis for a regulated facility or activity. It is 
+intended for inclusion in licences as either part of the conditions and safety and control measures in a 
+licence, or as part of the safety and control measures to be described in a licence application and the 
+documents needed to support that application. 
+For proposed new facilities: This document will be used to assess new licence applications for reactor 
+facilities.   
+Guidance contained in this document exists to inform the applicant, to elaborate further on requirements 
+or to provide direction to licensees and applicants on how to meet requirements. It also provides more 
+information about how CNSC staff evaluate specific problems or data during their review of licence 
+applications. Licensees are expected to review and consider guidance; should they choose not to follow it, 
+they should explain how their chosen alternate approach meets regulatory requirements.  
+For existing facilities: The requirements contained in this document do not apply unless they have been 
+included, in whole or in part, in the licence or licensing basis. 
+A graded approach, commensurate with risk, may be defined and used when applying the requirements 
+and guidance contained in this regulatory document. The use of a graded approach is not a relaxation of 
+requirements. With a graded approach, the application of requirements is commensurate with the risks 
+and particular characteristics of the facility or activity. 
+An applicant or licensee may put forward a case to demonstrate that the intent of a requirement is 
+addressed by other means and demonstrated with supportable evidence. 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+ 
+Important note: Where referenced in a licence either directly or indirectly (such as through licensee-
+referenced documents), this document is part of the licensing basis for a regulated facility or activity.  
+The licensing basis sets the boundary conditions for acceptable performance at a regulated facility or 
+activity, and establishes the basis for the CNSC’s compliance program for that regulated facility or 
+activity.  
+Where this document is part of the licensing basis, the word “shall” is used to express a requirement to 
+be satisfied by the licensee or licence applicant. “Should” is used to express guidance or that which is 
+advised. “May” is used to express an option or that which is advised or permissible within the limits of 
+this regulatory document. “Can” is used to express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Table of Contents 
+1. 
+Introduction 
+........................................................................................................................1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant regulations ........................................................................................................... 1 
+2. 
+Management System 
+..........................................................................................................2 
+Part A: Construction of Reactor Facilities ..................................................................................3 
+3. 
+Management and Organization ........................................................................................3 
+3.1 
+Role of the licensee 
+............................................................................................................. 3 
+3.2 
+Construction management .................................................................................................. 4 
+3.2.1 
+Regulatory and other requirements 
+........................................................................ 4 
+3.2.2 
+Interface arrangements 
+........................................................................................... 4 
+3.2.3 
+Oversight of contractors 
+......................................................................................... 4 
+3.3 
+Programs supporting construction activities ....................................................................... 6 
+3.3.1 
+Security .................................................................................................................. 6 
+3.3.2 
+Safeguards 
+.............................................................................................................. 6 
+3.3.3 
+Personnel training and qualification ...................................................................... 7 
+3.3.4 
+Effect on and from existing facilities 
+..................................................................... 7 
+3.3.5 
+Emergency management and fire protection ......................................................... 8 
+4. 
+Readiness Review ...............................................................................................................8 
+5. 
+Construction Program 
+.....................................................................................................10 
+5.1 
+Planning, scheduling and construction sequencing........................................................... 10 
+5.2 
+Long-lead items ................................................................................................................ 10 
+5.3 
+Manufacture and assembly ............................................................................................... 11 
+5.4 
+Receipt of components important to safety ...................................................................... 11 
+5.5 
+Protection of systems, structures, and components important to safety ........................... 11 
+5.6 
+Storage .............................................................................................................................. 12 
+5.7 
+Onsite manufacturing and testing ..................................................................................... 13 
+6. 
+Turnover of Work 
+............................................................................................................14 
+6.1 
+Turnovers during construction 
+.......................................................................................... 14 
+6.2 
+Turnover of work to operations/commissioning 
+............................................................... 14 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+7. 
+Configuration Control .....................................................................................................15 
+7.1 
+Facility configuration information 
+.................................................................................... 15 
+7.2 
+Changes to facility configuration information .................................................................. 15 
+Part B: Commissioning of Reactor Facilities ............................................................................17 
+8. 
+Management and Organization ......................................................................................17 
+8.1 
+Organizational responsibilities.......................................................................................... 17 
+8.2 
+Personnel training and qualification ................................................................................. 18 
+8.3 
+Problem identification, resolution, and continual improvement 
+....................................... 19 
+9. 
+Commissioning Program 
+.................................................................................................19 
+10. 
+Commissioning Tests .......................................................................................................21 
+10.1 
+Test objectives .................................................................................................................. 21 
+10.2 
+Test scope and methods .................................................................................................... 21 
+10.3 
+Acceptance criteria ........................................................................................................... 22 
+10.4 
+Test procedures ................................................................................................................. 23 
+10.5 
+Review, evaluation and reporting of test results ............................................................... 26 
+10.6 
+Modifications .................................................................................................................... 27 
+11. 
+Testing Phases and Regulatory Hold Points 
+..................................................................28 
+11.1 
+Phase A: prior to fuel load ................................................................................................ 30 
+11.2 
+Phase B: prior to leaving reactor guaranteed shutdown state ........................................... 30 
+11.3 
+Phase C: approach to critical and low-power tests ........................................................... 31 
+11.4 
+Phase D: high-power tests 
+................................................................................................. 32 
+12. 
+Transfer of Structures, Systems and Components and the Reactor Facility .............33 
+Appendix A: Recommended Phase A Commissioning Tests ...................................................34 
+Appendix B: Recommended Phase B Commissioning Tests....................................................36 
+Appendix C: Recommended Phase C Commissioning Tests ...................................................39 
+Appendix D: Recommended Phase D Commissioning Tests ...................................................40 
+Appendix E: Recommended Organizational Responsibilities .................................................42 
+Appendix F: Recommended Interface Arrangements..............................................................45 
+Glossary ........................................................................................................................................47 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+References 
+.....................................................................................................................................51 
+Additional Information ...............................................................................................................52 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Conduct of Licensed Activities: Construction and Commissioning Programs 
+1. 
+Introduction 
+This document provides a framework within which the requirements and guidance in other 
+regulatory documents, codes, and standards may be used in construction and commissioning 
+activities. This framework contributes to ensuring that the construction and commissioning of the 
+plant is effectively managed and consistent with design requirements.  
+1.1 
+Purpose 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs, 
+sets out the requirements and guidance of the Canadian Nuclear Safety Commission (CNSC) for 
+the construction and commissioning of facilities in Canada that use nuclear reactors. These 
+facilities (hereafter called “reactor facilities” in this document) include: 
+• 
+nuclear power plants or small reactors for the generation of power or heat for industrial 
+processes  
+• 
+small reactors for non-power generation uses (e.g., isotope production, and research and 
+development activities) 
+1.2 
+Scope 
+Part A of this regulatory document applies to the construction of a new reactor facility, and is 
+focused primarily on the structures, systems and components (SSCs) that are important to safety. 
+Part B applies to the commissioning of a new reactor facility.  
+The principles set out in this document also apply in a graded manner to activities related to the 
+life extension, refurbishment and modification of an existing reactor facility.  
+Design activities are not addressed in this regulatory document. See CNSC regulatory document 
+REGDOC-2.5.2, Design of New Reactor Facilities [1], for the CNSC’s requirements and 
+guidance on this related activity. 
+Note that, where necessary or deemed important, CANDU-specific experience, requirements and 
+expectations are cited in the guidance material in this document. 
+1.3 
+Relevant regulations 
+The sections of the regulations made under the Nuclear Safety and Control Act (NSCA) relevant 
+to this document include: 
+• 
+subsection 24(4) of the NSCA, which provides that “No licence shall be issued, renewed, 
+amended or replaced – and no authorization to transfer one given – unless, in the opinion of 
+the Commission, the applicant or, in the case of an application for an authorization to transfer 
+the licence, the transferee (a) is qualified to carry on the activity that the licence will 
+authorize the licensee to carry on; and (b) will, in carrying on that activity, make adequate 
+provision for the protection of the environment, the health and safety of persons and the 
+maintenance of national security and measures required to implement international 
+obligations to which Canada has agreed.”  
+ 
+1 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+subsection 24(5) of the NSCA, which provides that “A licence may contain any term or 
+condition that the Commission considers necessary for the purposes of this Act…”   
+• 
+section 3 of the General Nuclear Safety and Control Regulations, which states the general 
+licence application requirements 
+• 
+paragraphs 12(1)(a), (b) and (c) of the General Nuclear Safety and Control Regulations 
+stipulate that a “licensee shall: 
+• 
+(a) ensure the presence of a sufficient number of qualified workers to carry on the licensed 
+activity safely and in accordance with the Act, the regulations made under the Act and the 
+licence; 
+• 
+(b) train the workers to carry on the licensed activity in accordance with the Act, the 
+regulations made under the Act and the licence; 
+• 
+(c) take all reasonable precautions to protect the environment and the health and safety of 
+persons and to maintain the security of nuclear facilities and of nuclear substances;” 
+• 
+section 3 of the Class I Nuclear Facilities Regulations, which states the general licence 
+application requirements for Class I facilities 
+• 
+Paragraphs 5(c) and (i) of the Class I Nuclear Facilities Regulations state that “an application 
+for a licence to construct a Class I nuclear facility shall contain the following information: 
+(c)the proposed construction program, including its schedule; 
+(i) the effects on the environment and the health and safety of persons that may result from 
+the construction, operation and decommissioning of the nuclear facility, and the measures 
+that will be taken to prevent or mitigate those effects;” 
+• 
+section 6 of the Class I Nuclear Facilities Regulations, which states the licence application 
+requirements for a licence to operate under subsection 24(4) of the NSCA 
+• 
+paragraph 6(g) of the Class I Nuclear Facilities Regulations, which provides that an 
+application for a licence to operate a Class I nuclear facility shall contain, in addition to other 
+information, “the proposed commissioning program for the systems and equipment that will 
+be used at the nuclear facility;” 
+• 
+paragraph 14(2)(b) of the Class I Nuclear Facilities Regulations, which provides that “Every 
+licensee who operates a Class I facility shall keep a record of the results of the 
+commissioning program referred to in the licence;”  
+2. 
+Management System 
+Licensees shall manage construction and commissioning activities in accordance with their 
+management system as defined in the licensing basis. This document further clarifies how the 
+management system’s generic requirements apply specifically to construction and commissioning 
+activities. 
+Guidance 
+All construction, commissioning and related activities should be developed and implemented 
+under the control of the licensee using a management system meeting the requirements of 
+CSA N286, Management system requirements for nuclear facilities [2]. 
+ 
+2 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+ 
+Part A: Construction of Reactor Facilities 
+ 
+3. 
+Management and Organization 
+3.1 
+Role of the licensee 
+The licensee shall have the primary responsibility for safety and security of all construction 
+activities, including work carried out on its behalf by contractors. The licensee shall also have 
+within its organization the knowledge, expertise and resources to maintain control and oversight 
+of safety at all times.  
+Guidance 
+The licensee’s responsibilities cover all aspects related to the construction of the facility. Some 
+examples of the licensee’s responsibilities are: 
+ 
+• 
+confirming the facility is being built in accordance with the design basis, regulatory 
+requirements, and applicable codes and standards 
+• 
+maintaining ownership of the safety case, including the information provided by the design 
+and construction organizations and contractors  
+• 
+providing a point of contact for communicating with the CNSC on all matters related to the 
+facility’s construction 
+• 
+ensuring construction program documents are prepared and updated 
+• 
+ensuring construction instructions and procedures are established 
+• 
+ensuring inspections, tests and verification of SSCs important to safety are performed 
+• 
+ensuring safety-significant inspection findings are evaluated and reporting the evaluation 
+results to the CNSC 
+• 
+identifying jurisdictional boundaries and responsibilities where there is more than one 
+regulatory body governing a particular area 
+Construction and commissioning are an integral part of design assurance for the nuclear facility. 
+For activities important to design assurance where commissioning is not practicable, special 
+attention should be placed on assurance of construction. 
+Reactor facilities will likely be constructed by contractors and subcontractors with the licensee 
+undertaking primarily an oversight role. Nonetheless the licensee has the primary responsibility 
+for safety, and must ensure directly, or indirectly, that adequate provisions have been made for 
+the safety of the public, workers and the environment for all construction activities. Effective 
+oversight of construction activities is essential to maintain the construction safety case and to 
+support the operations safety case. 
+As the licensee is directly responsible for managing its contractors, this should be reflected in 
+contractual arrangements between the parties. Relevant arrangements between the licensee and 
+major contractors should then cascade down into the contracts throughout the supply chain of 
+SSCs important to safety. 
+ 
+3 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+It is the responsibility of the licensee and those involved in the supply chain to understand the 
+applicable requirements set out in the NSCA and the regulations for the contract they are seeking 
+to place. The contracting party should document all relevant requirements without an over 
+reliance on referencing other documents. This will ensure that there is clear understanding 
+between all parties on how to implement all relevant requirements. 
+Although it is the responsibility of the licensee to ensure compliance with applicable 
+requirements, all parties within the supply chain should understand the nuclear safety significance 
+of the contracted work, and be able to demonstrate that arrangements have been made to comply 
+with the contract’s specifications. Each link in the supply chain should therefore ensure that its 
+staff, and any subcontractors, are suitably trained and briefed on their responsibilities under the 
+relevant requirements, and that suitable measures are implemented to assure compliance with 
+contract specifications. 
+The licensee should have the capability to understand the nuclear safety significance of any 
+purchased expertise or equipment, specify requirements, supervise the work, and technically 
+review the output before, during and after implementation. This is known as the intelligent 
+customer capability. 
+Contractors at all levels in the supply chain should expect to be audited on a regular basis as part 
+of contractual arrangements. Contractors could also be visited by the CNSC as part of regulatory 
+oversight, particularly if the equipment they are manufacturing has high nuclear safety 
+significance. 
+3.2 
+Construction management 
+3.2.1 
+ Regulatory and other requirements 
+The licensee shall identify health and safety, environmental, and other requirements applicable to 
+construction activities. Relevant requirements shall be communicated to all parties and taken into 
+account when establishing, implementing and maintaining management practices and controls. 
+Conflicting requirements shall be identified and resolved. 
+3.2.2 
+ Interface arrangements 
+Before construction starts, interfaces between the licensee and the CNSC, as well as the licensee 
+and other regulatory authorities, shall be defined, agreed upon and understood such that the 
+CNSC and other regulatory authorities are provided with relevant performance issues that have 
+affected, or have the potential to affect, the quality of construction and future operational safety 
+of SSCs. The interface arrangements shall be specified in management system documentation and 
+in appropriate contracts. 
+3.2.3 
+ Oversight of contractors 
+The licensee shall develop measures to ensure that contractors and subcontractors meet their 
+respective contractual obligations in accordance with an appropriate safety management system. 
+The licensee shall maintain records of its oversight activities and report to the CNSC relevant 
+contractor performance that has affected, or has the potential to affect, the quality of construction 
+and future operational safety. 
+Guidance 
+ 
+4 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+As part of contractor oversight, the licensee should: 
+• 
+take both qualitative and quantitative measures, appropriate to the safety significance of the 
+SSCs, to monitor conformance and enable trends  
+• 
+take proactive measures of performance that monitor conformance 
+• 
+take reactive measures of performance which enables trends to be monitored 
+• 
+monitor the effectiveness of controls for the management systems/quality assurance programs 
+• 
+retain relevant information as evidence of the results and report to the CNSC relevant 
+contractor performance that has affected, or has the potential to affect, the quality of 
+construction and future operational safety 
+Examples of proactive measures include: 
+• 
+assessments of compliance with regulatory and other requirements 
+• 
+the effective use of the results of workplace safety tours or inspections 
+• 
+evaluation of the effectiveness of training 
+• 
+use of behaviour observations 
+• 
+use of perception surveys to evaluate safety culture and related worker satisfaction 
+• 
+the effective use of internal and external audits 
+• 
+completion of regulatory commitments as scheduled 
+• 
+the extent to which management system / quality assurance programs have been implemented 
+• 
+the effectiveness of worker participation process 
+• 
+benchmarking of good construction practices 
+• 
+work activity assessments 
+The following should be considered for contractor performance when it has the potential to affect 
+the quality of construction and future operational safety performance: 
+• 
+for selection of contractors:  
+• 
+confirmation that the contractors have the ability to supply the goods or services 
+• 
+acceptance of the contractor’s management system through review of documentation and 
+audit 
+• 
+confirmation that the contractor understands all regulatory requirements 
+• 
+resolution of any exceptions the contractor has to the licensee’s requirements  
+• 
+reviews of contractor submissions against requirements 
+• 
+for contract management: 
+• 
+evidence of a positive safety culture 
+• 
+evidence that the contractor satisfies all contractual requirements related to health and 
+safety, environment, security, control of materials and quality  
+• 
+problem identification and resolution, and effective corrective action programs  
+• 
+for contractor supply chain (manufacturing and construction) activities: 
+• 
+pre-screening of subcontractors used by the contractor, to ensure the subcontractors are 
+acceptable and to incorporate them into the licensee’s supply chain program 
+• 
+verification that the specification used for purchasing equipment, materials and 
+components have been met 
+• 
+review of contractor manufacturing or construction documentation, including quality 
+plans/manufacturing and inspection and test plans, and special process procedures 
+ 
+5 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+source verification and audits, during manufacturing and construction, to verify 
+compliance of the contractor or its subcontractors  
+• 
+review and disposition of any contractor non-conformances to requirements 
+ 
+The above guidance should also extend to the contractor’s measures to ensure its subcontractors 
+meet their respective obligations. 
+3.3 
+Programs supporting construction activities 
+3.3.1 
+ Security 
+Security measures shall include the prevention of, detection of, and response to, criminal or 
+intentional, unauthorized acts involving or directed at construction activities, and other intentional 
+acts that could directly or indirectly produce harmful consequences. Security measures shall 
+extend to: 
+1. physical security of the site 
+2. personal security 
+3. protection of information 
+4. document security 
+5. cyber security 
+Guidance 
+The security program should include the actions to be taken to protect SSCs under construction 
+and to detect and deter conditions that would otherwise impair site security.  
+It is understood that as construction proceeds, the focus and requirements of the security program 
+will evolve. The following key elements should be reviewed to ensure that the necessary 
+provisions are made for security: 
+• 
+security measures in place are commensurate with onsite conditions such as commercial 
+‘loss control’, whether there is nuclear material on site, and turnover to operations  
+• 
+access control of personnel, materials and vehicles 
+• 
+scheduled and random patrols and inspections 
+• 
+screening (pre-employment and gate clearance) for access to work areas  
+• 
+physical barriers, fencing, surveillance and monitoring capability 
+• 
+cyber security controls to protect computer-based systems 
+• 
+response capability 
+ 
+The following regulatory documents provide specific requirements and guidance for security 
+programs: RD-321, RD-361, REGDOC-2.12.1-3, G-205, G-208 (only if fuel onsite under the 
+licence to construct). 
+3.3.2 
+Safeguards 
+The International Atomic Energy Agency (IAEA) shall have access to the site and information 
+about site buildings and structures, operational parameters, flow and storage of nuclear material, 
+and installation of safeguards surveillance and monitoring equipment consistent with the Canada-
+IAEA safeguards agreements.  
+ 
+6 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+3.3.3 
+ Personnel training and qualification 
+Personnel engaged in construction activities shall have appropriate training, qualifications and 
+competence to perform their assigned tasks effectively and safely.  
+Guidance 
+REGDOC-2.2.2, Human Performance Management: Personnel Training, [3] provides specific 
+requirements and guidance for training programs. 
+ 
+The training programs should emphasize the importance of adhering to established programs, 
+processes and procedures in assuring nuclear safety in future phases of the project (e.g., 
+commissioning and operation). Training programs should further emphasize that everyone 
+working at the site is responsible for safety in all construction activities. 
+ 
+Operational phase training and personnel certification approaches, such as for those who will be 
+involved in commissioning, operation, maintenance and technical support activities should be 
+considered. It is understood that training program provisions evolve as construction progresses. 
+3.3.4 
+ Effect on and from existing facilities  
+As part of its assessment of safety and security during construction, the licensee shall consider all 
+hazards to or from nearby site facilities and any interdependence of safety systems. The 
+consequences of potential contamination (nuclear and hazardous substances) from a construction 
+site to operating units, as well as from operating site to construction site, shall be assessed and 
+any contamination monitored as necessary. All other potential risks shall also be assessed (e.g., 
+excavation, accidental fall of cranes, use of explosives). Such consideration shall also include an 
+impact assessment of cumulative environmental discharges for all facilities on the site. 
+The responsibilities of the relevant licensee(s) and the construction organization for safety and 
+security shall be agreed upon before the start of construction activities at the site. Close 
+communication and cooperation between the parties shall be established. All steps shall be taken 
+to ensure that the existing facility can be operated safely and securely during construction 
+activities.  
+For adjacent installations or those with common buildings or services, the boundaries of the 
+following shall be identified:  
+1. physical 
+1. system 
+2. controlled areas  
+3. security access 
+4. clean zones 
+When using the resources of existing nuclear installations (e.g., water, electric power or security), 
+clear interfaces shall be defined so as not to jeopardize operating installations.  
+Emergency plans shall take full account of the presence of other parties in the area. Procedures 
+shall be implemented to ensure the licensee of an existing facility or facilities endorses a change 
+of status for those common buildings or services before the construction organization puts such 
+plans in place. 
+ 
+7 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+3.3.5 
+ Emergency management and fire protection 
+The licensee shall ensure an appropriate plan is in place for managing emergencies during 
+construction.   
+Fire protection controls (i.e., temporary measures to mitigate potential fires) shall be available 
+until final systems for plant fire detection, protection and suppression are installed and 
+operational. Details of these controls shall be included in the emergency preparedness 
+arrangements. 
+Guidance 
+REGDOC-2.10.1, Nuclear Emergency Preparedness and Response, [5] provides specific 
+requirements and guidance on emergency preparedness. 
+ 
+For construction sites at existing nuclear facilities, emergency measures should include a risk and 
+threat assessment to identify any increased risks to the site. Preventive measures should include 
+managing risk to the existing facility, by construction activities such as dredging, quarrying and 
+blasting, and the creation of connections between the site and the facility. 
+The proximity of other nuclear facilities should be considered so that mutual aid agreements may 
+be put in place to support emergency response. As construction proceeds the licensee should 
+ensure that emergency measures in place are commensurate with onsite hazards. 
+4. 
+Readiness Review 
+In preparation for construction, the applicant/licensee shall ensure the contractors are ready to 
+proceed with construction by verifying that:  
+1. management systems are in place  
+2. adequate planning has been conducted  
+3. procedures and training are complete 
+4. construction hazards are adequately evaluated and control measures identified  
+These activities shall be accomplished through a construction readiness review. 
+Guidance 
+The following areas should be assessed in a construction readiness review: 
+• 
+Regulatory requirements: Focus on confirming all regulatory requirements have been 
+satisfied. This includes obtaining all required licences and permits from federal, provincial 
+and municipal agencies. 
+• 
+Management system: Focus on aspects of the management system, organization and staffing 
+for the execution of the construction project. It is expected that key construction positions are 
+established, related organizational roles and responsibilities are clear, and project staff are 
+sufficiently staffed to oversee construction activities. Additionally, management systems 
+should be in place to monitor performance against the project baseline. 
+• 
+Design completion: Confirm that the design is sufficiently complete, as agreed between the 
+licensee and the contractor, to allow the four steps listed above to be undertaken. 
+ 
+8 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Additionally, confirm that any incomplete areas have been identified and schedules have been 
+prepared for their completion. 
+• 
+Information technology: Assesses the alignment and interoperability of hardware, software, 
+information communications, and the information technology environment between the 
+applicant/licensee and contractors to ensure timely creation and delivery of quality 
+information between all parties, in the proper form and format to facilitate the reactor 
+facility’s information strategy over the facility’s lifecycle. 
+• 
+Construction procedures: Focus on the contractor and key subcontractor procedures used 
+for the completion of the facility construction. It is expected that the procedures address the 
+key elements and requirements to safely complete construction activities in accordance with 
+applicable regulations, design requirements and contract requirements. 
+• 
+Materials management: Focus on the materials management process for the construction 
+activities, including the acquisition of materials, their delivery, packaging, and waste 
+management from materials receipt.  
+• 
+Safety assurance: Confirm that the construction contractor is capable of managing a safe 
+project. Key requirements related to integrated safety management systems, and specific 
+plans and procedures related to industrial health and safety, and industrial hygiene along with 
+environmental controls should be evaluated. The applicant/licensee should also verify that 
+contractors have completed a project safety and health plan, and environmental management 
+plan. 
+• 
+Project control: Focus on the adequacy of project controls relied on to ensure adherence to 
+the performance baseline and the systems or processes relied on for controlling any field 
+changes to procedures or other project documents. 
+• 
+Construction execution plan: Address specific construction activities and practices, as well 
+as the personnel and procedures in place to accomplish the work. Included are criteria related 
+to general construction topics such as preparedness of the site and work sequencing. 
+• 
+Training and qualification: Focus on the training and qualification of personnel responsible 
+for construction activities. This review encompasses both the general training required for site 
+access and the specific training and qualifications necessary for performing the planned 
+construction activities. 
+• 
+Work planning: Assess the work planning to ensure that work processes are controlled by 
+approved instructions, procedures, design documents, technical standards or hazard controls 
+as appropriate for the task to be performed. The organization of work and whether systems 
+are in place and mature to support development of work packages or processes should also be 
+evaluated. 
+• 
+Constructability: Focus on the project’s constructability. The key elements include the 
+design specifications, drawings, site conditions and the construction schedule including the 
+order of construction elements and potential impacts. 
+• 
+Field engineering: Assess the readiness of activities explicit to construction of specific 
+facility systems in accordance with their approved design, as well as taking into account 
+feedback from field observations that may impact design.  
+• 
+Infrastructure: Focus on support systems, including required electricity, gas and water 
+supply, fire protection, protection or coverage of SSCs after work installation (including 
+maintaining environmental qualification), and ensure they are in place at a level 
+commensurate with the progress of construction activities. 
+• 
+Quality assurance: Verify that an approved quality assurance plan or equivalent is in place 
+and is up to date to address quality assurance requirements pertinent to construction activities. 
+Quality assurance during procurement should also be addressed to ensure the final products 
+meet design criteria. 
+ 
+9 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+Labour management: Focus on aspects of labor management necessary to ensure that the 
+project can be successfully executed with the overall objective being to ensure the adequacy 
+of the local labor force to support the project. 
+• 
+Construction tools and equipment: Focus on the availability and operability of the tools 
+and equipment necessary to support the construction activities. The review should confirm 
+that the equipment meets jurisdictional requirements. 
+5. 
+Construction Program 
+5.1 
+Planning, scheduling and construction sequencing 
+The licensee’s planning, scheduling and construction sequencing shall identify and include 
+provisions for hold and witness points by various parties, such as architects/engineers, authorized 
+inspection agencies and the CNSC. 
+Guidance 
+To ensure construction sequencing will not be adversely affected by later construction activities, 
+planning, scheduling and work sequencing should identify and include provisions for: 
+• 
+items with long lead times (long-lead items)  
+• 
+onsite manufacturing, modular assembly and testing activities 
+Consideration should be given to the design of components and plant fixtures; e.g., the form of 
+cast-in components, so that post-drilling of concrete is kept to a minimum. 
+5.2 
+Long-lead items 
+Any differences between the original purchasing requirements, the licence-to-construct design 
+basis and the as-built items shall be evaluated, reconciled and reported to authorized inspection 
+agencies and the CNSC. 
+Guidance 
+The procurement of long-lead items is entirely at the licensee’s risk. Submissions for procurement 
+of items for which the licensee seeks CNSC acceptance, prior to the application for a licence to 
+construct, will be reviewed on a case-by-case basis.  
+When the licensee/applicant proceeds with the procurement of long-lead items, submissions 
+should include the following information:  
+• 
+item description and quantity 
+• 
+codes and standards 
+• 
+safety classification 
+• 
+code classification 
+• 
+code-effective date 
+• 
+technical performance requirements 
+• 
+quality assurance requirements 
+• 
+documentation requirements and timing of submission 
+ 
+10 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+5.3 
+Manufacture and assembly 
+The licensee shall ensure right of access to facilities and records for witness points or audit by the 
+CNSC. 
+5.4 
+Receipt of components important to safety 
+Guidance 
+An initial check should be carried out when components important to safety are received at the 
+construction site to ensure: 
+• 
+the components are as ordered 
+• 
+have not been obviously damaged during transport 
+• 
+that counterfeit, fraudulent and suspect items have not entered the construction site 
+Before the component is accepted and used, an inspection should be carried out to confirm that: 
+• 
+components are configured correctly 
+• 
+identification and marking are correct 
+• 
+manufacturing and assembly documentation, including approved deviations, is available 
+where required  
+• 
+inspection records and/or certificates are traceable to the inspected item for confirmation of 
+acceptance  
+• 
+source verification release notes – for both components and documentation – are available 
+where required 
+• 
+protective covers and seals are intact 
+• 
+coatings and preservatives have not been damaged 
+• 
+no physical damage has been sustained 
+• 
+cleanliness meets applicable codes and standards and design requirements 
+• 
+inert gas blankets and the condition of desiccants, where relevant, have not been 
+compromised 
+• 
+non-conformance identified by receipt inspections, or detected during manufacturing but to 
+be corrected onsite, are recorded 
+Controls should be in place to prevent inadvertent installation or use of components. 
+5.5 
+Protection of systems, structures, and components important to safety  
+The licensee shall ensure that SSCs important to safety are protected from construction activities. 
+Such measures shall include: 
+1. conducting preventative and corrective maintenance to maintain the functionality of SSCs 
+important to safety, as required by the design, until operational maintenance programs are 
+initiated 
+2. ensuring that fabrication/manufacturing, construction and installation processes do not 
+adversely affect aging performance of SSCs important to safety or adjacent reactor units 
+3. performing periodic monitoring of environmental conditions to confirm that they remain 
+within allowable limits throughout construction 
+ 
+11 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+4. implementing housekeeping, cleanliness and foreign material exclusion measures as 
+necessary to protect sensitive mechanical, electrical and control equipment from internal and 
+external contamination 
+ 
+Temporary use of SSCs important to safety that are to become part of the completed facility shall 
+be authorized by the responsible organization. Such temporary use shall not subject the SSCs 
+important to safety to conditions for which they were not designed. 
+Guidance 
+See RD/GD-210, Maintenance Programs for Nuclear Power Plants, [6] and REGDOC-2.6.3, 
+Fitness for Service: Aging Management, [7] for more information.  
+Examples of environmental conditions where allowable limits should be specified during 
+construction work include temperature, pressure, humidity, dust, dirt, airborne salt, wind, and 
+electromagnetic conditions. 
+Foreign material exclusion measures should include provisions for preventing the introduction of 
+outside materials, debris, tools, and components into the systems and components, and areas 
+where they pose a health and safety hazard or environmental impact. 
+Installed SSCs should be protected from personnel traffic, temporary structures, weather, and 
+adjacent construction activities (such as sandblasting, acid cleaning, welding, jackhammering, 
+chipping, burning, and stress relieving) that would adversely affect the quality of the SSCs or any 
+test results. The protection may be provided through good cleanliness and housekeeping 
+practices, temporary packaging, erection of barriers, protective covers, and walkways as required. 
+Specific requirements and cleaning methods should be implemented for systems such as 
+hydraulic and instrumentation control systems and lubrication lines, as well as for those where 
+interior surfaces are generally not accessible for visual inspection. 
+The compatibility of cleaning methods and materials with the components being cleaned and 
+cleanliness of components after cleaning should be confirmed. The latter includes any remnants 
+of preservatives or cleaning agents on components before installation 
+Fluid and gas piping systems, and associated components should be laid up, cleaned, flushed and 
+conditioned according to applicable chemistry requirements. Chemistry staff, facilities and 
+procedures should be available to support system flushing and hydrostatic testing to ensure 
+requirements are met. 
+Waste materials and remaining consumables used or generated onsite during construction should 
+be removed after work is complete. 
+5.6 
+Storage 
+To protect components important to safety prior to their installation, storage shall be provided as 
+specified by the designers and manufacturers.  
+ 
+12 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Guidance 
+When establishing storage areas, the following should be taken into account: 
+• 
+cleanliness and housekeeping practices 
+• 
+requirements for fire protection 
+• 
+protective requirements related to coatings, preservatives, covers and sleeves 
+• 
+prevention of physical damage 
+• 
+environmental controls: airborne matter, static electricity, temperature and humidity 
+• 
+preventive maintenance 
+• 
+security against theft, vandalism and unauthorized use 
+• 
+shelf life due to physical and chemical characteristics 
+• 
+identification of components 
+5.7 
+Onsite manufacturing and testing 
+Onsite manufacturing shall be located where it will not affect SSCs important to safety or 
+construction activities. The licensee shall ensure that rules and procedures are established for 
+onsite testing facilities to ensure that industry codes and standards are met.   
+Guidance 
+Examples of onsite manufacturing include: 
+• 
+core extraction and testing for the entire concrete and backfill program in accordance with the 
+technical specifications covering the supply of concrete and backfill 
+• 
+rebar assembly 
+• 
+pipe spool fabrication 
+• 
+modular assembly, such as: 
+• 
+mechanical modules: structural equipment on a common structural frame, along with 
+interconnecting piping, valves, instruments and wiring 
+• 
+structural modules: liner, wall, floor, heat sink floor, turbine pedestal form, stairs, 
+platform, structural steel, and space frame modules; some structural modules may include 
+leave-in-place formwork for concrete 
+• 
+piping modules: pipe, valves, valve tree, pumps and associated instrumentation and 
+wiring on a common structural frames 
+• 
+electrical modules: electrical modules on a common structural frame 
+• 
+other onsite activities to facilitate construction 
+When specialty construction equipment is required (e.g., very heavy lift cranes, automated rebar 
+assembly machines) the set-up, use and disassembly should be controlled as required by the 
+manufacturers. 
+Testing facilities include those for: 
+• 
+concrete mix, and core extraction and testing 
+• 
+process instrumentation and set point calibration 
+• 
+pressure relief valve setting 
+ 
+13 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+pressure gauge calibration 
+6. 
+Turnover of Work  
+6.1 
+Turnovers during construction 
+The licensee shall ensure that a process for turnover of SSCs important to safety is established.  
+Guidance 
+Process and procedures should be established to control and coordinate the turnover of completed 
+work and associated facility configuration information from one party to another (e.g., from civil 
+to mechanical, piping and electrical) to maintain completed work integrity. Access control for 
+SSCs important to safety and work areas should also be established and implemented for the 
+transfer. Transfer requirements and responsibilities should be documented. 
+When SSCs and work areas are to be transferred between parties within the construction 
+organization or contractors, both parties should jointly check the SSCs and work areas as well as 
+the facility configuration information. Both parties should agree on the configuration of the SSCs 
+and work areas and how to address any identified deficiencies. 
+After turnover, further work or corrective actions by the previous party should only be done with 
+appropriate authorization by the party who has received the work and the licensee. 
+6.2 
+Turnover of work to operations/commissioning  
+Guidance 
+Process and procedures established to control and coordinate the turnover of work should include 
+the following activities: 
+• 
+review of the facility configuration information relating to SSCs, and areas by the party 
+turning over the work and the party receiving it for completeness and accuracy 
+• 
+performance of tests to ensure the SSCs have been manufactured, constructed and installed 
+according to design specifications  
+• 
+identification and assessment of any remaining non-conformances or incomplete components, 
+to ensure there is no safety implication during commissioning activities 
+• 
+development of inaugural or baseline inspection data for systems or components for 
+comparative purposes for in-service inspection 
+• 
+agreement upon, planning and scheduling of any outstanding work  
+• 
+identification of termination points of the boundaries of turned over SSCs (or parts thereof)  
+in turnover documentation with associated required configuration 
+• 
+inspection of turned over components and associated records and documents 
+• 
+assessment of compatibility of information and communication technology systems when 
+turning over electronic documents and records 
+• 
+documentation of the turnover of responsibilities  
+• 
+establishment and turnover of approved as-built plans together with adequate and precise 
+plant configuration details 
+• 
+marking and tagging of all SSCs turned over  
+ 
+14 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Turnover requirements and responsibilities should be documented. The level of technical detail in 
+turnover documentation should be sufficient to allow the recipient to identify parts and order 
+replacements for maintenance. All relevant information should be copied to the parties who will 
+be responsible for aging management.  
+7. 
+Configuration Control 
+7.1 
+Facility configuration information 
+Recorded information that describes, specifies, certifies, or provides data or results created during 
+construction, as part of the facility configuration information, shall be agreed to, planned and 
+processed so as to facilitate its turnover to commissioning and operations in the agreed form, 
+format and required quality. 
+Guidance 
+To enable successful turnover of facility configuration information created during construction, 
+the following should be considered: 
+• 
+What information is required for turnover?  
+• 
+Who will produce the required information? 
+• 
+How will the information be delivered (i.e., electronically or paper copies)? 
+• 
+When will the information be delivered (i.e., timing and frequency)? 
+• 
+Who will receive the information turned over? 
+• 
+Where will the information be stored? 
+• 
+Who is responsible for the information’s management and integrity? 
+The control of construction records should be established at the beginning of the construction 
+program for input into the schedule for accomplishing construction activities.  
+Visual construction records of as-built conditions should be compiled, particularly in inaccessible 
+areas or areas that will be subject to intense radiation, to facilitate the planning of work in these 
+areas during commissioning, operation and decommissioning. These records should show 
+identification marks and should be catalogued with descriptive captions. This will ensure that 
+visual records made during subsequent inspections or maintenance work can be easily compared, 
+and will help in any work preparation. 
+7.2 
+Changes to facility configuration information 
+Changes that occur in the course of construction shall be processed to maintain conformance 
+among the design requirements, the physical configuration and the facility configuration 
+information. The CNSC shall be notified where configuration changes have an impact on the 
+submitted design and licensing basis information. 
+ 
+15 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Guidance 
+All mechanisms that can lead to a temporary or permanent change in the design requirements, 
+physical configuration and facility configuration information should be identified as configuration 
+management related change mechanisms. Examples of change mechanisms include: 
+• 
+design changes 
+• 
+field changes 
+• 
+non-conformances 
+• 
+changes to as-built condition 
+• 
+changes to as-built test documentation 
+• 
+changes to inaugural inspection records 
+• 
+computer software changes 
+• 
+changes to records of maintenance history 
+• 
+temporary modifications and alterations 
+ 
+16 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+ Part B: Commissioning of Reactor Facilities 
+8. 
+Management and Organization 
+8.1 
+Organizational responsibilities 
+The licensee shall have the primary responsibility for safety and security and shall oversee the 
+organization, planning, execution and assessment of the commissioning program. 
+The licensee shall be responsible for the construction, commissioning and operating 
+organizations, which may be part of the licensee’s organization or from a contracted organization 
+responsible for their scope of work. 
+The licensee shall ensure that necessary resources are available to carry out the commissioning 
+activities and to establish, implement, assess and continually improve commissioning activities. 
+During and following commissioning, under the overall direction of the licensee:  
+1. the construction organization shall ensure that SSCs have been constructed as per design and 
+that quality assurance requirements have been satisfied 
+2. the commissioning organization shall ensure that SSCs are tested to provide assurance that 
+the reactor facility has been properly designed and constructed and is ready for safe operation 
+3. the operating organization shall: 
+a. carry out operation and maintenance  
+b. satisfy itself that the systems transferred comply with the specified performance, 
+design intent and safety case 
+c. satisfy itself through integrated system validation exercises that the human-
+machine system design and supporting mechanisms facilitate human 
+performance in achieving safety and operational goals 
+d. accept responsibility for the transferred systems 
+e. become competent in the management and operations of the reactor facility 
+f. ensure that there will be a sufficient number of qualified workers to operate the 
+facility 
+4. SSCs shall be operated in accordance with the assumptions and intent of the commissioning 
+program, respecting the relevant operating limits and conditions that apply to each testing 
+stage 
+5. the responsibilities of other participants, such as designers, manufacturers and supporting 
+technical organizations, shall be specified in appropriate documents 
+Interface arrangements shall be identified and agreed upon between the licensee, commissioning 
+organization, operating organization, construction organization and any other organizational units 
+performing the work. The interface arrangements shall be specified in management system 
+documentation and in appropriate contracts. 
+Interface control shall include the assignment of responsibilities and the establishment of 
+procedures for the identification, review, approval, release, distribution and release of documents 
+that cross organizational boundaries. 
+ 
+17 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Guidance 
+Responsibilities of each organization should remain clear at all times, even if activities overlap in 
+respect to the use of personnel. The participating organizations may adopt various arrangements 
+in discharging their responsibilities. Appendix E provides examples of typical responsibilities, 
+and appendix F gives further guidance on recommended interface arrangements. 
+Commissioning activities should be aligned with the regulatory licensing process. The principal 
+activities performed in commissioning may be divided into the following categories: 
+• 
+those associated with the final stage of construction and installation of the reactor facility 
+• 
+those specific to commissioning, including testing and safety review activities 
+• 
+those associated with the operation, security and maintenance of the reactor facility 
+Accordingly, personnel performing the above activities may belong to the construction, 
+commissioning or operating organizations, depending on industrial practice and contractual 
+arrangements, as well as on the physical size and design of the reactor facility. The composition 
+of these organizations may also be influenced by the availability and experience of personnel 
+performing specialized functions. If the licensee decides to contract the commissioning activities 
+to another organization, it should be made clear that the ultimate responsibility for commissioning 
+and safety remains with the licensee. 
+8.2 
+Personnel training and qualification 
+Personnel engaged in commissioning activities shall have appropriate training, qualifications and 
+competence to perform their assigned tasks effectively. 
+Guidance 
+REGDOC-2.2.2, Human Performance Management: Personnel Training, [3] and RD-204, 
+Certification of Persons Working at Nuclear Power Plants, [4] provide specific requirements and 
+guidance for training and personnel certification programs respectively. 
+Training program subjects relevant to the commissioning program should include, but are not 
+limited to: 
+• 
+commissioning organization and structure 
+• 
+commissioning procedures 
+• 
+reactor facility systems   
+• 
+conduct of testing and maintaining the reactor facility in safe conditions 
+• 
+procedural and design changes 
+• 
+permanent and temporary modifications 
+• 
+work control and equipment isolation 
+• 
+interfaces of construction, design and operation with commissioning 
+• 
+test limitation boundaries in mechanical and electrical systems 
+• 
+the criteria for, and importance of, reporting incidents and deviations 
+• 
+commissioning methods and techniques 
+• 
+safety culture 
+ 
+18 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+nuclear safety, industrial safety, fire protection, emergency preparedness, radiation protection 
+and security  
+• 
+design criteria, technology and operational limits and conditions (or the equivalent) for the 
+reactor facility  
+• 
+environmental protection and waste management of spent fuel and radioactive waste   
+• 
+full-scope simulator training of operators for reactor start-up, regular operations, reactor 
+shutdown and cool down and handling of various transients, including accidents 
+8.3 
+Problem identification, resolution, and continual improvement 
+The operating organization shall be responsible for problem identification, resolution, and 
+continual improvement during commissioning. 
+Guidance 
+Personnel should be made aware that they are expected to identify and report non-conformances.  
+A system should be in place to define non-conformances and specify the roles and responsibilities 
+of the licensee, commissioning organization, and other involved organizations for reporting and 
+correcting non-conformances. In addition, this system should incorporate the regulatory approval 
+process for handling problems and non-conformances when required. 
+The commissioning stage yields much information that should be taken into account in the 
+subsequent operation of the reactor facility. Systematic processes and procedures should be 
+established for reporting on and analyzing abnormal events, human errors and “near misses”. 
+Experience gained at this stage should be fed back into the training program for commissioning 
+and operating personnel. Available information on operating experience, including reportable 
+occurrences at the operating power reactor, should be used appropriately in developing and 
+executing procedures. Consideration should also be given to the need for any changes in the 
+design and related documents. 
+9. 
+Commissioning Program 
+The licensee shall establish and implement a program for the commissioning of a reactor facility 
+that:  
+1. defines clear responsibilities for commissioning activities and oversight, specifying interfaces 
+between design, construction, commissioning and operating organizations 
+2. is structured to enable the objectives and methods of testing to be understood and to allow 
+management control and coordination 
+3. outlines the testing that must be performed to ensure that SSCs important to safety are built as 
+designed and meet the requirements of the facility design and safety analysis 
+4. verifies safety analysis assumptions and the presence of adequate safety and operating 
+margins between design, safety requirements and normal operating conditions 
+5. ensures tests are only conducted if the reactor facility falls within the range of assumptions 
+made in the safety analysis and the licensing basis remains valid 
+6. includes provision of temporary utilities (i.e., power, HVAC, demineralized water, fire 
+protection, lightning, communications, compressed air, waste water processing and 
+discharge) 
+ 
+19 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+7. identifies the security systems to be commissioned before nuclear fuel or material is brought 
+onsite 
+8. documents the testing results and identifies any impacts on or changes to the facility design 
+basis 
+9. validates operating and surveillance procedures for which the commissioning tests provide 
+representative activities and conditions 
+10. verifies operating and emergency procedures by trial use 
+11. ensures integrated system validation of control rooms and control areas 
+12. ensures a schedule, including milestones and regulatory hold points, and test results to be 
+submitted for review are identified and communicated to the CNSC 
+The licensee shall submit the commissioning program in advance of commissioning activities 
+within an agreed-upon lead time to ensure sufficient time for regulatory reviews and for any 
+concerns raised during the review process to be adequately addressed. The lead time will be 
+related to the size of the facility and the extent of the commissioning proposed. For a new build 
+power reactor the lead time will typically be in the order of one year. 
+For sites that will contain multiple reactor facilities, the commissioning program shall clearly 
+identify and track commissioning activities for each individual unit or module. 
+The content of the final safety analysis report shall be updated according to commissioning 
+results. 
+Guidance 
+IAEA documents SSG-28, Commissioning for Nuclear Power Plants, [8] and NS-G-2.3, 
+Modifications to Nuclear Power Plants, [9] define recommended commissioning programs for 
+new facilities and modifications to existing facilities, respectively. The commissioning program 
+for a new facility should cover the integrated plant and all the SSCs, including any interfaces with 
+existing operating facilities onsite. For the life extension, refurbishment and modification of an 
+existing reactor facility, the extent of commissioning activities is recognized to be different. In 
+these cases, the commissioning program should address the impact of design modifications (both 
+hardware and software), as well as the work done on the SSCs that were dismantled or laid-up 
+during the extended outage. Once these SSCs are satisfactorily checked and tested for readiness 
+to load fuel, the commissioning program – from fuel load to full power – should be similar, if not 
+identical to a new facility commissioning program. 
+To assist in developing the applicable commissioning program, the licensee should categorize the 
+SSCs as defined below, to reflect their status and scope of work performed. 
+Category A: Systems that remain in normal operation with continued health monitoring 
+and routine maintenance program activities  
+Temporary changes may have been implemented on some of these systems, to enable them to 
+provide necessary service throughout the outage. No formal commissioning is required to return 
+these systems to normal service. However, any temporary changes should be carefully removed 
+and normal operation restored, in accordance with the operating procedures. 
+ 
+20 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Category B: Systems that are shut down and placed in a laid-up state  
+This includes systems that may have been disconnected or dismantled to provide proper access to 
+perform work. Depending on the nature of the work involved, some commissioning activities 
+may be required to confirm that the system has been reinstalled correctly and performs in 
+accordance with the design specifications. 
+Category C: New installed systems or existing systems that have had portions of systems or 
+components modified.  
+Commissioning would be required to confirm that the modified system – and the integrated plant 
+– performs in accordance with the design specifications. 
+The extent and depth of the commissioning program is dependent on various factors. In situations 
+where a commissioning requirement may not be applicable, the licensee may make a justification 
+for not meeting the requirement, or propose an alternate method of compliance (which will be 
+reviewed by CNSC staff). 
+10. 
+Commissioning Tests 
+10.1 
+Test objectives 
+Testing is the core activity of the commissioning program. It shall be sufficiently comprehensive 
+to demonstrate that the reactor facility can operate in the modes for which it has been designed.  
+In developing test objectives, the safety functions of the SSCs important to safety shall be 
+systematically reviewed to ensure that all safety requirements are met. 
+Where it is deemed impractical to fully test the functionality of  SSCs important to safety for all 
+design-basis events, gaps in testing shall be identified and documented. Additional compensatory 
+measures (such as computer simulation, additional verification or third-party review) shall be 
+documented to compensate for the gaps in the commissioning assurance provided by testing.    
+10.2 
+Test scope and methods  
+Tests necessary to demonstrate operability, safety and safety-related functions shall be fully 
+performed. For tests that cannot be performed to their fullest extent, it shall be documented how 
+the safety and design intent is met. 
+Functional and performance requirements and parameters that clearly identify the approach used 
+for each testing aspect shall be defined.  
+The commissioning program shall have provisions to ensure there have been no omissions in 
+testing complex systems. The combination of testing and other means of assurance (where testing 
+is impractical) shall be such that risk to the public and environment is assured to be within the 
+licensing envelope of the facility. 
+Tests shall be performed under the most realistic operating conditions practicable and shall 
+confirm analytical tool validation. 
+ 
+21 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Facility-level integrated tests shall be performed for every reactor facility, irrespective of the 
+availability of similar or identical tests from other single- or multi-unit reactor facilities. Where 
+integrated testing cannot be performed for safety reasons, the licensee shall provide a technical 
+argument that includes acceptable testing alternatives to meet the objectives of the commissioning 
+program. 
+For any offsite tests, their applicability at the component level shall be documented. Their 
+applicability shall also be documented when integrated at system and facility levels. 
+For multi-unit reactor facilities: 
+1. component- and system-level integration tests shall be done onsite for every unit in the 
+reactor facility 
+2. special provisions shall be made to ensure that the commissioning tests of a unit do not 
+jeopardize the safety of another unit; such provisions shall include safety analysis (of the 
+operating unit), conducting a hazard assessment, and obtaining specific written approval from 
+the manager responsible for the operating unit  
+3. that have SSCs important to safety common to more than one unit, tests shall be conducted on 
+each unit to provide assurance that the specified performance requirements meet the design 
+intent of each unit 
+ 
+Guidance 
+If the testing procedure uses SSC test results from offsite tests, this should be defined and 
+justified, showing the validity and applicability of performed offsite tests to: 
+• 
+the onsite physical and functional condition of SSCs important to safety 
+• 
+their interfaces with the rest of the reactor facility 
+ 
+For some reactor technologies and construction processes, some tests on SSCs important to safety 
+performed offsite may need to be considered as part of the commissioning process. In such cases, 
+specific justification should be provided showing the validity of the performed tests for the 
+current installed conditions of the SSCs important to safety and related functional and physical 
+interfaces.  
+10.3 
+Acceptance criteria 
+Acceptance criteria for the commissioning tests, against which the acceptability of the test results 
+will be evaluated, shall be defined by the test procedures. 
+The technical basis of the acceptance criteria, which is consistent with the safety, design and 
+performance requirements, shall be documented in preparation for and prior to conducting the 
+tests. 
+When using analytical tools, CSA N286.7, Quality Assurance of Analytical, Scientific, and 
+Design Computer Programs for Nuclear Power Plants, [10] shall apply. 
+Guidance 
+CNSC acceptance of the acceptance criteria may be needed before performing the commissioning 
+tests.  This will depend on the facility-specific commissioning program. Any criteria requiring 
+ 
+22 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+CNSC acceptance will be identified by the CNSC at the time of review of the overall 
+commissioning program and prior to testing. 
+Parameters measured during the test should directly relate to, or correlate with, the design 
+requirements important to safety while recognizing the safety limits and integrity of the structure, 
+system or component. In cases where measured parameters do not directly relate to the 
+acceptance criteria, analytical tools may be used to demonstrate that the safety objectives are met.  
+Acceptance criteria, especially those directly or indirectly linked to safety, should not change 
+during the execution of a test. 
+After completion of a test, there may be a discrepancy between the results and acceptance criteria. 
+Observed discrepancies and their resolution should be documented; impact assessment of the 
+discrepancies on the past and pending tests should also be performed and approvals should be 
+secured before proceeding with further tests. 
+10.4 
+Test procedures 
+All commissioning tests shall be performed in accordance with the commissioning program using 
+procedures reviewed, verified and approved by the licensee.  
+Test procedures shall establish actions for deviations from procedures, where test results fall 
+outside the acceptance criteria or if unexpected events occur. Tests shall only resume after any 
+existing issue is dispositioned (e.g., through design change, change in operating requirements, or 
+change in operating modes,) by the commissioning organization and approved by the relevant 
+parties.  
+Guidance 
+For some tests, the test procedures may require SSCs important to safety to be placed in a 
+different configuration than the normal operating configuration. Such deviations or changes may 
+involve temporary interlock bypasses, temporary additional interlocks, temporary system 
+bypasses, valve configurations and instrument settings. Consideration should be given to 
+minimize such arrangements, and to ensure that any deviations from the normal functioning of 
+the as-built systems do not invalidate the test objectives. In such instances, the test procedures 
+should: 
+• 
+specify the deviations/changes for the SSCs important to safety from the normal operating 
+configurations 
+• 
+specify back-out provisions and anticipate response to events that could arise from the test  
+• 
+provide supporting evidence with reference to safety analysis  
+• 
+include all the necessary steps for the restoration of the SSCs important to safety to their 
+normal configuration after the test is completed 
+• 
+include a list of all necessary checks that are needed to ensure that: 
+• 
+the deviations/changes are made safely and correctly 
+•   the SSCs important to safety are returned to their normal configuration safely and 
+correctly 
+Test procedures should use normal operating procedures to ease their verification. Where 
+improvements to operating procedures are identified during commissioning, commissioning 
+ 
+23 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+personnel should consider, in consultation with the operating organization, amending the 
+procedures to permit operating personnel to become familiar with them. Where operating 
+procedures have not yet been developed, the operating organization should have processes in 
+place to manage commissioning records for use in developing operating procedures. 
+The development, verification and validation of commissioning test procedures may benefit from 
+the use of validated simulator and computer codes. The use of the facility simulator should be 
+considered in training and preparing commissioning teams, particularly for complex 
+commissioning tests or for investigating possible adverse conditions that may occur during the 
+test. 
+The process for preparing test procedures should allow for sufficient time to:  
+• 
+conduct various levels of review, including responding to potential review requests from the 
+CNSC; the design organization should review the procedures – in particular, the validity of 
+the acceptance criteria (scope and depth of reviews should be commensurate with the nature 
+of the test, regardless of whether a test requires SSCs to be placed in a different configuration 
+from the normal operating configuration, and the impact on system safety) 
+• 
+report test results 
+• 
+enable review of the test results to proceed safely and efficiently 
+Examples of deviations from approved test procedures to be addressed according to the operating 
+organization’s control change procedures include:  
+• 
+a test acceptance criterion that is not met 
+• 
+inability to demonstrate compliance with the acceptance criterion because of at least one of 
+the test conditions not being fulfilled 
+• 
+the determination of an inadvertent change to the test procedure steps that impacts the 
+acceptance criterion  
+• 
+inability to implement the test completely, as developed in the test procedure 
+Should a deviation occur, a review that includes the following should be carried out: 
+• 
+immediate corrective actions to ensure facility and personnel safety 
+• 
+safety implications of the deviation 
+• 
+root-causes of the deviation 
+• 
+an assessment of whether the deviation prevents continuation of the commissioning activities 
+• 
+violations of safety and regulatory requirements 
+• 
+appropriate corrective actions, such as: 
+• 
+re-performing the test as per procedures 
+• 
+modifying the design 
+• 
+updating the safety analysis 
+• 
+updating/correcting test procedures 
+•   updating operational documentation 
+The deviation review process should not be finalized until all corrective actions are completed 
+and the commissioning procedures are updated and approved. For any deviations requiring a 
+ 
+24 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+design change, the affected test(s) should be repeated to confirm conformance after the design 
+change modifications have been implemented.  
+For unexpected events, consideration should be given to any fault responses and emergency 
+actions required for each test procedure. In some cases it may be the same response to alarms as 
+would be necessary for planned operation, whereas other cases may require specific actions 
+because of the configuration of the reactor facility during testing. The test procedures should 
+identify the specific limits and conditions applicable to the test and the actions to be taken if the 
+limits are approached. 
+Although the format of procedures may vary from facility to facility, the contents of test 
+procedures should include the following: 
+• 
+Introduction: Summarize the main test objectives and the safety aspects to be demonstrated. 
+The system to be tested should be identified and the anticipated test results should be 
+indicated. The relationship of the test being carried out to the main phases of the 
+commissioning program should be highlighted. 
+• 
+Test objectives and methods: Set out the objectives of the test and the means by which they 
+are to be achieved, including step-by-step actions. 
+• 
+Limiting criteria: Applicable operational limits and conditions, including temporary ones. 
+Limits and conditions that must be adhered to in order to prevent damage to the reactor 
+facility should also be included. 
+• 
+Prerequisites and initial conditions: The state of all relevant SSCs and other pertinent 
+conditions that might affect the operation of the system to be tested (including coordinating 
+construction, commissioning, operations, verification and validation activities, and hold 
+points), particularly if different from normal. This information should include, where 
+appropriate, the precautions necessary to maintain the desired system configuration. 
+• 
+Test conditions and procedures: The way in which the system to be tested is required to be 
+brought up to test conditions and details of the test procedures, preferably in a step-by-step 
+format. This information should include any temporary changes or abnormal alignments of 
+the system or of adjacent systems, and be supported by safety analysis. 
+• 
+Acceptance criteria: The stated acceptance criteria. Wherever possible, this statement 
+should be quantitative as well as qualitative (e.g., for fuel loading). 
+• 
+List of instrumentation and special test equipment: List all special equipment and 
+calibrations necessary to perform the test. The equipment should have appropriate accuracy 
+and should be clearly identifiable. 
+• 
+Staffing, qualification and responsibilities: Staffing needs, qualification requirements and 
+assignment of duties and responsibilities for conducting tests, including personnel required to 
+oversee and/or witness. 
+• 
+Special precautions: Measures and actions necessary for the safety of personnel and the 
+security of equipment. 
+• 
+Completion of test: Indication by the responsible personnel that the test has been completed 
+and the systems have been returned to normal conditions. The removal of temporary changes 
+or of any abnormal lineup should be individually specified (i.e., as steps in the test 
+procedure). 
+• 
+Permanent records: Information necessary for permanent records, including baseline data. 
+• 
+Identification, cross-referencing and distribution: a unique identification system (such as 
+one using reference numbering), including comprehensive cross-references to associated 
+documents and a distribution list of those persons who should receive it. 
+ 
+25 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+Data collection and processing: Make arrangements for tabulating data and test results. Test 
+sheets should have standardized forms and each sheet should be signed by the data collector. 
+Chronological recording is desirable (test data, date and time). Data pre-processing by the 
+data acquisition system and post-processing, if any, should be validated and verified. 
+• 
+Non-conformities: Make arrangements to manage any non-conformities identified as a result 
+of the tests. 
+• 
+Provisions for the techniques and methods of data analysis, including the analysis of 
+measurement results: Verify and validate the software used for data collection, storage and 
+analysis prior to the test. The repeatability, accuracy and measurement uncertainty should be 
+documented. 
+10.5 
+Review, evaluation and reporting of test results 
+Test results shall be reviewed by the commissioning organization to ensure that all deviations are 
+resolved and that operating constraints, if any, are identified and documented.  
+Interpretation of test data shall be reviewed by persons who have the technical expertise to 
+determine that the operational characteristics of the structure, system or component and/or 
+process are captured. 
+Formal reports for each test shall be prepared by individuals responsible for the tests, and 
+approved by the commissioning and design organizations. 
+The reactor facility design, operational and safety documentation shall be updated to reflect test 
+results and resolution of deviations. 
+If test results indicate that a change to the scope of subsequent tests is required, a documented 
+assessment shall be performed prior to proceeding with the remaining tests to ensure that:  
+1. the proposed changes do not fall outside the range of assumptions made in the safety analysis 
+and do not invalidate the licensing basis 
+2. the proposed changes do not invalidate the results of the previous tests 
+3. the proposed changes do not adversely impact future tests in terms of scope, objectives and 
+sequence 
+4. the commissioning documents are updated with the nature of, and justification for, the 
+proposed changes as per management system requirements 
+ 
+ 
+The commissioning organization shall report the test results to the operating organization and to 
+other participants in the commissioning program, as required.  
+Guidance 
+Although it may be expedient to prepare summary reports as an interim measure for a quick 
+assessment of the test results, a formal comprehensive report that includes a final evaluation of 
+the test results should be prepared. 
+The format of a report may vary, but should typically include: 
+• 
+an introduction, which includes a summary of test objectives with evidence of safety 
+objectives, a description of the test method and acceptance criteria 
+ 
+26 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+references to appropriate test procedures 
+• 
+the conduct of the test, including the duration, the initial and final states of the reactor facility, 
+the actual limitations experienced and the problems encountered and actions taken to 
+overcome them (including modifications to the facility or procedures) 
+• 
+a concise description of any special test equipment used 
+• 
+a summary of data collected and analysis of the data 
+• 
+an evaluation of results, including both qualitative observations (e.g., visual observations) and 
+a comparison of applicable test data with the acceptance criteria 
+• 
+conclusions regarding system or component adequacy 
+• 
+deficiencies relating to design and construction found during conduct of the tests, as well as 
+system modifications and corrective actions required to correct these deficiencies  
+• 
+cross-references and a distribution list 
+ 
+Formal reports may serve as valid test/phase completion certificates, as long as they contain all 
+the required information. In addition to individual test reports, phase test reports and a final 
+station commissioning report should be prepared. 
+The licensee should establish clear objectives for the state of design, operational and safety 
+documentation at the time of turnover to operations. Documentation should be updated in a 
+timely manner to reflect test results and resolution of deviations, in order to minimize the risk of 
+human error. The CNSC will monitor the status of documentation as a part of ongoing 
+compliance verification. 
+10.6 
+Modifications  
+Modifications to test procedures and other related documents shall be authorized by means of a 
+formal licensee-approved process to control changes in documentation. 
+For modifications to the sequence of a test within a hold point or across hold points, reviews shall 
+be performed and approvals obtained from the appropriate organizations. The reviews shall 
+ensure that prerequisites for the out-of-sequence test are met in order to ensure the test is 
+performed safely. 
+Temporary modifications to an approved design configuration for the purposes of commissioning 
+testing shall be controlled by the commissioning organization, with licensee oversight. A review 
+shall be performed to ensure that safety implications are considered. 
+Guidance 
+Modifications to the test sequence may be made because of: 
+• 
+changes in external conditions (e.g., availability of the grid) 
+• 
+progress in other tests  
+• 
+status of periodic tests or maintenance activities 
+Proposals for design modifications to address a deviation should consider regulatory requirements 
+and the stipulations of the operating organization, including the impact on other systems as well 
+as safety implications for the commissioning program or individual tests. 
+ 
+27 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+11. 
+Testing Phases  
+Tests shall be performed in phases and in a logical progressive sequence. There shall be a 
+minimum of four phases: 
+1. Phase A: prior to fuel load  
+2. Phase B: prior to leaving reactor guaranteed shutdown state 
+3. Phase C: approach to critical and low-power tests  
+4. Phase D: high-power tests  
+Before proceeding to the next phase, it shall be confirmed that all prerequisites established 
+between the licensee and the CNSC necessary for proceeding beyond the current phase are met. 
+Before transitioning from one phase of the commissioning process to the subsequent phase, the 
+licensee shall assure that SSCs credited in the safety case for that phase have been installed and 
+confirmed to the extent practicable to meet their designed safety function.   
+The CNSC may choose to witness some commissioning tests. In such cases, the licensee shall 
+inform the CNSC so that staff can attend. 
+Guidance 
+Testing of a specific structure, system or component may require changes to the reactor facility 
+configuration and modes of operation. Such testing may also place demands on appropriate 
+functioning of other SSCs and the availability of various safety functions. Therefore, the 
+sequence of testing is important to the overall safety of the reactor facility.  
+Tests should be planned in chronological order. Before nuclear material is brought onsite, 
+applicable security systems should be commissioned and operational. Safety systems and 
+safety-related systems (e.g., fire protection system, radiation protection system, emergency power 
+system) should be operational before other systems are tested, for the protection of personnel, 
+public and the environment, and facility or nuclear safety. Tasks necessary for the preparation of 
+the next sequence of tests, in particular the availability requirements of the systems that are 
+necessary, should be identified. Relevant safety system(s) and alarm settings, including those of 
+radiological protection instruments, should be specified at appropriate stages during 
+commissioning. 
+A system/component-level functional dependency matrix (within a system, across systems, at 
+system interfaces, and across units for multi-unit sites) may help identify and plan the chronology 
+and sequence of tests. Some tests across systems may need to be grouped and performed at the 
+same time to ensure appropriate interfacing of such systems. Support systems (e.g., compressed 
+air system, electrical system, service water system, demineralized water supply system) should be 
+tested prior to the testing of other systems that depend on their availability. 
+Within the overall fuel-out (phase A) or fuel-in (phase B and up) (see sections 11.1 and 11.2, 
+respectively) commissioning program, activities are usually further divided into cold and hot 
+performance tests. 
+Cold performance tests are thermal hydraulic tests under cold conditions and involve:  
+• 
+pressure and pressure drop  
+ 
+28 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+flow  
+• 
+pump-head/pump-flow characteristics 
+• 
+equipment and instrument performance tests of the nuclear steam plant and balance of plant 
+Cold performance testing includes the initial starting of fluid and support systems. The objectives 
+of these tests are to obtain initial operational data on equipment, determine operational 
+compatibility with interfacing systems, and verify the functional performance of these systems. 
+Hot performance tests are thermal hydraulic tests under hot conditions and involve: 
+• 
+pressure, and pressure drop  
+• 
+flow 
+• 
+equipment and instrument performance tests of the primary and secondary side systems 
+Hot performance testing should be undertaken to verify the conformance of systems with 
+specified requirements. Where possible, these tests should follow cold performance tests under 
+operating conditions that simulate typical temperatures, pressures and flow rates for anticipated 
+operational occurrences (AOOs) and design-basis accidents (DBAs).  
+The tests should verify the effectiveness of heat insulation and heat removal systems. Initial flow 
+rates, pump-head/pump-flow characteristics, pressure drop and temperature measurements at 
+various locations around the reactor facility should be checked and confirmed against design 
+calculations. The vibration levels, clearances and other provisions that were made to 
+accommodate thermal expansion of SSCs should be checked and confirmed. 
+Phases are imposed to ensure proper assessment of available commissioning results against pre-
+defined acceptance criteria. Licensees may incorporate as many phases or hold points as they see 
+fit. Depending on the situation, the CNSC may request regulatory hold points. The selection of 
+regulatory hold points will generally be agreed upon between the licensee and the CNSC and 
+incorporated into the licence. 
+For each phase, the test results and the general condition of the reactor facility should be 
+reviewed and approved by the commissioning and operating organizations. It is recommended 
+that the licensee develop detailed matrices of the prerequisites to be formally demonstrated for 
+each phase and hold point within the phase. These matrices should be developed in agreement 
+with all stakeholders. 
+The following steps should be undertaken at the end of each phase: 
+• 
+documents to certify the performance of tests and provide phase clearances for the 
+continuation of the commissioning program should be prepared and issued 
+• 
+test certificates should be issued by the commissioning organization to certify that the tests 
+have been completed in accordance with authorized procedures, stating any reservations 
+about departures from or limitations of the procedures 
+• 
+phase completion certificates should be issued by the commissioning organization to certify 
+that all the tests in the respective commissioning phase have been satisfactorily completed 
+(listing all deficiencies and non-conformances, if any); phase completion certificates should 
+also list associated test certificates 
+• 
+it should be ensured that succeeding phases can be conducted safely and that the safety of the 
+reactor facility is never dependent on the performance of untested SSCs 
+ 
+29 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+The written request to the CNSC for approval to proceed beyond a commissioning phase should 
+confirm that: 
+• 
+all related project commitments tied to the phase have been completed 
+• 
+all systems required for safe operation beyond the phase are available 
+• 
+all specified operating procedures have been formally verified and validated 
+• 
+specified training has been completed and staff are qualified 
+• 
+all non-conformances and unexpected results identified leading up to the next phase have 
+been addressed 
+11.1 
+Phase A: prior to fuel load  
+Before fuel is loaded into the core, the operability, availability and performance of the SSCs that 
+will ensure safety with fuel in the core shall be tested, and appropriate tests of fuel handling 
+equipment shall be completed. 
+Guidance 
+Satisfactory pre-operational tests (see appendix A for recommended tests) should take into 
+account the proper sequence of tests of electrical systems, instrumentation systems and other 
+service systems (such as cooling water and fire protection systems). This is to ensure the 
+availability of the services required to implement the entire commissioning program. Special 
+instrumentation and control required for the first fuel load and start-up should be installed and 
+checked during this phase. 
+During this phase, operations personnel should take the opportunity to use, verify and validate 
+operating procedures.  
+Some critical elements of heat sinks (flow rates, pressures, etc.) may be tested with fuel imitators 
+in the core. These tests provide early assurances that safety will be maintained once fuel is 
+loaded. Typically, testing of these systems will continue after fuel load. 
+Emergency management arrangements should be in place and tested before the commencement of 
+fuel loading begins and take into account the fact that non-nuclear hazards, such as fire, could 
+arise while the nuclear fuel is on the site. 
+11.2 
+Phase B: prior to leaving reactor guaranteed shutdown state  
+This phase focuses on ensuring the fuel is loaded into the reactor safely, and on confirming that 
+the reactor is in a suitable condition to be started up and that all prerequisites for permitting the 
+reactor to go critical have been met. This phase shall be successfully completed before 
+approaching criticality. 
+During this phase: 
+1. the reactivity control mechanism shall be available and in service and the reactor shall be 
+maintained subcritical at all times 
+2. availability of the automatic shutdown systems shall be confirmed  
+3. the availability of the reactor trip system against neutronic and process-related upsets shall be 
+confirmed 
+ 
+30 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+4. subcriticality checks shall be performed at regular steps during fuel loading to determine safe 
+loading increments for subsequent loading 
+5. predictions of the behaviour of the core in terms of its reactivity shall be available for the 
+evaluation of subcriticality margin  
+6. acceptance criteria for the maximum permissible deviation of predicted values from 
+measurements shall be defined  
+7. tests on coolant flow, pressure, temperature and the performance of associated 
+instrumentation and control mechanisms shall be conducted 
+8. fuel loading shall be supervised by certified personnel from the operating organization 
+Guidance 
+This phase involves initial fuel loading and subcriticality tests (see appendix B for recommended 
+tests). 
+The processes for loading fuel must provide assurance that fuel and structures are not damaged in 
+the process of fuel load and that the nuclear material in the core is in the specific configuration 
+established by design. For applicable reactor designs, the core should be fuelled in accordance 
+with a predetermined loading pattern. Fuel loading procedures should include, as appropriate:  
+• 
+periodic data recording 
+• 
+audible indication of flux increase 
+• 
+monitoring of neutron count rate when reactivity is being inserted or removed and during any 
+other operations that could potentially affect core reactivity 
+Availability of the shutdown systems should be assured before a reactor state is entered that may 
+require the system to actuate to prevent damage to the fuel and/or the facility. Where full testing 
+of the functional part of the system and credited trips is not possible before entering a specific 
+reactor state, the gap in assurance normally provided by a full testing program should be 
+compensated by other means such as partial testing, wire by wire checking, additional analysis 
+and modelling additional verification. Testing to fill the gaps should be scheduled at the first 
+opportunity when plant systems enable conditions to allow testing. 
+Any changes occurring in the reactor should be reported immediately to the control room 
+personnel. Fuel loading should be stopped if measurements deviate from predicted values and 
+commence only after the root causes are determined and appropriate corrective actions are taken. 
+If required by the safety analysis, the position of each core element should be independently 
+confirmed and documented. 
+11.3 
+Phase C: approach to critical and low-power tests  
+This phase focuses on confirming reactor behaviour at the stage of initial criticality and 
+subsequent low-power tests. It includes activities that cannot be performed with the reactor held 
+in a subcritical state (shutdown state). 
+During this phase: 
+1. trip set points shall be verified to ensure that they are compatible with the demands of the 
+tests scheduled in this phase 
+2. the availability of the automatic shutdown systems shall be confirmed for low-power 
+shutdown 
+ 
+31 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+3. radiological surveys and functional tests of radiation protection equipment shall be made 
+4. changes in reactivity shall be continuously monitored and evaluated so that the prediction of 
+the point of criticality is continually checked 
+5. the sequence and magnitude of the reactivity changes shall be performed in accordance with 
+defined procedures 
+6. the performance of the reactor core shall be commensurate with design assumptions and 
+predictions, and comply fully with the safety analysis report 
+7. it shall be confirmed that the reactor core is in proper condition to operate at higher power 
+levels 
+8. characteristics of the reactivity control systems and shielding shall be commensurate with 
+design assumptions and predictions, and shall comply fully with the safety analysis report 
+9. integrated system validation shall be completed if it has not been conducted during earlier 
+phases of commissioning 
+Guidance 
+During this phase, criticality of the fuel in the reactor core is achieved for the first time (see 
+appendix C for recommended tests). The power levels of this phase will be the lowest that give 
+reliable and stable measurements and that enable the required conditions to perform the specified 
+tests. Special very-low-power (start-up) instrumentation may be used if necessary and may need 
+to be connected into the shutdown logic where trip coverage is not available from the normal 
+shutdown means (detectors out of range). 
+Reactivity changes are controlled using reactivity devices such as mechanical control rods (and 
+rods of other types), adjustable reflectors, liquid poison, and adjustment of process fluids such as 
+coolant flow, liquid zone controls or moderator level. In these tests, reactor trip set points for 
+different shutdown means should be set to conservative values. 
+Achieving criticality requires a cautious approach and continuous monitoring of the neutron flux. 
+After the subcritical multiplication factor has been determined, predictions for the point of 
+criticality should be performed while making smaller, successive adjustments to positive 
+reactivity. The objective of these actions is to avoid passing through the point of criticality with a 
+high rate of change in neutron flux (short period of multiplication). After criticality has been 
+achieved, a conservative start-up rate of flux increase should be used in attaining low power. 
+11.4 
+Phase D: high-power tests  
+This phase focuses on demonstrating reactor and systems behaviour at higher power levels, 
+including activities that could not be carried out at the power levels in Phase C. 
+During this phase: 
+1. high-power tests shall be performed at various bulk power intervals, and these intervals shall 
+be approved by the CNSC  
+2. in accordance with the design, tests shall be made to demonstrate that the reactor facility is 
+able to: 
+a. safely operate at steady state under normal operating conditions 
+b. mitigate or prevent AOOs escalating to more severe events  
+c. safely cope with DBAs (note that the facility need not be put into a DBA 
+condition, but rather the function of mitigating systems verified) 
+ 
+32 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+3. a documented review shall be carried out at the end of each high-power test to confirm that 
+the operational limits and conditions are adequate and practicable and identify any constraints 
+on the operation of the reactor facility 
+Guidance 
+This phase should generally be limited to those tests that can only be carried out at high power 
+(see appendix D for recommended tests). 
+This phase of commissioning tests consists of incremental approach to full power. A 
+comprehensive range of power tests should be made to confirm that the reactor facility can be 
+operated in accordance with the design intent and that the reactor facility can continue to operate 
+safely. Typically, power is increased in increments until full power is reached. At each increment, 
+a series of prerequisite tests are performed that must be met before proceeding to the next power 
+level. The CNSC may stipulate more than one regulatory hold point as power increases, based on 
+the specifics of the testing program and the relevance to demonstrating the safe operation of the 
+facility. 
+During testing, in order to minimize time at risk, tests that are necessary to demonstrate safe 
+operability should be completed without delay.  
+12. 
+Transfer of Structures, Systems and Components and the Reactor Facility 
+Appropriate procedures shall be in place for the transfer and ownership of SSCs and the reactor 
+facility from the construction organization and non-licensee commissioning staff to the licensee’s 
+operating organization. These procedures shall describe the detailed process steps, including 
+responsibilities and authorities of the parties involved. 
+Prior to fuel-in-core testing, all SSCs important to safety shall be under the control of the 
+operating organization. 
+Before the transfer takes place, representatives of the organizations involved in the turnover 
+process shall carry out facility walk downs of all systems.   
+The licensee shall maintain responsibility for safety and security at all times during the transfer. 
+The transfer of SSCs shall be documented. All commissioning records shall be turned over to the 
+operating organization’s records-management program and retained for the life of the reactor 
+facility.  
+Guidance 
+Turnover includes the transfer of SSCs and documentation, and may also include the transfer of 
+personnel. The transfer of documentation (paper and electronic) is a key feature in the turnover 
+process. Documentation should be transferred in system packages and over a reasonable period of 
+time, to enable reactor facility personnel to perform a comprehensive review of every package. 
+Document transfers should also depend on how responsibilities for testing after fuel loading, at 
+initial criticality, at low power and at power escalation are assigned. 
+ 
+ 
+33 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Appendix A: Recommended Phase A Commissioning Tests  
+The following tests, as applicable to the facility should be performed prior to fuel loading: 
+• 
+testing of relevant systems in main and secondary control rooms in service to support phase A 
+testing 
+• 
+confirmation that reactor coolant and connected systems meet cleanliness requirements 
+• 
+confirmation of the availability and functionality of the reactor control system  
+• 
+testing of neutron detectors 
+• 
+service tests: 
+• 
+compressed air systems used for safety-related functions in service 
+• 
+fire protection systems in service throughout facility  
+• 
+safety-important process cooling systems in service (e.g., heat sink systems important to 
+reactor cooling and emergency sources of water)  
+• 
+facility heating, ventilating and air conditioning systems (fans, ducts, dampers, chiller 
+units, piping, tanks, instrumentation and control) 
+• 
+facility communication system (annunciating system, telephones and wireless) 
+• 
+nuclear security systems 
+• 
+CANDU – moderator system tests: 
+• 
+leak test 
+• 
+pumps and motors 
+• 
+cover gas recombination units 
+• 
+relief valves in cover gas system 
+• 
+purification columns 
+• 
+liquid poison addition system 
+• 
+leakage collection system 
+• 
+heavy water addition and transfer system 
+• 
+vibration 
+• 
+water quality 
+• 
+electrical system tests (as needed to support safe reactor operation): 
+• 
+AC power (normal, emergency and standby) 
+• 
+DC power (normal, emergency and standby) 
+• 
+back-up, emergency diesel, black-out diesel load sequencing tests 
+• 
+preliminary loss of offsite and house load power tests 
+• 
+safety systems tests: 
+• 
+made operational to the extent possible 
+• 
+check insertion and withdrawal speeds for control absorbers/shut-off rods/adjustable 
+reflectors 
+• 
+check insertion speeds for second shutdown system (if applicable) 
+• 
+logic/interlocks 
+• 
+fuel storage and handling tests: 
+• 
+test and calibration of fuelling machines (CANDU) 
+• 
+fuel transfer systems  
+• 
+spent fuel storage bay cooling and purification systems (including alarms) 
+• 
+decontamination facilities 
+ 
+34 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+radiation protection system tests: 
+• 
+area radiation monitors 
+• 
+personnel monitors and radiation survey instruments 
+• 
+laboratory equipment 
+• 
+in situ efficiency tests of air and absorption filters 
+• 
+other generic commissioning for systems to support fuel load 
+• 
+other prerequisites that could be considered for this phase include: 
+• 
+automatic shutdown systems poised 
+• 
+start-up monitoring instrumentation verified and made available to initiate automatic and 
+manual reactor shutdown when necessary 
+• 
+wiring continuity and electrical protective devices checked  
+• 
+software verification and validation 
+• 
+settings on torque-limiting devices and calibration adjusted (CANDU) 
+• 
+all necessary “jumpers” and interlocks installed for the specific testing configuration 
+• 
+requirements and procedures ready to test the fuel handling and fuelling machine 
+(CANDU) and/or any other tool or system as necessary  
+• 
+the means to prevent inadvertent criticality specified 
+• 
+the readiness of the neutron flux monitoring system 
+• 
+availability of qualified personnel and SSCs important to safety  
+ 
+35 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Appendix B: Recommended Phase B Commissioning Tests 
+The following tests, as applicable to the facility, should be performed prior to leaving the 
+shutdown state: 
+• 
+reactor coolant system (RCS) pressure boundary integrity before filling  
+• 
+testing of neutron detectors 
+• 
+RCS tests: 
+• 
+flow verification (confirm flow distribution and absence of flow blockage) 
+• 
+pressurizer heaters available and feed/bleed paths open 
+• 
+RCS inventory control systems in service 
+• 
+pumps and motors 
+• 
+pressure control and relief valves 
+• 
+strainers/filters, purification columns, tanks, etc. 
+• 
+instrumentation used for monitoring system performance and logic functions 
+• 
+coolant water addition and transfer system available to supply make-up water on demand 
+• 
+vibration 
+• 
+water quality within specifications 
+• 
+boration systems 
+• 
+containment integrity tests: 
+• 
+containment leak-rate test 
+• 
+functional tests on containment isolation valves, dampers, air locks and associated logic 
+and instrumentation 
+• 
+leak detection and associated filtration and vent paths systems calibrated and functional 
+• 
+containment button-up logic to be fully tested and available for service 
+• 
+RCS hot performance, including: 
+• 
+garter spring location check (CANDU) 
+• 
+baseline data for creep measurement 
+• 
+check reactor trip logic available 
+• 
+reactivity control system tests: 
+• 
+check control rod withdrawal and insert speeds 
+• 
+rod position indication 
+• 
+protective interlocks and circuitry 
+• 
+liquid zone control function (CANDU) 
+• 
+ion or fission chambers in service 
+• 
+chemical control of liquid poison addition within specifications 
+• 
+reactor auxiliary systems (CANDU): 
+• 
+ventilation and heavy water vapor recovery system (fans, dampers, air coolers, dryers, 
+temperature control, control logic, air flows and flow balancing, etc.) 
+• 
+end shield cooling system (flow, pumps and valves, venting, make-up system, chemical 
+control, instrumentation, etc.) 
+• 
+calandria vault cooling system (pumps and valves, make-up system, chemical control, 
+instrumentation, etc.) 
+• 
+annulus gas monitoring system (gas addition, piping, valves and associated 
+instrumentation) 
+ 
+36 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+power conversion system: 
+• 
+steam generators 
+• 
+steam expansion, restraint and operability tests 
+• 
+steam and feed water process lines 
+• 
+condensate and auxiliary feed water system 
+• 
+chemical treatment systems 
+• 
+turbine stop, control and intercept valves 
+• 
+steam dump, discharge and safety relief valves 
+• 
+steam extraction system 
+• 
+auxiliary feedwater flow measurement 
+• 
+condenser cooling water system 
+• 
+turbo generator and its auxiliaries (hydrogen cooling, seal and oil systems) 
+• 
+hydrogen leak detection system 
+• 
+turbine governing system 
+• 
+datum block readings 
+• 
+radioactive waste capture, treatment and disposal systems: 
+• 
+liquid waste drainage systems available and activity/level monitoring in service 
+• 
+decontamination centre 
+• 
+liquid effluent segregation and storage system, treatment and disposal in service 
+• 
+solid waste handling and storage facilities in service for the level of waste anticipated 
+• 
+sampling and surveillance systems 
+• 
+instrumentation and control systems in service: 
+• 
+main and secondary control rooms in service 
+• 
+emergency response center in service 
+• 
+pressurizer pressure and level control 
+• 
+bleed condenser pressure, temperature and level control (CANDU) 
+• 
+feed water flow control 
+• 
+steam generator pressure and level control 
+• 
+RCS pressure control, and flow and temperature monitoring 
+• 
+regulation and protection system 
+• 
+seismic instrumentation 
+• 
+failed fuel detection system 
+• 
+in-core flux monitoring and ion chamber instrumentation 
+• 
+calibration and neutron response check  
+• 
+detection of internal and external flooding conditions (CANDU) 
+• 
+control operator information system, programmable digital comparator system, radiation 
+data acquisition system, fuel handling control system, etc. 
+• 
+sampling systems (light water, heavy water, steam, air) 
+• 
+secondary control room tests: 
+• 
+verification of independent protection, control and monitoring 
+• 
+check of habitability and emergency procedures 
+• 
+pressure testing of SSCs and overpressure protection devices 
+• 
+integrated testing of fuel handling and transfer system (CANDU) 
+• 
+verification of proper operation of associated alarms and protective functions 
+ 
+37 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+generic commissioning for systems to support first criticality 
+• 
+other prerequisites that could be considered for this phase include: 
+• 
+availability and readiness of qualified personnel and SSCs important to safety, to ensure 
+the reactor is ready for start-up 
+• 
+surveillance necessary to demonstrate proper operation of interlocks, set-points and other 
+protective features 
+• 
+appropriate start-up monitoring instrumentation available to initiate automatic and 
+manual reactor shutdown when necessary 
+• 
+field inspections made to ensure that the equipment is ready for testing, including 
+inspection for proper fabrication and cleanliness  
+• 
+availability of communication tools and verification of their operability 
+ 
+ 
+ 
+38 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Appendix C: Recommended Phase C Commissioning Tests 
+The following approach to critical and low-power tests, as applicable to the facility, should be 
+used:  
+• 
+testing of neutron detectors 
+• 
+achievement of first criticality in a safe, controlled, predictable manner 
+• 
+check of the regulating system’s automatic control function  
+• 
+confirmation of temperature coefficient of reactivity for reactor coolant systems (all reactor 
+types) and moderator (CANDU) 
+• 
+measurement of the combined reactivity worth of the zone control units (CANDU) 
+• 
+determination of the reactivity worth of each mechanical absorber rod 
+• 
+measurement of axial and radial flux distribution for defined configurations of reactivity 
+mechanisms 
+• 
+testing of reactor shutdown and control systems 
+• 
+neutron and gamma radiation surveys 
+• 
+confirmation of performance of the low-power neutronic instrumentation 
+• 
+commissioning of emergency core cooling systems to the extent possible 
+• 
+confirmation of critical poison concentration (if applicable) 
+• 
+verification of efficiency of reactivity control and shut-off means 
+• 
+verification that auxiliary feedwater/cooling pumps are available 
+ 
+39 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Appendix D: Recommended Phase D Commissioning Tests 
+The following tests, as applicable to the facility, should be performed in the approach to full 
+power: 
+• 
+testing of neutron detectors 
+• 
+performance of the following, at various power levels: 
+• 
+power manoeuvre tests as would be required during normal operation 
+• 
+reactor setback and stepback tests as would be required during normal operation 
+(CANDU) 
+• 
+verification of channel flow (CANDU) 
+• 
+calibration of flux mapping detectors (CANDU) 
+• 
+calibration of neutron power versus thermal power 
+• 
+calibration of ion chambers and in-core flux detectors 
+• 
+dynamic response to load rejections, including turbine trip 
+• 
+verification of chemical and radiochemical control systems and sampling yield results 
+within specification 
+• 
+verification that piping and component movement, vibrations and expansions are 
+acceptable for safety systems 
+• 
+verification of performance of main plant control, reactor coolant system pressure 
+control, steam generator level control, generator speed, steam pressure control, etc. 
+• 
+verification of performance of control room instrumentation and control systems 
+(comparison of measured to monitored values, validate analogue and digital safety 
+functions) 
+• 
+radiation surveys to verify shielding effectiveness 
+• 
+verification of performance of heating, ventilating and air conditioning systems 
+• 
+verification of shutdown capability of secondary control room 
+• 
+performance of the following, at lower power levels: 
+• 
+thermal and control performance tests of nuclear steam plant and balance of plant 
+systems  
+• 
+gaseous fission product / delayed neutron scan 
+• 
+atmospheric steam discharge valve capacity test (CANDU); power-operated relief valve 
+and safety valve tests (all) 
+• 
+condenser vacuum test 
+• 
+digital control computers or distributed control systems (DCS) transfer of control tests 
+(CANDU) 
+• 
+generator run-up and overspeed tests 
+• 
+turbine stop valve / governor valve leak test 
+• 
+generator open- / short-circuit tests 
+• 
+generator voltage adjustment and reactive capability checks 
+• 
+automatic voltage regulation limit checks 
+• 
+generator synchronization to grid 
+• 
+dynamic response to single and multiple reactor coolant pump trips 
+• 
+steam generator moisture carry-over test 
+• 
+dual computer failure test or failure of relevant DCS partitions (CANDU) 
+ 
+40 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+performance of the following, at higher power levels: 
+• 
+reactor coolant system boiling check (CANDU) 
+• 
+crash cool rundown test 
+• 
+testing of reactor shutdown and control systems 
+• 
+duty changeover tests (condensate extraction pump, boiler feed pump, steam generator, 
+de-aerator and condenser level control valves) 
+• 
+test for loss of offsite / house power  
+ 
+41 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Appendix E: Recommended Organizational Responsibilities 
+Commissioning organization 
+The responsibilities of the commissioning organization should include, but are not limited to, the 
+following:  
+• 
+planning the development of the commissioning program in advance, including detailed test 
+sequences, time schedules and staffing requirements  
+• 
+updating the commissioning program in light of experience in commissioning and as a result 
+of design modifications 
+• 
+establishing a procedure for the preparation, review and approval of test and other procedures 
+• 
+ensuring that field visual aids (e.g., drawings, flow sheets), operating and maintenance 
+instructions, commissioning procedures, formats for commissioning and test reports, reactor 
+facility turnover documents and submissions to the CNSC are available 
+• 
+establishing a procedure for the systematic recording of reactor facility data for future use 
+• 
+establishing a procedure to ensure that incidents and unexpected events during 
+commissioning are handled and analyzed, so that the experience can be fed back to the 
+designers and the operating organization 
+• 
+verifying that SSCs have been satisfactorily installed and codified for proper identification 
+• 
+ensuring that the prerequisites for the commissioning program have been satisfied and that 
+pre-operational tests (such as system flushing, functional checks, logic checks, interlock 
+checks and system integrity checks) have been completed 
+• 
+ensuring that commissioning procedures comply with appropriate rules and regulations for 
+security and safety, including radiological and environmental protection and nuclear, 
+industrial and fire safety 
+• 
+ensuring that systems are commissioned safely, and confirming that procedures are adequate 
+• 
+implementing all tests in the commissioning program, including repeat testing of the systems 
+that have been commissioned initially as partially installed 
+• 
+making suitable arrangements for testing and maintaining systems (particularly safety-related 
+items) for which responsibility has been accepted 
+• 
+directing the operation of systems in the commissioning program and providing input for 
+updating operational flow sheets, operating and maintenance instructions and procedures 
+based on commissioning experience 
+• 
+issuing commissioning test reports 
+• 
+ensuring the CNSC has approved safety-related test results as necessary  
+• 
+ensuring a process is in place to control the calibration of test and measurement equipment 
+• 
+establishing a procedure to ensure that all participants in the commissioning process are 
+suitably qualified and experienced 
+• 
+ensuring the configuration control maintains consistency between the physical state of the 
+installation and the test procedures and design requirements, and reporting any discrepancies 
+to the relevant parties 
+• 
+ensuring that design changes are requested, reviewed, implemented and re-tested when design 
+criteria are not met or when they fall short 
+• 
+establishing and implementing a system for controlling, recording and communicating 
+temporary changes to reactor facility and equipment 
+• 
+issuing test and completion certificates or their equivalent 
+ 
+42 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+providing up-to-date baseline information to the operating organization 
+• 
+informing the operating organization of any deficiency detected in commissioning tests, so 
+corrective actions can be taken 
+• 
+maintaining a record of limiting conditions in commissioning, and ensuring tests to be 
+performed do not exceed these conditions 
+• 
+ensuring that reactor facility performance is in accordance with the design intent, including 
+all aspects of radiological and environmental protection, and nuclear, industrial and fire 
+safety  
+• 
+documenting that the commissioning program has been satisfactorily completed 
+• 
+transferring the responsibility for operation and maintenance of commissioned systems and 
+the reactor facility to the operating organization, using a system of relevant documents  
+• 
+establishing and implementing procedures that ensure the orderly transfer of responsibilities 
+for structures, systems and components from the construction organization to the 
+commissioning organization, and from the commissioning organization to the operating 
+organization 
+• 
+establishing procedures for analyzing test results 
+• 
+ensuring that any detected deviations are recorded, resolved and documented 
+• 
+recording all commissioning feedback experience  
+• 
+establishing a procedure in order to compile the lessons learned from commissioning 
+activities and related corrective actions 
+Operating organization  
+The responsibilities of the operating organization should include, but are not limited to, the 
+following:  
+• 
+overseeing the commissioning program (including compliance monitoring activities) 
+• 
+being qualified to participate as early as possible in the commissioning activities 
+• 
+satisfying itself that the transferred systems comply with specified performance requirements, 
+the design intent and safety and regulatory requirements 
+• 
+accept responsibility (operational, maintenance and safety as per operating limits and 
+conditions) for the transferred systems  
+• 
+increasing competency in the methods of operation of the reactor facility 
+• 
+carrying out operation and maintenance with competent and duly authorized personnel using 
+approved techniques to meet the needs of the commissioning program 
+(RD/GD-210, Maintenance Programs for Nuclear Power Plants, provides more detailed 
+requirements for maintenance programs) 
+• 
+establishing and implementing a procedure for the systematic recording of reactor facility 
+data generated by the commissioning tests 
+• 
+maintaining reactor facility design and configuration control over the commissioning phase 
+up to the start of operating life of the facility; this also includes maintaining the safety 
+analysis report current  
+• 
+participating in a safety assessment when necessary  
+• 
+assisting with design modifications to rectify design deficiencies and produce complete 
+documentation of the modification, including requalification tests 
+• 
+recording all operating experience feedback and associated lessons learned 
+• 
+establishing and implementing appropriate emergency arrangements 
+ 
+43 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Construction organization 
+The responsibilities of the construction organization should include, but are not limited to, the 
+following: 
+• 
+ensuring that structures, systems and components have been built and installed in accordance 
+with design requirements and specifications 
+• 
+making suitable arrangements for surveillance, preservation and maintenance to prevent 
+deterioration after installation (construction) is complete, and before the turnover 
+• 
+providing, for use as baseline data, as-built documentation of installation construction and 
+test reports, highlighting design changes and concessions 
+• 
+transferring the installed systems to the commissioning organization using a system of reactor 
+facility turnover documents  
+• 
+ensuring the clearance of remaining open points conditioning the acceptance of the transfer 
+• 
+correcting deficiencies in construction and installation that were detected during 
+commissioning 
+• 
+assisting the commissioning organization in resolving construction-related issues 
+Other participants in commissioning activities  
+The responsibilities of the other participants, such as designers, manufacturers and supporting 
+technical organizations in the commissioning activities, should be specified in the appropriate 
+contracts. The following responsibilities should be considered:  
+• 
+co-operating with relevant parties engaged in commissioning activities by means of active 
+participation when required 
+• 
+providing specialist knowledge, expertise and relevant experience from reactor facilities 
+already commissioned 
+• 
+providing support for evaluation and assessment of tests results including any deviations 
+• 
+providing baseline data and all necessary information 
+• 
+providing a safety assessment when necessary 
+• 
+participating in the analysis of discrepancies and unexpected events 
+• 
+ensuring that configuration control is maintained and that the affected systems’ design basis 
+documentation – including the final safety analysis report – has been updated to reflect any 
+design changes and concessions 
+• 
+devising modifications in order to rectify design deficiencies, and providing complete 
+documentation (including requalification tests) of the modifications 
+ 
+44 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Appendix F: Recommended Interface Arrangements 
+Interfaces between construction and commissioning organizations:  
+• 
+procedures for transferring structures, systems and components (SSCs) from construction to 
+commissioning 
+• 
+procedures for isolating reactor facility portions transferred to commissioning from the part 
+remaining under construction 
+• 
+prerequisites for the start of the commissioning program and the start of system 
+commissioning 
+• 
+special precautions necessary for the commissioning of partly installed systems 
+• 
+procedures for performing work on systems under commissioning 
+Interfaces between commissioning and operating organizations: 
+• 
+provisions in the definition of role, functions and delineation of responsibilities of operating 
+and commissioning organizations before transfer of SSCs for operation 
+• 
+procedures for transferring SSCs, the unit and the facility for operation 
+• 
+methods of identifying special technical, operational or staffing restrictions necessary as a 
+result of partial completion of a construction or commissioning activity 
+• 
+baseline data derived from commissioning, such as the issuing of formal test reports and a 
+statement of the existing radiological conditions 
+• 
+changes in responsibility for safety, depending on considered commissioning milestones and 
+performed transfers to operation, including the nomination of responsible persons 
+• 
+modifications to the reactor facility and to the procedures 
+• 
+availability of as-built drawings, instructions and procedures for operating and maintaining 
+the systems and the reactor facility 
+• 
+conditions for access of personnel, with consideration given to delineation between systems 
+already in operation and those being tested 
+• 
+control of temporary procedures and equipment available during commissioning but not 
+appropriate to normal operation; e.g., special start-up instrumentation or duplicate safety keys 
+and authorization for the use of jumpers and vetoes 
+• 
+the implementation of operating and maintenance requirements for SSCs as each system is 
+transferred to the operating organization 
+• 
+provision of sufficient opportunity for the operating personnel to become trained in, and 
+familiar with, operating and maintenance techniques for the reactor facility 
+• 
+procedures for radiological zone mapping, monitoring (including personal dose recording) 
+and radiation protection  
+• 
+training in radiological safety and authorization of commissioning personnel to work in the 
+controlled area  
+• 
+reassessment of routine operating and maintenance instructions and procedures in light of 
+experience gained in commissioning 
+• 
+development and implementation of measures for emergency preparedness and response 
+• 
+training in required areas for nuclear security 
+• 
+development and implementation of procedures for nuclear security, including access control, 
+alarm assessment and response 
+ 
+45 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+during commissioning, the recording of information that could have implications for 
+decommissioning, and subsequent turnover of these records to the operating organization 
+(this information could include records of spills or other unusual occurrences with potential 
+long-term effects) 
+ 
+ 
+46 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Glossary 
+anticipated operational occurrence (AOO) 
+An operational process deviating from normal operation that is expected to occur at least once during the 
+operating lifetime of a reactor facility but, because of appropriate design provisions, does not cause any 
+significant damage to items important to safety or lead to accident conditions. AOO is a plant state. 
+authorized inspection agency 
+An organization designated by the regulatory authority as authorized to register designs and procedures, 
+perform inspections, and perform other defined functions. 
+commissioning 
+A process intended to demonstrate that installed structures, systems and components perform in 
+accordance with their specifications before they are put into service. 
+commissioning documentation  
+The plans, instructions, procedures, drawings, reviews, records, reports and the like, which together 
+describe the commissioning of a system or the integrated reactor facility. 
+commissioning report  
+A report written on completion of a logical group of commissioning activities to record results, assess 
+compliance with the acceptance criteria, record actions taken to rectify any deficiencies. 
+commissioning tests 
+Testing to demonstrate that structures, systems and components perform within their design 
+specifications. 
+construction  
+The process of procuring, manufacturing and assembling the components, carrying out civil work, 
+installing and maintaining components and systems, and performing associated tests. 
+construction organization 
+The entity managing the procurement, manufacture and assembly of components, carrying out of civil 
+work, installment and maintenance of components and systems, and performance of associated tests. They 
+may be part of the licensee’s organization or a contracted entity. 
+construction safety case 
+The information provided with the licence application for a licence to construct, including the documents 
+to which the application makes reference, once approved by the CNSC. 
+design 
+In the context of a review of a reactor design, the overall planning and philosophies that go into ensuring 
+that every aspect of the physical design will consider safety, security and safeguards under all scenarios it 
+may encounter during its lifecycle. 
+ 
+47 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+design basis 
+The range of conditions and events taken explicitly into account in the design of a nuclear facility, 
+according to established criteria, such that the facility can withstand this range without exceeding 
+authorized limits. Note: For Class IA facilities, this is achieved by the planned operation of safety 
+systems. 
+design-basis accident (DBA) 
+Accident conditions for which a nuclear facility is designed according to established design criteria, and 
+for which damage to the fuel and the release of radioactive material are kept within authorized limits. 
+DBA is a plant state. 
+facility configuration information 
+Recorded information that describes, specifies reports, certifies, or provides data or results regarding the 
+design requirements or design basis, or that pertains to other information attributes associated with the 
+facility and its structures, systems and components. 
+graded approach 
+A method or process by which elements such as the level of analysis, the depth of documentation and the 
+scope of actions necessary to comply with requirements are commensurate with: 
+• 
+the relative risks to health, safety, security, the environment, and the implementation of 
+international obligations to which Canada has agreed  
+• 
+the particular characteristics of a facility or activity 
+hold point 
+A commissioning activity that requires approval of the designated authority in order for commissioning to 
+proceed. 
+integrated system validation 
+An evaluation, using performance-based tests, to determine whether an integrated system’s design (i.e. 
+hardware, software and personnel elements) meets performance requirements and supports the facility’s 
+safe operation. 
+interoperability 
+The capacity to manage and communicate electronic product and project detail between collaborating 
+firms and within individual companies’ design, construction, operations, maintenance, and business 
+process systems. 
+licensee 
+The organization authorized by a licence from the Canadian Nuclear Safety Commission to build and 
+operate a reactor facility in accordance with specified requirements. The licensee has the overall 
+responsibility and controlling authority to oversee the safe and satisfactory completion of the reactor 
+facility design, procurement, manufacturing, construction, commissioning and operation, and 
+decommissioning.  
+licensing basis  
+A set of requirements and documents for a regulated facility or activity comprising: 
+• 
+the regulatory requirements set out in the applicable laws and regulations 
+• 
+the conditions and safety and control measures described in the facility‘s or activity’s licence 
+and the documents directly referenced in that licence 
+ 
+48 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+the safety and control measures described in the licence application and the documents 
+needed to support that licence application 
+management system  
+A set of interrelated or interacting elements (system) for establishing policies and objectives and enabling 
+the objectives to be achieved in an efficient and effective way. Note: The management system integrates 
+all elements of an organization into one coherent system to enable all of the organization’s objectives to 
+be achieved. These elements include the structure, resources, and processes. Personnel, equipment and 
+organizational culture as well as the documented policies and processes are parts of the management 
+system.  
+nuclear power plant (NPP) 
+A nuclear facility consisting of any fission-reactor installation that has been constructed to generate 
+electricity on a commercial scale. Note: An NPP may include more than one nuclear reactor. 
+operation 
+All activities performed to achieve the purpose for which a nuclear facility was constructed. For example, 
+at reactor facilities, operation includes maintenance, refuelling, in-service inspection and other associated 
+activities. 
+reactor facility 
+Any fission reactor as described in the Class I Nuclear Facilities Regulations, including structures, 
+systems and components: 
+• 
+that are necessary for shutting down the reactor, ensuring that it can be kept in a safe 
+shutdown state 
+• 
+that may contain radioactive material and that cannot be reliability isolated from the reactor 
+• 
+whose failure can lead to a limiting accident for the reactor 
+• 
+that are tightly integrated into the operation of the nuclear facility 
+• 
+that are needed to maintain security and safeguards 
+regulatory hold point 
+A commissioning activity that requires approval of the Canadian Nuclear Safety Commission in order for 
+commissioning to proceed. 
+ 
+49 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+safety analysis 
+With respect to deterministic safety analysis, analysis by means of appropriate analytical tools that 
+confirms the design basis for the items important to safety and ensures that the overall nuclear facility 
+design is capable of meeting specified acceptance criteria. 
+safety assessment 
+An assessment of all aspects relevant to safety of the siting, design, construction, commissioning, 
+operation or decommissioning of a nuclear facility. 
+safety case 
+An integrated collection of arguments and evidence to demonstrate the safety of a facility and the meeting 
+of all applicable regulatory requirements. A safety case will normally include a safety assessment, but 
+could also typically include information (such as supporting evidence and reasoning) on the robustness 
+and reliability of the safety assessment and the assumptions made therein. 
+small reactor 
+A reactor with a power level of less than approximately 200 megawatts thermal that is used for research, 
+isotope production, steam generation, electricity production or other applications. 
+structures, systems and components (SSCs)  
+A general term encompassing all of the elements of a facility or activity that contribute to protection and 
+safety. Structures are the passive elements: buildings, vessels, shielding, etc. A system comprises several 
+components, assembled in such a way as to perform a specific (active) function. A component is a 
+discrete element of a system. Some examples are wires, transistors, integrated circuits, motors, relays, 
+solenoids, pipes, fittings, pumps, tanks and valves. 
+structures, systems and components important to safety 
+Structures, systems and components of the nuclear power plant associated with the initiation, prevention, 
+detection or mitigation of any failure sequence and that have an impact in reducing the possibility of 
+damage to fuel, associated release of radionuclides or both. 
+ 
+50 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+References 
+1. Canadian Nuclear Safety Commission (CNSC), REGDOC-2.5.2, Design of Reactor Facilities: 
+Nuclear Power Plants, Ottawa, 2014. 
+2. CSA Group, CSA N286-12, Management system requirements for nuclear facilities, Mississauga, 
+2012. 
+3. CNSC, REGDOC-2.2.2, Human Performance Management: Personnel Training, Ottawa, 2014. 
+4. CNSC, RD-204, Certification of Persons Working at Nuclear Power Plants, February 2008. 
+5. CNSC, REGDOC-2.10.1, Nuclear Emergency Preparedness and Response, Ottawa, 2014. 
+6. CNSC, RD/GD-210, Maintenance Programs for Nuclear Power Plants, Ottawa, 2012. 
+7. CNSC, REGDOC-2.6.3, Fitness for Service: Aging Management, Ottawa, 2014. 
+8. International Atomic Energy Agency, SSG-28, Commissioning for Nuclear Power Plants: Safety 
+Guide, Vienna, Austria, 2014. 
+9. International Atomic Energy Agency (IAEA), NS-G-2.3, Modifications to Nuclear Power 
+Plants: Safety Guide, 2001. 
+10. CSA Group, CSA N286.7, Quality Assurance of Analytical, Scientific, and Design Computer 
+Programs for Nuclear Power Plants, 1999. 
+ 
+51 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+Additional Information 
+Codes, standards and guides: 
+The following national and international codes, standards and guides, which are the most widely accepted 
+and used internationally, provide detailed information on how to meet the requirements of this regulatory 
+document: 
+• 
+American Concrete Institute, ACI 349, Code requirements for Nuclear Safety Related Concrete 
+structures, Farmington Hills, Michigan, 2007. 
+• 
+American National Standards Institute (ANSI) and Nuclear Information and Records Management 
+Association, ANSI/NIRMA CM 1.0-2007, American National Standard for Guidelines for 
+Configuration Management of Nuclear Facilities, New York, 2007. 
+• 
+ANSI and American Nuclear Society, ANSI/ANS-56-8, Containment System Leakage Testing 
+Requirements, New York, 2002. 
+• 
+American Society of Mechanical Engineers (ASME), Rules for Construction of Nuclear Facility 
+Components ASME Boiler and Pressure Vessel Code, Section III, Division I, New York, 2010. 
+• 
+ASME, Rules for Construction of Nuclear Facility Components, ASME Boiler and Pressure 
+Vessel Code, Section III, Division 2, New York, 2010. 
+• 
+ASME, NQA-1-2008, Quality Assurance Requirements for Nuclear Facility Applications, 2008. 
+• 
+ASME, NQA-1a-2009, Addenda to ASME NQA-1-2008: Quality Assurance Requirements for 
+Nuclear Facility Applications, 2009. 
+• 
+British Standards Institution, OHSAS 18001:2007, Occupational Health and Safety Management 
+Systems – Requirements, 2007. 
+• 
+CNSC, RD-360, Life Extension for Nuclear Power Plants, 2008. 
+• 
+CNSC, G-278, Human Factors Verification and Validation Plans, 2003.  
+• 
+CNSC, G-323, Ensuring the Presence of Sufficient Qualified Staff at Class I Nuclear Facilities – 
+Minimum Shift Complement, 2007. 
+• 
+CNSC, RD/GD-98, Reliability Programs for Nuclear Power Plants, Ottawa, 2012  
+• 
+CNSC, S-296, Environmental Protection Policies, Programs and Procedures at Class I Nuclear 
+Plants and Uranium Mines and Mills, 2006.  
+• 
+CNSC, G-225, Emergency Planning at Class I Nuclear Facilities and Uranium Mines and 
+Mills, 2001. 
+ 
+CSA Group standards: 
+• 
+CSA N285.0, General Requirements for Pressure-Retaining Systems and Components in 
+CANDU Nuclear Plants, Mississauga, 2012. 
+• 
+CSA N285.4-10, Periodic Inspection of CANDU Nuclear Power Plant Components, 
+Mississauga, 2010. 
+• 
+CSA N285.5, Periodic Inspection of CANDU Nuclear Power Plant Containment 
+Components, Mississauga, 2013. 
+ 
+52 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+CSA N286, Management System Requirements for Nuclear Facilities, Mississauga, 2012.  
+• 
+CSA Group, CSA N287.1, General Requirements for Concrete Containment Structures for 
+CANDU Nuclear Power Plants, Mississauga, 1993, reaffirmed 2009. 
+• 
+CSA, N287.4, Construction, Fabrication, and Plant Requirements for Concrete Containment 
+Structures for CANDU Nuclear Power Plants, Mississauga, 2009. 
+• 
+CSA N287.5, Examination and Testing Requirements for Concrete Containment Structures 
+for Nuclear Power Plants, Mississauga, 2011. 
+• 
+CSA N287.6, Pre-operational Proof and Leakage Testing Requirements for Concrete 
+Containment Structures for CANDU Nuclear Power Plants, Mississauga, 2011. 
+• 
+CSA Group, CSA N287.7, In-service examination and testing requirements for concrete 
+containment structures for CANDU nuclear power plants, 2008. 
+• 
+CSA N288.4-10, Environmental Monitoring, Mississauga, 2010. 
+• 
+CSA N289.4, Testing procedures for seismic qualification of nuclear power plant structures, 
+systems and components, Mississauga, 2012. 
+• 
+CSA N290.7, Cyber security for nuclear power plants and small reactor facilities (draft). 
+• 
+CSA N291-08, Requirements for safety-related structures for CANDU Nuclear Power Plants, 
+Mississauga, 2008. 
+• 
+CSA, N293-12, Fire Protection for CANDU Nuclear Power Plants, Mississauga, 2012 
+• 
+CSA, N393-13, Fire protection for facilities that process, handle or store nuclear substances, 
+Mississauga, 2013. 
+• 
+CSA, Z1000-06, Occupational Health and Safety, Mississauga, 2012. 
+ 
+IAEA Safety Standards: 
+• 
+International Atomic Energy Agency, draft standard, DS441, Construction for Nuclear Power 
+Plants Safety Guide, Vienna. 
+• 
+IAEA, SSR-2/2, Safety of Nuclear Power Plants: Commissioning and Operation, 2011. 
+• 
+IAEA, GS-R-3, The Management System for Facilities and Activities, 2006. 
+• 
+IAEA, GS-G-3.1, Application of the Management System for Facilities and Activities, 2006.  
+• 
+IAEA, GS-G-3.5, The Management System for Nuclear Installations, 2009.  
+• 
+IAEA, NS-G-2.2, Operating Limits and Conditions and Operating Procedures for Nuclear Power 
+Plants, 2000. 
+• 
+IAEA, GS-R-2, Preparedness and Response for a Nuclear or Radiological Emergency, 2002. 
+• 
+IAEA, GS-G-2.1, Arrangements for Preparedness for a Nuclear or Radiological Emergency, 
+2007. 
+Safeguards agreements: 
+• 
+Agreement Between the Government of Canada and the International Atomic Energy Agency for 
+the Application of Safeguards in Connection with the Treaty on the Non-Proliferation of Nuclear 
+Weapons Article iaea.org/Publications/Documents/Infcircs/Others/infcirc164.shtml 
+• 
+Protocol Additional to the Agreement Between Canada and the International Atomic Energy 
+Agency for the Application of Safeguards in Connection with the Treaty on the Non- Proliferation 
+of Nuclear Weapons iaea.org/Publications/Documents/Infcircs/2000/infcirc164a1.pdf 
+Nuclear industry organizations: 
+ 
+53 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+• 
+Institute of Nuclear Power Operations (INPO) inpo.org 
+• 
+World Association of Nuclear Operators (WANO) wano.info  
+• 
+Electric Power Research Institute (EPRI) epri.com 
+• 
+Nuclear Energy Institute (NEI) nei.org 
+• 
+Institute of Electrical and Electronics Engineers (IEEE) ieee.org 
+• 
+Organisation for Economic Co-operation and Development – Nuclear Energy Agency (OECD-
+NEA) oecd-nea.org 
+• 
+International Atomic Energy Agency (IAEA) iaea.org  
+Safety Series, Nuclear Energy Series, Safety Report Series, Nuclear Security Series and Technical 
+Documents  
+• 
+Project Management Institute (PMI), PMBOK® Guides and Standards pmi.org  
+Other nuclear regulatory organizations: 
+• 
+United States Nuclear Regulatory Commission (NRC) nrc.gov  
+• 
+United States Department of Energy (DOE) energy.gov  
+• 
+United Kingdom’s Office for Nuclear Regulation onr.org.uk/  
+• 
+Finland’s Radiation and Nuclear Safety Authority (STUK) stuk.fi/en_GB/  
+• 
+French Safety Authority (ASN) french-nuclear-safety.fr   
+ 
+ 
+54 
+ 
+ 
+ 
+ 
+January 2016 
+REGDOC-2.3.1, Conduct of Licensed Activities: Construction and Commissioning Programs 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the Canadian Nuclear Safety 
+Commission (CNSC). In addition to the Nuclear Safety and Control Act and associated regulations, these 
+facilities and activities may also be required to comply with other regulatory instruments such as 
+regulatory documents or standards. 
+Effective April 2013, the CNSC’s catalogue of existing and planned regulatory documents has been 
+organized under three key categories and twenty-five series, as set out below. Regulatory documents 
+produced by the CNSC fall under one of the following series: 
+1.0  
+Regulated facilities and activities 
+Series 1.1  
+Reactor facilities 
+1.2  
+Class IB facilities 
+1.3  
+Uranium mines and mills 
+1.4  
+Class II facilities 
+1.5  
+Certification of prescribed equipment 
+1.6  
+Nuclear substances and radiation devices 
+2.0  
+Safety and control areas 
+Series 2.1  
+Management system 
+2.2  
+Human performance management 
+2.3  
+Operating performance 
+2.4  
+Safety analysis 
+2.5  
+Physical design 
+2.6  
+Fitness for service 
+2.7  
+Radiation protection 
+2.8  
+Conventional health and safety 
+2.9  
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0  
+Other regulatory areas  
+Series 3.1  
+Reporting requirements 
+3.2  
+Public and Aboriginal engagement 
+3.3  
+Financial guarantees 
+3.4  
+Commission proceedings 
+3.5  
+CNSC processes and practices 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. For the latest list of regulatory 
+documents, visit the CNSC’s website.  
+ 
+ 
+55 
+ 
+ 
+ 
+ 

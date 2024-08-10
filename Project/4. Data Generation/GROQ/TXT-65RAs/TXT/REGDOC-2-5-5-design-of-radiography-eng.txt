@@ -1,0 +1,1704 @@
+ 
+ 
+Document Number: 5174157 
+Version: 1 
+Document Name: REGDOC-2.5.5 Design of Industrial Radiography Installations English 2017 Consult 
+Physical Design 
+Design of Industrial Radiography 
+Installations  
+ 
+ 
+REGDOC-2.5.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+March 2018 
+ 
+ 
+ 
+ 
+ 
+i 
+Design of Industrial Radiography Installations  
+Regulatory document REGDOC-2.5.5  
+© Canadian Nuclear Safety Commission (CNSC) 2018 
+Cat. No. CC172-189/2018E-PDF 
+ISBN 978-0-660-25774-7 
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+Également publié en français sous le titre : Conception des installations de gammagraphie industrielle 
+Document availability 
+This document can be viewed on the CNSC website. To request a copy of the document in English or 
+French, please contact: 
+ 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, Ontario K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Fax: 613-995-5086 
+Email: cnsc.info.ccsn@canada.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+LinkedIn: linkedin.com/company/cnsc-ccsn 
+Publishing history 
+March 2018 
+ 
+Version 1.0 
+ 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+ 
+ 
+i 
+Preface 
+This regulatory document is part of the CNSC's physical design series of regulatory documents, which 
+also covers: design of uranium mines and mills, reactor facilities, nuclear substance laboratories, and 
+nuclear medicine rooms. The full list of regulatory document series is included at the end of this 
+document and can also be found on the CNSC’s website.  
+Industrial radiography involves the use of risk-significant sealed sources of nuclear substances, most 
+commonly cobalt-60, iridium-192 and selenium-75, to evaluate the internal structure and integrity of 
+metals and other materials in pipelines, welds, castings and building structures.  
+A radiography installation is any shielded enclosure, cell or vault specifically designed for radiography. 
+Radiography installations can be very effective in preventing or minimizing doses to both operators and 
+persons within the vicinity. Radiography installations can also provide an additional level of safety by 
+preventing unauthorized access during operations. 
+REGDOC-2.5.5, Design of Industrial Radiography Installations, provides guidance for the design of 
+radiography installations. This information will assist individuals in the design and construction of 
+installations that are safe to use, and that ensure that doses to certified exposure device operators, workers 
+and all persons in the vicinity of the work being performed are within regulatory limits and are kept as 
+low as reasonably achievable.   
+ 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+........................................................................................................................1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant legislation 
+............................................................................................................. 2 
+2. 
+General Design Principles .................................................................................................3 
+3. 
+Engineered Controls ..........................................................................................................4 
+3.1 
+Radiation exposure controls 
+................................................................................................ 4 
+3.1.1 
+Distance ................................................................................................................. 4 
+3.1.2 
+Shielding ................................................................................................................ 4 
+3.1.3 
+Skyshine 
+................................................................................................................. 6 
+3.2 
+Structural considerations 
+..................................................................................................... 7 
+3.2.1 
+Walls, floors, roof, and doors ................................................................................ 7 
+3.2.2 
+Services 
+.................................................................................................................. 8 
+3.2.3 
+Openings, penetrations and excavations ................................................................ 8 
+3.3 
+Accessibility........................................................................................................................ 9 
+3.3.1 
+Size and weight of exposure devices ..................................................................... 9 
+3.3.2 
+Size and shape of material for examination 
+........................................................... 9 
+3.4 
+Security measures ............................................................................................................... 9 
+4. 
+Administrative Controls 
+..................................................................................................11 
+4.1 
+Placing limits on nuclear substance type and maximum activity ..................................... 11 
+4.2 
+Restricting use of areas adjacent to the radiography installation 
+...................................... 11 
+4.2.1 
+Adjusting workload.............................................................................................. 12 
+4.2.2 
+Controlling occupancy of surrounding areas ....................................................... 12 
+4.2.3 
+Limiting the position and direction of the radiation source within the radiography 
+installation 
+............................................................................................................ 13 
+4.3 
+Monitoring for human presence prior to exposures .......................................................... 14 
+5. 
+Construction .....................................................................................................................14 
+6. 
+Commissioning .................................................................................................................15 
+7. 
+Operation ..........................................................................................................................16 
+7.1 
+Routine reviews and maintenance .................................................................................... 16 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+ 
+ 
+ 
+7.2 
+Ongoing evaluation of the design ..................................................................................... 16 
+Appendix A: Dose Calculations ..................................................................................................17 
+A.1 
+Five-step method 
+............................................................................................................... 17 
+A.2 
+Example of a dose calculation .......................................................................................... 20 
+Glossary ........................................................................................................................................24 
+References 
+.....................................................................................................................................25 
+Additional Information ...............................................................................................................26 
+ 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+1 
+ 
+Design of Industrial Radiography Installations 
+1. 
+Introduction 
+Industrial radiography is a non-destructive method of looking for defects in materials by 
+examining the structures of welds, castings, and building components. Certified personnel use 
+high-activity sealed nuclear substances in certified exposure devices. 
+Industrial radiography operations take place in a variety of locations and under different 
+environmental conditions. Work is done inside buildings under controlled conditions and is also 
+carried out in the field in adverse weather. Licensees must ensure that effective measures are in 
+place to limit the radiation exposure to any person as a result of radiography operations wherever 
+they are conducted. 
+Whenever possible, industrial radiography equipment should be used inside an industrial 
+radiography installation, to protect workers and minimize radiation exposure to any other person. 
+The design principles described in the following sections will help ensure that the radiography 
+installation performs as expected and provides the necessary level of safety to control radiation 
+exposures.  
+Radiography installations must comply with all applicable national, provincial/territorial and 
+municipal safety codes, including those for building and fire protection. The guidance provided in 
+this regulatory document does not supersede the requirements of any permitting authority. 
+1.1 
+Purpose 
+This regulatory document provides guidance for the design of an industrial radiography 
+installation.  
+1.2 
+Scope 
+The guidance provided applies to the design of industrial radiography installations for the use of 
+sealed nuclear substances, including installations not under the direct control of certified exposure 
+device operators (CEDOs) conducting the radiography operations (for example, when a CEDO 
+conducts licensed activities at a fabrication shop).  
+This document does not apply to the design of installations for: 
+• 
+the use of sealed nuclear substances regulated under the Class II Nuclear Facilities and 
+Prescribed Equipment Regulations  
+• 
+neutron radiography 
+The provinces and territories regulate the use of x-ray generators for industrial radiography. The 
+design of installations for their use is outside the scope of this document.  
+REGDOC-2.5.5 addresses design features that enhance nuclear safety and security. Other health, 
+safety, and environmental considerations may dictate adherence to additional guiding principles. 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+2 
+ 
+1.3 
+Relevant legislation 
+The following regulations made under the Nuclear Safety and Control Act are relevant to this 
+document: 
+1. Paragraph 12(1)(c) of the General Nuclear Safety and Control Regulations: “Every licensee 
+shall … 
+(c) take all reasonable precautions to protect the environment and the health and safety of 
+persons and to maintain the security of nuclear facilities and of nuclear substances; …”  
+2. Paragraph 3(1)(d) of the Nuclear Substances and Radiation Devices Regulations (NSRD 
+Regulations) states: “An application for a licence in respect of a nuclear substance or a 
+radiation device, other than a licence to service a radiation device, shall contain… (d) the 
+proposed location of the activity to be licensed, including a description of the site.”  
+3. Section 24 of the NSRD Regulations states “No person other than a certified exposure device 
+operator, or a trainee who is acting under the direct supervision and continuous observation of 
+a certified exposure device operator, shall operate an exposure device. 
+4. Subsection 30(6) of the NSRD Regulations states: “Every licensee shall limit the dose of 
+radiation received by a person, other than a nuclear energy worker, as a result of the 
+possession or use of an exposure device to 0.1 mSv per week and 0.5 mSv per year.” 
+5. Paragraphs 31(1)(i),(j) and (k) of the NSRD Regulations states: “Every person who operates 
+an exposure device shall … 
+(i) limit the dose of radiation received by any person, other than a nuclear energy worker, 
+as a result of the possession or use of the exposure device to 0.1 mSv per week and 0.5 
+mSv per year; 
+(j) place persons or erect barriers to prevent entry into any area within which the radiation 
+dose rate is greater than 0.1 mSv per hour as a result of the possession or use of the 
+exposure device;  
+(k) post a sufficient number of durable and legible signs that bear the radiation warning 
+symbol set out in Schedule 3 to the Radiation Protection Regulations and the words 
+“RAYONNEMENT — DANGER — RADIATION”, to prevent entry into any area 
+within which the radiation dose rate is greater than 0.1 mSv per hour as a result of the 
+possession or use of the exposure device.” 
+6. Section 4 of the Radiation Protection Regulations states: “Every licensee shall implement a 
+radiation protection program and shall, as part of that program,  
+(a) keep the amount of exposure to radon progeny and the effective dose and equivalent 
+dose received by and committed to persons as low as is reasonably achievable, social and 
+economic factors being taken into account, through the implementation of  
+i. 
+management control over work practices,  
+ii. personnel qualification and training,  
+iii. control of occupational and public exposure to radiation, and 
+iv. planning for unusual situations; and 
+(b) ascertain the quantity and concentration of any nuclear substance released as a result 
+of the licensed activity 
+i. 
+by direct measurement as a result of monitoring, or 
+ii. if the time and resources required for direct measurement as a result of 
+monitoring outweigh the usefulness of ascertaining the quantity and 
+concentration using that method, by estimating them. 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+3 
+ 
+7. Section 21 of the Radiation Protection Regulations states: Every licensee shall post and keep 
+posted, at the boundary of and at every point of access to an area, room or enclosure, a 
+durable and legible sign that bears the radiation warning symbol set out in Schedule 3 and the 
+words “RAYONNEMENT-DANGER-RADIATION”, if 
+(a) there is a radioactive nuclear substance in a quantity greater than 100 times its exemption 
+quantity in the area, room or enclosure; or 
+(b) there is a reasonable probability that a person in the area, room or enclosure will be 
+exposed to an effective dose rate greater than 25 µSv/h. 
+2. 
+General Design Principles 
+Design principles for industrial radiography installations are based on the requirement that all 
+exposure device operators and licensees must ensure that any radiation exposures as a result of 
+radiography operations remain within the limits set out in the regulations under the Nuclear 
+Safety and Control Act. In addition, every effort must be made to further reduce exposures and 
+doses to as low as reasonably achievable (ALARA), as required by paragraph 4(a) of the 
+Radiation Protection Regulations. For more information on ALARA, see CNSC regulatory 
+document G-129 rev. 1, Keeping Radiation Exposure and Doses “As Low as Reasonably 
+Achievable (ALARA)” [1]. Both licensees and certified exposure device operators (CEDOs) are 
+required to limit the exposure of any person, other than a nuclear energy worker (NEW), to 
+0.1 mSv per week and 0.5 mSv per year. 
+All relevant factors, including workload, structural, accessibility and economic should be 
+considered at the design phase of the radiography installation. Thorough evaluation of these 
+factors will contribute to ensuring that the installation can be readily and safely used by CEDOs, 
+while also providing the necessary protection for any other person in the vicinity of radiography 
+operations. These factors should be evaluated for the immediate and the foreseeable future needs 
+of the persons using the installation. 
+Radiation exposure can be minimized through use of engineered controls (e.g., shielding, 
+location) and administrative controls (e.g., limiting nuclear substance sealed source activity, 
+restricting access and time in proximity to the installation). The design of a radiography 
+installation should give preference to the use of engineered controls where ever possible. 
+Administrative controls, which have to be constantly applied, can be used as supplemental 
+controls when engineered controls are not sufficient or applicable. For example, establishing a 
+permanent exclusion zone by design is preferred to establishing a barrier system that has to be 
+monitored by one or more persons. 
+Engineered controls include: 
+• 
+radiation exposure controls 
+o distance 
+o shielding  
+• 
+structural considerations 
+o walls, roof, doors/access 
+o floor  
+o services (electrical, water, sewer, pneumatic, hydraulic, etc.)  
+o openings and penetrations 
+• 
+accessibility 
+o size and weight of exposure devices 
+o size and shape of materials for examination 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+4 
+ 
+• 
+security measures 
+Administrative controls include: 
+• 
+placing limits on nuclear substance type and activity 
+• 
+restricting use of areas adjacent to the radiography installation 
+• 
+adjusting workload (including time of day considerations) 
+• 
+controlling occupancy of surrounding areas 
+• 
+limiting the position and direction of the source within the installation 
+• 
+monitoring for human presence prior to exposures  
+The radiography installation owner should ensure that appropriate safety signs, notices, barriers 
+and associated documentation regarding any administrative controls are available to all persons 
+who will need to know the specific safety limits imposed, including operators using the 
+installation and any other person who may enter the area. 
+3. 
+Engineered Controls 
+The design of the radiography installation should incorporate the following engineered controls to 
+ensure that the prescribed dose limits will be respected and that all exposures are kept consistent 
+with the ALARA principle. 
+3.1 
+Radiation exposure controls 
+3.1.1 
+Distance 
+Changing the distance between the radiation source and the position of the radiation detector will 
+result in large changes to the radiation exposure as it is inversely proportional to the square of the 
+distance from the source. For example, with other variables constant, doubling the distance from 
+the source of radiation will result in a reduction of radiation dose by a factor of four. When 
+considering design and placement, industrial radiography installations should be located as far as 
+possible from workspaces and places that could reasonably be expected to be occupied when 
+radiography would take place.  
+The design of the installation should facilitate the ability to use the full length of the control cable 
+for each exposure device being used, and should not compromise or restrict the use of any 
+equipment needed in the event of an incident, such as a source retrieval situation. 
+3.1.2 
+Shielding 
+The use of shielding around the radiation source will reduce radiation exposures and 
+consequently any resulting radiation doses. Generally, for any given material, the thicker the 
+shielding placed between the person and the source, the lower the exposure to radiation for that 
+person. The choice of shielding depends on the quantity and energy of the radiation to be shielded 
+and generally involves structural and economic considerations. The nuclear substances used for 
+industrial radiography may emit high-energy gamma radiation, so these nuclear substances 
+require significant thicknesses of lead and/or concrete to reduce the radiation levels to acceptable 
+levels. 
+The shielding for a radiography installation should be designed based on the anticipated 
+maximum activity of each nuclear substance that is to be used in the installation.  
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+5 
+ 
+For any given nuclear substance, the relationship between radiation dose rate and the activity of 
+the source is directly proportional and this is represented by the value known as the gamma ray 
+constant.  
+Table 1 provides gamma ray constant values in microsieverts per hour (µSv/h) at 1 metre per 
+gigabecquerel (GBq) of activity of an isotope. These values are derived from Conversion 
+Coefficients for Radiological Protection Quantities for External Radiation Exposures [2] 
+published by the International Commission on Radiological Protection and the Joint Evaluated 
+Fission and Fusion File (JEFF) 3.1 published by Nucleonica GmbH [3]. 
+Table 1: Gamma ray constant values for nuclear substances commonly used in industrial 
+radiography 
+Nuclear 
+substance 
+Gamma ray constant value  
+(µSv/h per GBq at 1 m) 
+Cobalt-60 
+305 
+Iridium-192 
+117 
+Cesium-137 
+78 
+Selenium-75 
+56 
+Ytterbium-169 
+52 
+ 
+The gamma ray constant and the known activity of the nuclear substance can be used to calculate 
+the potential radiation exposure to persons in the vicinity of the nuclear substance. For example, it 
+is possible to determine that a 10 GBq sealed source of Ir-192 will result in an effective dose rate 
+of 1170 µSv/h (or 1.17 mSv/h) at 1 metre from the sealed source. Corrections must be applied for 
+changes to distance and the introduction of any shielding between the source and the location of 
+measurement. Exposures at other distances from the sealed source can be calculated by use of the 
+inverse-square law equation1. 
+Higher-energy gamma sources (such as cobalt-60) will require more shielding than lower-energy 
+gamma sources (such as selenium-75). Similarly, higher quantities of a particular nuclear 
+substance will require larger amounts of shielding to reduce the dose rate to the same level as a 
+smaller quantity of that same nuclear substance. 
+Lead and concrete are effective shielding for reducing dose rates associated with the gamma 
+radiation emitted by sealed sources used in industrial radiography. Whichever type of shielding is 
+used, it should be made of solid material with no cracks, holes or voids.  
+If blocks of shielding are used, they should be arranged to avoid spaces or voids between the 
+blocks. Any gaps, voids or spaces between shielding blocks should be filled with a sufficient 
+quantity of similar or better shielding to ensure that the shielding is effective. If two or more walls 
+of lead or concrete shielding blocks are used, the joints should be offset to minimize a direct path 
+for the radiation through the joints in the walls. When sheets of lead shielding are used in walls, 
+                                                     
+ 
+ 
+ 
+1 For an example of an inverse square law calculator, see radprocalculator.com/InverseSquare.aspx  
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+6 
+ 
+the lead sheet should be properly supported, to ensure that it does not displace or move from the 
+original installation, since lead will tend to sag or creep over time. 
+Since radiation travels in all directions, shielding should be considered for all adjacent areas, 
+including above and below the radiography installation, as applicable. 
+If the design does not or cannot provide enough shielding to meet the dose rate limit1 of 
+0.1 mSv/week or 0.5 mSv/year, as well as demonstrate adherence to the ALARA principle, 
+additional administrative controls, such as a larger exclusion zone, will have to be established and 
+enforced during radiography operations. See G-129 rev 1, Keeping Radiation Doses “As Low as 
+Reasonably Achievable (ALARA)” [1] for guidance on the ALARA principle. 
+Appendix A provides a method for calculating radiation exposures based on the design of the 
+installation. 
+3.1.3 
+Skyshine 
+Skyshine can be a significant source for radiation exposure when large sealed sources are used 
+without overhead shielding. Skyshine is radiation that is emitted upwards from inside of an 
+installation and then reflected back down by air (see figure 1). In general, radiography 
+installations should be designed with a shielded roof to minimize skyshine and reduce 
+occupational exposure to workers and other persons. 
+Figure 1: Radiation emitted as skyshine 
+ 
+Maximum dose rates from skyshine may not occur immediately adjacent to the shielded wall, but 
+may reach a distance from that wall and could also reach any elevated workstations that surround 
+the installation. 
+When an installation has minimal (for example, to protect against the weather) or no roof 
+shielding, the design should take into account the potential for radiation exposure due to skyshine. 
+                                                     
+ 
+ 
+ 
+1 The dose rate limit of 0.1 mSv/week or 0.5 mSv/year is for persons other than nuclear energy workers.  
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+7 
+ 
+When skyshine is a significant source of radiation exposure, the design of the roof will have to 
+include a sufficient amount of effective shielding. In such cases, the design of the installation will 
+have to incorporate an appropriate supporting structure for the additional weight of the shielding 
+on the roof.  
+If exposure to skyshine is significant, but it is impractical to install or shield a roof, access to 
+adjacent areas should be limited or prevented through the use of engineered controls (e.g., 
+radiation warning monitors), administrative controls (e.g., limited access to the area) or a 
+combination of both. 
+Evaluation of the potential for skyshine from a radiography installation is a complex calculation 
+and the owner is encouraged to seek professional assistance from a person who has the necessary 
+experience and knowledge to competently carry out this work. 
+3.2 
+Structural considerations  
+3.2.1 
+Walls, floors, roof, and doors  
+As with any construction, structural considerations should be taken into account at the time of 
+design, and reassessed regularly during construction and operation of the installation. Since 
+radiography installations typically involve the use of substantial quantities of heavy materials 
+such as shielding, the radiography installation should be designed and operated with structural 
+considerations in mind. This includes, but is not limited to: 
+• 
+walls that are self-supporting, contiguous and will not topple  
+• 
+walls and supports with a sufficient base to ensure that there is no sag, slump or other 
+deterioration caused by settling of the ground  
+• 
+supports or foundations that are properly protected against the effects of frost heave or 
+freezing of the ground  
+• 
+floors with sufficient capacity to manage the static and dynamic loads that will be imposed by 
+the weight of the required shielding for walls and supporting requirements for the roof  
+• 
+doors that contain shielding are easily and safely moved by one person from either side  
+• 
+entrances of sufficient width and height to accommodate persons and equipment  
+• 
+a roof with adequate support for the required shielding and other loads  
+• 
+sufficient setback from property and building lines to ensure access for servicing adjacent 
+areas  
+Personnel access and equipment doorways in the shielding of the radiography installation should 
+not compromise the shielding provided by the walls. This may require the use of a sufficiently 
+shielded door. However, if radiation from the exposure device is in a direct line to the door, the 
+necessary shielding for the door may make it too heavy or unwieldy to operate safely. Whenever 
+possible, the entry to a radiography installation should be designed with an indirect pathway to 
+the area where radiography will be conducted, also known as a “maze entrance” (see figure 2). 
+The use of a maze entrance minimizes any radiation leaks through the entrance to the radiography 
+installation, and also may reduce the need for the use of heavy, thick concrete or lead in the door 
+to the radiography installation.  
+The potential for scatter radiation at a maze entrance should be evaluated to determine if 
+additional protection, such as a shielded door, is required. 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+8 
+ 
+Figure 2: Radiography installation design with a maze entrance 
+ 
+The radiography installation must be designed, constructed and operated in accordance with all 
+federal, provincial/territorial or municipal requirements for such structures. In particular, all 
+applicable building and fire code requirements must be met. 
+3.2.2 
+Services 
+The design of the radiography installation should take into account current and future provision of 
+services that may be required. These may include: 
+• 
+electrical wiring for: 
+o general and task lighting 
+o operation of exposure devices 
+o operation of other equipment  
+o data  
+o control systems 
+o alarm systems 
+o monitoring systems 
+• 
+water: 
+o cold  
+o hot 
+o distilled or deionized 
+o sewage or waste 
+• 
+air 
+o HVAC 
+o compressed 
+• 
+fuel 
+o heaters 
+o operation of other equipment 
+3.2.3 
+Openings, penetrations and excavations 
+Where any service or other opening is required to provide access to the interior of the radiography 
+installation, the design of the installation should ensure that the penetration through the shielding 
+does not compromise the intended level of protection afforded by the shielding design. Any 
+penetration through shielding should not be in a straight line directly through the shielding but 
+should traverse the shielding in the form of either an arc or at an angle. Any penetration that must 
+traverse the shielding in a straight line (such as HVAC ducting) should be located high on the 
+shielding wall or otherwise located to prevent a potential for exposure to any person outside of 
+the installation. Gaps around pipes or conduits should be filled with lead or concrete to minimize 
+the diameter of penetrations where possible. 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+9 
+ 
+Where excavation is required to install a service line, the floor should be restored such that the 
+repaired area will not compromise the structural integrity of the installation. Any excavations 
+below the level of the floor should be refilled with material in sufficient quantity and density to 
+provide the same or better structural support as the undisturbed floor. 
+In general, controls for the operation of industrial radiography equipment should be located on 
+the exterior of the radiography installation. Such an arrangement will necessitate a penetration 
+into the installation. 
+3.3 
+Accessibility 
+3.3.1 
+Size and weight of exposure devices 
+The design of the installation should account for the physical characteristics of the exposure 
+device expected to be used. Because of their smaller size, devices that use iridium-192 and 
+selenium-75 are less likely to require special design considerations than larger and heavier 
+cobalt-60 exposure devices. If an exposure device is difficult to manipulate or move, the design 
+of the installation should include measures such as wider corridors to allow for movement and 
+turning of the device. 
+The design of the installation should consider the size and type of exposure devices and 
+equipment used, and additional containers or other packages that may be required to undertake a 
+source change. For example, if it is not feasible or possible to remove the exposure device to 
+change the sealed source, then the design of the installation should allow for a new source to be 
+brought into the installation, safely opened, and exchanged with the old source while minimizing 
+potential exposures to any nearby person. 
+If it is not possible to design the installation to accommodate a variety of exposure devices that 
+may be used, it may be necessary for the radiography installation owner to limit the nuclear 
+substances used, the quantity of a specific isotope, or the size of the exposure device. 
+3.3.2 
+Size and shape of material for examination 
+Since the intent of radiography evaluations is to examine the structural integrity or arrangement 
+of another item, the radiography installation should be designed for the entry and exit of the 
+anticipated items for evaluation. This may include: 
+• 
+designing an entrance which will allow for easy access by carts, forklifts or other 
+conveyances 
+• 
+providing overhead access capability to lift objects in and out of the radiography installation, 
+including the provision of a suitable lift crane or hoist 
+• 
+providing a special removable section of the wall or roof to allow for the infrequent entry and 
+exit of such items while not compromising the intended shielding of the installation 
+• 
+incorporating sufficient support for cranes or hoists required for moving large or heavy items 
+for examination 
+3.4 
+Security measures 
+The exposure devices used inside radiography installations often contain high-risk Category 1 or 
+2 radioactive sealed sources. The radiography installation itself is not subject to REGDOC-2.12.3, 
+Security of Nuclear Substances: Sealed Sources [4]. However, if exposure devices are to be 
+stored in the installation, see REGDOC-2.12.3. 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+10 
+ 
+In cases where a licensee uses an exposure device exclusively in a radiography installation, 
+features of the installation may be used to achieve and demonstrate compliance with the 
+requirements of REGDOC-2.12.3 (such as providing alarm systems or secure storage). CEDOs 
+are required to maintain security of the exposure device at all times. 
+REGDOC-2.12.3 describes security-related regulatory requirements for the licensee’s security 
+program for sealed nuclear substances, and provides general guidance to assist licensees on 
+meeting these requirements.  
+Table 2 identifies best practices for incorporating security-related features of the installation. 
+These best practices assume that the radiography installation is not used for storage of exposure 
+devices. If exposure devices are stored within the installation, additional requirements of 
+REGDOC-2.12.3 apply. It is recognized that other design measures, already mentioned elsewhere 
+in this document, are similar to those proposed in table 2. 
+Table 2: Best practice in security by design for radiography installations 
+Security program 
+subsection 
+Best practice in security by design 
+Access control 
+• Access to exposure devices, while in the radiography installation, must 
+be restricted to authorized personnel only. 
+• Radiography installation could incorporate access control measures 
+such as keyed or electronic access doors or access points, or enable 
+constant visual monitoring of access points while exposure devices are 
+used within the installation. 
+Intrusion detection 
+system 
+• Radiography installation could incorporate a detection system that 
+immediately informs an operator of unauthorized access to the 
+installation. Equivalent design measures, such as enabling continuous 
+visual monitoring, can also be used. 
+Perimeter and/or 
+physical barrier 
+• Radiography installation could incorporate security measures which, 
+when being used with an exposure device, prevent the unauthorized 
+removal of the device from the bunker such as storage cages, or tie 
+downs for chains that are attached to the exposure device. 
+Security of storage • Not applicable for installations that are not being used to store exposure 
+devices. 
+• If an exposure device is generally only used and stored in the 
+radiography installation (i.e., Co-60 exposure devices), then the 
+radiography installation should include the necessary security measures 
+in accordance with CNSC REGDOC-2.12.3, Security of Nuclear 
+Substances: Sealed Sources [4]. 
+Maintenance and 
+testing 
+• Any components incorporated in the radiography installation for 
+security-related purposes should be maintained within manufacturer’s 
+specifications and tested at least every six months. 
+Installation 
+security plan 
+• If any features of the radiography installation are used to achieve and 
+demonstrate compliance by the licensee with REGDOC-2.12.3, they 
+should be described in the licensee’s security plan. 
+Information 
+security 
+• Any information concerning security-related features of the 
+radiography installation should be controlled and stored in an 
+appropriate manner, such as filing cabinets with controlled access or 
+encrypted computer storage devices. 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+11 
+ 
+Security program 
+subsection 
+Best practice in security by design 
+Security 
+awareness training 
+• All workers or licensees that perform work in a radiography installation 
+with security-related features should be trained in the proper use of 
+these features. 
+4. 
+Administrative Controls 
+Because administrative controls depend on persons to respect and adhere to them, they should 
+supplement but not replace engineered controls. Administrative controls should be documented in 
+work policies and procedures for the use of the radiography installation. This documentation 
+should be available to all persons who use or access the installation or are located in its vicinity. 
+The following measures assist in minimizing radiation exposure outside the installation.  
+4.1 
+Placing limits on nuclear substance type and maximum activity 
+Once the radiography installation has been designed for specific combinations of nuclear 
+substances and maximum activity, the installation owner should restrict the use of nuclear 
+substances there, so that limits are respected. Restrictions on the nuclear substances and/or the 
+maximum activity of each nuclear substance to be used should be clearly posted on the exterior of 
+the radiography installation.  
+4.2 
+Restricting use of areas adjacent to the radiography installation 
+Any room, area or enclosure adjacent to the radiography installation represents a potential 
+location where unexpected radiation fields may exist with the potential for radiation exposure to 
+other persons. The design of the radiography installation should consider all adjacent areas to 
+ensure that any radiation exposures are within the prescribed limits and are kept consistent with 
+the ALARA principle. 
+Areas adjacent to the radiography installation that should be considered include: 
+1. below the installation (e.g., the basement) 
+2. elevated around the installation (e.g., raised offices) 
+3. above the installation (e.g., the roof, work areas on upper floors) 
+4. on all sides of the installation on the same level 
+5. neighbouring properties 
+The installation should be situated inside well-defined property boundaries at a sufficient distance 
+from adjacent properties to allow for access to all parts of the installation and maintenance of the 
+structure and shielding, as may be necessary. 
+All locations adjacent to the radiography installation should be clearly identified and marked on a 
+design layout of the installation to ensure that adequate consideration is given to reducing 
+radiation exposures in these areas. These locations should include areas, rooms or enclosures used 
+for storage or that are otherwise not normally occupied at the time of assessment. Since the usage 
+and therefore the occupancy of such locations may change, the assessment should consider 
+radiation exposure. 
+Based on the exposure potential for areas adjacent to the radiography installation, the CEDO 
+should monitor exposures in these areas to verify that radiation doses to persons occupying areas 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+12 
+ 
+are not potentially exceeded. Radiation warning signs must be posted in accordance with the 
+requirements of the Radiation Protection Regulations and the Nuclear Substances and Radiation 
+Devices Regulations.  
+4.2.1 
+Adjusting workload  
+Workload should be determined using the most conservative assumptions at all times for all 
+potential radiography work. A conservative workload needs to be determined on a weekly and 
+annual basis.  
+Typically, the workload is expressed in the number of radiography exposures conducted on a 
+weekly and annual basis and a conservative estimate for the average time for each exposure. Such 
+information can also be useful in the planning stages to ensure that the location has sufficient 
+capacity to conduct all radiography operations safely. Other appropriately conservative 
+assumptions can also be used, and appendix A provides an example of dose calculations using the 
+average time per shot. 
+Workload planning, for the purposes of ensuring sufficient capacity in a radiography installation, 
+should also take into account the time required for exposure set up and tear down to ensure that 
+there is sufficient time and capacity to conduct the required work.  
+If more than one radiography licensee uses a radiography installation, the design should take into 
+account the cumulative operations by all licensees. 
+The workload of a radiography installation may need to be restricted or otherwise limited to 
+comply with the applicable radiation dose limits.  
+4.2.2 
+Controlling occupancy of surrounding areas 
+The design should take into account the occupancy of surrounding areas by persons on both a 
+full-time or temporary basis. Occupancy of areas in proximity to the radiography installation may 
+change depending on the day or time of day. Furthermore, occupancy of surrounding areas may 
+change on a seasonal basis where some adjacent locations are only used during certain months of 
+the year. 
+The occupancy factor (T) for each location is the fraction of total time during which a radiation 
+field is present at a particular location, for which any one individual would reasonably be 
+expected to be present there. This factor (≤1) is multiplied by the total radiation dose at that 
+location, to derive the maximum personal dose any single person would be expected to receive. 
+Examples of occupancy factors are provided in table 3, which may be used as a guide in the 
+absence of adequate occupancy data. The information provided is adapted from ANSI 
+N43.3-2008, Installations Using Non-Medical X-Ray and Sealed Gamma Ray Sources, Energies 
+Up To 10 MeV [5]. 
+ 
+ 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+13 
+ 
+Table 3: Examples of occupancy factors  
+Occupancy 
+type 
+Examples 
+Occupanc
+y factor 
+(T) 
+Full occupancy 
+Control rooms, darkrooms, workrooms, shops, offices, and 
+corridors large enough to be used as working areas, 
+routinely used rest areas and lounges, living quarters, 
+children’s play areas, occupied space in adjoining buildings 
+1 
+Partial 
+occupancy 
+Frequently used corridors too narrow for desks, utility 
+rooms, rest areas and lounge rooms not used routinely, 
+elevators using operators, uncontrolled parking lots 
+1/2 to 1/5 
+Occasional 
+occupancy 
+Infrequently used corridors, closets too small for future 
+occupancy, toilets, stairways, automatic elevators, outside 
+areas used only by pedestrians or vehicular traffic 
+1/8 to 1/40 
+ 
+It is important to know typical work patterns for both radiographers in the installation and persons 
+working in the vicinity. An ideal situation would be zero occupancy for areas around an 
+installation when radiography is taking place. An example of this is scheduling radiography 
+operations outside of normal working hours. While zero occupancy is ideal, it is rarely 
+achievable. The person operating the exposure device should verify the occupancy of all adjacent 
+areas before each exposure, and re-confirm that no persons have entered areas where the potential 
+for a radiation exposure exists. 
+When designing the wall shielding, an occupancy factor of 1 should be assumed for any adjacent 
+properties. Where the assessment has identified that locations adjacent to the radiography 
+installation may be occupied, the design of the radiography installation should ensure that doses 
+respect regulatory requirements through the use of additional shielding and other administrative 
+or engineered control methods.  
+Where a radiography installation is located where the licensee or radiography installation owner 
+has no control over occupancy of adjacent locations by any other person, design decisions should 
+assume continuous occupancy of these locations to ensure that potential doses to such locations 
+are within the prescribed regulatory limits and maintained ALARA.  
+As noted earlier, if shielding or other controls are not sufficient to reduce potential exposures 
+below the prescribed limits, then restrictions should be placed on occupancy of areas adjacent to 
+the radiography installation to ensure that no person exceeds the applicable exposure limits. A 
+radiography installation may include sufficient shielding such that the dose to any person in an 
+adjacent area does not exceed 50 µSv/year. In such a situation, no restrictions need be placed on 
+occupancy of that adjacent area. 
+Appendix A provides a method for calculating radiation exposures based on the design of an 
+installation. The example provided is for illustrative purposes only and demonstrates the type of 
+information that may be required for this assessment. 
+4.2.3 
+Limiting the position and direction of the radiation source within the radiography 
+installation 
+Generally there are no controls where radiography exposures can take place within a radiography 
+installation. Therefore, radiation exposures outside of a radiography installation may increase or 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+14 
+ 
+decrease depending on the distance between the sealed source and the shielding wall(s). 
+Furthermore, changes in the direction of the radiation beam can also have a significant impact on 
+the potential radiation exposures outside of a radiography installation.  
+When there is variability in position or direction of the beam, the design of the radiography 
+installation should take these into account, and should be constructed for the configuration 
+representing the highest potential exposure to any person outside of the installation. If it is not 
+possible to reduce the radiation exposure outside of a radiography installation due to the 
+variations, additional controls should be put in place to provide equivalent protection. These 
+controls could include limiting the locations within the installation where radiography operations 
+may be carried out. 
+4.3 
+Monitoring for human presence prior to exposures 
+In general practice, the CEDO conducting the radiography examination will be the last person to 
+exit the radiography installation before exposing the nuclear substance. This is normally 
+sufficient to ensure that the radiography installation is unoccupied. However, the CEDO should 
+be positioned to ensure that no person can enter the radiography installation when the nuclear 
+substance is in the unshielded position.  
+In accordance with the regulatory requirements, the CEDO must erect barriers or place persons to 
+prevent anyone from entering the installation when a radiography exposure is being conducted. 
+Therefore, the CEDO will need to evaluate the risks associated with any exposure and ensure that 
+there are sufficient measures in place to prevent access to the installation during the exposure. 
+Remote monitoring of the interior of the radiography installation should be considered to ensure 
+that no person is inside when the exposure operator is preparing to move the sealed source from 
+the shielded position. Consideration should also be given to providing alarm or stop buttons on 
+the interior of the radiography installation to allow a person inside to signal other persons to 
+cancel the planned exposure. 
+The design of the radiography installation should include the provision for fire alarm or other 
+emergency pull stations to summon aid or alert other persons of a potential fire or other 
+emergency situation. Consultation with the applicable fire code provisions will establish the 
+necessity for including any necessary alarm systems. 
+5. 
+Construction  
+Any changes introduced during the construction due to unforeseen issues should be documented 
+and included in the “as-built” drawings. All changes should be evaluated to ensure that they do 
+not compromise the level of radiation protection and safety for which the radiography installation 
+was designed. 
+If the radiography installation is going to be constructed inside an existing building or structure, 
+the building or structure should have the structural capacity to allow safe construction and the 
+eventual structural load of the radiography installation. In addition, the structural capacity must 
+be sufficient for any dynamic or other loads introduced as a consequence of operating the 
+radiography installation (for example, cranes, lifting machinery). 
+The construction of the radiography installation must not introduce deficiencies in the designed 
+level of radiation protection. In particular, the shielding supplied must be of the composition, 
+quality and quantity originally specified or better. 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+15 
+ 
+The following are examples of deficiencies that could be introduced: 
+• 
+aggressive or rapid construction methods which compromise the shielding capability of the 
+installation by the introduction of excessive voids in poured concrete 
+• 
+hollow block walls not completely filled with mortar 
+• 
+joints in shielding are not properly filled or finished 
+• 
+lead shielding does not extend as specified in the plans 
+• 
+unsupported lead sheeting 
+6. 
+Commissioning 
+To determine if the installation meets design specifications, commissioning tests and radiation 
+dose rate measurements should be performed prior to its use. If the testing shows that the 
+installation does not adequately limit dose, additional shielding, safety, and security measures 
+should be used. 
+Measurements should be taken to verify that there are no cracks, holes or voids in the walls, 
+floors or ceiling which can result in localized areas of higher dose rates. Measurements should 
+also be taken to confirm that the installed shielding is adequate and installed as originally 
+designed and that any doses from skyshine are below dose limits and ALARA. 
+All radiation testing should be carried out with nuclear substances that are of the same type and 
+quantity which are expected to be routinely used in the installation. Values of radiation doses for 
+locations around the radiography installation should be calculated based on the nuclear substance 
+and the activity used for the commissioning test. A method for calculating radiation doses based 
+on the design of the installation may be found in appendix A. These expected values should be 
+compared to actual observed radiation dose values to determine if there are any deficiencies in the 
+design or construction of the shielding of the installation. Particular attention should be directed 
+to confirming that the expected values of skyshine are within the expected range and do not 
+exceed prescribed levels. General radiation surveys should be carried out in all areas adjacent to 
+the radiography installation to confirm that there are no unexpected radiation fields that were not 
+anticipated during the design stage. A record of all readings should be retained. 
+Licensees are required to ensure that all radiation measurements are conducted using a suitable 
+gamma radiation survey meter that has been calibrated within the past 12 months. The operation 
+of the survey meter, including a battery check, should be documented before performing any 
+radiation surveys. 
+Notices or warning signs, containing all required information, must be posted in all areas where 
+such signage is required in accordance with the Radiation Protection Regulations. Contact 
+information should be reviewed on a regular basis to ensure that it is up to date and legible.  
+A comprehensive evaluation of the radiography installation should also be conducted to ensure 
+that it has been constructed in accordance with the accepted design and operates as expected. 
+Commissioning should include testing of all mechanical, electrical and safety-related systems 
+(such as shut-down controls, alarms and occupancy monitors) to verify that they operate as 
+intended. 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+16 
+ 
+7. 
+Operation 
+7.1 
+Routine reviews and maintenance 
+Once the radiography installation is operational, periodic reviews should be undertaken to ensure: 
+• 
+building structures and shielding components have not shifted 
+• 
+separations, voids or other deficiencies have not been introduced into the shielding 
+• 
+the shielding has not been compromised or altered so as to reduce its effectiveness 
+• 
+the safety systems continue to function as designed and expected 
+These reviews should be carried out with a frequency that is sufficient to detect any changes that 
+could reduce the effectiveness of the radiography installation but should not be less than once per 
+calendar year. 
+Any deficiencies noted as a result of these reviews should be documented and followed-up to 
+make repairs or replace materials, as necessary. Records of all inspections, evaluations and the 
+measures taken to address identified deficiencies should be retained for follow-up inspection and 
+review. 
+The presence and legibility of any required warning or notice signs should also be routinely 
+inspected to ensure that the information provided remains current and available to any person 
+needing to see it. Particular attention should be applied to ensuring the readability and current 
+status of the required contact information. 
+7.2 
+Ongoing evaluation of the design  
+The radiography installation should also be evaluated on an ongoing basis to determine if any of 
+the considerations that were used in its design have changed. A review of the adequacy of the 
+design and radiation protection measures should be conducted if there are changes to the 
+following: 
+• 
+nuclear substance or maximum activity of the nuclear substance to be used 
+• 
+exposure devices to be used 
+• 
+where the radiography operations are conducted within the installation 
+• 
+the occupancy levels of adjacent areas  
+• 
+workload and frequency of use 
+• 
+services, penetrations or access points (installation or removal) 
+• 
+structural components (including deterioration or degradation) 
+• 
+regulatory requirements for industrial radiography  
+Remedial measures may be necessary, such as reducing the amount of activity of the nuclear 
+substance being used, using an alternative nuclear substance with lower gamma energies, or 
+scheduling more radiography operations at times when workers are not present near the 
+installation. Relocating occupied areas at a greater distance from the installation should also be 
+considered. 
+All corrective actions taken should be documented and the records of any changes retained for 
+further review and inspection. 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+17 
+ 
+Appendix A: Dose Calculations 
+A.1 
+Five-step method 
+The following five-step method is a possible approach for estimating doses to persons as a result of 
+operations at a radiography installation. While licensees may choose to use another method, the steps 
+provided below demonstrate the type of information required to estimate doses to individuals occupying 
+areas around a radiography installation.  
+1. Obtain architectural drawings or make an accurate, scaled and dimensioned drawing of the 
+installation and the facility in which it’s located. 
+The drawings need to show the locations where nuclear substances will be present, and the occupied 
+locations where persons might be expected to be exposed to radiation as a result of radiography 
+exposures. Surrounding areas should also be considered. 
+2. Obtain the following information about the operation of the radiography installation: 
+• 
+the location(s) where radiography will be carried out 
+• 
+the number of exposures to be carried out per year, and the average time per exposure 
+• 
+the nuclear substance to be used 
+• 
+the maximum activity to be used for each exposure 
+3. Identify the areas occupied and the appropriate occupancy factors for areas surrounding the 
+radiography installation(s).  
+Occupied areas in the immediate vicinity of the radiography installation as well as areas outside of the 
+facility (e.g., neighbouring buildings) need to be considered. The occupancy factor (T) for each occupied 
+location is the fraction of time an individual occupies a location while there is a radiation field present.  
+A collimator is a shielding tool that partially covers the radiation source and is a useful tool that may be 
+used to prevent or reduce dose rates at some occupied locations.  
+4. Estimate the radiation dose rates produced in each potentially occupied area 
+Three methods are used to estimate the radiation dose rates to which a person will be exposed as a result 
+of radiography exposures. 
+The first method is to take direct measurements of the dose rates in surrounding areas, using a sufficiently 
+sensitive, properly calibrated radiation survey meter. This method is generally useful when evaluating an 
+existing installation, or when making a comparative analysis for designing a new installation that is very 
+similar in layout and design to an existing site.  
+The second method involves the use of area dosimeters, which may be passive dosimeters 
+(thermoluminescent dosimeters or optically stimulated luminescent dosimeters) or active dosimeters 
+(direct reading dosimeters). This method is also useful when evaluating an existing installation, or when 
+making a comparative analysis for designing a new installation that is very similar in layout and design to 
+an existing site. Areas that have higher occupancy and areas with higher dose rates should be considered 
+when determining the locations where area dosimeters are placed. Doses reported by area dosimeters can 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+18 
+ 
+be used to estimate radiation dose rates (e.g., per week, month or year) depending on how long the 
+dosimeters were in use. 
+The third method is a mathematical approach that relies on the known physical properties of the nuclear 
+substances being used, the distances to each occupied area and the shielding properties and thickness of 
+the building materials. This method may be useful when designing a radiography installation.  
+Commercial software is available for modeling dose rates for both primary and scatter radiation 
+(including skyshine). Guidance on how to calculate dose rates from primary and scatter radiation is 
+provided in the National Council on Radiation Protection and Measurements’ Report No. 151, Structural 
+Shielding Design and Evaluation for Megavoltage X- and Gamma-Ray Radiotherapy Facilities [6].  
+The appropriate gamma ray constant combined with the appropriate half-value layer (HVL) or tenth-value 
+layer (TVL) should be used to estimate dose rates. HVL1 is the thickness of shielding required to reduce 
+the dose rate to one-half and TVL1 is the thickness of shielding required to reduce the dose rate to 
+one-tenth.   
+If the proposed shielding thickness is greater than HVL1 (or TVL1) in table A1, then HVL2 (or TVL2) 
+should be used for the calculation of all subsequent thicknesses of shielding required, beyond the initial 
+values. This is due to the non-linearity of absorption of gamma radiation in the materials presented. 
+Table A1 provides the gamma ray constants for commonly used nuclear substances and the corresponding 
+HVLs and TVLs for concrete and lead shielding. 
+Table A1: Gamma ray constants (Г) and half-value layers (HVL) for concrete and lead shielding 
+for commonly used nuclear substances  
+Nuclear 
+substance 
+Gamma ray 
+constant  
+Half-value layer (mm) 
+Tenth-value layer (mm) 
+Concrete 
+Lead 
+Concrete 
+Lead 
+HVL1  HVL2  HVL1  HVL2  
+TVL1  
+TVL2  
+TVL1  
+TVL2  
+Ir-192 
+117 
+119 
+49 
+3.8 
+3.3 
+225 
+133 
+12 
+15 
+Cs-137 
+78 
+121 
+62 
+9.4 
+6.7 
+255 
+160 
+24 
+20 
+Co-60 
+305 
+131 
+81 
+20 
+14 
+305 
+211 
+50 
+40 
+Se-75 
+56 
+110 
+40 
+1.6 
+1.5 
+199 
+115 
+5.4 
+7.2 
+Yb-169 
+52 
+69 
+40 
+0.3 
+0.7 
+155.3 
+105.7 
+2.1 
+4.5 
+ 
+The method used to calculate dose rates in occupied areas outside of a radiography installation depends 
+on the thickness of shielding that is considered. Three scenarios are described below in which different 
+equations should be used to calculate dose rate. 
+Scenario 1: If the thickness of shielding is less than HVL1, the dose rate can be estimated using equation 
+1 for the location of interest. 
+Equation 1:  R = (Г x A x 2 –t/HVL1) / d2 
+Where: 
+R 
+is the dose rate 
+(µSv/h) 
+Г 
+is the gamma ray constant for the source at 1 m 
+(µSv/h per GBq) 
+A 
+is the activity of nuclear substance 
+(GBq) 
+d 
+is the distance between the nuclear substance and the location 
+(m) 
+t 
+is the thickness of shielding, in the direction of travel*, in any shielding 
+(mm) 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+19 
+ 
+wall between the nuclear substance and the location 
+HVL1 
+is the thickness of shielding to reduce the unshielded dose  
+rate to one half of the original 
+(mm) 
+* Note that if the radiation is penetrating a shielding wall at an oblique angle, the actual thickness of the 
+shielding will be greater than the thickness of the wall. 
+Scenario 2: If the thickness of shielding is more than HVL1 but less than TVL1, the dose rate can be 
+estimated using equation 2. 
+Equation 2:  R = (Г x A x 0.5 x 2 -(t-HVL1)/HVL2) / d2 
+Where: 
+R 
+is the dose rate 
+(µSv/h) 
+Г 
+is the gamma ray constant for the source at 1 m 
+(µSv/h per GBq) 
+A 
+is the activity of nuclear substance 
+(GBq) 
+d 
+is the distance between the nuclear substance and the location 
+(m) 
+t 
+is the thickness of shielding, in the direction of travel*, in any shielding 
+wall between the nuclear substance and the location 
+(mm) 
+HVL1 
+is the thickness of shielding to reduce the unshielded dose rate  
+to one-half of the original 
+(mm) 
+HVL2 
+is the thickness of shielding, in addition to the first HVL, to  
+reduce the dose rate to another one-half 
+(mm) 
+ 
+Scenario 3: If the thickness of shielding is greater than TVL1, the dose rate can be estimated using 
+equation 3. 
+Equation 3:  R = (Г x A x 0.1 x 10 - (t-TVL1)/TVL2) / d2 
+Where: 
+R 
+is the dose rate 
+(µSv/h) 
+Г 
+is the gamma ray constant for the source at 1 m 
+(µSv/h per GBq) 
+A 
+is the activity of nuclear substance 
+(GBq) 
+d 
+is the distance between the nuclear substance and the location 
+(m) 
+t 
+is the thickness of shielding, in the direction of travel*, in any shielding 
+wall between the nuclear substance and the location 
+(mm) 
+TVL1 
+is the thickness of shielding to reduce the unshielded dose rate  
+to one-tenth of the original 
+(mm) 
+TVL2 
+is the thickness of shielding, in addition to the first TVL, to 
+ reduce the dose rate to another one-tenth 
+(mm) 
+5. Extrapolate the calculated dose rates at each location to annual doses for the persons who may 
+occupy each area.  
+Calculated annual dose estimates should be based on the projected installation workload (immediate and 
+future potential) and occupancy factors for occupied areas surrounding the radiography installation. If 
+dose rates are obtained in μSv/h using a radiation survey meter or by calculation, the annual dose to an 
+exposed person can be calculated using equation 4.  
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+20 
+ 
+Equation 4:   D = N x T x R x S 
+Where: 
+D 
+is the dose 
+(µSv) 
+N 
+is the maximum number of radiography exposures carried out per year 
+ 
+T 
+is the occupancy factor for the exposed person and occupied location  
+0 ≤ T ≤ 1 
+R 
+is the dose rate at the specific location 
+(µSv/h) 
+S 
+is a conservative estimate for the average duration of radiography  
+exposures 
+(h) 
+Skyshine dose estimates should be made by calculation or direct measurement before routine radiography 
+exposures are carried out. If it can be demonstrated that annual doses to workers and members of the 
+public (including skyshine) are below dose limits and ALARA, it can be concluded that the design is 
+adequate for protecting persons occupying areas surrounding the radiography installation. 
+If dose rates are obtained using an area dosimeter, the annual dose to an exposed person can be calculated 
+using equation 5: 
+Equation 5: D = H x 365.25/d x T 
+Where: 
+H 
+is the dosimeter reading for the period of time it was in use 
+(µSv) 
+365.25 
+is the average number of days in a year 
+ 
+d 
+is the number of days the dosimeter was used for the purpose of area 
+monitoring 
+ 
+T 
+is the occupancy factor for the exposed person and occupied location  
+0 ≤ T ≤ 1 
+The CNSC may consider that an ALARA assessment is not required when individual occupational doses 
+for nuclear energy workers (NEWs) are unlikely to exceed 1 mSv per year, when the dose to individual 
+members of the public is unlikely to exceed 50 µSv per year, and when annual collective dose (both 
+occupational and public) is unlikely to exceed 1 person-Sv (as recommended in CNSC document 
+G-129 rev 1, Keeping Radiation Doses “As Low as Reasonably Achievable (ALARA)” [1]).  
+A.2 
+ Example of a dose calculation 
+The following example demonstrates the use of the five-step method for estimating radiation doses to 
+person for a facility with one radiography installation. This example considers primary radiation only and 
+does not include skyshine. 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+21 
+ 
+1. Drawing of the installation, the facility in which it’s located, and surrounding areas 
+Figure A1: The layout of the building showing the planned location of the radiography installation 
+ 
+ 
+2. Radiography installation information 
+The following information applies to this radiography installation:  
+• 
+locations where the nuclear substances may be present is identified in Figure A1 
+• 
+at this installation, a maximum of 20 radiography exposures per week are planned and operations will 
+only take place during normal business hours (i.e., a maximum of 1040 exposures per year) 
+• 
+the nuclear substance used for radiography at this installation is cobalt-60 
+• 
+activity of the source is 4.07 TBq (110 Ci) 
+3. Identify the occupancy and the appropriate occupancy factor 
+Occupied locations were identified and occupancy factors were conservatively chosen. Information is 
+summarized in Table A2. 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+22 
+ 
+Table A2: Occupied locations and occupancy factors 
+Location  
+T 
+Notes 
+CEDO’s position 
+1 
+There will be two full time workers that can perform radiography at this 
+installation. The exact fraction of radiography exposures carried out by 
+each exposure device operator is uncertain; as such, it is conservatively 
+assumed that all of the exposures are carried out by one CEDO. 
+Receptionist desk 
+1 
+It is conservatively assumed that the receptionist will be occupying the 
+receptionist desk for all radiography exposures. The receptionist is not a 
+NEW. 
+Break room 
+1/4 
+ 
+Washroom 
+1/16  
+Office space 
+1 
+The location in the office space closest to the source is assumed to be 
+occupied by worker that is not a NEW. 
+Parking lot  
+1/8 
+ 
+North fence 
+1 
+Assume worst case occupancy to be conservative. 
+Loading area 
+1/8 
+Assume workers at the adjacent business will be parking their cars and 
+smoking in the parking lot. 
+Roof 
+N/A 
+Access is restricted during radiography exposures. 
+Basement 
+N/A 
+There is no basement in the building. 
+4. Estimate the radiation dose rates produced in each potentially occupied area 
+Assuming a concrete wall thickness of 1 m for all walls of the radiography installation, the shielding 
+thickness is greater than the TVL1 of 305 mm. Therefore, equation 3 should be used to calculate the dose 
+rate at each location (not including skyshine). The calculated dose rates using this method are provided in 
+Table A3. Since it is possible for radiography to be carried out with the source in different spots within 
+the radiography installation, the most conservative cases were assumed when determining the distance 
+between the source and location. For example, for the distance between the source and the office space, it 
+was assumed that radiography exposures would take place with the source position in the location of the 
+radiography installation closest to the office space.  
+Table A3: Calculated dose rates for the most occupied locations around the radiography 
+installation (not including skyshine) 
+Gamma ray dose constant at 1 m (Г) = 305 µSv/h per GBq  
+Dose rate (R) = (Г x A x 0.1 x 10 -(t-TVL1)/TVL2) / d2 
+ 
+Location  
+Г 
+(µSv/h per GBq) 
+A 
+(GBq) 
+t 
+(mm) 
+TVL1 
+(mm) 
+TVL2 
+(mm) 
+d 
+(m2) 
+ 
+R 
+(µSv/h) 
+CEDO’s 
+position 
+305 
+4070 
+1000 
+305 
+211 
+2.2 
+= 
+13 
+Receptionist 
+desk 
+305 
+4070 
+1000 
+305 
+211 
+11.5 
+= 
+0.48 
+Break room 
+305 
+4070 
+1000 
+305 
+211 
+5.7 
+= 
+1.9 
+Washroom 
+305 
+4070 
+1000 
+305 
+211 
+4.5 
+= 
+3.1 
+Office space 
+305 
+4070 
+1000 
+305 
+211 
+5.5 
+= 
+2.1 
+Parking lot  
+305 
+4070 
+1000 
+305 
+211 
+12.5 
+= 
+0.40 
+North fence 
+305 
+4070 
+1000 
+305 
+211 
+11 
+= 
+0.52 
+Loading area 
+305 
+4070 
+1000 
+305 
+211 
+12.5 
+= 
+0.40 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+23 
+ 
+5. Extrapolate dose rates to annual doses for the persons who may occupy each area 
+The projected workload at this radiography installation is a maximum of 1040 exposures per year (i.e., 20 
+exposures per week). It is assumed that exposures are not collimated and will take three minutes each 
+(i.e., 0.05 h). Using equation 2 the estimated annual doses to individuals occupying each location of 
+interest are provided in Table A.4.  
+Table A4: Calculated annual dose at occupied locations around the radiography installation (not 
+including skyshine), where dose (D) = N x T x R x S 
+Location 
+N 
+T 
+R (µSv/h) S (h) 
+ 
+D (µSv) 
+CEDO’s position 
+1040 
+1 
+13.0 
+0.05 
+= 
+680 
+Receptionist desk 1040 
+1 
+0.5 
+0.05 
+= 
+25 
+Break room 
+1040 
+1/4 
+1.9 
+0.05 
+= 
+25 
+Washroom 
+1040 1/16 
+3.1 
+0.05 
+= 
+10 
+Office space 
+1040 
+1 
+2.1 
+0.05 
+= 
+110 
+Parking lot  
+1040 
+1/8 
+0.4 
+0.05 
+= 
+2.6 
+North fence 
+1040 
+1 
+0.5 
+0.05 
+= 
+27 
+Loading area 
+1040 
+1/8 
+0.8 
+0.05 
+= 
+2.6 
+ 
+The annual dose estimate for the NEW (i.e., the CEDO) is well below the annual dose limit. The annual 
+dose estimates to persons who are not NEWs, occupying the receptionist desk, office space and north 
+fence, are also below the dose limit of 1 mSv/year prescribed in subsection 13(1) of the Radiation 
+Protection Regulations and the dose limit 0.5 mSv/year prescribed in the subsection 30(6) of the Nuclear 
+Substances and Radiation Devices Regulations. Therefore, no additional shielding is required to keep 
+doses below dose limits. 
+In addition, the break room, washroom, parking lot, north fence, and loading area may be occupied by 
+both NEWs and non-NEWs and annual dose estimates at these locations should be added to the doses 
+calculated for NEWs and non-NEWs. The estimated annual dose to the NEW, including the annual dose 
+from occupying the break room, washroom, parking lot, north fence, and loading area, is still well below 
+dose limits. The estimated annual dose to the most exposed non-NEW (i.e., the office space worker), 
+including the annual dose from occupying the break room, washroom, parking lot, north fence, and 
+loading area, is also below the dose limits. Therefore, concrete shielding of 1 m is adequate to keep the 
+estimated dose to the office worker below the dose limits. In addition to keeping doses below the dose 
+limits, doses shall also be ALARA. Skyshine dose estimates should be made by calculation or direct 
+measurement before radiography exposures are carried out. If it can be demonstrated that annual doses to 
+workers and members of the public (including skyshine) are below dose limits and ALARA, it can be 
+concluded that the design is adequate for protecting persons occupying areas surrounding the radiography 
+installation. 
+ 
+ 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+24 
+ 
+Glossary 
+For definitions of terms used in this document, see REGDOC-3.6, Glossary of CNSC 
+Terminology, which includes terms and definitions used in the Nuclear Safety and Control Act 
+(NSCA) and the regulations made under it, and in CNSC regulatory documents and other 
+publications. REGDOC-3.6 is provided for reference and information. 
+ 
+ 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+25 
+ 
+References 
+1. Canadian Nuclear Safety Commission (CNSC), G-129 rev.1, Keeping Radiation Exposures and 
+Doses “As Low as Reasonably Achievable (ALARA)”, Ottawa, 2004. 
+2. International Commission on Radiological Protection, ICRP Publication 116, Ann. ICRP 40(2-5), 
+Conversion Coefficients for Radiological Protection Quantities for External Radiation Exposures, 
+Thousand Oaks, California, 2010. 
+3. Nucleonica GmbH, Joint Evaluated Fission and Fusion File (JEFF) 3.1, Nucleonica Nuclear Science 
+Portal, Version 3.0.49, Karlsruhe, Germany, 2014 
+4. CNSC, REGDOC-2.12.3, Security of Nuclear Substances: Sealed Sources, Ottawa, 2013. 
+5. American National Standards Institute, ANSI N43.3-2008, Installations Using Non-Medical X-Ray 
+and Sealed Gamma Ray Sources, Energies Up To 10 MeV, Washington, D.C., 2008. 
+6. National Council on Radiation Protection and Measurements, Report No. 151, Structural Shielding 
+Design and Evaluation for Megavoltage X- and Gamma-Ray Radiotherapy Facilities, Bethesda, 
+Maryland, 2005. 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+26 
+ 
+Additional Information 
+The following documents contain additional information that may be of interest to persons involved in the 
+design of industrial radiography installations in Canada. 
+1. American National Standards Institute, ANSI, N43.10-2001, Safe Design and Use of Panoramic, Wet 
+Source Storage Gamma Irradiators (Category IV) and Dry Source Storage Gamma Irradiators 
+(Category II), 2001. 
+2. American Nuclear Society, Radiation Shielding, Richard E. Faw, J. Shultis, La Grange Park, Illinois, 
+2000. 
+3. Canadian Nuclear Safety Commission, Working Safely with Industrial Radiography, Ottawa, 2014. 
+4. Health Canada, Safety Code 34, Radiation Protection and Safety for Industrial X-ray Equipment, 
+Ottawa, 2003 
+5. International Atomic Energy Agency, IAEA Safety Standards, Specific Safety Guide No. SSG-11, 
+Radiation Safety in Industrial Radiography, Vienna, 2011. 
+6. Johnson, Thomas E. and Brian K. Birky, Health Physics and Radiological Health, 4th edition, 
+Baltimore, Maryland, 2012. 
+7. National Council on Radiation Protection and Measurements (NCRP), Report No. 49, Structural 
+Shielding Design and Evaluation for Medical Use of X Rays and Gamma Rays of Energies Up To 10 
+MeV, Bethesda, Maryland, 1976. 
+8. NCRP, Report No. 147, Structural Shielding Design for Medical X-Ray Facilities, Bethesda, 
+Maryland, 2004. 
+9. Oak Ridge National Laboratory, ORNL/RSIC-45, Specific Gamma-Ray Dose Constants for Nuclides 
+Important to Dosimetry and Radiological Assessment, Oak Ridge National Laboratory, Oak Ridge, 
+Tennessee, 1982. 
+10. United States Nuclear Regulatory Commission, NUREG 1556, Consolidated Guidance about 
+Materials Licensees – Volume 2, Program Specific Guidance about Industrial Radiography Licenses, 
+Washington, 1998. 
+March 2018 
+REGDOC-2.5.5, Design of Industrial Radiography Installations 
+ 
+27 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the Canadian Nuclear Safety 
+Commission (CNSC). In addition to the Nuclear Safety and Control Act and associated regulations, these 
+facilities and activities may also be required to comply with other regulatory instruments such as 
+regulatory documents or standards. 
+Effective April 2013, the CNSC’s catalogue of existing and planned regulatory documents has been 
+organized under three key categories and twenty-five series, as set out below. Regulatory documents 
+produced by the CNSC fall under one of the following series: 
+1.0 
+Regulated facilities and activities 
+Series 
+1.1 
+Reactor facilities 
+1.2 
+Class IB facilities 
+1.3 
+Uranium mines and mills 
+1.4 
+Class II facilities 
+1.5 
+Certification of prescribed equipment 
+1.6 
+Nuclear substances and radiation devices 
+2.0 
+Safety and control areas 
+Series 
+2.1 
+Management system 
+2.2 
+Human performance management 
+2.3 
+Operating performance 
+2.4 
+Safety analysis 
+2.5 
+Physical design 
+2.6 
+Fitness for service 
+2.7 
+Radiation protection 
+2.8 
+Conventional health and safety 
+2.9 
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0 
+Other regulatory areas  
+Series 
+3.1 
+Reporting requirements 
+3.2 
+Public and Aboriginal engagement 
+3.3 
+Financial guarantees 
+3.4 
+Commission proceedings 
+3.5 
+CNSC processes and practices 
+3.6 
+Glossary of CNSC terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. For the latest list of regulatory 
+documents, visit the CNSC’s website. 
