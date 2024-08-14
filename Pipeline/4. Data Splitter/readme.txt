@@ -1,0 +1,1 @@
+The datasets obtained in the previous step are converted into question-answer pairs in a way that the model can understand and in a certain proportion at this stage.
