@@ -1,0 +1,853 @@
+Juin 2013 
+REGDOC-2.2.1, Rendement humain : Gérer la fatigue et les heures de travail 
+ 
+Human Performance Management 
+Fitness for Duty: 
+Managing Worker Fatigue  
+ 
+ 
+REGDOC-2.2.4  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+March 2017 
+ 
+ 
+ 
+ 
+Fitness for Duty: Managing Worker Fatigue  
+Regulatory Document REGDOC-2.2.4  
+© Canadian Nuclear Safety Commission (CNSC) 2017  
+PWGSC catalogue number CC172-166/2016E-PDF 
+ISBN 978-0-660-06961-6  
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+Également publié en français sous le titre de : Aptitude au travail : Gérer la fatigue des travailleurs 
+Document availability 
+This document can be viewed on the CNSC website at nuclearsafety.gc.ca or to request a copy of the 
+document in English or French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, Ontario K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Facsimile: 613-995-5086 
+Email: info@cnsc-ccsn.gc.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+ 
+Publishing history 
+March 2017 
+ 
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+i 
+ 
+Preface 
+This regulatory document is part of the CNSC’s Human Performance Management series of regulatory 
+documents, which covers human factors, personnel training, personnel certification, and fitness for duty. 
+The full list of regulatory document series is included at the end of this document and can also be found 
+on the CNSC’s website at nuclearsafety.gc.ca/eng/acts-and-regulations/regulatory-documents. 
+Regulatory document REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue, sets out 
+requirements and guidance of the CNSC with respect to managing worker fatigue for workers at 
+high-security sites, as defined in the Nuclear Security Regulations. For the purpose of this regulatory 
+document, nuclear safety encompasses security. 
+This document is intended to form part of the licensing basis for a regulated facility or for a regulated 
+activity, either as part of the conditions and safety and control measures in a licence, or as part of the 
+safety and control measures to be described in a licence application and the documents needed to support 
+that application. 
+For proposed new facilities, this document will be used to assess new licence applications. For existing 
+facilities, the requirements contained in this document do not apply unless they have been included, in 
+whole or in part, in the licence or licensing basis. 
+Guidance contained in this document provides information on how requirements may be met. Licensees 
+and applicants are expected to review and consider guidance; should they choose not to follow it, they 
+should explain how their chosen alternate approach meets regulatory requirements.  
+The CNSC’s regulatory framework provides an interlinked set of regulatory requirements for the 
+management of nuclear facilities and activities. The management system established in the licensing basis 
+for a regulated facility or activity provides an overall management framework and direction to develop 
+and implement sound management practices and controls for the licensing basis. This regulatory 
+document does not duplicate generic management system requirements. However, it provides more 
+specific direction for those requirements as they apply to managing worker fatigue. 
+A graded approach, commensurate with risk, may be defined and used when applying the requirements 
+and guidance contained in this regulatory document. The use of a graded approach is not a relaxation of 
+requirements. With a graded approach, the application of requirements is commensurate with the risks 
+and particular characteristics of the facility or activity. 
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+i 
+ 
+Important note: Where referenced in a licence either directly or indirectly (such as through licensee-
+referenced documents), this document is part of the licensing basis for a regulated facility or activity.  
+The licensing basis sets the boundary conditions for acceptable performance at a regulated facility or 
+activity, and establishes the basis for the CNSC’s compliance program for that regulated facility or 
+activity.  
+Where this document is part of the licensing basis, the word “shall” is used to express a requirement to 
+be satisfied by the licensee or licence applicant. “Should” is used to express guidance or that which is 
+advised. “May” is used to express an option or that which is advised or permissible within the limits of 
+this regulatory document. “Can” is used to express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+i 
+ 
+Table of Contents 
+1. 
+Introduction 
+........................................................................................................................1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant legislation 
+............................................................................................................. 1 
+2. 
+Background ........................................................................................................................2 
+3. 
+Programmatic Elements Applicable to the Broad Population ......................................3 
+3.1 
+Establishing limits on hours of work and recovery periods 
+................................................ 3 
+3.2 
+Identifying and managing worker fatigue 
+........................................................................... 3 
+3.3 
+Authorities, accountabilities and responsibilities................................................................ 4 
+3.4 
+Training and education ....................................................................................................... 4 
+3.5 
+Control of changes to shift schedules ................................................................................. 5 
+3.6 
+Problem identification and resolution 
+................................................................................. 5 
+3.7 
+Assessment and continual improvement 
+............................................................................. 6 
+4. 
+Limits on Hours of Work and Recovery Periods Applicable to Safety-Sensitive 
+Positions ..............................................................................................................................6 
+4.1 
+Identification of safety-sensitive positions ......................................................................... 6 
+4.2 
+Limits on hours of work applicable to safety-sensitive positions ....................................... 7 
+4.3 
+Recovery periods applicable to safety-sensitive positions 
+.................................................. 7 
+4.4 
+Exceptional circumstances 
+.................................................................................................. 9 
+4.5 
+Records ............................................................................................................................... 9 
+Appendix: Hours of Work and Recovery Periods for Safety-Sensitive Positions 
+..................10 
+Glossary ........................................................................................................................................11 
+References 
+.....................................................................................................................................14 
+Additional Information ...............................................................................................................15 
+ 
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+Fitness for Duty: Managing Worker Fatigue 
+1. 
+Introduction 
+Human performance is a key contributor to the safety and security of nuclear facilities, so the 
+CNSC requires licensees to implement and maintain human performance programs. These 
+programs address a broad range of factors that affect human performance, with the aim of 
+minimizing the potential for errors that could affect nuclear safety and security. One of these 
+factors is a worker’s fitness for duty. 
+Fatigue is widely recognized to affect fitness for duty because of its potential to degrade several 
+aspects of human performance. Therefore, licensees must address fatigue as part of their approach 
+to ensure that workers are fit for duty.  
+1.1 
+Purpose 
+This regulatory document specifies requirements and gives guidance for managing worker fatigue 
+with the aim of minimizing the potential for errors that could affect nuclear safety and security. 
+For the purpose of this regulatory document, managing worker fatigue encompasses measures to 
+manage risks associated with fatigue, including measures to manage the level of fatigue that 
+workers experience at work and to reduce the likelihood and consequences of fatigue-related 
+errors.  
+1.2 
+Scope 
+This regulatory document applies to high-security sites, as defined in the Nuclear Security 
+Regulations.  
+The requirements and guidance in section 3 of this regulatory document apply to the population 
+of workers who have the potential through their work activities to pose a risk to nuclear safety or 
+security, also referred to as the broad population.  
+Requirements and guidance in section 4 apply to a smaller subset of workers who fill safety-
+sensitive positions, as described in section 4.1. 
+1.3 
+Relevant legislation 
+The following provisions of the Nuclear Safety and Control Act (NSCA) and regulations made 
+under the NSCA are relevant to this regulatory document:  
+• 
+Sub-paragraph 9(a)(i) of the NSCA states that one of the objects of the Commission is “to 
+regulate the development, production and use of nuclear energy and the production, 
+possession and use of nuclear substances, prescribed equipment and prescribed information in 
+order to prevent unreasonable risk, to the environment and to the health and safety of persons, 
+associated with that development, production, possession or use”. 
+• 
+Paragraph 12(1)(a) of the General Nuclear Safety and Control Regulations requires that 
+every licensee shall “ensure the presence of a sufficient number of qualified workers to carry 
+on the licensed activity safely and in accordance with the Act, the regulations made under the 
+Act and the licence”. 
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+• 
+Paragraph 12(1)(b) of the General Nuclear Safety and Control Regulations states that every 
+licensee shall “train the workers to carry on the licensed activity in accordance with the Act, 
+the regulations made under the Act and the licence”. 
+• 
+Paragraph 17(b) of the General Nuclear Safety and Control Regulations states that every 
+worker shall “comply with the measures established by the licensee to protect the 
+environment and the health and safety of persons, maintain security, control the levels and 
+doses of radiation, and control releases of radioactive nuclear substances and hazardous 
+substances into the environment”. 
+• 
+Sub-paragraph 17(c)(i) of the General Nuclear Safety and Control Regulations states that 
+every worker shall “promptly inform the licensee or the worker’s supervisor of any situation 
+in which the worker believes there may be a significant increase in the risk to the 
+environment or the health and safety of persons”. 
+• 
+Paragraph 17(e) of the General Nuclear Safety and Control Regulations states that every 
+worker shall “take all reasonable precautions to ensure the worker’s own safety, the safety of 
+the other persons at the site of the licensed activity, the protection of the environment, the 
+protection of the public and the maintenance of the security of nuclear facilities and of 
+nuclear substances”. 
+• 
+Paragraph 6(d) of the Class I Nuclear Facilities Regulations states that an application for a 
+licence to operate a Class I nuclear facility shall contain “the proposed measures, policies, 
+methods and procedures for operating and maintaining the nuclear facility”. 
+• 
+Paragraph 6(n) of the Class I Nuclear Facilities Regulations states that an application for a 
+licence to operate a Class I nuclear facility shall contain “the results that have been achieved 
+in implementing the program for recruiting, training and qualifying workers in respect of the 
+operation and maintenance of the nuclear facility”. 
+• 
+Section 38 of the Nuclear Security Regulations states that “every licensee shall develop a 
+supervisory awareness program and implement it on an ongoing basis to ensure that its 
+supervisors are trained to recognize behavioural changes in all personnel, including 
+contractors, that could pose a risk to security at a facility at which it carries on licensed 
+activities”. 
+2. 
+Background 
+Worker fatigue is a state of reduced mental or physical performance capability resulting from 
+sleep loss, extended wakefulness, phase of the circadian rhythm or workload. As fatigue 
+increases, declines occur in many aspects of human performance, especially alertness. Alertness 
+is fundamental to many cognitive tasks. Recovery from fatigue, particularly the recovery of 
+cognitive function, requires sufficient sleep. 
+Work schedules are an important factor when managing fatigue since they set the boundaries for 
+the timing and duration of sleep. Key aspects of a work schedule that affect fatigue are night 
+work, extended shifts, the number of consecutive shifts, and time off between blocks of shifts. 
+Even when complying with limits on hours of work, a worker may be fatigued. Since factors at 
+work and outside of work affect fatigue, workers share responsibility with the employer for 
+managing fatigue. Programmatic requirements and guidance in this document address a broad 
+range of elements necessary for managing fatigue-related risks.  
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+3. 
+Programmatic Elements Applicable to the Broad Population 
+Licensees shall manage risks associated with fatigue of workers who have the potential through 
+their work activities to pose a risk to nuclear safety or security (also referred to as the broad 
+population) in accordance with their management system as defined in the licensee’s licensing 
+basis. Safety-sensitive positions, which are identified in section 4.1, are a sub-set of the broad 
+population.  The following sections specify how the management system’s generic requirements 
+apply to managing worker fatigue. 
+Licensees shall identify positions in the broad population in their management system’s 
+governing documents. 
+Guidance 
+All activities related to managing worker fatigue should be developed and implemented using a 
+management system that meets the requirements of CSA N286, Management system 
+requirements for nuclear facilities. [1] 
+Licensees may exclude workers from the broad population if they do not have the potential 
+through their work activities to pose a risk to nuclear safety or security.  Licensees should have a 
+documented rationale to justify the exclusion of workers from the broad population.     
+3.1 
+Establishing limits on hours of work and recovery periods 
+For the broad population of workers, licensees shall document and implement limits on hours of 
+work and recovery periods that: 
+1. provide sufficient time for sleep daily 
+2. restrict consecutive shifts to limit the build-up of sleep debt 
+3. provide sufficient time off to allow for recovery from sleep debt 
+4. limit average weekly hours as a safeguard against cumulative fatigue 
+Licensees shall document the rationale that justifies their limits on hours of work and recovery 
+periods, and the rationale shall be based on scientific principles and knowledge. 
+Guidance 
+Licensees may apply different limits on hours of work and recovery periods to different workers 
+in a graded manner commensurate with risk.  
+3.2 
+Identifying and managing worker fatigue 
+Licensees shall establish, implement and maintain a process to identify and manage workers who 
+have temporary or ongoing fatigue-related limitations that may make them incapable of 
+competently and safely performing their assigned duties. This process shall address: 
+1. expectations for self-reporting when workers believe they are too fatigued to competently and 
+safely perform their assigned duties  
+2. actions for workers to take if they are experiencing a temporary or ongoing circumstance(s) 
+or condition(s) that increase their risk of experiencing fatigue at work 
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+3. actions for supervisors to take if they believe, through self-reporting or observation, that a 
+worker may be unable to competently and safely perform his or her assigned duties because 
+of fatigue  
+4. expectations related to rest periods that include an opportunity to sleep, if permitted 
+5. schedules that allow for a planned period of restorative sleep in appropriate accommodations, 
+if permitted 
+Guidance 
+Licensees should define and implement a range of measures to manage risks associated with 
+fatigue, including those to manage the level of fatigue workers experience at work and to reduce 
+the likelihood and consequences of fatigue-related errors, such as:  
+• 
+allowing rest periods or an opportunity to sleep with appropriate conditions defined (for 
+example, turnover of duties, acceptable location(s), and duration)  
+• 
+nurturing an environment that encourages self-reporting when workers believe they are too 
+fatigued to perform their duties competently and safely (for example, freedom from reprisal) 
+• 
+providing a work environment designed to enhance alertness (for example, appropriate 
+lighting, temperature, and humidity)  
+• 
+employing additional supervisory oversight and independent verification when the risk of 
+fatigue is highest (for example, during the night shift, near the end of a shift, working beyond 
+12 hours) 
+• 
+scheduling safety-critical tasks outside of peak times for fatigue (especially between the 
+hours of 2 a.m. and 6 a.m.) when possible  
+• 
+rotating workers between tasks of varying cognitive and physical workloads when possible 
+3.3 
+Authorities, accountabilities and responsibilities 
+Licensees shall define and document the authorities, accountabilities, and responsibilities for 
+those involved with managing worker fatigue. 
+Guidance 
+Authorities, accountabilities, and responsibilities should be defined and documented for the 
+following: 
+1. senior management 
+2. supervisors of workers who could pose a risk to nuclear safety or security 
+3. workers who could pose a risk to nuclear safety or security 
+4. key support positions involved with managing worker fatigue, such as medical, human 
+resources, and workforce planning and scheduling personnel 
+5. contractor organizations 
+3.4 
+Training and education 
+With respect to managing fatigue, licensees shall ensure that those with authorities, 
+accountabilities, and responsibilities for managing worker fatigue receive initial and ongoing 
+training commensurate with their authorities, accountabilities, and responsibilities.  
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+Guidance 
+Training and education about fatigue and measures for managing risks associated with worker 
+fatigue should address the following topics:  
+• 
+causes, risks and consequences of fatigue (for example, effects of fatigue and circadian 
+rhythms on alertness and performance; importance of sleep and strategies to maximize the 
+benefits of recovery opportunities; sleep disorders and their treatment; symptoms of fatigue; 
+measures to minimize the effects of fatigue; commuting)  
+• 
+measures for managing worker fatigue (for example, authorities, accountabilities and 
+responsibilities for managing worker fatigue and controlling hours of work; process to follow 
+when a performance impairment due to fatigue is suspected) 
+• 
+regulatory requirements related to fatigue and hours of work  
+Requirements and guidance for training systems are found in REGDOC-2.2.2, Personnel 
+Training. [2] 
+3.5 
+Control of changes to shift schedules 
+Licensees shall control changes to shift schedules, such as modifications to start times or shift 
+length.  
+After significant changes to shift schedules have been implemented, licensees shall review their 
+impact on fatigue levels and nuclear safety and security.   
+Guidance 
+Before implementing changes to a shift schedule, the proposed schedule should be assessed 
+against factors known to affect fatigue. 
+Licensees should define and implement a method for monitoring the impact of changes to shift 
+schedules on fatigue levels and on nuclear safety and security. 
+3.6 
+Problem identification and resolution 
+Licensees shall identify and resolve problems related to worker fatigue. 
+When an act or omission by a worker may have caused or contributed to a safety significant 
+incident, licensees shall record the work schedule of workers directly involved, when known, for 
+at least one week prior to the incident. These data shall be assessed periodically to determine the 
+effectiveness of the limits on hours of work and recovery periods. 
+Guidance 
+In addition to the requirements related to safety significant incidents, when an act or omission by 
+a worker may have caused or contributed to an incident, the incident analysis team should 
+consider and record fatigue-related factors of the workers directly involved (for example, work 
+schedule; sleep obtained prior to the incident compared to sleep normally obtained; consecutive 
+hours awake at the time of the incident) and should determine if performance was consistent with 
+the effects of fatigue. Licensees should capture this information as part of the incident report.  
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+3.7 
+Assessment and continual improvement 
+Licensees shall conduct periodic assessments to:  
+1. determine the effectiveness of the management system in managing the risks associated with 
+worker fatigue and identify opportunities for continual improvement 
+2. verify that staffing levels are sufficient for enabling adherence to limits on hours of work and 
+recovery periods 
+Licensees shall carry out trend analyses of problems and causes related to fatigue or work 
+schedules. 
+Guidance 
+Licensees should use multiple methods to assess the effectiveness of the management system in 
+managing the risks associated with worker fatigue, such as performance indicators, trend 
+analyses, internal and external operating experience, benchmarking, self-assessments, 
+independent assessments, and worker surveys. 
+A licensee’s periodic assessment schedule may include a greater frequency of assessments for 
+safety-sensitive positions than for the broad population. 
+4. 
+Limits on Hours of Work and Recovery Periods Applicable to Safety-Sensitive 
+Positions 
+4.1 
+Identification of safety-sensitive positions 
+Licensees shall list all safety-sensitive positions in their governing documents. 
+Safety-sensitive positions shall include: 
+1. certified workers 
+2. the following security personnel: nuclear security officers, onsite nuclear response force 
+(NRF) members, and designated non-NRF personnel 
+ 
+In addition, licensees shall perform a risk-informed analysis to identify any other safety-sensitive 
+positions.   
+Positions that are part of the minimum staff complement at high-power reactor facilities shall be 
+considered as safety-sensitive unless documented as not safety-sensitive through the analysis. 
+Guidance 
+The risk-informed analysis to identify workers who fill safety-sensitive positions should consider 
+risks related to the following: 
+• 
+tasks of the worker during normal and emergency operating conditions  
+• 
+nature of equipment and material that the worker handles or could handle 
+• 
+actions assigned to the workgroup that could directly cause or contribute to a significant 
+incident or could result in an inadequate response to a significant incident 
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+4.2 
+Limits on hours of work applicable to safety-sensitive positions 
+Hours of work limits in section 4.2 and recovery periods in section 4.3 shall apply to workers 
+filling safety-sensitive positions. Limits on hours of work and recovery periods are summarized in 
+the tables in the appendix. 
+Licensees shall ensure that the hours worked do not exceed the following limits:  
+1. 16 hours in a 24-hour period 
+2. 28 hours in a 48-hour period  
+3. 60 hours in a fixed 7-day period OR 120 hours in a rolling 14-day period 
+4. 54 hours per week on average over a fixed period not exceeding 13 weeks OR a rolling 
+period not exceeding 18 weeks  
+With the exception of shift turnover, all time present at work shall be included when determining 
+compliance with the limits on hours of work in section 4.2 and the recovery periods in 
+section 4.3. 
+Guidance 
+As part of the fatigue management provisions, licensees should establish administrative limits 
+that prevent workers from consistently working the maximum allowable hours of work. 
+A normal work shift should not exceed 12 hours. As far as reasonably practicable, night shifts 
+should not extend beyond 12 hours.  
+It is acknowledged that the transfer of information and responsibilities between individuals or 
+work units during shift turnovers is important for ensuring nuclear safety. For this reason, the 
+duration of shift turnover may vary, but should typically be completed within 30 minutes per 
+shift.  
+Licensees’ governing documents should specify which time periods will be implemented for 
+items 3 and 4 in section 4.2.  
+Hours of work limits in section 4.2 and recovery periods in section 4.3 are not applicable to 
+workers temporarily assigned to a position that is not safety-sensitive for a minimum period of 
+two weeks.  A licensee’s governing documents should define the process for managing fatigue 
+when transitioning workers between positions that are safety-sensitive and those that are not.   
+4.3 
+Recovery periods applicable to safety-sensitive positions 
+The recovery periods in this section apply to persons working straight day or night shifts or shifts 
+that rotate between days and nights. 
+A worker shall be given a minimum recovery period of 8 consecutive hours free from work 
+between shifts.  
+1. For persons working shifts from 8 to 10 hours: 
+a. a maximum of 5 consecutive night shifts shall not be exceeded  
+b. a minimum recovery period of 48 hours shall follow a block of 4 or more consecutive 
+night shifts 
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+2. For persons working shifts over 10 hours and up to 12 hours:  
+a. a maximum of 6 shifts on consecutive calendar days shall not be exceeded 
+b. a maximum of 4 consecutive night shifts shall not be exceeded 
+c. if shifts on consecutive calendar days include day and night shifts, a maximum of 
+3 consecutive night shifts shall not be exceeded  
+d. a minimum recovery period of 72 hours shall follow a block of 3 or more consecutive 
+night shifts; where only 2 consecutive night shifts are worked, a minimum recovery 
+period of 48 hours shall follow 
+Staffing levels shall be sufficient to ensure that training activities, sickness, vacation or staff 
+turnover do not lead to non-compliance with limits on hours of work in section 4.2 and recovery 
+periods in section 4.3, as far as reasonably practicable. 
+Guidance 
+A worker should normally be given 11 consecutive hours free from work between shifts. A 
+recovery period of 8 hours should be rarely used (for example, if necessary to fill a minimum 
+staff complement position; when the recovery period occurs at night when the body’s circadian 
+rhythm promotes sleep). 
+For persons working shifts from 8 to 10 hours:  
+• 
+a minimum recovery period of 36 hours should occur in any 7-day period 
+• 
+the direction of shift rotation should be clockwise 
+For persons working shifts over 10 hours and up to 12 hours: 
+• 
+a normal work schedule should include 3 or fewer consecutive night shifts. 
+• 
+if day shifts are followed by night shifts on consecutive calendar days, a limit of 2 night 
+shifts should apply (for example, 2 day shifts followed by 2 night shifts followed by 
+48 hours off) 
+• 
+the following deviations from recovery periods following a block of consecutive shifts 
+may be applied: 
+o the minimum recovery period following a block of night shifts in Section 4.3, 2d may 
+be reduced by 24 hours when a worker is transitioning to a sequence of classroom 
+training on days or when a worker who normally works day shifts works only one 
+block of consecutive night shifts 
+o to maintain minimum staff complement, the requirement for 72 hours off following a 
+block of 3 or more 12-hour night shifts may be reduced to 48 hours off once every 
+three months per worker 
+o recovery periods following a block of consecutive shifts may be reduced occasionally 
+to enable night shift workers to attend important meetings during the day 
+Should exceptional circumstances require variance with limits of hours of work in Section 4.2 or 
+recovery periods in Section 4.3 for those in safety-sensitive positions, licensees should consult 
+Section 4.4: Exceptional circumstances. 
+Licensees can propose alternative equivalent limits to those contained in sections 4.2 and 4.3. 
+Proposed changes to the limits must demonstrate an equivalent level of safety, must be science-
+based, and must be approved by the Commission. 
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+4.4 
+Exceptional circumstances 
+Licensees may determine that certain exceptional circumstances warrant exceeding the limits in 
+section 4.2 and 4.3 to prevent unreasonable risk to nuclear safety and security. 
+1. Licensees shall document and implement measures during exceptional circumstances above 
+and beyond those applied during routine operations as per section 3.2, including: 
+a. measures to manage the risks associated with fatigue, including to manage the level of 
+worker fatigue and to reduce the likelihood and consequences of fatigue-related errors 
+b. a process for authorizing and recording exceedances 
+2. For exceptional circumstances when workers remain onsite longer than 16 hours, licensees 
+shall document and implement measures to manage the risks associated with fatigue, 
+including:  
+a. provision of sufficient accommodations appropriate for restorative sleep (for example, 
+horizontal sleeping surface, darkened environment, minimal intrusive noise) 
+b. duty periods and mandatory rest periods that will be provided to enable workers to obtain 
+restorative sleep during extended shifts 
+c. delays to non-essential maintenance, testing and operations activities 
+d. recovery periods following the extended period onsite 
+3. The rationale for the measures to be implemented during exceptional circumstances shall be 
+based on scientific principles and knowledge. 
+Guidance 
+For exceptional circumstances when workers remain onsite longer than 16 hours, licensees should 
+provide workers with reasonable opportunities to obtain restorative sleep.  Licensees should 
+provide workers with at least 8 hours of rest in every 24-hour period.  Rest periods should be 
+divided into no more than two periods and, if possible, include time at night when the body’s 
+circadian rhythm promotes sleep.  
+4.5 
+Records 
+For workers filling safety-sensitive positions, licensees shall retain records of:  
+1. shifts worked  
+2. non-compliance(s) with the limits on hours of work and recovery periods, including those that 
+occur during exceptional circumstances 
+Guidance 
+Records of non-compliance(s) should include the date and extent of the non-compliance(s), name 
+or unique identifier, position title(s), reason for non-compliance(s) and, if applicable, measures 
+implemented to reduce fatigue or the risk of fatigue-related errors. 
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+Appendix: Hours of Work and Recovery Periods for Safety-Sensitive Positions 
+Table 1: Summary of hours of work requirements applicable to safety-sensitive positions from 
+Section 4.2 
+Time frame 
+Limits on hours 
+of work 
+24 hours  
+16 
+48 hours 
+28 
+fixed 7 days OR rolling 14 days 
+60 OR 120 
+fixed period up to 13 weeks OR 
+rolling period up to 18 weeks 
+54 (average per week) 
+ 
+Table 2: Summary of minimum recovery period requirements applicable to safety-sensitive positions 
+from Section 4.3 
+Time frame  
+Consecutive 
+hours off 
+Between shifts 
+8 
+Recovery periods for shifts from 8 to 10 hours 
+Following a block of 4 or more consecutive night shifts 
+48 
+Recovery periods for shifts over 10 and up to 12 hours 
+Following a block of 3 or more consecutive night shifts 
+72 
+Following a block of 2 consecutive night shifts 
+48 
+ 
+Table 3: Summary of limits on the number of consecutive shifts from Section 4.3 
+Consecutive shifts  
+Number of 
+shifts 
+Shifts from 8 to 10 hours 
+Maximum number of consecutive night shifts 
+5 
+Shifts over 10 and up to 12 hours 
+Maximum number of shifts on consecutive calendar days 
+6 
+Maximum number of consecutive night shifts 
+4 
+If shifts on consecutive calendar days include day and night shifts, maximum number 
+of consecutive night shifts 
+3 
+ 
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+Glossary 
+block of consecutive shifts 
+Set of consecutive shifts with the same start and end times followed by a minimum recovery period and a 
+subsequent set of consecutive shifts. 
+broad population 
+Population of workers who have the potential through their work activities to pose a risk to nuclear safety 
+or security. 
+certified 
+Certified by the Commission under paragraph 21(1)(i) of the NSCA or by a designated officer authorized 
+under paragraph 37(2)(b) of the Act.  
+contractor  
+An organization or individual providing services to another organization in accordance with agreed-upon 
+specifications, terms, and conditions.  
+designated non-nuclear response force personnel 
+Designated non-nuclear response force personnel are security staff that are authorized under the Public 
+Agents Firearms Regulations to possess or have access to prohibited and restricted firearms, items or 
+devices on behalf of and under the authority of the CNSC for the purpose of carrying out his or her duties. 
+These duties may encompass the storage, transport, handling, maintenance and use of firearms related to 
+NRF functions. 
+fatigue  
+A state of reduced mental or physical performance capability resulting from sleep loss, extended 
+wakefulness, phase of the circadian rhythm or workload.  
+high-power reactor facilities (also known as high-energy reactor facilities) 
+Power production and research reactors greater than 10 MWt. 
+high-security site 
+A nuclear power plant or a nuclear facility where Category I or II nuclear material is processed, used or 
+stored.  
+human performance 
+The outcomes of human behaviours, functions and actions in a specified environment, reflecting the 
+ability of workers and management to meet the system’s defined performance, under the conditions in 
+which the system will be employed. 
+incident  
+Any unintended event, including operating errors, equipment failures, initiating events, accident 
+precursors, near misses or other mishaps, or unauthorized act, malicious or non-malicious, the 
+consequences or potential consequences of which are not negligible from the point of view of protection 
+or safety (IAEA Safety Glossary, 2007). 
+licensing basis  
+A set of requirements and documents for a regulated facility or activity comprising: 
+• 
+the regulatory requirements set out in the applicable laws and regulations 
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+• 
+the conditions and safety and control measures described in the facility’s or activity’s licence and the 
+documents directly referenced in that licence 
+• 
+the safety and control measures described in the licence application and the documents needed to 
+support that licence application. 
+minimum staff complement  
+The minimum number of qualified workers who must be present at all times to ensure the safe operation 
+of the nuclear facility and to ensure adequate emergency response capability. 
+night shift 
+Shift that includes any time at work between 2 a.m. and 6 a.m. 
+nuclear security officer 
+A person whose function is to provide security at a high-security site and to whom an authorization 
+referred to in subsection 18(2) of the Nuclear Security Regulations has been issued. 
+onsite nuclear response force 
+(a) a team of nuclear security officers whose members are 
+ 
+(i) trained in the use of firearms, authorized to carry firearms in Canada and qualified to use them, 
+and 
+ 
+(ii) permanently located at a high-security site; or 
+(b) a local, provincial or federal police service, a Canadian Forces unit or any other force 
+ 
+(i) under contract to a licensee, 
+ 
+(ii) whose members are trained in the use of firearms, authorized to carry firearms in Canada and 
+qualified to use them, and 
+ 
+(iii) whose members are permanently located at a high-security site. 
+ 
+safety-sensitive position 
+A position which has a role in the operation, where impaired performance could result in a significant 
+incident affecting the environment, the public, the health and safety of workers and others at site, or the 
+safety and security of the facility. This includes all workers who are regularly required to rotate through 
+or regularly relieve in safety-sensitive positions. 
+ 
+Those who directly supervise the working level positions, or who may perform the same duties or 
+exercise the same responsibilities as safety-sensitive positions are deemed to hold safety-sensitive 
+positions. 
+ 
+safety significance  
+The significance of a situation, event or issue with respect to the impact on meeting the nuclear safety 
+objectives as defined by the International Atomic Energy Agency in document SF1, Fundamental Safety 
+Principles. In general, a situation, event or issue has safety significance if it denotes a deviation from the 
+safety case accepted in the licence, in a direction detrimental to safety, such as but not limited to:  
+• reducing margins to (or exceeding) the accepted limits  
+• increasing risk to the health, safety and security of persons and the environment  
+• impairments (various degrees) of the special safety systems or of the safety functions for accident 
+mitigation  
+• reduction in defence in depth  
+• events causing radioactive releases and spills of hazardous substances, injuries to workers or the public, 
+etc.  
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+shift turnover  
+Transfer of information and responsibilities between individuals or work units, one of which is relieving 
+the other. Shift turnover activities may include, but are not limited to, discussions of the status of plant 
+equipment, and the status of ongoing activities, such as extended tests of safety systems and components.  
+sleep debt  
+The difference between the amount of sleep an individual needs and the amount of sleep that the 
+individual actually obtains. 
+supernumerary day shifts  
+Periodic sequences of eight-hour day shifts that are built into a shift worker’s schedule. 
+worker  
+A person who performs work that is referred to in a licence.  
+Note: This definition applies to workers directly employed by a licensee, as well as to contractors and to 
+subcontractors. 
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+References 
+1. CSA Group, CSA N286-12, Management system requirements for nuclear facilities, Mississauga, 
+2012. 
+2. Canadian Nuclear Safety Commission, REGDOC-2.2.2, Personnel Training, Ottawa, 2014. 
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+Additional Information 
+The following documents contain additional information related to managing worker fatigue.  
+1. CSA Group, CSA Z1600-14, Emergency and continuity management program, Mississauga, 2014. 
+2. Canadian Nuclear Safety Commission, RD-204, Certification of Persons Working at Nuclear Power 
+Plants, Ottawa, 2008. 
+3. CNSC, G-323, Ensuring the Presence of Sufficient Qualified Staff at Class I Nuclear Facilities - 
+Minimum Staff Complement, Ottawa, 2007. 
+4. Smiley, A. and C. Rudin-Brown, RSP-0289, Review of Criteria for Assessing Shift Schedules in the 
+Nuclear Industry, Ottawa, 2013. 
+5. Kulp, K., RSP-0096, Development of a Regulatory Monitoring Program for Shiftwork Systems at 
+Canadian Nuclear Power Plants, Ottawa, 1999. 
+6. Smiley, A. and N. Moray, INFO-0318, A Review of 12-Hour Shifts at Nuclear Generating Stations, 
+Atomic Energy Control Board, Ottawa, 1989. 
+7. Lerman, S., et al., “Fatigue Risk Management in the Workplace,” Journal of Occupational and 
+Environmental Medicine 54, 2 (2012): 231–58. 
+March 2017 
+REGDOC-2.2.4, Fitness for Duty: Managing Worker Fatigue 
+ 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the Canadian Nuclear Safety 
+Commission (CNSC). In addition to the Nuclear Safety and Control Act and associated regulations, these 
+facilities and activities may also be required to comply with other regulatory instruments such as 
+regulatory documents or standards. 
+Effective April 2013, the CNSC’s catalogue of existing and planned regulatory documents has been 
+organized under three key categories and twenty-five series, as set out below. Regulatory documents 
+produced by the CNSC fall under one of the following series: 
+1.0 Regulated facilities and activities 
+Series 1.1  
+Reactor facilities 
+1.2  
+Class IB facilities 
+1.3  
+Uranium mines and mills 
+1.4  
+Class II facilities 
+1.5  
+Certification of prescribed equipment 
+1.6  
+Nuclear substances and radiation devices 
+2.0 Safety and control areas 
+Series 2.1  
+Management system 
+2.2  
+Human performance management 
+2.3  
+Operating performance 
+2.4  
+Safety analysis 
+2.5  
+Physical design 
+2.6  
+Fitness for service 
+2.7  
+Radiation protection 
+2.8  
+Conventional health and safety 
+2.9  
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0 Other regulatory areas  
+Series 3.1  
+Reporting requirements 
+3.2  
+Public and Aboriginal engagement 
+3.3  
+Financial guarantees 
+3.4  
+Commission proceedings 
+3.5  
+CNSC processes and practices 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. For the latest list of regulatory 
+documents, visit the CNSC’s website.  
+ 

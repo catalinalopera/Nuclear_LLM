@@ -1,0 +1,899 @@
+Physical Design 
+General Design Considerations: 
+Human Factors  
+REGDOC-2.5.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+March 2019 
+ 
+ 
+ 
+General Design Considerations: Human Factors 
+Regulatory document REGDOC-2.5.1  
+© Canadian Nuclear Safety Commission (CNSC) 2019 
+Cat. No. CC172-205/2019E-PDF 
+ISBN 978-0-660-29322-6  
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+Également publié en français sous le titre : Considérations générales liées à la conception : facteurs 
+humains 
+Document availability 
+This document can be viewed on the CNSC website. To request a copy of the document in English or 
+French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, Ontario K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Facsimile: 613-995-5086 
+Email: cnsc.information.ccsn@canada.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+LinkedIn: linkedin.com/company/cnsc-ccsn 
+Publishing history 
+March 2019 
+ 
+Version 1.0 
+ 
+ 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+ 
+i 
+Draft 
+Preface 
+This regulatory document is part of the CNSC’s physical design series of regulatory documents, which 
+also covers design of reactor facilities and uranium mines and mills. The full list of regulatory document 
+series is included at the end of this document and can also be found on the CNSC's website. 
+Part A of REGDOC-2.5.1, General Design Considerations: Human Factors, sets out guidance for 
+licensees and licence applicants in developing human factors engineering program planning 
+documentation that demonstrates how human factors considerations are incorporated into activities 
+licensed by the CNSC. 
+Part B sets out guidance for licensees and licence applicants in planning for human factors verification 
+and validation activities. 
+This document supersedes guidance documents G-276, Human Factors Engineering Program Plans, and 
+G-278, Human Factors Verification and Validation Plans, both published in June 2003. 
+Note: In 2013, the CNSC adopted a revised regulatory framework structure with a new system for 
+naming and numbering regulatory documents. This document has been published as part of the CNSC’s 
+initiative to bring regulatory documents that were published before the current framework was adopted 
+into the new system. The requirements and guidance in this document have not changed. 
+For information on the implementation of regulatory documents in the licensing basis, and on the graded 
+approach, see REGDOC-3.5.3, Regulatory Fundamentals. 
+The words “shall” and “must” are used to express requirements to be satisfied by the licensee or 
+licence applicant. “Should” is used to express guidance or that which is advised. “May” is used to 
+express an option or that which is advised or permissible within the limits of this regulatory document. 
+“Can” is used to express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+ 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+.................................................................................................................................... 1 
+1.1 
+Purpose ............................................................................................................................... 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant legislation 
+............................................................................................................. 2 
+2. 
+Background .................................................................................................................................... 2 
+2.1 
+Regulatory Framework ....................................................................................................... 2 
+2.2 
+CNSC Licensing Process .................................................................................................... 2 
+Part A: Human Factors Engineering Program Plans 
+.............................................................................. 4 
+3. 
+The human factors engineering program plan 
+............................................................................ 4 
+4. 
+Elements of the human factors engineering program plan 
+........................................................ 4 
+4.1 
+Goals of the plan ................................................................................................................. 4 
+4.2 
+Scope of the plan 
+................................................................................................................. 4 
+4.3 
+Background of the Activity 
+................................................................................................. 5 
+4.4 
+Criteria for Determining Areas of Consideration ............................................................... 5 
+4.4.1 
+Rationale ................................................................................................................ 5 
+4.5 
+Human Factors Input .......................................................................................................... 5 
+4.5.1 
+Roles and Responsibilities ..................................................................................... 5 
+4.5.2 
+Training Needs 
+....................................................................................................... 5 
+4.5.3 
+Related Groups ...................................................................................................... 5 
+4.6 
+Technical Considerations 
+.................................................................................................... 6 
+4.6.1 
+Technical Basis of the plan .................................................................................... 6 
+4.6.2 
+Technical Elements for Review ............................................................................. 6 
+4.6.3 
+Methods for Addressing the Technical Elements .................................................. 7 
+4.6.4 
+Intended Tools ....................................................................................................... 7 
+4.6.5 
+Technical Guides ................................................................................................... 7 
+4.7 
+Processes and Procedures ................................................................................................... 8 
+4.7.1 
+General 
+................................................................................................................... 8 
+4.7.2 
+Timelines ............................................................................................................... 8 
+4.7.3 
+Documentation 
+....................................................................................................... 8 
+4.7.4 
+Disposition of Human Factors Issues .................................................................... 8 
+4.7.5 
+CNSC Contact ....................................................................................................... 8 
+Part B: Human Factors Verification and Validation Plans .................................................................... 9 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+ 
+ 
+5. 
+Verification and validation of human factors 
+.............................................................................. 9 
+6. 
+Elements of the verification and validation plan 
+......................................................................... 9 
+6.1 
+Basis and Objectives of the plan 
+......................................................................................... 9 
+6.1.1 
+Scope and objectives 
+.............................................................................................. 9 
+6.1.2 
+Background Information 
+........................................................................................ 9 
+6.2 
+Verification of Design ...................................................................................................... 10 
+6.3 
+Validation of Design ......................................................................................................... 10 
+6.3.1 
+Approach 
+.............................................................................................................. 10 
+6.3.2 
+Location ............................................................................................................... 10 
+6.3.3 
+Techniques and Tools .......................................................................................... 10 
+6.3.4 
+Participants .......................................................................................................... 10 
+6.3.5 
+Participant Training ............................................................................................. 10 
+6.3.6 
+Performance Measurement in Validation ............................................................ 10 
+6.3.7 
+Data Collection and Analysis .............................................................................. 11 
+Glossary ..................................................................................................................................................... 12 
+References 
+.................................................................................................................................................. 13 
+Additional Information ............................................................................................................................ 14 
+ 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+1 
+ 
+General Design Considerations: Human Factors 
+1. 
+Introduction 
+1.1 
+Purpose 
+Part A of this document is intended to assist licensees and licence applicants in developing human 
+factors engineering program planning documentation that demonstrates how human factors 
+considerations are incorporated into activities licensed by the CNSC. Such considerations help 
+satisfy certain regulatory requirements by demonstrating that licensees and applicants have made 
+adequate provision for health, safety and protection of the environment. 
+Part B of this document is intended to assist licensees and licence applicants in planning for 
+human factors verification and validation activities. Such activities help satisfy certain regulatory 
+requirements by demonstrating that licensees and applicants have made adequate provision for 
+the protection of the environment and the health and safety of persons. 
+1.2 
+Scope 
+Part A of this guide describes the elements of effective human factors engineering program 
+planning documentation for Class I nuclear facilities and uranium mines and mills. 
+A suggested documentation format is presented in this guide as a Human Factors Engineering 
+Program Plan. However, submission of equivalent documentation that meets the objectives and 
+intent of this guide is also acceptable. The CNSC will also consider the special circumstances of 
+small business when assessing the human factors approach taken by applicants and licensees. 
+While a Plan, or equivalent documentation, is recommended to ensure the proper development, 
+execution, management, and documentation of the human factors aspect of any licensable 
+activity, it is not the intention of this guide to create unique human factors work methods or 
+processes. Such processes should already be integrated into the normal project design process 
+wherever possible. 
+Part B of this guide describes the elements of effective human factors verification and validation 
+planning for Class I nuclear facilities and uranium mines and mills.  
+A suggested format for documenting these elements is presented in this guide as a Human Factors 
+Validation and Verification Plan. However, submission of equivalent documentation that meets 
+the objectives and intent of this guide is also acceptable.  
+The information provided in this guide in intended to be used in conjunction with CSA standard 
+N290.12-14, Human Factors in Design for Nuclear Power Plants [1].1 
+ 
+                                                     
+ 
+ 
+1 The standard is a requirement for nuclear power plants and may be used for guidance by other Class I nuclear 
+facilities and uranium mines and mills. 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+2 
+ 
+1.3 
+Relevant legislation 
+Although the Nuclear Safety and Control Act (NSCA) and its regulations contain no explicit 
+reference to “human factors”, they include a number of general provisions that are intended to 
+help assure that interfaces between humans and structures, equipment, or substances during 
+licensed activities occur without unacceptable impacts on persons, the environment, or national 
+security. Many of these provisions are synonymous with the application of common principles of 
+human factors engineering. 
+Some examples of such generally applicable provisions can be found in the following paragraphs 
+of the General Nuclear Safety and Control Regulations: 
+• 
+Paragraph 3(1)(k). This provision states that an application for a licence shall contain [a 
+description of] “the applicant’s organizational management structure insofar as it may bear on 
+the applicant’s compliance with the Act and the regulations made under the Act, including the 
+internal allocation of functions, responsibilities and authority”. 
+• 
+Subsection 3(1.1). The Commission or a designated officer authorized under paragraph 
+37(2)(c) of the Act, may require any other information that is necessary to enable the 
+Commission or the designated officer to determine whether the applicant (i) is qualified to 
+carry on the activity to be licensed, or (ii) will, in carrying on that activity, make adequate 
+provision for the protection of the environment, [and] the health and safety of persons…” 
+• 
+Paragraph 12(1)(a). This provision stipulates that “Every licensee shall ensure the presence of 
+a sufficient number of qualified workers to carry on the licensed activity safely and in 
+accordance with the Act, the regulations made under the Act and the licence”. 
+• 
+Paragraph 12(1)(c). The relevant portion of this provision states that “Every licensee shall 
+take all reasonable precautions to protect the environment and the health and safety of 
+persons …” 
+2. 
+Background 
+2.1 
+Regulatory Framework 
+The CNSC is the federal agency that regulates the use of nuclear energy and materials to protect 
+health, safety, security, and the environment, and to respect Canada’s international commitments 
+on the peaceful use of nuclear energy. 
+The CNSC operates under the NSCA. The NSCA requires persons or organizations to be licensed 
+by the CNSC in order to carry out the activities referred to in Section 26 of the Act, unless 
+otherwise exempted. The associated regulations stipulate prerequisites for CNSC licensing, and 
+the obligations of licensees and workers. 
+The NSCA and its regulations contain several provisions that are intended to ensure that 
+interfaces between humans and items involving nuclear substances, prescribed equipment, or 
+nuclear facilities will occur without unacceptable impacts on persons, the environment, or 
+national security. 
+2.2 
+CNSC Licensing Process 
+The CNSC applies a phased process to its licensing of nuclear facilities and activities. For major 
+facilities, this process begins with an assessment of the environmental impacts of the proposed 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+3 
+ 
+project, and proceeds progressively through site preparation, construction, operation, 
+decommissioning and abandonment phases. 
+The NSCA and its regulations require licence applicants to provide certain information at each 
+licensing stage. The type and level of detail of this information will vary to accommodate the 
+licensing stage and specific circumstances. 
+At all licensing stages, applications may incorporate, directly or by reference, new or previously 
+submitted information, in accordance with legislated requirements and the best judgment of the 
+applicant. An application that is submitted at one licensing stage can become a building block for 
+the next stage. Upon receipt of an application that is complete, the CNSC reviews it to determine 
+whether the applicant is qualified to carry on the proposed activity, and has made adequate 
+provision for the protection of the environment, the health and safety of persons, and the 
+maintenance of national security and the measures required to implement international 
+obligations to which Canada has agreed. Safe and reliable human performance plays a major role 
+in overall system safety. If satisfied, the CNSC may issue, renew, amend or replace a licence that 
+contains relevant conditions. Typically, this licence will incorporate the applicant’s undertakings, 
+and will contain other conditions that the CNSC considers necessary, including a condition that 
+incorporates or relates to human factors considerations or provisions. 
+Because safe and reliable human performance is essential in order to assure the overall safety of 
+licensed facilities and activities, the CNSC, when determining whether licence applicants are 
+qualified and have made adequate provision for health, safety and the environment, will consider 
+whether the applicant has made adequate provision for human capabilities and limitations (human 
+factors) as they relate to the safe conduct of the activity to be licensed. 
+ 
+ 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+4 
+ 
+Part A: Human Factors Engineering Program Plans 
+3. 
+The human factors engineering program plan 
+As described in P-119, Policy on Human Factors [2], it is the policy of the CNSC to consider 
+human factors in the nuclear facilities and activities licensed by the Commission. 
+A Human Factors Engineering Program Plan (HFEPP) documents the means by which human 
+factors considerations are integrated into activities licensed by the CNSC. Human factors 
+considerations are applicable during all licensing phases from design to decommissioning. 
+Examples of licensable activities for which an HFEPP would be appropriate are the design of a 
+new facility, significant modification to a human-machine interface, or decommissioning 
+activities. 
+The HFEPP, or equivalent documentation, should describe the human factors considerations and 
+activities that will be implemented to ensure that the system or licensable activity is designed and 
+evaluated according to established human factors principles and practices. The technical elements 
+described in the Plan should be supported by subsequent verification and validation activities for 
+the resulting design (see Part B, Human Factors Verification and Validation Plans). For a given 
+licensable activity, the applicant should demonstrate that each of the human factors technical 
+elements (described in subsection 4.6.2, “Technical Elements for Review”) has been addressed 
+and either built into the Plan or deemed not applicable. If the licensee is uncertain about the need 
+for, or the content of, an HFEPP, a preliminary outline may be submitted to the CNSC to initiate 
+discussion. The need for, and the technical elements to be included in, an HFEPP would be 
+established through discussion between the licensee and CNSC staff. 
+4. 
+Elements of the human factors engineering program plan 
+An effective Human Factors Engineering Program Plan should include information about 
+• 
+the goals of the plan, 
+• 
+the scope of the plan, 
+• 
+the background of the activity, 
+• 
+criteria for determining areas of consideration 
+• 
+human factors input, 
+• 
+technical considerations, and 
+• 
+processes and procedures. 
+The format presented in this guide is only a suggestion. 
+4.1 
+Goals of the plan 
+Provide concise statements about the objectives of the plan. The goals will normally be driven by 
+the nature of the licensable activity. Goal definition early in development is vital to the Plan’s 
+effectiveness and validity. 
+4.2 
+Scope of the plan 
+The scope of the HFEPP should consider safety critical activities and hazardous interactions. It 
+should also specify areas, systems and components involved, and the phases of the licensable 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+5 
+ 
+activity in which human factors engineering will be incorporated. Adequate justification for any 
+exclusions should also be provided in this section and discussed in the “Criteria” section, as 
+described in subsection 4.4. 
+The HFEPP should include documentation on any constraints, limitations, and assumptions that 
+apply to the human factors work. These may relate to level of technology, resource limitations, 
+time constraints, consistency and compatibility with existing design or operational features, or 
+any other restrictions or requirements imposed on the project team or the Plan. 
+4.3 
+Background of the Activity 
+Provide a brief description of the licensable activity including purpose, scope, and time frames. 
+4.4 
+Criteria for Determining Areas of Consideration 
+Provide a description of the type of criteria that will be used to determine which aspects of the 
+activity warrant human factors consideration. It is recommended that criteria be based on 
+function, task importance, or risk, and that criteria statements be clear, concise, and objective. 
+4.4.1 
+Rationale 
+Indicate the rationale behind different levels of human factors effort, with an explanation of how 
+such levels of effort reflect established criteria. Some examples of the types of decisions for 
+which rationales would be helpful include: 
+• 
+The human factors effort being limited to certain areas in a facility, 
+• 
+Task analysis being restricted to selected tasks, 
+• 
+The human factors effort being limited to certain project phases. 
+4.5 
+Human Factors Input 
+4.5.1 
+Roles and Responsibilities 
+Clearly define the role of any persons performing human factors work associated with the 
+licensable activity for which the Plan is being prepared. Expand on that role definition with a 
+statement about any part of the licensable activity which will require human factors involvement 
+and input. 
+4.5.2 
+Training Needs 
+Familiarity with established human factors principles, benefits, techniques and guidelines is 
+important to successful implementation of the HFEPP. If training in these matters is required by 
+persons performing human factors work associated with the licensable activity, indicate those 
+training needs and the plans for addressing them. 
+4.5.3 
+Related Groups 
+To varying degrees, the human factors elements addressed in the technical basis of the Plan will 
+overlap and interface with other functions and disciplines within the licensable activity. Identify, 
+at a high level, all groups that may be impacted by the Plan, and indicate how their input will be 
+considered or incorporated. 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+6 
+ 
+4.6 
+Technical Considerations 
+Consideration should be given to the following technical aspects of the HFEPP: 
+• 
+Technical basis of the plan 
+• 
+Technical elements for review 
+• 
+Methods for addressing the technical elements 
+• 
+Intended tools 
+• 
+Technical guides 
+4.6.1 
+Technical Basis of the plan 
+Clearly state the technical basis for the HFEPP, such as specific licence applicant’s policies and 
+procedures for human factors, regulatory documents, and industry documents such as consensus 
+standards and guides. 
+4.6.2 
+Technical Elements for Review 
+The following technical elements should be included in the plan: 
+• 
+human-machine interface system: any region or point at which a person interacts with a 
+machine 
+• 
+human-machine allocation of function: assigning system functions to human and machine 
+agents (i.e., processes that are automated versus those that are manual) 
+• 
+human reliability: addressing issues pertaining to the probability that an individual or group 
+will adequately perform a given task at the appropriate time 
+• 
+job design: determining how tasks will be grouped together and how work will be 
+coordinated. This will include consideration of the operating states of the facility (i.e., 
+shutdown, start-up, operation, etc.) 
+• 
+operating experience review: the review and use of knowledge gained from nuclear industry 
+operating experience to improve future performance 
+• 
+physical working environment: the total physical environment within which a worker 
+performs his or her tasks 
+• 
+activities with potentially hazardous human interactions 
+• 
+procedures development: the systematic process for the development of work instructions 
+or instruction sets used to accomplish a given task 
+• 
+shift-work systems: all of the schedules implemented in a given workplace to meet the 
+requirements of a given plant or process 
+• 
+staffing: for the purpose of the HFEPP, the process for determining numbers and placement 
+of appropriate personnel for a given job 
+• 
+validation: the process of determining the degree to which the human-machine system 
+design and supporting mechanisms facilitate the achievement of overall safety and 
+operational goals 
+• 
+verification: the process of demonstrating that equipment and systems have been designed as 
+specified and that adherence to human factors guidelines has been maintained 
+Provide justification for any omissions of the technical elements. It is expected that additional 
+human factors issues may be identified and may warrant assessment on a case-by-case basis. 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+7 
+ 
+For the verification and validation processes, it is often appropriate to develop a separate plan. 
+The CNSC recognizes that a Verification and Validation Plan cannot always be submitted 
+concurrently with the Human Factors Engineering Program Plan. However, a commitment should 
+be made in the HFEPP to submit a Verification and Validation Plan at a later date. For more 
+information on Verification and Validation Plans see Part B, Human Factors Verification and 
+Validation Plans. 
+4.6.3 
+Methods for Addressing the Technical Elements 
+Describe the methods and techniques that will be used to address each of the technical elements 
+for review. Examples of methods and techniques might include: 
+• 
+functional analysis 
+• 
+task analysis 
+• 
+human error analysis 
+• 
+timeline analysis 
+• 
+physical demands analysis 
+• 
+verification and validation activities 
+• 
+communications analysis 
+Provide a statement for each method, indicating how the output from each analysis and activity 
+will be used. For example: “Task analysis data is used as input to the specification of human-
+machine interface features”. 
+4.6.4 
+Intended Tools 
+Indicate the human factors facilities, equipment and tools that will be used to support the 
+licensable activity. These may include such items as 
+• 
+simulators, 
+• 
+laboratories, 
+• 
+software packages, 
+• 
+mock-ups, and 
+• 
+usability trials 
+4.6.5 
+Technical Guides 
+During development of the detailed design phase of a licensable activity, it is expected that 
+various human factors guides will be used to address such topics as 
+• 
+alarm annunciation; 
+• 
+abbreviations and acronyms; 
+• 
+panel device selection and layout; and 
+• 
+colour usage. 
+Whether guidelines are developed specifically for the licensable activity to standardize 
+operational practices and conventions, or selected from applicable published material, they should 
+be relevant to the current facility and activity, level of technology, and user population. In 
+addition, all guides should be comprehensive and up to date. 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+8 
+ 
+4.7 
+Processes and Procedures 
+4.7.1 
+General 
+To ensure consistency across the various work elements of the HFEPP, identify the steps required 
+for its implementation. 
+4.7.2 
+Timelines 
+On a timeline, plot the work activities related to human factors to show their place within the 
+project development cycle for the activity to be licensed. Reference to the master project schedule 
+may be appropriate if it incorporates information relevant to the purposes of the timeline. 
+4.7.3 
+Documentation 
+Specify how human factors data will be incorporated into the existing design documentation 
+structure for the project (i.e., activity to be licensed). For large projects, a document hierarchy 
+diagram should be included to illustrate this incorporation. 
+4.7.4 
+Disposition of Human Factors Issues 
+Determine a reasonable method for recording, categorizing, tracking, and responding to the issues 
+and recommendations that arise during implementation of the plan. Development of the processes 
+and procedures for this aspect of the plan should take into account the ultimate goals of the 
+human factors work, as well as any anticipated limitations to those goals. 
+Provide a description of how tracking of unanticipated human factors issues will be conducted to 
+ensure consideration in development of future HFEPP. It is anticipated that project groups 
+affected by the recommendations arising from the human factors work may, at times, disagree 
+with those recommendations. The process for resolving differences of opinion that might be 
+generated by human factors issues should include an explanation of the authority structure to 
+clarify how and by whom final decisions are to be made. 
+4.7.5 
+CNSC Contact 
+Include a proposal for maintaining contact with CNSC staff during plan implementation, listing 
+proposed submissions supporting the Plan, meetings to discuss progress of the plan, and 
+communications processes. 
+ 
+ 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+9 
+ 
+Part B: Human Factors Verification and Validation Plans 
+5. 
+Verification and validation of human factors 
+One way to demonstrate the extent to which human factors have been considered in activities 
+licensed by the CNSC, and the effectiveness of that consideration, is through verification and 
+validation activities.  
+A Verification and Validation Plan documents the set of activities within a specific project (i.e., 
+licensable activity), that will be carried out to demonstrate that the human factors considerations 
+of the project design conform to accepted human factors design principles. This will ensure that 
+the project design enables personnel to perform their tasks safely and to meet operational goals.  
+A Verification and Validation Plan usually supports an HFEPP. For more information on HFEPP, 
+see Part A, Human Factors Engineering Program Plans. The Verification and Validation Plan 
+may be included as part of the HFEPP or as a separate plan. The intent is not to create 
+documentation, but to ensure that verification and validation activities are similarly planned and 
+recorded. 
+6. 
+Elements of the verification and validation plan 
+An effective Verification and Validation plan includes comprehensive information about:  
+• 
+the basis and objectives of the plan, 
+• 
+verification of design, and  
+• 
+validation of design.  
+6.1 
+Basis and Objectives of the plan  
+The basis for the Verification and Validation Plan depends on its objectives. In order to facilitate 
+review by CNSC staff, the Plan should provide clear definitions of the basis and objectives in the 
+Plan, including scope and background information.  
+6.1.1 
+Scope and objectives  
+This section of the Verification and Validation Plan should reflect the overall scope and 
+objectives of the project. General considerations for this section should include:  
+• 
+impacted facility areas (e.g., main control rooms, instrument rooms, secondary control rooms, 
+field actions)  
+• 
+human-machine interface systems and components involved  
+• 
+allocation of function (i.e., to humans, to automated systems, and between team members)  
+• 
+the design phase at which the Verification and Validation Plan will be implemented  
+6.1.2 
+Background Information  
+This section should describe relevant background information about the design, such as any 
+previous Verification and Validation Plans that have been completed or review activities that 
+have already taken place.  
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+10 
+ 
+6.2 
+Verification of Design  
+An outline should be provided of the approach that will be used to conduct human factors design 
+verification. Typically, this activity will involve a comparison of each human-machine system 
+component against appropriate human factors principles, guidelines, and standards. 
+6.3 
+Validation of Design  
+Information should be provided about the following elements of the validation process:  
+• 
+Approach  
+• 
+Location 
+• 
+Techniques and Tools 
+• 
+Participants  
+• 
+Participant Training  
+• 
+Performance Measurement in Validation  
+• 
+Data Collection and Analysis  
+6.3.1 
+Approach  
+Provide an outline of the approach that will be used to conduct validation of the integrated 
+systems associated with the design.  
+6.3.2 
+Location  
+Identify the location of the validation trials.  
+6.3.3 
+Techniques and Tools  
+Validation of integrated systems is accomplished by evaluating task accomplishment using 
+appropriate validation tools. Tabletop analysis, walk-throughs using comprehensive drawings, 
+photographs, prototypes, mock-ups, full-scale simulators, or other techniques appropriate to the 
+nature of the project may be used.  
+6.3.4 
+Participants  
+Identify the participants by job type (i.e., operator, engineer, shift supervisor) who will be 
+involved in the validation exercises. The number of participants should be indicated.  
+6.3.5 
+Participant Training  
+It is expected that some training of participants will be necessary. Provide information about the 
+level and nature of training that will be provided.  
+6.3.6 
+Performance Measurement in Validation  
+Clearly state the technical basis for performance measures and acceptance criteria. 
+i) Performance Measures  
+Present a general discussion of the categories of performance measures that will be used for 
+validation activities (e.g., time, accuracy, frequency, amount achieved or accomplished, etc.). 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+11 
+ 
+ii) Acceptance Criteria  
+For both objective and subjective performance measures, include clear statements of how 
+acceptance criteria relevant to those measures will be derived.  
+6.3.7 
+Data Collection and Analysis  
+Effective validation requires appropriate collection and analysis of data. Describe the data 
+collection methods that will be used and how the results will be analyzed. 
+ 
+ 
+ 
+ 
+ 
+ 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+12 
+ 
+Glossary 
+For definitions of terms used in this document, see REGDOC-3.6, Glossary of CNSC Terminology, which 
+includes terms and definitions used in the Nuclear Safety and Control Act (NSCA) and the regulations 
+made under it, and in CNSC regulatory documents and other publications. REGDOC-3.6 is provided for 
+reference and information. 
+validation  
+The process of determining the degree to which the human-machine system design and supporting 
+mechanisms facilitate the achievement of overall safety and operational goals.  
+verification  
+The process of demonstrating that equipment and system have been designed as specified, and that 
+adherence to human factors guidelines has been maintained.  
+ 
+ 
+ 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+13 
+ 
+References 
+ 
+1. CSA Group, CSA 290.12-14, Human Factors in Design for Nuclear Power Plants, Toronto, 
+2014.  
+2. Canadian Nuclear Safety Commission, Regulatory Policy P-119, Policy on Human Factors, 
+October 2000. 
+ 
+ 
+ 
+ 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+14 
+ 
+Additional Information 
+The following documents are not referenced in this regulatory document but contain information that may 
+be useful to the reader: 
+• 
+CNSC, REGDOC-2.5.2, Design of Reactor Facilities: Nuclear Power Plants, 2014. 
+• 
+CSA Group, CSA N290.12-14, Human factors in design for nuclear power plants, 2014 
+(revised 2015). 
+• 
+CSA Group, CSA N286-12, Management system requirements for nuclear facilities, 2012 
+(reaffirmed 2017). 
+• 
+CSA Group, CSA N294-09, Decommissioning of facilities containing nuclear substances, 
+2009 (reaffirmed 2014). 
+• 
+Department of Defense, MIL-STD-46855A, Department of Defense Standard Practice: 
+Human Engineering Requirements for Military Systems, Equipment, and Facilities, 2011. 
+• 
+Department of Defense, MIL-HDBK-46855A, Department of Defense Handbook: Human 
+Engineering Program Process and Procedures, 1999 (reaffirmed 2004). 
+• 
+Department of Defense, MIL-STD-1472G, Department of Defense Design Criteria Standard: 
+Human Engineering, 2012. 
+• 
+Endsley, M. R. and D.G. Jones, Designing for Situation Awareness: An Approach to User-
+Centered Design, 2nd ed., CRC Press, 2016. 
+• 
+Institute for Electrical and Electronics Engineering, IEEE 1023 - 2004, IEEE Recommended 
+Practice for the Application of Human Factors Engineering to Systems, Equipment, and 
+Facilities of Nuclear Power Generating Stations and other Nuclear Facilities, 2005 
+(reaffirmed 2010). 
+• 
+Karwowski, W., ed., Handbook of Standards and Guidelines in Ergonomics and Human 
+Factors, Lawrence Erlbaum Associates, 2006. 
+• 
+Lehto, M.R. and S.J. Landry, Introduction to Human Factors and Ergonomics for Engineers, 
+2nd ed., CRC Press, 2012. 
+• 
+McLeod, R.W., Designing for Human Reliability: Human Factors Engineering in the Oil, 
+Gas, and Process Industries, Elsevier, 2015. 
+• 
+O’Hara, J.M., J.C. Higgins, S.A. Fleger and P.A. Pieringer, NUREG-0711, Human Factors 
+Engineering Program Review Model, Rev. 3., U.S. Nuclear Regulatory Commission, 
+November 2012. 
+• 
+O'Hara, J.M., W.S. Brown, P.M. Lewis and J.J. Persensky, NUREG-0700, Human-System 
+Interface Design Review Guidelines, Rev. 2., U.S. Nuclear Regulatory Commission, 2002. 
+• 
+Wierenga, D., C. Moore and V. Barnes, Procedure Writing: Principles and Practices, 2nd 
+ed., Battelle Press, 1999.  
+ 
+ 
+March 2019 
+REGDOC-2.5.1, General Design Considerations: Human Factors 
+ 
+15 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the CNSC. In addition to the 
+Nuclear Safety and Control Act and associated regulations, these facilities and activities may also be 
+required to comply with other regulatory instruments such as regulatory documents or standards. 
+CNSC regulatory documents are classified under the following categories and series: 
+1.0 
+Regulated facilities and activities 
+Series 1.1 
+Reactor facilities 
+1.2 
+Class IB facilities 
+1.3 
+Uranium mines and mills 
+1.4 
+Class II facilities 
+1.5 
+Certification of prescribed equipment 
+1.6 
+Nuclear substances and radiation devices 
+2.0 
+Safety and control areas 
+Series 2.1 
+Management system 
+2.2 
+Human performance management 
+2.3 
+Operating performance 
+2.4 
+Safety analysis 
+2.5 
+Physical design 
+2.6 
+Fitness for service 
+2.7 
+Radiation protection 
+2.8 
+Conventional health and safety 
+2.9 
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0 
+Other regulatory areas  
+Series 3.1 
+Reporting requirements 
+3.2 
+Public and Aboriginal engagement 
+3.3 
+Financial guarantees 
+3.4 
+Commission proceedings 
+3.5 
+CNSC processes and practices 
+3.6 
+Glossary of CNSC terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. Visit the CNSC’s website for 
+the latest list of regulatory documents. 
+ 

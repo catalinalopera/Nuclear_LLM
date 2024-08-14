@@ -1,0 +1,1724 @@
+CNSC processes and practices 
+Pre-Licensing Review of a Vendor’s 
+Reactor Design  
+ 
+ 
+REGDOC-3.5.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+November 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pre-Licensing Review of a Vendor’s Reactor Design  
+Regulatory document REGDOC-3.5.4  
+© Canadian Nuclear Safety Commission (CNSC) 2018 
+Cat. No. CC172-90/2018E-PDF 
+ISBN 978-0-660-28362-3 
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+Également publié en français sous le titre : Examen de la conception d'un réacteur de fournisseur 
+préalable à l'autorisation 
+Document availability 
+This document can be viewed on the CNSC website at nuclearsafety.gc.ca. To request a copy of the 
+document in English or French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, ON  K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Fax: 613-995-5086 
+Email: cnsc.info.ccsn@canada.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+LinkedIn: linkedin.com/company/cnsc-ccsn 
+Publishing history 
+May 2012 
+ 
+GD-385, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+ 
+ 
+i 
+Preface 
+Regulatory document REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design, describes the 
+pre-licensing review process provided by the Canadian Nuclear Safety Commission (CNSC) for assessing 
+a vendor’s reactor design. The review considers the areas of design that relate to reactor safety, security 
+and safeguards. 
+A pre-licensing review is an optional service provided by the CNSC. The review can be undertaken by a 
+reactor vendor prior to an applicant’s submission of a licence application to the CNSC.  
+This review can provide early identification and resolution of potential regulatory or technical issues in 
+the design process, particularly those that could result in significant changes to the design or safety 
+analysis. The objective of a pre-licensing review is to increase regulatory certainty while ensuring public 
+safety. 
+This service does not certify a reactor design, and does not involve the issuance of a licence under the 
+Nuclear Safety and Control Act. It is not required as part of the licensing process for a new nuclear reactor 
+facility. The conclusions of a design review do not bind or otherwise influence decisions made by the 
+Commission, with whom the authority resides to issue licences for nuclear reactor facilities. 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design, provides guidance information 
+only. No requirements are articulated in this document. In this document, “should” is used to express 
+guidance. “May” is used to express an option, or that which is permissible within the limits of this 
+regulatory document. “Can” is used to express possibility or capability. 
+Note: In 2013, the CNSC adopted a revised regulatory framework structure with a new system for naming 
+and numbering regulatory documents. This document has been published as part of the CNSC’s initiative 
+to bring regulatory documents that were published before the current framework was adopted into the 
+new system. The requirements and guidance in this document have not changed.  
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+........................................................................................................................1 
+1.1 
+Purpose and scope 
+............................................................................................................... 1 
+1.2 
+What is a pre-licensing review? 
+.......................................................................................... 1 
+1.3 
+Benefits of a vendor design review 
+..................................................................................... 3 
+1.3.1 
+Benefits to the vendor ............................................................................................ 3 
+1.3.2 
+Benefits to the applicant ........................................................................................ 4 
+1.3.3 
+Benefits to the public ............................................................................................. 4 
+1.4 
+CNSC use of information from other nuclear regulatory jurisdictions 
+............................... 5 
+2. 
+Vendor Design Review 
+.......................................................................................................5 
+3. 
+What is a fundamental barrier to licensing? 
+...................................................................6 
+4. 
+Objectives and Scope of a Vendor Design Review 
+..........................................................6 
+4.1 
+Focus areas 
+.......................................................................................................................... 6 
+4.2 
+Phase 1 of the vendor design review 
+................................................................................... 7 
+4.2.1 
+Phase 1 focus areas and information required from the vendor 
+............................. 7 
+4.2.2 
+Review criteria 
+....................................................................................................... 8 
+4.2.3 
+Project management information 
+........................................................................... 8 
+4.2.4 
+Project deliverables 
+................................................................................................ 9 
+4.3 
+Phase 2 of the vendor design review 
+................................................................................... 9 
+4.3.1 
+Phase 2 focus areas and information required from the vendor 
+............................. 9 
+4.3.2 
+Review criteria 
+....................................................................................................... 9 
+4.3.3 
+Project management information 
+........................................................................... 9 
+4.3.4 
+Project deliverables 
+.............................................................................................. 10 
+4.4 
+Phase 3 of the vendor design review – Pre-construction follow-up.................................. 10 
+4.4.1 
+Focus areas and information required from the vendor ....................................... 10 
+4.4.2 
+Review criteria 
+..................................................................................................... 10 
+4.4.3 
+Project management information 
+......................................................................... 11 
+4.4.4 
+Project deliverables 
+.............................................................................................. 11 
+Appendix A: Focus Review Areas ..............................................................................................12 
+Glossary ........................................................................................................................................23 
+References 
+.....................................................................................................................................26
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+1 
+ 
+Pre-Licensing Review of a Vendor’s Reactor Design 
+1. 
+Introduction 
+Paragraph 21(1)(a) of the Nuclear Safety and Control Act (NSCA) gives the Canadian Nuclear 
+Safety Commission (CNSC) the authority to: “enter into arrangements, including an arrangement 
+to provide training, with any person, any department or agency of the Government of Canada or 
+of a province, any regulatory agency or department of a foreign government or any international 
+agency” in order to attain its objectives. 
+At the request of a vendor, and by entering into a service agreement, the CNSC will undertake a 
+pre-licensing review of a vendor’s reactor design. The terms “reactor” and “reactor design” 
+include all structures, systems and components, as well as vendor design processes and 
+supporting evidence necessary to demonstrate that the non-site specific design is meeting CNSC 
+expectations for design and safety analysis.  
+The review does not certify a reactor design, and does not involve the issuance of a licence under 
+the NSCA. It is not required as part of the licensing process for a new reactor facility. The 
+conclusions of a design review do not bind or otherwise influence decisions made by the 
+Commission, with whom the authority resides to issue licences for nuclear reactor facilities. 
+Much of the detailed information resulting from the design review - including the vendor’s 
+submissions of documentation – may be considered commercially confidential, as per the terms 
+of the service agreement. The public will be informed of the high-level outcomes of the review 
+work by the posting of an executive summary of each review report on the CNSC website. 
+1.1 
+Purpose and scope 
+This document describes the pre-licensing review process provided by the CNSC for assessing a 
+vendor’s reactor design. The review considers the areas of design that relate to reactor safety, 
+security and safeguards. 
+1.2 
+What is a pre-licensing review? 
+A pre-licensing review, commonly referred to as a vendor design review, is an optional service 
+that the CNSC provides for the assessment of a vendor’s reactor design. The primary purpose of a 
+vendor design review is to provide feedback to the vendor about how it is addressing Canadian 
+regulatory requirements and CNSC expectations in its design and design activities. The CNSC 
+enters into a service agreement with the vendor that is based on a fixed scope of work. 
+This review provides the early identification and resolution of potential regulatory or technical 
+issues in the design process, particularly those that could result in significant changes to the 
+design or safety case. The CNSC conducts more detailed reviews of the design and safety case at 
+the time of an application for a licence to construct and an application for a licence to operate.  
+The following figure illustrates the level of design completion that is necessary to support a 
+vendor design review versus the level of design completion that is necessary to support an 
+application for a licence to construct, or a licence to operate a new reactor facility. The licence to 
+prepare site phase is not shown in the diagram because the applicant for a licence to prepare site 
+determines the level of design information required to determine site suitability. 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+2 
+ 
+Figure 1:  Where the vendor design review fits into the reactor design process 
+PHASES OF REACTOR 
+DESIGN
+REACTOR DESIGN 
+COMPLETENESS
+Detailed design for a construction licence:
+• 
+preliminary safety analysis report
+• 
+design descriptions
+• 
+technical specifications of structures, 
+systems and components to the level 
+of detail for purchase orders
+• 
+detailed design quality assurance 
+program
+• 
+all safety-related research and 
+developments is complete
+VENDOR establishes design 
+rules and processes
+Basic engineering program:
+• 
+safety design guides
+• 
+design requirements
+• 
+safety specification
+• 
+design quality assurance processes
+Conceptual Design
+Detailed design for an operating licence:
+• 
+final safety analysis report
+• 
+design manuals
+• 
+commissioning manuals
+• 
+operating manuals
+Vendor provides ongoing design
+support to licensee
+Pre-licensing 
+review of a vendor 
+reactor design by 
+the CNSC
+VENDOR AND LICENSEE 
+collaborate on a facility safety 
+case to demonstrate that the 
+detailed reactor design is 
+adequate.
+The goal is a design that is 
+sufficient for a construction 
+licence application
+Construction licence 
+application to the CNSC
+Operation licence 
+application to the CNSC
+VENDOR AND LICENSEE 
+finalize safety case to 
+demonstrate that the reactor is 
+built per design and will operate 
+safely
+0%
+100%
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+3 
+ 
+A vendor design review evaluates if: 
+• 
+the vendor understands Canadian regulatory requirements and expectations 
+• 
+the design is being developed to comply with the following, as applicable: CNSC regulatory 
+documents REGDOC-2.5.2, Design of Reactor Facilities: Nuclear Power Plants [1], or RD-
+367, Design of Small Reactor Facilities [2], and applicable regulatory documents and 
+national standards 
+• 
+a resolution plan exists for any design issues identified in the review 
+A review considers technical aspects, and does not include considerations such as: 
+• 
+design costs 
+• 
+state of completion of the design 
+• 
+scheduling factors relative to the review of a licence application 
+• 
+design changes that could be required as a result of future findings 
+A vendor design review can begin once a vendor has, at a minimum, made reasonable progress in 
+the basic engineering phase of the design. As per figure 1, this means that the basic architecture 
+of systems important to safety has been laid out following the vendor’s reactor design guides and 
+design requirements. The following documents should be approaching a state of completion, such 
+that the vendor is ready to proceed with the detailed design phase in preparation for a utility’s 
+submission of a construction licence application: 
+• 
+Design guides that contain design philosophies, safety philosophies and rules that designers 
+must follow when performing their design work, including safety requirements such as 
+applicable codes and standards 
+• 
+Design requirements for systems important to safety that establish such aspects as: 
+• 
+minimum performance requirements and reliability targets 
+• 
+reflect significant progress made in any safety-related research and development 
+• 
+The vendor’s overall management system as it applies to the design of s structures, systems 
+and components 
+• 
+Design and safety analysis representative of a preliminary safety analysis report 
+1.3 
+Benefits of a vendor design review 
+The reports that are prepared during a vendor design review provide a significant amount of 
+information that is of benefit to the vendor, applicant and the general public. 
+1.3.1 
+Benefits to the vendor 
+The review provides the vendor with information that can be used when holding discussions with 
+a potential applicant who is considering the vendor’s technology. 
+A vendor design review can provide further assurance that, along with information contained in 
+RD/GD-369, Licence Application Guide – Licence to Construct a Nuclear Power Plant [3], the 
+vendor has the necessary data to support an applicant in a future application to construct an NPP. 
+For small reactor facilities, most of the information contained in RD/GD-369 is applicable, but 
+may be applied in a graded manner. The depth and breadth of information required in support of 
+an application will depend on the risk and complexity of the facility. 
+When an applicant approaches the CNSC for a licence, the applicant will be required to 
+demonstrate the adequacy of the design and its associated safety case against Canadian regulatory 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+4 
+ 
+requirements and CNSC expectations. Preparing submissions for each phase of the vendor design 
+review allows the vendor to plan and prepare for effective discussions with potential applicants 
+who are considering the use of the vendor’s reactor technology.  
+The vendor design review gives the vendor early feedback on the use of new or novel design 
+features and approaches. These may be new materials for structures, systems and components, or 
+engineering standards and methodologies that may not have been previously employed in 
+Canada. 
+The review also offers the vendor early notification of potential fundamental barriers to licensing. 
+Within the review process, the vendor is able to identify resolution paths for any issues before an 
+applicant seeks to obtain a licence to construct or licence to operate. By being aware of such 
+resolution paths, both the vendor and the applicant can have reasonable confidence that the issue 
+can be resolved in a reasonable timeframe, in order to keep within the expected licensing 
+schedule. 
+A vendor design review contributes to regulatory certainty by: 
+• 
+providing clear and early feedback to the vendor on Canadian regulatory requirements and 
+how well the design meets these requirements 
+• 
+identifying potential licensing and technical (safety) issues early on, thereby providing the 
+vendor time to resolve issues before they become barriers to licensing; this is particularly 
+important for issues that could result in significant changes to the design or safety analysis 
+• 
+enabling CNSC staff to become familiar with the design prior to the receipt of a licence 
+application, thereby reducing the amount of time needed to assess the design during the 
+review of the applications for the licences to construct and operate 
+1.3.2 
+Benefits to the applicant 
+The CNSC encourages potential applicants to have early and ongoing dialogue with vendors to 
+discuss and resolve potential regulatory issues when considering technologies for proposed 
+nuclear reactor facilities.  
+Vendor design reviews allow the regulator to become informed of the design, thus facilitating 
+future licence application reviews. The resultant review information obtained throughout the 
+review phases may add significantly to the understanding of both the technology and any of its 
+associated issues that need to be resolved prior to, and during, the licensing process. 
+The CNSC expects a future applicant to be highly familiar with the technology it will eventually 
+purchase for a proposed nuclear reactor facility - that is, to be a “smart buyer”. Under the NSCA, 
+the applicant is ultimately accountable for licensed activities, and will be required to demonstrate 
+the adequacy of the design and its associated safety case against Canadian regulatory 
+requirements and CNSC expectations. Potential applicants are encouraged to speak with vendors 
+early on in the licensing process to discuss and resolve potential regulatory issues. 
+1.3.3 
+Benefits to the public 
+The vendor design review provides the public with a measure of early assurance that a new 
+reactor technology being proposed for construction and operation in Canada will meet Canadian 
+regulatory requirements.  
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+5 
+ 
+By performing an early review of key aspects of a reactor design and the vendor’s organization, 
+the public can be assured that: 
+• 
+the vendor understands Canadian regulatory requirements and CNSC expectations 
+• 
+the design will meet the requirements contained in CNSC regulatory documents 
+REGDOC-2.5.2 or RD-367 (as applicable to the proposal) and related regulatory documents 
+and standards 
+• 
+the vendor is actively seeking the resolution of any design issues identified in the review 
+These three assurances increase the level of regulatory certainty and contribute to public safety. 
+1.4 
+CNSC use of information from other nuclear regulatory jurisdictions 
+If a vendor has had its reactor design either reviewed or certified by a nuclear regulator from 
+another country and, as a result, has accumulated a certain amount of regulatory feedback, the 
+CNSC would consider such material in the vendor design review, under the following conditions: 
+• 
+The vendor would be responsible for obtaining and providing the reviewed or certified 
+information to the CNSC, as part of the design review submittals. 
+• 
+The vendor would explain how that information demonstrates that the design will meet 
+Canadian requirements. 
+• 
+The CNSC would conduct its own assessment in light of its regulatory framework 
+• 
+The CNSC would use the information submitted to the extent that the information is 
+compatible with the CNSC review process. 
+2. 
+Vendor Design Review 
+The vendor design review is divided into three phases, each requiring increasingly detailed 
+technical information. 
+Phase 1 review – Intent to comply with regulatory requirements: CNSC staff assess the 
+information submitted in support of the vendor’s design and determine if, at a general level, the 
+vendor design and design processes are demonstrating implementation of CNSC design 
+requirements (for new nuclear power plants as specified in REGDOC-2.5.2, and for small reactor 
+facilities in RD-367), and related regulatory requirements.  
+Phase 2 review – Pre-licensing assessment: This phase goes into further detail, with a focus on 
+identifying if any potential fundamental barriers to licensing exist or are emerging with respect to 
+the reactor’s design.  
+Phase 3 review – Pre-construction follow-up: In this phase, the vendor can choose to follow up 
+on one or more focus areas covered in phases 1 and 2 against CNSC requirements pertaining to a 
+licence to construct. For those areas, the vendor’s anticipated goal is to avoid a detailed revisit by 
+the CNSC during the review of the construction licence application.  
+Phase 1 and 2 reviews have 19 review focus areas, which represent key areas of importance for a 
+future construction licence. The Phase 3 review is tailored on a case-by-case basis. See 
+appendix A for detailed information on the review focus areas. 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+6 
+ 
+3. 
+What is a fundamental barrier to licensing? 
+When reviewing a vendor’s reactor design, CNSC staff assess aspects of the design related to 
+safety, security and safeguards, in order to identify potential issues with respect to licensing and 
+technical requirements. Areas that fail to comply with Canadian regulatory requirements or to 
+address CNSC design expectations for new reactor facilities are identified. If not corrected, the 
+issues could become fundamental barriers to licensing.  
+A fundamental barrier is a shortcoming in the design or the design process that, if not corrected, 
+could have the potential for significant risk to the public, workers or the environment. The barrier 
+is considered fundamental when there is no clear and adequate path to resolution of a significant 
+safety issue. A barrier would also be considered fundamental if there are significant uncertainties 
+associated with the proposed resolution plan, or if the timeline is such that the issue may not be 
+resolved at the time an application for a licence to construct is submitted to the CNSC.  
+From a design perspective, the following aspects present barriers in the licensing process: 
+• 
+Non-compliance with Canadian regulatory requirements 
+• 
+Unjustified non-conformance with Canadian regulatory requirements, including those in the 
+regulatory document REGDOC-2.5.2 or RD-367, and other applicable regulatory documents 
+and national standards for design and analysis 
+• 
+Unjustified non-compliance with design and safety analysis quality assurance standards and 
+procedures 
+• 
+A design that does not address known issues of safety significance (i.e., the design has not 
+taken into account resolution of safety concerns from past regulatory reviews) 
+• 
+A design that does not meet the “as low as reasonably achievable” (ALARA) principle 
+• 
+Unproven engineering practices for new or innovative design features (i.e., not adequately 
+supported by analysis, research and development, or both)  
+• 
+A design introduces unacceptable operational complexity in order to meet operation 
+compliance (i.e., to meet regulatory requirements, the system or technology would be so 
+complicated as to introduce complexities that may cause other events due to human factors)  
+4. 
+Objectives and Scope of a Vendor Design Review 
+4.1 
+Focus areas 
+Nineteen focus areas are reviewed during phases 1 and 2 of a design review and include topics of 
+significant safety importance to a design so that any identified issues can be addressed by the 
+vendor early in the design process. The vendor may propose additional focus areas that are 
+specific to the reactor design.  
+The 19 focus areas are: 
+1. General plant description, defence in depth, safety goals and objectives, dose acceptance 
+criteria  
+2. Classification of structures systems, and components 
+3. Reactor core nuclear design 
+4. Fuel design and qualification 
+5. Control system and facilities: 
+a. Main control systems 
+b. Instrumentation and control 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+7 
+ 
+c. Control facilities 
+d. Emergency power system(s) 
+6. Means of reactor shutdown 
+7. Emergency core cooling and emergency heat removal systems 
+8. Containment/confinement and safety-important civil structures 
+9. Beyond-design-basis accidents (BDBAs) and severe accidents (SA) prevention and 
+mitigation 
+10. Safety analysis (deterministic safety analysis, probabilistic safety analysis) and internal and 
+external hazards 
+11. Pressure boundary design 
+12. Fire protection 
+13. Radiation protection 
+14. Out-of-core criticality 
+15. Robustness, safeguards and security 
+16. Vendor research and development program 
+17. Management system of design process and quality assurance in design and safety analysis 
+18. Human factors 
+19. Incorporation of decommissioning in design considerations 
+Appendix A provides a description of the objectives and scope for each focus area. 
+4.2 
+Phase 1 of the vendor design review 
+A vendor can initiate a Phase 1 review once the conceptual design is complete and the basic 
+engineering program is either at an advanced stage or completed, since high-level design 
+information would be required in support of the review. 
+As part of Phase 1, CNSC staff review the submitted documentation against key areas of either 
+regulatory document REGDOC-2.5.2 or RD-367 (whichever is applicable to the reactor design 
+proposed by the vendor), along with any other related regulatory requirements. This review is 
+conducted to assess if the vendor design and design processes demonstrate that Canadian 
+regulatory requirements and expectations for design and safety analysis are being implemented.  
+The vendor is expected to demonstrate that the design intent meets the requirements of 
+REGDOC-2.5.2 or RD-367 and related regulatory requirements, through the description of 
+intended programs. 
+4.2.1 
+Phase 1 focus areas and information required from the vendor 
+For each of the focus areas, the following information is required to demonstrate that the design 
+meets the Phase 1 objectives: 
+• 
+Demonstration of compliance with relevant sections of REGDOC-2.5.2, or RD-367, and 
+related regulatory requirements  
+• 
+Safety analysis at a sufficient level to demonstrate the adequacy of the design concepts 
+• 
+Design information, such as design guides, design requirements, design descriptions and 
+design manuals  
+• 
+Information in support of new or novel designs or approaches, when used 
+• 
+Path forward for resolving any outstanding safety issues, including research and development 
+efforts 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+8 
+ 
+4.2.2 
+Review criteria 
+For each of the review focus areas, the submissions are assessed using the requirements and 
+expectations relevant to the individual review focus area, including: 
+• 
+Nuclear Safety and Control Act 
+• 
+CNSC regulations: 
+• 
+General Nuclear Safety and Control Regulations 
+• 
+Class I Nuclear Facilities Regulations 
+• 
+Radiation Protection Regulations 
+• 
+Nuclear Security Regulations 
+• 
+CNSC regulatory documents: 
+• 
+REGDOC-2.5.2, Design of Reactor Facilities: Nuclear Power Plants 
+• 
+RD-367, Design of Small Reactors 
+• 
+REGDOC-2.4.1, Deterministic Safety Analysis 
+• 
+REGDOC-2.4.2, Probabilistic Safety Assessment (PSA) for Nuclear Power Plants 
+• 
+G-129, Keeping Radiation Exposures and Doses “As Low As Reasonably Achievable 
+(ALARA)” 
+• 
+REGDOC-2.3.2, Accident Management, Version 2  
+• 
+G-219, Decommissioning Planning for Licensed Activities  
+• 
+CSA Group and other national standards: 
+• 
+CSA N285.0-08/N285.6 Series-08, General requirements for pressure-retaining systems 
+and components in CANDU nuclear power plants / Material Standards for reactor 
+components for CANDU nuclear power plants 
+• 
+CSA N287.1-14 (2014), General requirements for concrete containment structures for 
+nuclear power plants 
+• 
+CSA N293-12, Fire protection for nuclear power plants 
+• 
+CSA N286-12, Management system requirements for nuclear facilities 
+• 
+CSA N289.1, General requirements for seismic design and qualification of CANDU 
+nuclear power plants 
+• 
+NBCC 53301S, The National Building Code of Canada 
+• 
+NBCC 47667, The National Fire Code of Canada 
+The vendor may propose the use of alternate codes and standards; however, it must provide 
+information that outlines the basis of how the alternate standards are broadly equivalent to 
+Canadian codes and standards. This gap analysis is integral to the vendor demonstrating its 
+understanding of Canadian requirements. 
+Initial consideration is also given to the extent to which generic or outstanding safety issues have 
+been resolved, and to whether the knowledge base for new or innovative features in the design 
+has been established. 
+4.2.3 
+Project management information 
+Phase 1 activities are captured in an overall vendor design review project plan, which falls under 
+the service agreement.  
+A Phase 1 vendor design review typically takes eight months to one year to complete, in a time 
+frame agreed to by both the vendor and CNSC. The estimated effort for this review phase is 
+approximately 5,000 hours; however, additional effort may be required depending on how well 
+novel designs or approaches are supported, or if the vendor requests that additional review focus 
+areas be covered in the service agreement. 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+9 
+ 
+4.2.4 
+Project deliverables 
+At the end of the review period, the CNSC will deliver a Phase 1 summary report to the vendor, 
+containing findings for each review focus area and the bases for those findings. 
+For any focus areas where the review indicates the need for additional work by the vendor to 
+demonstrate intent to meet the requirements of REGDOC-2.5.2 or RD-367, the CNSC will issue a 
+statement identifying any gaps. The vendor is responsible for identifying how it will address any 
+gaps. 
+The Phase 1 report is treated as commercially sensitive information, and is not made available to 
+the public. However, as part of the Phase 1 report, the CNSC provides an executive summary, 
+which is posted on its website, to communicate the high-level results of the review to the public 
+and other stakeholders. 
+4.3 
+Phase 2 of the vendor design review 
+A vendor can initiate a Phase 2 review once the design’s basic engineering program is either well 
+under way or completed. The results of a Phase 2 review assist the vendor’s development of a 
+preliminary safety analysis report, as part of the preparations in support of an applicant for an 
+eventual (site-specific) application for a licence to construct. 
+This phase focuses on identifying if any potential fundamental barriers to licensing exist or are 
+emerging with respect to the reactor design. Phase 2 serves to give the CNSC a significant level 
+of assurance that the vendor has taken into account CNSC design requirements. Consideration is 
+also given to the extent to which generic or outstanding safety issues have been resolved. In 
+addition, CNSC staff conduct an audit of the design process, to verify that it has been 
+implemented correctly and in accordance with the vendor’s policies and procedures.  
+For the Phase 2 review, particular attention is paid to the review focus areas where there are new 
+design features or approaches used in the design, to ensure that the vendor has performed or 
+planned testing and analysis work to support the adequacy of the design.  
+In Phase 2 the vendor is also expected to provide follow-up information to demonstrate how it is 
+resolving any issues identified during Phase 1. 
+4.3.1 
+Phase 2 focus areas and information required from the vendor 
+The Phase 2 review also uses the 19 review focus areas; however, more detailed information is 
+required for each of the focus areas to demonstrate that the reactor design and supporting analyses 
+meet the Phase 2 objectives, namely that the vendor’s design and safety activities are meeting 
+Canadian requirements. 
+4.3.2 
+Review criteria 
+The review criteria used for Phase 2 remain the same as those used in Phase 1. However, this 
+phase goes into further detail, with a focus on identifying if any potential fundamental barriers to 
+licensing exist or are emerging with respect to the reactor design. 
+4.3.3 
+Project management information 
+Phase 2 activities are captured in an overall vendor design review project plan which falls under 
+the service agreement.  
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+10 
+ 
+A Phase 2 vendor design review typically takes 12 to 18 months to complete, along a time frame 
+agreed to by both the vendor and CNSC. The estimated effort for the review is 9,500 hours, but 
+additional effort may be required, depending on how well novel designs or approaches are 
+supported, or if the vendor requests that additional topics be covered in the service agreement. 
+4.3.4 
+Project deliverables 
+At the end of the Phase 2 review period, the CNSC delivers a Phase 2 summary report to the 
+vendor that contains findings for each review focus areas and the bases for those findings.  
+For any focus areas that require the vendor to perform additional work to demonstrate the design 
+will meet CNSC design requirements, the CNSC will issue the following statement. 
+“This statement is subject to the successful completion of [name of vendor and reactor]’s 
+planned activities, in particular those related to: 
+[list of review focus areas]” 
+The Phase 2 report is treated as commercially sensitive information, and is not made available to 
+the public by the CNSC. However, the CNSC provides a Phase 2 report executive summary, 
+which is posted on its website, to communicate the high-level results of the review to the public 
+and other stakeholders. 
+4.4 
+Phase 3 of the vendor design review – Pre-construction follow-up 
+Phase 3 is initiated by a vendor who has already completed Phase 1 and 2. Phase 3 should not be 
+initiated by a vendor until the design’s (non-site-specific) detailed engineering program is under 
+way. This generally occurs when the vendor is supporting a licensee who is preparing an 
+application for a licence to construct.  
+In this phase, the vendor may choose to follow up on one or more focus areas covered in Phase 1 
+and 2 against CNSC requirements pertaining to a licence to construct. The vendor may also seek 
+to confirm whether more specific aspects of the design and related activities will meet the design 
+and safety analysis criteria contained in: 
+• 
+REGDOC-2.5.2, Design of Reactor Facilities: Nuclear Power Plants, or RD-367, Design of 
+Small Reactor Facilities, as applicable 
+• 
+REGDOC-2.4.1, Deterministic Safety Analysis, as applicable 
+4.4.1 
+Focus areas and information required from the vendor 
+For Phase 3, the vendor supplies any additional information necessary for the follow-up 
+discussions to proceed. This information, targeting specific focus areas, is agreed upon between 
+both parties before Phase 3 work begins. 
+4.4.2 
+Review criteria 
+Phase 3 review criteria are found in CNSC documents REGDOC-2.5.2, RD-367 and 
+REGDOC-2.4.1. 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+11 
+ 
+4.4.3 
+Project management information 
+Phase 3 activities are generally agreed upon by both parties at the end of Phase 2, and captured in 
+an amendment to the overall vendor design review project plan. At this time, the service 
+agreement is also amended to add the additional scope of work, timelines and budget. 
+Phase 3 vendor design reviews vary in scope and depth from vendor to vendor. The time frame 
+for a Phase 3 review is tailored to the vendor on a case-by-case basis. The review goes into 
+considerably more depth (in line with the level of review performed during a construction licence 
+review) the vendor should be aware that Phase 3 review may be a multi-year exercise, with a cost 
+commensurate with the scope and depth of review. 
+4.4.4 
+Project deliverables 
+At the end of the Phase 3 review period, the CNSC delivers a Phase 3 summary report to the 
+vendor. The report contains either a summary of discussions or any additional findings for each 
+focus area, along with the bases for those findings. 
+The Phase 3 report is treated as commercially sensitive information, and is not made available to 
+the public. As part of the Phase 3 report, the CNSC provides an executive summary, which is 
+posted on its website, to communicate the results to the public and other stakeholders. 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+12 
+ 
+Appendix A: Focus Review Areas 
+The following table describes the 19 review focus areas used in the assessment of a vendor’s reactor 
+design. These focus areas are not all-inclusive of a full design review, but are representative of key areas 
+of importance to a vendor in a future application to construct a nuclear reactor facility. The scope and 
+objectives listed are identical for both Phase 1 and Phase 2; however, the Phase 2 review goes into 
+considerably more depth, in order to confirm that the vendor is applying the design intent shown in 
+Phase 1. 
+Focus area 
+Objectives and review scope 
+1 
+General plant 
+description, defence in 
+depth, safety goals and 
+objectives, dose 
+acceptance criteria  
+Objectives 
+• 
+To understand the overall layout of the reactor and general operation of 
+key systems important to safety 
+• 
+To determine, with reasonable confidence, if the provisions made in 
+the design are meeting CNSC expectations and regulatory 
+requirements as they pertain to defence in depth, safety goals and 
+objectives, and dose acceptance criteria 
+Review scope 
+• 
+General reactor design description and layout (operation of key systems 
+important to safety) 
+• 
+How defence-in-depth principles are being applied in the design such 
+that safety objectives and goals (dose acceptance criteria, and safety 
+goals) will be met in the design for all plant states from normal 
+operation to beyond-design-basis accidents (BDBAs) 
+2 
+Classification of 
+structures systems, and 
+components (SSCs) 
+Objectives 
+• 
+To determine, with reasonable confidence, if the provisions made in the 
+design, as it is evolving, are meeting CNSC expectations and regulatory 
+requirements as they pertain to safety classification of SSCs and 
+requirements for other specific classifications (e.g., seismic and 
+environmental qualification) 
+Review scope 
+• 
+Safety classification principles, approach and acceptance criteria 
+• 
+How safety classification is tied to codes and standards (e.g. pressure 
+boundary, seismic, etc.) 
+• 
+Review of safety classification of example SSCs  
+3 
+Reactor core nuclear 
+design 
+Objectives 
+• 
+To confirm that the vendor understands CNSC expectations and 
+regulatory requirements as they pertain to reactor core nuclear design 
+• 
+To confirm that the design, as it is evolving, is meeting CNSC 
+expectations for reactor core nuclear design  
+• 
+To confirm that the vendor has, with a reasonable level of assurance, 
+demonstrated that the safety principles, such as inherent safety features, 
+single failure criterion and defence in depth, would be met by the core 
+design  
+Review scope 
+• 
+Description of the physical core design (geometry, materials, etc.)  
+• 
+Models and calculation methods used including uncertainties analysis 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+13 
+ 
+Focus area 
+Objectives and review scope 
+• 
+Tools used for physics design and analysis including toolset validation 
+and verification to support the design  
+• 
+Operation limits and conditions for core, core instrumentation and 
+control. and nuclear fuel 
+• 
+Physics and reactivity coefficients including effects or power coefficient 
+of reactivity  
+• 
+Core response in accident analysis 
+• 
+Power control (to ensure compliance with the design requirements, 
+specifically on linear element rating), including aspects of loss of 
+reactivity control 
+• 
+Support for research and development programs 
+4 
+Fuel design and 
+qualification 
+Objectives 
+• 
+To confirm that the vendor understands CNSC expectations and 
+regulatory requirements as they pertain to fuel design 
+• 
+To confirm that fuel design is addressing CNSC expectations related to 
+fuel design including fuel performance, operation/safety limits, fuel 
+handling and storage aspects 
+Review scope 
+• 
+Mechanical and thermal hydraulic design of fuel elements and assemblies 
+(for example, geometry, materials) 
+• 
+Overall programs of the qualification of the fuel design for normal 
+operations and postulated accidents 
+• 
+Manufacturing aspects of the fuel design, including material properties 
+• 
+The database in support of normal operation and postulated accidents 
+(including assessments for the qualification of fission gas models and 
+plenum volume design)  
+• 
+Design tools (for example, computer codes) used, including verification 
+and validation 
+• 
+Uncertainty analysis 
+• 
+Safety limits for fuel 
+• 
+Analyses of fuel responses to accidents 
+• 
+Fuel interaction with other reactor components for all plant states (from 
+normal operation to BDBAs) and the reactor coolant (e.g., chemistry) 
+• 
+Operation and safety limits and conditions for fuel  
+• 
+High-level description of fuel handling aspects 
+• 
+System(s) for detecting defect fuel 
+• 
+Storage capacity for fresh and irradiated fuel  
+• 
+Supporting research and development programs 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+14 
+ 
+Focus area 
+Objectives and review scope 
+5 
+Control system and 
+facilities: 
+a) main control systems 
+b) instrumentation and 
+control 
+c) control facilities 
+d) emergency power 
+system(s) 
+Objectives 
+• 
+To confirm that the vendor understands CNSC expectations and 
+regulatory requirements as they pertain to systems to control the operation 
+of structures systems and components important to safety 
+• 
+To confirm the design, as it is evolving, is meeting CNSC expectations 
+for instrumentation and control systems and their deployment 
+Review scope 
+• 
+Provisions made in design for overall reactor control including: 
+o actual design details and descriptions of control systems that will 
+monitor and control structures systems and components important 
+to safety 
+o vendor’s description of interactions with other control systems, 
+electrical systems and supporting systems (e.g., instrument air, 
+HVAC) 
+• 
+Description of main and auxiliary control facilities, including emergency 
+support centre(s)  
+• 
+Description how control systems meet requirements of levels 1 and 2 of 
+defence in depth 
+• 
+Description of how control system design is maintaining functional 
+separation between process systems and safety systems and ensuring 
+sufficient redundancy and diversity 
+• 
+Description of provisions made in design for reactor regulation (control of 
+reactor) 
+• 
+Capability to mitigate anticipated operational occurrences. and those not 
+Mitigated by the reactor control/protection system 
+• 
+design verification and qualification under normal operation and 
+anticipated operational occurrences conditions 
+• 
+Operation limits and conditions in accordance with reactor control/protectio  
+system failure 
+6 
+Means of reactor 
+shutdown 
+Objectives 
+• 
+To confirm that the vendor understands CNSC expectations and 
+regulatory requirements as they pertain to the provisions made in the 
+design of “shutdown means” 
+• 
+To confirm that the design, as it is evolving, is meeting CNSC 
+expectations for reactor shutdown means 
+Review scope 
+• 
+Design and description of methods to shut down the reactor, including: 
+o shutdown logic 
+o software and hardware 
+o trip parameters and trip set points 
+o actuation provisions 
+o materials 
+o physics characteristics of “poison” materials 
+o independence and reliability 
+o physical layout 
+o human factors aspects or interaction with operator(s) in the main 
+control room as well as secondary control facilities 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+15 
+ 
+Focus area 
+Objectives and review scope 
+• 
+Physics aspects like time effectiveness, reactivity worth, single failure 
+criterion including failure of one the most “heavy” element, short and 
+long term effectiveness 
+• 
+The design’s sufficiency to cover level 3 defence in depth 
+• 
+The dispositioning of trip coverage, including how trip set points are 
+utilized and the rationale for the number of trip parameters and support 
+systems/parameters 
+• 
+The use of redundancy, diversity and reliability to ensure means of 
+shutdown is always available when needed 
+• 
+Description of the various guaranteed shutdown states to be used by the 
+design 
+• 
+How separation will be maintained between reactor control/protection 
+systems and other protection, control and regulating systems 
+• 
+Interface between the means of shutdown and other reactor components 
+such as the reactor coolant and moderator 
+• 
+The effects of chemistry (if applicable) 
+• 
+Manufacturing aspects of devices that will be used for shutdown 
+7 
+Emergency core cooling 
+and emergency heat 
+removal systems 
+Objectives 
+• 
+To confirm that the vendor understands CNSC expectations and 
+regulatory requirements as they pertain to emergency core cooling and 
+emergency heat removal systems 
+• 
+To confirm that the design, as it is evolving, is meeting CNSC 
+expectations for emergency core cooling system(s) and emergency heat 
+removal systems 
+Review scope 
+For emergency core cooling systems (ECC), a description of: 
+• 
+The basic design of emergency core cooling system(s) including how this 
+system will be a barrier to core damage 
+• 
+Support and interfacing systems to the ECC system(s) 
+• 
+ECC’s chief function and the most challenging event 
+• 
+How design requirements intend to consider proven designs, operating 
+experience and plant layout factors 
+This review also examines codes and standards that the vendor proposes to 
+use for the design of ECC systems. 
+For emergency heat removal systems, a description of: 
+• 
+The basic design of emergency heat removal systems including how these 
+systems will be a barrier to core or pressure boundary damage 
+• 
+Support and interfacing systems to the emergency heat removal systems 
+• 
+Each emergency heat removal system’s chief function  
+• 
+Analysis of the most challenging events these systems will mitigate 
+against 
+• 
+How design requirements intend to consider proven designs, operating 
+experience and reactor layout factors 
+ 
+This review also examines codes and standards that the vendor proposes to 
+use for the design of emergency heat removal systems 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+16 
+ 
+Focus area 
+Objectives and review scope 
+8 
+Containment 
+/confinement and safety-
+important civil structures 
+Objectives 
+• 
+To confirm that the vendor has understood and interpreted correctly the 
+CNSC’s expectations for design of containment/confinement and 
+mitigating/complementary features that cover the full spectrum of reactor 
+operating conditions and accident conditions. This includes beyond-
+design-basis accidents and severe accidents 
+• 
+To confirm that the design, as it is evolving, is meeting CNSC 
+expectations for the performance and design of the 
+containment/confinement structures 
+• 
+To assess the scope and completeness of containment design compliance 
+with CNSC regulatory requirements (REGDOC-2.5.2 or RD-367) 
+Review scope 
+• 
+description of containment/confinement structures & systems, including 
+descriptions of: 
+o system actuation (trip parameters by list and numbers) 
+o instrumentation and control logic (and related software) 
+o major equipment 
+o trip parameters 
+o materials 
+o physical and chemical properties of cooling substances (e.g., light 
+water with some quality, demineralised, raw) 
+o redundancy 
+o independence and separation 
+o reliability 
+o physical layout 
+o human factors aspects or interaction with operator(s) in main 
+control room as well as secondary control facilities 
+• 
+The requirements for containment / confinement structures including 
+external hazards (e.g., seismic and environmental qualification) 
+• 
+The design and analysis tools including tool verification and 
+validation and uncertainty analysis. this should include tools and 
+methods to perform deterministic and probabilistic safety analyses of 
+severe accidents 
+• 
+The methods used to prevent/mitigate containment/confinement 
+bypass 
+• 
+Means of control of radiation release 
+• 
+The description of severe accident mitigation and management 
+program 
+• 
+The description of complementary design features 
+• 
+Review of other civil structures important to safety: 
+o purpose, functional and structural characteristics, safety class 
+o safety and safety support systems 
+o radioactive and dangerous substances 
+o other systems 
+o seismic and environmental  qualification 
+o external hazards robustness 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+17 
+ 
+Focus area 
+Objectives and review scope 
+9 
+Beyond design  
+basis accidents (BDBAs) 
+and severe accidents 
+(SA)  
+- prevention and 
+mitigation 
+Objectives 
+• 
+To confirm that the vendor understands CNSC expectations for the 
+provision of severe accident prevention and mitigation in the design 
+• 
+To confirm that the design, as it is evolving, is meeting CNSC 
+expectations for provisions for severe accident prevention and 
+mitigation 
+• 
+To confirm containment provisions for severe accidents are 
+accounted for with reasonable assurance 
+Review scope 
+• 
+The criteria for selecting the BDBAs and severe accident scenarios.  
+• 
+Description of analysis (computer codes) tools used, including 
+verification and validation  
+• 
+Deterministic analyses for few (2–3) typical severe accident 
+scenarios and discussion of severe accident progression  
+• 
+Descriptions of:  
+o reactor systems and equipment that will be used for mitigation of 
+severe accidents and the levels of confidence that such equipment 
+will perform their functions 
+o any complementary design features and of the barriers to arrest 
+progression of a severe accident  
+o potential challenges to containment integrity (such as steam 
+explosions, MCCI, burns of combustible gases, over-
+pressurization) and of the containment design features to ensure 
+that containment meets performance criteria in REGDOC-2.5.2 
+during severe accidents  
+o instrumentation that will be used for monitoring of radiation and 
+safety critical parameters and for severe accident management 
+o measures that will be in place to avoid re-criticality of core 
+materials 
+• 
+Provisions for radiological shielding  
+• 
+Completed, ongoing and future research and development efforts in 
+this focus area including timelines for completion and a description 
+of experimental facilities, where applicable 
+10 
+Safety analysis:  
+• 
+deterministic safety 
+analysis 
+• 
+probabilistic safety 
+analysis 
+• 
+internal and external 
+hazards 
+Objectives 
+• 
+To confirm that the vendor understands CNSC expectations and 
+regulatory requirements as they pertain to the safety analysis 
+submitted for design 
+• 
+To confirm that the design, as it is evolving, is meeting CNSC 
+expectations for probabilistic safety assessment (levels 1 and 2) and 
+deterministic safety analysis 
+Review scope 
+• 
+The process for deterministic safety analysis and progress for the 
+design 
+• 
+The level 1 and 2 probabilistic safety analysis  
+• 
+The process for hazards analysis (e.g., accounting of internal 
+flooding and fire in probabilistic safety analysis, and seismic and 
+other external hazards, including tornado protection), as well as 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+18 
+ 
+Focus area 
+Objectives and review scope 
+progress and results for the design 
+11 
+Pressure boundary 
+design  
+Objectives 
+• 
+To confirm that the vendor understands CNSC expectations and 
+regulatory requirements as they pertain to the pressure boundary 
+design 
+• 
+To confirm that the design, as it is evolving, is meeting CNSC 
+expectations for pressure boundary design 
+Review scope 
+• 
+General design approach to pressure boundary design 
+• 
+Pressure boundary design for reactor coolant system and 
+safety/safety support systems 
+• 
+General approach to overpressure protection, including systems 
+containing radioactivity 
+• 
+Reactor coolant system overpressure protection 
+• 
+Accounting of dependent pressure boundary failure (e.g., wiping 
+effect) 
+12 
+Fire protection 
+Objectives 
+• 
+To confirm that the vendor understands CNSC expectations and 
+regulatory requirements as they pertain to the design for fire protection 
+• 
+To confirm that the design, as it is evolving, is meeting CNSC 
+expectations for design for fire protection 
+Review scope 
+• 
+General design approach and strategy for fire protection, including design 
+requirements for such things as fire protection systems (including 
+detection and suppression) 
+• 
+Review of structural aspects of fire protection, such as fire resistance of 
+walls and doors for fire compartments containing safety and safety-
+important systems 
+• 
+Description of the fire protection measures being implemented inside 
+confinement and containment 
+• 
+Strategy and measures for alerting staff of fire events or conditions that 
+may potentially trigger a fire event (e.g., annunciations, high-temperature 
+alarms for potential ignition sources) 
+• 
+Strategy and measures for control of fire protection systems 
+• 
+How human factors are considered in design for fire protection 
+• 
+Description of how fire protection systems interface with other systems, 
+including inter-unit interfaces, where common systems are shared 
+13 
+Radiation protection 
+Objectives 
+• 
+To confirm that the vendor understands CNSC expectations and 
+regulatory requirements as they pertain to the design for radiation 
+protection 
+• 
+To confirm that the design, as it is evolving, is meeting CNSC 
+expectations for provisions for radiation protection 
+Review scope 
+• 
+The radiation protection objectives, design expectations and design 
+requirements for the design 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+19 
+ 
+Focus area 
+Objectives and review scope 
+• 
+Description of how the “as low as reasonably achievable” (ALARA) 
+principle is being implemented in design, including description of 
+radiological zones and proposed control of personnel access to different 
+zones 
+• 
+Dose description for different groups, both onsite and offsite, for a 
+generic reactor design 
+• 
+Radiation monitoring process and instrumentation proposed for normal 
+operation, AOOs and DBAs 
+• 
+General description of radiation protection provisions in the design of the 
+facility to be used for radioactive waste handling/processing/storage 
+(taking into account anticipated quantities of radioactive waste (annual, 
+lifetime) 
+• 
+Descriptions of evacuation routes/plans for plant workers 
+14 
+Out-of-core criticality 
+Objectives 
+• 
+To confirm that the vendor understands CNSC expectations and 
+regulatory requirements as they pertain to the design for prevention of 
+out-of-core criticality 
+• 
+To confirm that the design, as it is evolving, is meeting CNSC 
+expectations for provisions for prevention of out-of-core criticality 
+Review scope 
+• 
+The objectives, design expectations and design requirements for the 
+prevention of out-of-core criticality 
+• 
+Description of provisions for prevention of out-of-core criticality in the 
+design, including spent fuel storage, storage of fresh fuel, in-plant and ex-
+plant transportation of fuel 
+15 
+Robustness, safeguards 
+and security 
+Objectives 
+• 
+To confirm that the vendor understands CNSC expectations and 
+regulatory requirements as they pertain to the provision of robustness, 
+security and safeguards in the design 
+• 
+To confirm that the design, as it is evolving, is meeting CNSC 
+expectations for the provision of robustness, security and safeguards in 
+the design 
+Review scope 
+• 
+The objectives, design expectations and design requirements for building 
+and system robustness against external events or threats, including control 
+of personnel access to structures, systems and components (particularly 
+control rooms) 
+• 
+The objectives, design expectations and design requirements for security 
+and safeguards, including provisions for cyber-security 
+16 
+Vendor research and 
+development program 
+Objectives 
+• 
+To assess the vendor’s overall research and development (R&D) program 
+in terms of: 
+o program governance and controls 
+o overall program scope and depth (particularly in areas of novel 
+design) 
+o how well the program will support the design’s safety case, 
+should it be selected for construction by a licence applicant 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+20 
+ 
+Focus area 
+Objectives and review scope 
+o if design gaps will be resolved in a timely manner, in order to 
+meet regulatory requirements, should the design be selected for 
+construction (e.g., clarify “grey” design areas, decrease 
+uncertainties) 
+o how continuing R&D efforts would support licensees, once the 
+design is built and is being operated 
+Review scope 
+• 
+The overall R&D program 
+• 
+High-level description of all R&D underpinning the design, including any 
+research facilities that the research and development is/will be dependent 
+on (including R&D facilities external to the vendor) 
+• 
+Testing and qualification programs in support of the design 
+• 
+Description of any novel design tools (such as computer codes), including 
+verification and validation and uncertainties assessments 
+17 
+Management system of 
+design process and 
+quality assurance in 
+design and safety 
+analysis  
+Objectives 
+• 
+To confirm that the vendor understands CNSC expectations and 
+regulatory requirements as they pertain to the design control measures 
+applied to the reactor design and safety analysis 
+• 
+To confirm that the design is evolving under controlled design measures 
+that includes a confirmation of the adequacy of the vendor’s design 
+control measures are consistent with CNSC expectations (CNSC Phase 2 
+audit) 
+Review scope 
+• 
+The description of how the vendor conducts design management 
+(including the integration of R&D results into the design) 
+• 
+The design control measures, and whether they are consistent with  the 
+requirements of CSA N286-12, Management system requirements for 
+nuclear facilities, and REGDOC-2.5.2, Design of Reactor Facilities: 
+Nuclear Power Plants 
+• 
+The process for incorporating into the design the capability to 
+manufacture, construct, operate and maintain the reactor 
+• 
+The process for incorporating industry operating experience into the 
+design 
+• 
+The process for establishing and maintaining configuration management 
+including information control and change control 
+18 
+Human factors 
+Objectives 
+• 
+To confirm that the vendor understands CNSC expectations and 
+regulatory requirements as they pertain to the provision of human factors 
+in the design 
+• 
+To confirm that the design, as it is evolving, is meeting CNSC 
+expectations for the provision of human factors in the design, and 
+includes an examination of how human factors aspects of the design are in 
+conformance with CNSC design expectations 
+Review scope 
+• 
+The general principles regarding implementation of human factors in the 
+design 
+• 
+The human factors engineering program, and how it is integrated into 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+21 
+ 
+Focus area 
+Objectives and review scope 
+overall design activities 
+• 
+How human factors considerations are incorporated into key operator and 
+maintainer interfaces including: 
+o the plant main control room(s) 
+o secondary control area(s) 
+o emergency support centre 
+o field interfaces important to safety 
+19 
+Incorporation of 
+decommissioning in 
+design considerations 
+Objectives 
+• 
+To confirm that the vendor understands CNSC expectations and 
+regulatory requirements as they pertain to the design provisions 
+concerning future decommissioning at the end of the reactor’s service life  
+• 
+To confirm that the design, as it is evolving, is considering future 
+decommissioning activities in the design, in order to minimize worker 
+dose, effects on the environment from decommissioning activities and 
+radiological waste 
+Review scope 
+• 
+The general principles regarding implementation of decommissioning 
+consideration early in the design (conducted against OECD document 
+NEA-6833, Decommissioning Considerations for New Nuclear Power 
+Plants) 
+• 
+The high-level description of how the design would be decommissioned 
+at end of life 
+• 
+A description of proposed decommissioning techniques and end state for 
+major components, particularly associated with the reactor systems and 
+interfacing systems that could become contaminated over the life of the 
+reactor facility 
+A general description of amount of radioactive waste anticipated as a result 
+of decommissioning including the mid-life refurbishment or planned 
+replacement of major structures, systems and components during the 
+reactor’s service life 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+22 
+ 
+Focus area 
+Objectives and review scope 
+ 
+• 
+ 
+ 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+23 
+ 
+Glossary 
+ 
+accident 
+Any unintended event (including operating errors, equipment failures or other mishaps), the consequences 
+or potential consequences of which are not negligible from the point of view of protection or safety. 
+For the purposes of this document, accidents include design-basis accidents and beyond-design-basis 
+accidents. Accidents exclude anticipated operational occurrences, which have negligible consequences 
+from the perspective of protection or safety. 
+accident conditions 
+Deviations from normal operations more severe than anticipated operational occurrences, including 
+design-basis accidents and beyond-design-basis accidents. 
+accident management 
+The taking of a set of actions during the evolution of a beyond-design-basis accident to: 
+• 
+prevent the escalation of the event into a severe accident 
+• 
+mitigate the consequences of a severe accident 
+• 
+achieve a long term safe stable state 
+As Low As Reasonably Achievable (ALARA) – social and economic factors taken into account 
+A fundamental principle of radiation protection whereby the protective measures implemented to 
+minimize radiation exposure are optimized with respect to the level of risk reduction and the cost of 
+implementation.  
+Beyond-design-basis accident (BDBA) 
+Accident conditions less frequent and more severe than a design-basis accident. A BDBA may or may not 
+involve core degradation. 
+design 
+In context of a review of a vendor’s reactor design, the overall planning and philosophies that go into 
+ensuring that every aspect of the physical design will consider safety, security and safeguards under all 
+scenarios it may encounter during its lifecycle. 
+design-basis accident 
+Accident conditions for which a reactor facility is designed according to established design criteria, and 
+for which damage to the fuel and the release of radioactive material are kept within regulated limits. 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+24 
+ 
+mitigation 
+Measures aimed at limiting the scale of core damage, preventing interaction of the molten material with 
+containment structures, maintaining containment integrity, and minimizing off-site releases, in the event 
+of an accident. 
+moderator 
+A material that reduces neutron energy by scattering without appreciable capture. Materials of prime 
+concern are those containing light nuclei with large scattering cross sections and relatively low absorption 
+cross sections. 
+normal operation 
+Operation within specified operational limits and conditions, including start-up, power operation, 
+shutdown, maintenance, testing and refuelling. 
+operational limits and conditions 
+A set of rules setting forth parameter limits and the functional capability and performance levels of 
+equipment and personnel, which are approved by the regulatory body for safe operation of an authorized 
+facility. This set of limits and conditions is monitored by or on behalf of the operator and can be 
+controlled by the operator. 
+safety case 
+An integrated collection of arguments and evidence to demonstrate the safety of a facility. A safety case 
+will normally include a safety assessment, but could also typically include information (including 
+supporting evidence and reasoning) on the robustness and reliability of the safety assessment and the 
+assumptions made therein. 
+safety function 
+A specific purpose that must be accomplished by a structure, system or component for safety, including 
+those necessary to prevent accident conditions and to mitigate the consequences of accident conditions. 
+safety system 
+Systems provided to ensure the safe shutdown of the reactor or the residual heat removal from the core, or 
+to limit the consequences of anticipated operational occurrences and design-basis accidents. 
+severe accident 
+Accident conditions more severe than a design-basis accident and involving significant core degradation. 
+severe accident management (SAM) program 
+A program that establishes both of the following: 
+• 
+the actions to be taken to prevent severe damage to the reactor core, to mitigate the consequences of 
+the core damage should it occur, and to achieve a safe, stable state of the reactor over the long term 
+• 
+the preparatory measures necessary for implementation of such actions 
+shutdown 
+A subcritical reactor state with a defined margin to prevent a return to criticality without external actions. 
+single failure 
+A failure that results in the loss of capability of a system or component to perform its intended function(s) 
+and any consequential failure(s) that result from it. 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+25 
+ 
+single failure criterion 
+A criterion (or requirement) applied to a system such that it will be capable of performing its task in the 
+presence of any single failure. 
+smart buyer (intelligent customer) 
+An organization that has a clear understanding and knowledge of the product or service being supplied. In 
+the context of nuclear safety, the organization knows what is required, fully understands the need for a 
+vendor’s services, specifies requirements, supervises the work and technically reviews the output before, 
+during and after implementation. 
+ 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+26 
+ 
+References 
+1. 
+Canadian Nuclear Safety Commission (CNSC), REGDOC-2.5.2, Design of Reactor Facilities: 
+Nuclear Power Plants, 2014. 
+2. 
+CNSC, RD-367, Design of Small Reactors, 2011. 
+3. 
+CNSC, RD/GD-369, Licence Application Guide, Licence to Construct a Nuclear Power Plant, 2011. 
+4. 
+CNSC, REGDOC-2.4.1, Deterministic Safety Analysis, 2014. 
+5. 
+CNSC, REGDOC-2.4.2, Probabilistic Safety Assessment (PSA) for Nuclear Power Plants, 2005. 
+6. 
+CNSC, G-129, Keeping Radiation Exposures and Doses “As Low As Reasonably Achievable 
+(ALARA)”, 2004. 
+7. 
+CNSC, REGDOC-2.3.2, Accident Management, Version 2, 2015. 
+8. 
+CNSC, G-219, Decommissioning Planning for Licensed Activities, 2000. 
+9. 
+CSA Group, CSA N285.08/N285.6 Series-08, General requirements for pressure-retaining systems 
+and components in CANDU nuclear power plants / Material Standards for reactor components for 
+CANDU nuclear power plants, 2008. 
+10. 
+CSA Group, CSA N287.1-14 (2014), General requirements for concrete containment structures for 
+nuclear power plants, 2014. 
+11. 
+CSA Group, CSA N293-12, Fire protection for nuclear power plants. 
+12. 
+CSA Group, CSA N286-12, Management system requirements for nuclear facilities. 
+13. 
+CSA Group, CSA N289.1, General requirements for seismic design and qualification of CANDU 
+nuclear power plants. 
+14. 
+National Research Council, National Model Construction Codes, NRCC 53301S, The National 
+Building Code of Canada, 2010. 
+15. 
+National Research Council, National Model Construction Codes, NRCC 47667, The National Fire 
+Code of Canada, 2010. 
+ 
+November 2018 
+REGDOC-3.5.4, Pre-Licensing Review of a Vendor’s Reactor Design 
+ 
+27 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the Canadian Nuclear Safety 
+Commission (CNSC). In addition to the Nuclear Safety and Control Act and associated regulations, these 
+facilities and activities may also be required to comply with other regulatory instruments such as 
+regulatory documents or standards. 
+Effective April 2013, the CNSC’s catalogue of existing and planned regulatory documents has been 
+organized under three key categories and twenty-five series, as set out below. Regulatory documents 
+produced by the CNSC fall under one of the following series: 
+1.0  
+Regulated facilities and activities 
+Series 1.1  
+Reactor facilities 
+1.2  
+Class IB facilities 
+1.3  
+Uranium mines and mills 
+1.4  
+Class II facilities 
+1.5  
+Certification of prescribed equipment 
+1.6  
+Nuclear substances and radiation devices 
+2.0  
+Safety and control areas 
+Series 2.1  
+Management system 
+2.2  
+Human performance management 
+2.3  
+Operating performance 
+2.4  
+Safety analysis 
+2.5  
+Physical design 
+2.6  
+Fitness for service 
+2.7  
+Radiation protection 
+2.8  
+Conventional health and safety 
+2.9  
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0  
+Other regulatory areas  
+Series 3.1  
+Reporting requirements 
+3.2  
+Public and Aboriginal engagement 
+3.3  
+Financial guarantees 
+3.4  
+Commission proceedings 
+3.5  
+CNSC processes and practices 
+3.6  
+Glossary of CNSC terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. For the latest list of regulatory 
+documents, visit the CNSC’s website. 
+ 

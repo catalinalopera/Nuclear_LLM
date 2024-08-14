@@ -1,0 +1,1796 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Waste Management 
+Waste Management, Volume III: 
+Safety Case for the Disposal of 
+Radioactive Waste  
+ 
+ 
+REGDOC-2.11.1, Waste Management, Volume III, Version 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+January 2021
+ 
+ 
+ 
+ 
+ 
+ 
+Waste Management, Volume III: Safety Case for the Disposal of Radioactive Waste, 
+Version 2 
+Regulatory document REGDOC-2.11.1, Volume III, Version 2 
+© Canadian Nuclear Safety Commission (CNSC) 20XX 
+Cat. No. CC172-190/3-2021E-PDF 
+ISBN 978-0-660-37032-3 
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the CNSC. 
+Également publié en français sous le titre : Gestion des déchets, tome III : Dossier de sûreté pour le 
+stockage définitif des déchets radioactifs, version 2 
+Document availability 
+This document can be viewed on the CNSC website. To request a copy of the document in English or 
+French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, ON  K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Fax: 613-995-5086 
+Email: cnsc.info.ccsn@canada.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+LinkedIn: linkedin.com/company/cnsc-ccsn 
+Publishing history 
+May 2018 
+ 
+Assessing the Long-Term Safety of Radioactive Waste Management, Version 1 
+January 2021 
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+ 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+ 
+ 
+i 
+Preface 
+This regulatory document is part of the CNSC’s waste management series of regulatory documents, 
+which also covers decommissioning. The full list of regulatory document series is included at the end of 
+this document and can also be found on the CNSC’s website. 
+Regulatory document REGDOC-2.11.1, Waste Management, Volume III: Safety Case for the Disposal of 
+Radioactive Waste, Version 2, provides requirements and guidance to CNSC licensees and applicants for 
+developing a safety case and supporting safety assessment for activities pertaining to a disposal facility, 
+location or site. 
+This is the second version of this document and supersedes REGDOC-2.11.1, Waste Management, 
+Volume III: Assessing the Long-Term Safety of Radioactive Waste Management, Version 1, published in 
+May 2018. 
+For information on the implementation of regulatory documents and on the graded approach, see 
+REGDOC-3.5.3, Regulatory Fundamentals. 
+The words “shall” and “must” are used to express requirements to be satisfied by the licensee or 
+licence applicant. “Should” is used to express guidance or that which is advised. “May” is used to 
+express an option or that which is advised or permissible within the limits of this regulatory document. 
+“Can” is used to express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+ 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+........................................................................................................................1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant legislation 
+............................................................................................................. 1 
+2. 
+The CNSC’s Waste Management Framework 
+................................................................2 
+3. 
+Graded Approach ..............................................................................................................2 
+4. 
+Definition of Safety Case and Safety Assessment............................................................2 
+5. 
+Role and Development of the Safety Case .......................................................................5 
+5.1 
+Role of the safety case ........................................................................................................ 5 
+5.2 
+Development of the safety case .......................................................................................... 5 
+6. 
+General Requirements for the Safety Case .....................................................................6 
+7. 
+Components of the Safety Case ........................................................................................6 
+7.1 
+Safety case context 
+.............................................................................................................. 6 
+7.2 
+Safety strategy 
+..................................................................................................................... 7 
+7.3 
+Disposal system description 
+................................................................................................ 9 
+7.4 
+Safety assessment ............................................................................................................. 10 
+7.4.1 
+Components of the safety assessment 
+.................................................................. 10 
+7.5 
+Management of uncertainties 
+............................................................................................ 11 
+7.6 
+Iteration and design optimization 
+...................................................................................... 12 
+7.7 
+Limits, controls and conditions 
+......................................................................................... 12 
+7.8 
+Monitoring and surveillance ............................................................................................. 12 
+7.9 
+Institutional controls ......................................................................................................... 12 
+7.10 
+Integration of safety arguments ........................................................................................ 13 
+7.10.1 Comparison with acceptance criteria ................................................................... 13 
+7.10.2 Complementary safety indicators ........................................................................ 14 
+7.10.3 Additional arguments (multiple lines of reasoning) ............................................ 14 
+8. 
+Post-Closure Safety Assessment .....................................................................................14 
+8.1 
+Components of the post-closure safety assessment .......................................................... 15 
+8.1.1 
+Post-closure safety assessment context 
+................................................................ 15 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+ 
+ 
+8.1.2 
+Disposal system description 
+................................................................................. 20 
+8.1.3 
+Post-closure safety assessment scenarios and time frames 
+.................................. 21 
+8.1.4 
+Development and use of assessment models ....................................................... 24 
+8.1.5 
+Interpretation of results 
+........................................................................................ 26 
+Glossary ........................................................................................................................................28 
+References 
+.....................................................................................................................................29 
+Additional Information ...............................................................................................................31 
+ 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+1 
+ 
+Safety Case for the Disposal of Radioactive Waste 
+1. 
+Introduction 
+1.1 Purpose 
+The purpose of this document is to provide requirements and guidance to licensees and applicants 
+for developing a safety case and supporting safety assessment activities pertaining to the disposal 
+of all classes of radioactive waste. 
+1.2 Scope 
+This regulatory document addresses the development of a safety case and supporting safety 
+assessment for the post-closure phase of disposal facilities, which includes locations or sites, for 
+all classes of radioactive waste. This document also applies to long-term radioactive waste 
+management facilities, locations or sites where there is no intention to retrieve the waste. Note: In 
+this regulatory document, the term “disposal facilities” also refers to disposal locations or sites, 
+which are not classified as “nuclear facilities” under the NSCA.  
+The post-closure safety case considers information from the pre-closure phase (site preparation, 
+construction, operation, decommissioning) insofar as this information impacts post-closure safety.  
+For disposal facilities that operated or that were decommissioned or closed before 2021, this 
+document is to be considered as guidance. 
+This regulatory document is complemented by other CNSC regulatory documents, such as 
+REGDOC-2.9.1, Environmental Protection: Environmental Principles, Assessments and 
+Protection Measures [1]. 
+The requirements and guidance in this regulatory document should also be adopted for the 
+disposal of uranium mine and mill waste, as applicable. The licensee must provide a justification 
+to the CNSC with respect to requirements that do not apply. Additional requirements and 
+guidance for waste management at uranium mines and mills are provided in REGDOC-2.11.1, 
+Waste Management, Volume II: Management of Uranium Mine Waste Rock and Mill Tailings [2]. 
+1.3 Relevant legislation 
+The following provisions of the Nuclear Safety and Control Act (NSCA) and its associated 
+regulations are relevant to this document: 
+ 
+section 26 of the NSCA 
+ 
+paragraphs 4(d) and 12(1)(c) of the General Nuclear Safety and Control Regulations  
+ 
+paragraphs 3(k), 4(e), 5(f), (i), (j), (k), 6(c), (h), (i), (j), 7(f), (k) and 8(a) of the Class I 
+Nuclear Facilities Regulations 
+ 
+paragraph 4(t), 5(i) and 5(k) of the Class II Nuclear Facilities and Prescribed Equipment 
+Regulations  
+ 
+section 1 of the Nuclear Substances and Radiation Devices Regulations 
+ 
+subparagraph 3(a)(viii), 3(c)(iii), 3(d)(i), 7(d) and 8(b) of the Uranium Mines and Mills 
+Regulations   
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+2 
+ 
+2. 
+The CNSC’s Waste Management Framework 
+In addition to this regulatory document, the CNSC’s regulatory framework for waste management 
+includes: 
+ 
+REGDOC-2.11, Framework for Radioactive Waste Management and Decommissioning in 
+Canada  
+ 
+REGDOC-2.11.1, Waste Management, Volume I: Management of Radioactive Waste  
+ 
+REGDOC-2.11.1, Waste Management, Volume II: Management of Uranium Mine Waste 
+Rock and Mill Tailings  
+ 
+REGDOC-2.11.2, Decommissioning 
+The following CSA standards complement the CNSC’s regulatory framework: 
+ 
+CSA N286, Management System Requirements for Nuclear Facilities 
+ 
+CSA N288.4, Environmental Monitoring Programs at Class I Nuclear Facilities and 
+Uranium Mines and Mills 
+ 
+CSA N288.5, Effluent Monitoring Programs at Class I Nuclear Facilities and Uranium 
+Mines and Mills 
+ 
+CSA N288.6, Environmental Risk Assessments at Class I Nuclear Facilities and Uranium 
+Mines and Mills 
+ 
+CSA N288.7, Groundwater Protection Programs at Class I Nuclear Facilities and Uranium 
+Mines and Mills 
+ 
+CSA N292.0, General Principles for the Management of Radioactive Waste and Irradiated 
+Fuel  
+ 
+CSA N292.1, Wet Storage of Irradiated Fuel and Other Radioactive Materials 
+ 
+CSA N292.2, Interim Dry Storage of Irradiated Fuel 
+ 
+CSA N292.3, Management of Low- and Intermediate-Level Radioactive Waste 
+ 
+CSA N292.5, Guideline for the Exemption or Clearance From Regulatory Control of 
+Materials That Contain, or Potentially Contain, Nuclear Substances 
+ 
+CSA N292.6, Long-Term Management of Radioactive Waste and Irradiated Fuel 
+ 
+CSA N294, Decommissioning of Facilities Containing Nuclear Substances 
+3. 
+Graded Approach   
+This regulatory document may be applied in a graded manner commensurate with risk. With a 
+graded approach, all requirements apply, but to varying degrees depending upon the safety 
+significance and complexity of the work being performed. The level of analysis, the depth of 
+documentation and the scope of actions necessary to comply with regulatory requirements are 
+commensurate with the nature and level of the hazards and complexity of the facility or activities, 
+and with the characteristics of the waste.  
+Further information on the graded approach can be found in REGDOC-3.5.3, Regulatory 
+Fundamentals [3]. 
+4. 
+Definition of Safety Case and Safety Assessment  
+A safety case is defined as an integrated collection of arguments and evidence to demonstrate the 
+safety of a facility and the meeting of all applicable regulatory requirements. A safety case 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+3 
+ 
+normally includes a safety assessment, but could also typically include information (such as 
+supporting evidence and reasoning) on the robustness and reliability of the safety assessment and 
+the assumptions made therein.  
+For a disposal facility, the safety case may support the decision to proceed to a specific stage of 
+development. In such instances, the safety case should acknowledge the existence of any 
+remaining uncertainties and should provide guidance for work to manage these uncertainties in 
+future development stages. 
+A safety assessment is defined as an assessment of all aspects relevant to safety of a nuclear 
+facility. It is a systematic process that includes quantitative analyses and the interpretation of the 
+results of those analyses. The safety assessment follows an iterative approach that carries on 
+throughout the design process and over the lifecycle of the facility or the activity, to ensure that 
+all the relevant safety requirements are met. Safety assessment is often used interchangeably with 
+safety analysis. 
+Figure 1 provides an outline of the components of a safety case and safety assessment. 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+4 
+ 
+Figure 1. Components of a safety case and safety assessment 
+post-closure safety assessment
+operational safety aspects
+Management system
+site and engineering aspects
+post-closure safety assessment context
+disposal system description
+post-closure safety assessment 
+scenarios and time frames
+development and use of assessment models
+interpretation of results
+institutional controls
+integration of safety arguments
+safety case context
+safety strategy
+management of uncertainties
+iteration and design optimization
+limits, controls and conditions
+monitoring and surveillance
+safety assessment
+disposal system description
+ 
+ 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+5 
+ 
+5. 
+Role and Development of the Safety Case 
+5.1 Role of the safety case 
+The safety case relates to all hazards and is the main tool used to document and demonstrate that 
+a facility will adequately protect people and the environment during its entire lifecycle (site 
+preparation, construction, operation and decommissioning) and in the post-closure period. For a 
+post-closure safety assessment, the emphasis is on the performance of the disposal facility and the 
+assessment of its impact after closure. The safety case is a structured framework for documenting 
+and presenting all of the safety-related information for a disposal facility in a consolidated 
+manner. 
+The safety case supports the regulatory process, including decision making, and is a means of 
+communicating and consulting with interested parties at different points throughout the facility’s 
+lifecycle.  
+The safety case can be used to: 
+ 
+verify a concept 
+ 
+support the selection of a site 
+ 
+perform design optimization 
+ 
+establish limits, controls and conditions  
+ 
+design the monitoring program 
+ 
+guide operation, decommissioning and closure 
+ 
+prioritize research and development programs 
+5.2 Development of the safety case 
+A post-closure safety case is required for a disposal facility throughout its entire lifecycle – at the 
+start of each major licensing stage, from site preparation through to decommissioning (which 
+includes closure and decommissioning of ancillary facilities) – and post-closure period until 
+release from regulatory control. The post-closure safety case evolves throughout the lifecycle of 
+the disposal facility using an iterative approach.  
+In the pre-licensing phase, assumptions may need to be made regarding concept development and 
+site selection. These activities do not require licensing from the CNSC; however, due to their very 
+long time spans, typically several decades, early engagement with the CNSC during the pre-
+licensing period is encouraged. As concept development and site selection proceed, empirical 
+site-specific data is necessary and details of the proposed design, construction, operation, 
+decommissioning, closure and post-closure, as appropriate, need to be developed. This will allow 
+specific issues to be addressed in more detail in the safety case.  
+The safety case is updated progressively throughout the lifecycle of the disposal facility by the 
+systematic collection, analysis, and interpretation of the necessary scientific and technical data. 
+The scope and level of technical detail will depend on the stage of development of the disposal 
+facility. Data used in the safety case can be obtained from a variety of sources, including 
+site-specific sampling, regional field investigations, scientific literature and analogous examples. 
+Updates to the safety case consider comments from technical and regulatory reviews, increased 
+knowledge, and operational experience, as well as results from monitoring programs and research 
+activities. The lifecycle approach to the development of the safety case enables ongoing 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+6 
+ 
+engagement with the public and Indigenous groups and the incorporation of stakeholder 
+feedback. 
+At closure of the disposal facility, the safety case will contain information that future generations 
+may require (e.g., institutional control plans, long-term monitoring plan). 
+6. 
+General Requirements for the Safety Case 
+In support of a licence application for activities pertaining to a disposal facility, the licensee or 
+applicant shall submit a safety case to the CNSC for acceptance. The safety case must:   
+ 
+demonstrate that all safety requirements will be met   
+ 
+be detailed and comprehensive so as to provide the necessary technical input for informing 
+the decisions required  
+ 
+include clearly written documentation, including arguments justifying the approaches in the 
+safety case, based on information that is traceable and credible 
+ 
+assess the safety of the facility using a graded approach  
+ 
+describe all relevant safety aspects of the site, and design, construction, operation, 
+decommissioning, closure and post-closure (including institutional control), as applicable, of 
+the facility or site in the safety case   
+ 
+be periodically reviewed and updated at all licensing stages and whenever there are 
+significant changes to the disposal facility 
+ 
+include the implementation of management system principles; additional requirements and 
+guidance for management systems is provided in REGDOC-2.1.1, Management System [4]   
+7. 
+Components of the Safety Case 
+The safety case shall include the following components, as illustrated in figure 1: 
+ 
+safety case context  
+ 
+safety strategy  
+ 
+disposal system description  
+ 
+safety assessment  
+ 
+management of uncertainties  
+ 
+iteration and design optimization  
+ 
+limits, controls and conditions  
+ 
+monitoring and surveillance  
+ 
+safety features during the period of institutional control 
+ 
+integration of safety arguments  
+Note: There are many possible ways of structuring and documenting the safety case. 
+7.1 Safety case context 
+The licensee or applicant shall ensure that the safety case: 
+ 
+defines its scope and purpose 
+ 
+states the requirements to be met to demonstrate safety 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+7 
+ 
+Boundaries and interfaces with facilities and activities in close proximity, both within and outside 
+the site, should be considered in the safety case.  
+The scope of the safety case should provide a clear description of the relevant stage in the 
+facility’s lifecycle; how the safety case has changed from previous revisions; and, how it will 
+support future revisions.  
+Safety requirements are those that ensure that the proposed licensed activities do not incur 
+unreasonable risk, to the environment and to the health and safety of persons. Requirements 
+typically include acceptance criteria (see section 8.1.1.1) for selected safety indicators (such as 
+dose, risk, radionuclide concentration), in addition to principles of containment, isolation, defence 
+in depth, and robustness. Safety requirements should be developed in consultation with the CNSC 
+and other stakeholders. 
+7.2 Safety strategy 
+The licensee or applicant shall develop and adopt a safety strategy that describes the integrated 
+approach that will be taken to meet the safety requirements. The strategy should be established 
+early in the development of the safety case.  
+The strategy shall identify and describe a number of key elements to provide confidence in safety, 
+such as: 
+ 
+containment and isolation of the waste 
+ 
+multiple safety functions, defence in depth, and passive safety features 
+ 
+robustness 
+ 
+demonstrability and feasibility  
+ 
+the interdependencies of the various steps in waste management 
+ 
+other elements that contribute to and provide confidence in safety 
+ 
+The safety strategy should identify the time frames associated with the key elements of the 
+strategy. 
+ 
+Containment and isolation 
+Containment and isolation shall be demonstrated by presenting evidence that the overall barrier 
+system retains its safety functions during the safety case time frame. For each barrier, the safety 
+functions, the expected performance, and design life shall be provided. Degradation of these 
+safety functions under normal evolution or disruptive events shall be taken into account. It must 
+be demonstrated that, despite this degradation, containment and isolation and all other safety 
+requirements including acceptance criteria (such as dose, risk, or contaminant concentration) will 
+be met.  
+Multiple safety functions and defence in depth  
+The principle of defence in depth shall be applied so that the performance of the disposal facility, 
+described in section 7.3, does not unduly rely on a single barrier. The principle of defence in 
+depth is usually applied in disposal facilities by the provision of a system of multiple barriers with 
+multiple safety functions that contribute to the containment and isolation of the waste.  
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+8 
+ 
+The safety functions of the individual barrier, as well as the time frames over which the barrier is 
+expected to perform should be identified and justified. Each safety function should be 
+independent of the others, to the extent possible, in order to ensure that they are complementary 
+and that barriers are unlikely to fail through a single failure mode. The number and extent of the 
+barriers necessary should be commensurate with the hazards of the waste to be disposed of. 
+Safety functions shall be provided by passive means, to the extent possible. Active controls, such 
+as monitoring, can contribute to the confidence in passive barriers and safety functions although 
+shall not be solely relied on to ensure defence in depth. The multiple barrier system should 
+provide resistance, primarily by passive means, to radionuclide migration.  
+Robustness 
+The overall disposal system as well as each individual barrier shall be shown to be robust. The 
+overall disposal system is robust if it can be demonstrated that none of the safety requirements 
+would be jeopardized if one or more barriers or safety functions were to fail. Barrier robustness is 
+demonstrated with evidence that the barrier would fulfill its safety functions under the effects of 
+the expected natural processes or anthropogenic disturbances.  
+The effect of long time frames on robustness should be considered. For disposal facilities with 
+long time frames, there is an increased likelihood that natural processes or disturbances could 
+affect the performance of individual barriers or the overall disposal facility. 
+Time frames 
+The licensee or applicant shall define the time frame, which is the period covered by the safety 
+assessment. Time frames establish boundary conditions for the longevity and performance of 
+barriers to isolate and contain the waste.  
+The licensee or applicant shall justify the time frame associated with the required performance of 
+the overall disposal facility and of its individual components, as part of the safety strategy. This 
+justification shall be commensurate with the class of waste to be stored or emplaced and with the 
+time frame associated with hazards imposed by the waste.  
+The time frame shall consider the following, at a minimum: 
+ 
+time of the peak radiological impact predicted by the safety assessment 
+ 
+normal (expected) evolution of the disposal system, in consideration of the decay of the 
+radiological substances associated with the waste and of the stability of the host medium or 
+site 
+ 
+type and severity of events considered in the safety assessment 
+The licensee or applicant should also consider the following to provide additional evidence to 
+support the determination of the time frame: 
+ 
+use of appropriate natural analogs (e.g., geological, hydrogeological and geochemical 
+characteristics similar to those of the site)  
+ 
+site-specific natural background levels of radiological and non-radiological contaminants  
+It may be necessary to define several different time frames within one safety case in order to deal 
+with different scenarios and to demonstrate containment. For example, additional time frames, in 
+addition to the reference time frame used in the normal evolution scenario, may be used to 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+9 
+ 
+illustrate the robustness of the disposal facility for time periods beyond when the maximum 
+impact is predicted to occur. The licensee or applicant should define additional time frames to 
+illustrate the performance of particular barriers in response to disruptive events (e.g., earthquakes, 
+glaciation, climate change) that are predicted to occur in the future. The design of the disposal 
+facility should be based on disruptive events that are consistent with the time frame of the normal 
+evolution scenario. In some other situations (e.g., for the deep geological disposal of high-level or 
+intermediate-level waste), impact predictions using very long time frames up to tens of millions 
+of years could illustrate the containment capabilities of the barriers, despite significant 
+environmental or geological perturbations. The evolution of the disposal facility shall be 
+considered when deriving the time frame, and the normal evolution scenario used in the safety 
+assessment would be defined accordingly. 
+7.3 Disposal system description 
+The licensee or applicant shall describe the disposal system in the safety case. The disposal 
+system is defined as the integrated collection of properties of the site for a disposal facility; 
+design of the disposal system; physical structures and items; procedures for control; and 
+characteristics of the waste and other elements that contribute in different ways and over different 
+time frames to the fulfilment of safety functions for disposal. The description should also include 
+both quantitative and qualitative information. As applicable, the following shall be included: 
+ 
+specific understanding of features, events and processes (FEPs) associated with the site and 
+the disposal facility 
+ 
+waste information (e.g., quantities and properties of the waste and the radionuclide inventory)   
+ 
+waste acceptance criteria at the disposal facility 
+ 
+description of the biosphere including human and non-human biota and the surface 
+environment  
+ 
+site characteristics including, as applicable, the deep and near-surface geological units at the 
+site, including:  
+ 
+the description of surface and subsurface characteristics (e.g. geology, hydrogeology, 
+hydrology, geochemistry, tectonics, seismicity, geomorphology, climate, ecology) 
+ 
+current and foreseeable land use 
+ 
+the identification and description of expected natural evolution and disruptive events 
+ 
+the design and assumptions upon which the design is based  
+ 
+description of the structure, systems and components (SSCs) of the disposal system, which 
+includes the  engineered and natural barriers, their safety functions, interfaces, associated 
+uncertainties and performance as a function of time1  
+ 
+radiological, thermal, hydraulic, mechanical, chemical and biological processes that may 
+affect the disposal system and its components as well as the possible interaction among those 
+components 
+The licensee or applicant shall demonstrate that nuclear criticality safety has been considered as 
+applicable. Nuclear criticality safety analysis for the post-closure phase shall utilize waste 
+acceptance criteria and technical practices that are provided in REGDOC-2.4.3, Nuclear 
+Criticality Safety [5]. 
+                                                     
+ 
+ 
+1 For disposal, the performance should take into consideration the degradation of the barriers during the 
+time frame associated with the disposal facility. 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+10 
+ 
+Following a graded approach to safety, the level of rigour and completeness in the description of 
+the system and its components should be commensurate with the hazards imposed by the waste, 
+and with the development and licensing stage of the facility. For example, in the concept 
+development stage, generic data might be sufficient, but it is expected that an increasing level of 
+site-specific data would be available at later stages such as site selection, construction and 
+operation. The safety case should be updated by taking into account improved knowledge of the 
+behaviour of the disposal system obtained through a systematic research and development 
+program. 
+The licensee or applicant shall identify the safety functions of both the overall disposal system 
+and the individual SSCs and assess the safety performance in terms of their ability to fulfill the 
+safety functions. The safety case and its supporting safety assessment should explain and justify 
+the safety functions of the overall disposal system and of each individual barrier.  
+Guidance on the site characterization of a deep geological repository is found in REGDOC-1.2.1, 
+Guidance on Deep Geological Repository Site Characterization [6]. 
+7.4 Safety assessment 
+The licensee or applicant shall perform a safety assessment that addresses impacts to people and 
+the environment that may arise from normal evolution of the site and from potential disruptive 
+events identified in an FEPs analysis. The FEPs analysis may consider the Nuclear Energy 
+Agency’s International FEP List. 
+7.4.1 
+Components of the safety assessment 
+The safety assessment shall include the following components, as applicable: 
+ 
+site and engineering aspects 
+ 
+operational safety aspects 
+ 
+post-closure safety assessment 
+7.4.1.1 Site and engineering aspects 
+The licensee or applicant shall use data obtained from the disposal system description as inputs to 
+the safety assessment, and provide boundary conditions for the quantitative assessment models 
+(discussed in section 8.1.1.2).  
+The licensee or applicant should use the results of the safety assessment to provide confidence in 
+the adequacy of the site and engineering design. 
+Passive safety 
+The licensee or applicant shall take passive safety means into account in the design of the facility 
+to minimize the dependence of safety on active means.  
+Multiple safety functions 
+The licensee or applicant shall assess defence in depth in the context of the site and engineering 
+aspects. This entails a demonstration that multiple safety functions are provided at the facility. 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+11 
+ 
+Scientific and engineering principles 
+The licensee or applicant should make use of established construction techniques and materials, 
+and should give due consideration to feedback from experience gained. If the licensee or 
+applicant uses other techniques and materials, these should be justified. 
+Quality of site characterization 
+The licensee or applicant shall ensure that the safety assessment describes and/or references the 
+approach and criteria used in site selection and demonstrate that the site selected is in accordance 
+with the safety strategy and any criteria that have been established.   
+For disposal facilities, site characterization activities will take place over many years and should 
+be carried out under a formal site characterization plan that includes quality assurance / quality 
+control protocols to verify the data.  
+7.4.1.2 Operational safety aspects 
+While operational safety aspects are outside the scope of this document, the licensee shall ensure 
+that the impacts of pre-closure activities on post-closure safety are assessed and minimized. 
+7.4.1.3 Post-closure safety assessment 
+The licensee or applicant shall perform a post-closure safety assessment. The post-closure safety 
+assessment forms the core of the safety assessment for a disposal facility. It involves an analysis 
+of the expected normal evolution of the disposal system, possible disruptive events, and the 
+potential radiological and non-radiological impacts on people and the environment, as well as the 
+interpretation of results. Scenarios are used to describe possible evolutions of the disposal system 
+and its environment as well as the impacts.  
+The impacts are determined quantitatively by means of mathematical models. This includes an 
+analysis of the potential migration of radioactive and hazardous substances from the disposal 
+facility, their movement in the environment and resulting impacts. Requirements and guidance on 
+how to perform a post-closure safety assessment can be found in section 8 of this document. 
+7.5 Management of uncertainties 
+The licensee or applicant shall characterize uncertainties in the safety case with respect to their 
+source, nature and degree using quantitative methods as well as professional judgment. 
+The licensee or applicant shall ensure that the safety case demonstrates how uncertainties are 
+managed; for example by: 
+ 
+modifying the safety strategy to reduce the uncertainties  
+ 
+showing that the uncertainties do not have implications on safety 
+ 
+using conservative assumptions to bound the uncertainties and showing that there remains a 
+sufficient margin for safety requirements to be met 
+The licensee or applicant should reduce uncertainties throughout the different stages of the 
+development of the safety case. The licensee or applicant should identify the remaining 
+uncertainties within the safety case and how the safety case is still supported despite these 
+uncertainties. 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+12 
+ 
+Uncertainties that remain in the safety case and that have implications on safety should be 
+addressed through uncertainty and sensitivity analyses. In addition, the development of 
+monitoring and research and development programs could be used to further reduce the 
+uncertainties. 
+7.6 Iteration and design optimization 
+The licensee or applicant should ensure that the disposal system design and its components are 
+optimized using a well-defined and iterative process. As the project proceeds and additional 
+information is gained, initial results should be refined and should replace the generic or default 
+data, reducing the reliance on assumptions. 
+The licensee or applicant should demonstrate within the safety case how the selected design and 
+its components have been optimized. The design process should include a comparison between 
+the design options considered, an assessment of their advantages and disadvantages, and a 
+justification for the preferred option. Optimization may be demonstrated through a comparison of 
+previous design iterations to the final design. 
+7.7 Limits, controls and conditions 
+The licensee or applicant shall establish limits, controls and conditions using the safety case. 
+These shall be applied to all activities that have an influence on the post-closure safety of the 
+facility and to the waste that will be disposed of at the facility.  
+The limits, controls and conditions derived from the safety assessment for the waste shall include 
+the waste acceptance criteria for individual packages as well as for the entire facility, and the 
+acceptable waste inventory and/or the allowable concentration levels of radionuclides in the 
+waste.  
+The licensee or applicant shall use the established limits, controls and conditions as an input to 
+the development of operational programs and procedures in consideration for the post-closure 
+phase. For example, the safety case and established limits, controls and conditions should be used 
+to inform the development of the monitoring and surveillance program for the site and of the 
+surrounding area appropriate to the specific facility. 
+7.8 Monitoring and surveillance  
+REGDOC 2.11.1, Waste Management, Volume I: Management of Radioactive Waste [7], 
+provides requirements for the monitoring and surveillance of waste management facilities.  
+7.9 Institutional controls  
+The licensee or applicant shall identify the role that institutional controls play in disposal facility 
+safety, and how that role is taken into account in the safety case and its supporting safety 
+assessment. The presence of institutional controls should not be used to justify a reduction in the 
+level of design of the containment and isolation system. 
+While long-term safety of the disposal facility should not be dependent on institutional controls, 
+these should be used to the extent practicable to confirm that the disposal system is performing as 
+designed. 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+13 
+ 
+Given the uncertainties associated with future human activities and the evolution and stability of 
+societies, licensees or applicants should limit reliance on institutional control as a safety feature to 
+a few hundred years. For uranium mine and mill waste, the large volume of the waste and the 
+longevity of some of the radionuclides might necessitate longer periods of institutional control as 
+a means of providing safety. Reliance on such longer-term institutional control (beyond a few 
+hundred years) should be justified in the safety case through an optimization process taking into 
+account technical and socio-economic factors.  
+REGDOC 2.11.1, Waste Management, Volume I: Management of Radioactive Waste [7], 
+provides guidance on institutional control.  
+7.10 Integration of safety arguments 
+The licensee or applicant should ensure that the safety case provides a synthesis of available 
+evidence, arguments and analyses. This synthesis should be provided in a well-structured, 
+transparent and traceable manner. 
+The licensee or applicant should: 
+ 
+provide evidence that all safety requirements have been met  
+ 
+provide complementary safety indicators, such as radionuclide concentrations and fluxes 
+through individual barriers 
+ 
+provide additional safety arguments, for example from the study of paleohydrogeological 
+information on the site, and the study of natural analogs to the overall disposal system, and 
+/or its individual components 
+ 
+address how hazardous substances contained in the radioactive waste could affect the 
+environment 
+In addition, the licensee or applicant should: 
+ 
+describe the treatment of uncertainty in the safety case and supporting assessment 
+ 
+provide evidence on the quality and reliability of the science and design work that form the 
+basis of the safety case 
+ 
+provide evidence of the quality and reliability of the safety assessment with respect to the 
+derivation of scenarios; the adequacy of methods, models, computer codes and databases; and 
+quality of the calculations 
+ 
+provide findings that contradict the arguments made in the safety case 
+ 
+acknowledge any limitations of currently available evidence, arguments and analyses  
+ 
+document any third-party peer review of the safety case, showing how the outcomes of the 
+peer review have been taken into consideration 
+ 
+provide management system requirements for the performance of safety assessment 
+calculations to provide assurance of their quality 
+ 
+Following the integration of safety arguments, the licensee or applicant should provide 
+justification for the continuation of the project. 
+7.10.1 Comparison with acceptance criteria 
+The licensee or applicant shall compare the selected assessment end points for the assessment to 
+acceptance criteria (such as dose and contamination concentrations). It should be noted that 
+meeting the acceptance criteria is not sufficient for making a safety case acceptable, since other 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+14 
+ 
+safety requirements (e.g., isolation, containment) also have to be met. In addition, it should be 
+demonstrated that the proposed disposal system has been optimized.  
+7.10.2 Complementary safety indicators  
+In addition to comparing safety assessment end points with the acceptance criteria, the licensee or 
+applicant should use complementary safety indicators (i.e., the calculation of values other than the 
+end points of the assessment) to provide additional confidence in the conclusions of the safety 
+case. Assessments that use complementary safety indicators as additional arguments for safety 
+should present justification for their use.  
+Complementary indicators from the safety assessment can also be used to inform the monitoring 
+program. In many instances, however, those indicators cannot be directly or practically monitored 
+(e.g., container corrosion rates), but must be inferred by a set of sub-indicators that are easily 
+measured or quantified. For example, corrosion rates depend on temperature and the geochemical 
+composition of the groundwater, and the former parameters can be included in a monitoring 
+program. 
+7.10.3 Additional arguments (multiple lines of reasoning) 
+The licensee or applicant should use multiple lines of reasoning to provide confidence in the 
+safety case; for example, from natural or anthropogenic analogs or from paleohydrogeological 
+information. 
+Natural analogs can be used to demonstrate that components of a disposal system remain 
+effective over extended temporal and spatial scales considered in post-closure safety assessment 
+models, which cannot be replicated in laboratory studies. Natural analogs can provide data for 
+verifying and validating both detailed process and simplified assessment models, and for 
+developing generic models that describe the site in the absence of site-specific characterization 
+data. Anthropogenic analogs, if relevant, may also be used in addition to natural analogs. Site-
+specific paleohydrogeological information can build confidence in the site’s geological stability 
+and containment capability. Natural analogs and paleohydrogeological information can provide 
+complementary assessments of long-term safety, and be included in the safety case to provide 
+confidence in the conclusions drawn from the safety assessment.  
+8. 
+Post-Closure Safety Assessment  
+The licensee or applicant shall ensure that the post-closure safety assessment for a disposal 
+system includes a systematic quantitative analysis of the evolution of the disposal system and its 
+environment, possible disruptive events, and the potential resulting radiological and non-
+radiological impacts on people and the environment. The interpretation of the quantitative results 
+should be clear. 
+The licensee or applicant shall develop and use scenarios to describe possible evolutions of the 
+facility and its environment as well as the potential impact of the identified FEPs on safety.  
+The licensee or applicant should apply models to each given scenario to assess: 
+ 
+evolution of the waste form and associated contaminant activity/concentrations over time 
+ 
+contaminant release rates 
+ 
+evolution of the engineered barriers 
+ 
+evolution of the natural barriers 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+15 
+ 
+ 
+contaminant transport through the engineered barriers, the geosphere and the biosphere 
+ 
+receptor exposure 
+ 
+potential effects resulting from the exposure 
+The licensee or applicant shall ensure that the post-closure safety assessment demonstrates their 
+understanding of the disposal system through a well-structured, transparent and traceable 
+methodology.  
+The post-closure safety assessment documentation should provide a clear and complete record of 
+the decisions made and the assumptions adopted in developing the model of the disposal system. 
+The parameters and variables used to run the model and to arrive at a given set of results should 
+be reported and justified. This input data should be obtained from site-specific studies and 
+research results. 
+The assumptions and data of the post-closure safety assessment shall be supported by an 
+assessment of the current and future conditions of the disposal system. 
+Due to the uncertainty of assumptions made about future events, the reliability of quantitative 
+estimates diminishes with increasing time scale. The demonstration of safety will therefore rely 
+less on quantitative estimates and more on qualitative arguments as the time scale increases. The 
+licensee or applicant should not consider long-term quantitative estimates as guaranteed impacts, 
+but rather as safety indicators. To build confidence, the post-closure safety assessment should be 
+performed using an approach that combines multiple lines of reasoning (additional arguments) 
+and safety indicators within the context of the safety case. 
+8.1 Components of the post-closure safety assessment 
+The licensee or applicant should use a structured approach to perform the post-closure safety 
+assessment of a disposal system that includes the following components: 
+ 
+post-closure safety assessment context 
+ 
+disposal system description  
+ 
+post-closure safety assessment scenarios and time frames 
+ 
+development and use of safety assessment models 
+ 
+interpretation of results 
+8.1.1 
+Post-closure safety assessment context 
+The licensee or applicant shall ensure that the safety assessment context: 
+ 
+defines the scope and purpose 
+ 
+states the assessment criteria used in the assessment 
+ 
+outlines the approach adopted to demonstrate safety 
+ 
+states the end points for the assessment (i.e. the modelling output that needs to be compared 
+to the acceptance criteria; see section 8.1.1.1)  
+8.1.1.1 Acceptance criteria used in the assessment 
+The licensee or applicant shall ensure that the safety assessment context contains the criteria by 
+which the safety assessment results will be deemed acceptable. These criteria shall be based on 
+regulatory requirements and/or derived from other scientifically justifiable benchmarks or safety 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+16 
+ 
+indicators that indicate system performance. The licensee should establish explicit criteria for the 
+level of safety to be achieved. 
+Radiological protection of persons 
+The post-closure safety assessment of a disposal facility shall provide reasonable assurance that 
+the regulatory radiological dose limit for public exposure (currently 1 mSv/year) will not be 
+exceeded for the normal evolution scenario. To account for the possibility of exposure to multiple 
+sources, and their potential cumulative effects, and to help ensure that doses resulting from the 
+disposal system are as low as reasonably achievable (ALARA), a dose constraint should be 
+established as a fraction of the regulatory dose limit. The dose constraint is not a limit, but rather 
+a design tool in the optimization process. For example, for optimization, the International 
+Commission on Radiological Protection (ICRP) [8] recommends a dose constraint of 
+0.3mSv/year. 
+The dose constraint should not be used to account for uncertainties in safety assessment model 
+predictions. The achievement of a design constraint does not, in itself, demonstrate that a design 
+satisfies the optimization principle. A dose should be reduced below a constraint if this can be 
+done at a justifiable cost, taking into consideration social and economic factors. The form of the 
+radiological design target should be consistent with the approach and strategy chosen for the post-
+closure safety assessment.  
+The IAEA’s SSR-5, Disposal of Radioactive Waste [9], proposes the following criteria, according 
+to ICRP recommendations: 
+(a) The dose limit for members of the public for doses from all planned exposure situations is an 
+effective dose of 1 mSv in a year. This and its risk equivalent are considered criteria that are not 
+to be exceeded in the future. 
+(b) To comply with this dose limit, a disposal facility (considered as a single source) is so 
+designed that the calculated dose or risk to the representative person who might be exposed in the 
+future as a result of possible natural processes affecting the disposal facility does not exceed a 
+dose constraint of 0.3 mSv in a year or a risk constraint of the order of 10-5 per year. 
+(c) In relation to the effects of inadvertent human intrusion after closure, if such intrusion is 
+expected to lead to an annual dose of less than 1 mSv to those living around the site, then efforts 
+to reduce the probability of intrusion or to limit its consequences are not warranted. 
+(d) If human intrusion were expected to lead to a possible annual dose of more than 20 mSv to 
+those living around the site, then alternative options for waste disposal are to be considered; for 
+example, disposal of the waste below the surface, or separation of the radionuclide content giving 
+rise to the higher dose. 
+(e) If annual doses in the range of 1 to 20 mSv are indicated, then reasonable efforts are 
+warranted, at the facility development stage, to reduce the probability of intrusion or to limit its 
+consequences by means of optimization of the facility’s design. 
+(f) Similar considerations apply where the relevant thresholds for deterministic effects in organs 
+may be exceeded. 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+17 
+ 
+Protection of persons from hazardous substances 
+Benchmark values for protection from hazardous substances can be found in federal and 
+provincial environmental objectives and guidelines. Where available, the Canadian 
+Environmental Quality Guidelines [10], established by the Canadian Council of Ministers of the 
+Environment (CCME) for protection of human health, should be used for benchmark or 
+toxicological reference values. Where the CCME’s human health guidelines are not available, 
+human health-based federal or provincial guidelines should be used. If none are available, 
+benchmarks can be derived from the toxicity literature or other regulatory agencies, or from 
+CCME protocols for the derivation of criteria. 
+Radiological protection of the environment 
+For the protection of non-human biota from radiation exposure, the primary concern is the total 
+radiation dose to the organisms resulting in deterministic effects. Radiation dose benchmarks for 
+a quantitative effects analysis should follow the guidance of the United Nations Scientific 
+Committee on the Effects of Atomic Radiation [11]. For species identified to be in need of special 
+protection (e.g., those named on the Government of Canada’s List of Wildlife Species at Risk), a 
+more conservative screening dose rate criterion [8] should be considered. Other benchmark 
+values for mean radiation doses to non-human biota have been derived for various types of 
+organisms [12, 13, 14, 15, 16, 17]. 
+Development of criteria for ensuring radiological protection of the environment should follow the 
+protocols established for hazardous substances, as discussed below. 
+Protection of the environment from hazardous substances 
+Non-radiological acceptance criteria for protection of the environment can include concentration 
+or flux of hazardous substances. The Canadian Environmental Quality Guidelines [10] for water, 
+sediment and soil are appropriate benchmarks for conservative safety analyses. Provincial 
+guidelines can be used, where appropriate, for substances for which federal guidelines have not 
+been established. 
+Alternatively, benchmarks for hazardous substances can be derived from toxicity literature, or 
+other regulatory agencies (e.g., the U.S. Environmental Protection Agency). The CCME provides 
+protocols for the derivation of air, soil and water quality criteria. The protocols for developing 
+criteria for the protection of the environment include determining critical toxicity values – such as 
+an effects concentration for a 10% or 20% response, lowest observable adverse effects level, or 
+no observable adverse effects level – from studies of chronic exposure to the most sensitive 
+species. The assessment of risks of hazardous substances to non-human biota is done at the 
+population level, but for species identified to be in need of special protection (e.g., those 
+identified under the Species at Risk Act), the assessment should focus on protection at an 
+individual level. 
+8.1.1.2 Approach adopted to demonstrate safety 
+A licensee or applicant should use risk-informed approaches to estimate the release and dispersal 
+of contaminants and resulting concentrations in water, sediment, soil and air based on waste 
+characteristics, release mechanisms and rates, and contaminant transport rates. This may be a 
+combination of modelling supported by monitoring data.  
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+18 
+ 
+A licensee or applicant should assess post-closure safety using a number of quantitative 
+approaches, including, without being limited to:  
+ 
+a scoping assessment to illustrate the factors that are important to post-closure safety and a 
+bounding assessment to show the limits of potential impact 
+ 
+calculations that give a realistic best estimate of the performance of the disposal facility or 
+system, or conservative calculations that intentionally over-estimate potential impact 
+ 
+deterministic or probabilistic calculations, appropriate for the purpose of the safety 
+assessment, to reflect data uncertainty 
+The licensee or applicant may use any combination of these or other appropriate assessment 
+strategies in a complementary manner to increase confidence in the demonstration of the safety of 
+the facility.  
+The licensee or applicant should discuss and justify the choice of approach in the documentation 
+demonstrating post-closure safety. It is expected that the purpose of the safety assessment will 
+also justify the assessment model used (section 8.1.5) and the level of confidence that is needed in 
+the results. 
+Scoping and bounding assessment 
+The licensee or applicant may use a scoping assessment to provide a general understanding of the 
+overall disposal facility, and to help identify the aspects of the system that are critical to safety.  
+The licensee or applicant may use a bounding assessment to provide limiting estimates of 
+disposal facility performance. Such assessment may be performed with simple mathematical 
+models, or detailed models that use limiting parameter values.  
+Realistic best estimates vs. conservative overestimations assessment 
+The licensee or applicant may use a realistic best-estimate assessment to provide the most likely 
+behavior of the disposal facility. The licensee or applicant should use real site and as-built facility 
+data, site-specific scenarios and accurate models of the processes being simulated in the realistic 
+estimate. 
+The licensee or applicant may use conservative assessments to intentionally overestimate future 
+consequences to provide an additional margin of safety for situations where the assessment 
+results cannot be considered accurate estimates, but indicators of safety. A conservative approach 
+should be used when developing computer codes and models. Assumptions and simplifications of 
+processes should not result in underestimation of the potential risks or impacts. It may not be 
+necessary for every assumption to be conservative; however, the net effect of all assumptions 
+should be a conservative representation of long-term impact and risk. 
+Conservative values of boundary and initial conditions of an assessment model, as well as input 
+data, can be used to overestimate future consequences. Because models do not necessarily have a 
+linear response to input data, conservative input values are not necessarily upper or lower limits 
+of the data. It is the value of the computed result that determines whether the model structure and 
+input data have given a conservative overestimation. 
+If the assessment results are to be used for compliance with a numerical measure or standard of 
+performance, it may be appropriate to undertake a conservative approach based on relatively 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+19 
+ 
+simple models. Such an approach will be feasible if there is a large margin of safety. Caution is 
+necessary because if misused, results from overly conservative or worst case representations of 
+the facility or activity may lead to poor decision making based on assessment results that bear 
+little resemblance to the actual disposal system. 
+Deterministic and probabilistic approach 
+The licensee or applicant may use a deterministic model to illustrate the impact of specific 
+individual uncertainties or alternative model assumptions. The deterministic model uses single-
+valued input data to calculate a single-valued result that will be compared to an acceptance 
+criterion. To account for data variability, individual deterministic calculations must be done using 
+different values of input parameters.  
+This is the approach used for performing sensitivity analyses (determining the response of model 
+predictions to variations in input data) and importance analyses (calculating the range of 
+predicted values that corresponds to the range of input values).  
+The licensee or applicant may use probabilistic models which typically perform repeated 
+deterministic calculations based on input values sampled from parameter distributions, with the 
+set of results expressed as a frequency distribution of calculated consequences. Frequency 
+multiplied by consequence is interpreted as the overall potential risk of harm from the disposal. 
+Probabilistic models can explicitly account for uncertainty arising from variability in the data 
+used in safety assessment predictions. Such models may also be structured to take account of 
+different scenarios or uncertainty within scenarios. 
+The potential risk calculated by a probabilistic model cannot be compared directly to an 
+acceptance criterion unless that criterion is also expressed as a risk. The results of a probabilistic 
+model should be presented and discussed. When risk is calculated as the magnitude of the 
+consequence and the likelihood of its occurrence, the model will reflect the probability that a 
+scenario with those particular input data values will actually occur.  
+8.1.1.3 Assessment end points  
+The licensee or applicant shall demonstrate that the selected assessment end points are consistent 
+with the purpose of the assessment and with relevant regulatory requirements, such as 
+requirements related to radiological dose. 
+Other safety indicators, complementary safety indicators, such as those that reflect containment 
+barrier effectiveness or impacts on non-human species, can also be presented to illustrate the 
+long-term performance of a disposal system. Some examples of complementary safety indicators 
+include: 
+ 
+container corrosion rates 
+ 
+waste degradation rates 
+ 
+groundwater age and travel time 
+ 
+fluxes of contaminants from a disposal facility 
+ 
+impacts of the system on site-specific flora and fauna 
+ 
+concentrations of contaminants in specific environmental media (for example, concentration 
+of radium in groundwater) 
+ 
+changes in toxicity of the waste 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+20 
+ 
+The licensee or applicant should derive and justify the acceptance criteria by which these 
+complementary safety indicators are to be judged from the relationship between the 
+complementary safety indicator and the more direct assessment end-points. For example, if the 
+environmental concentration of a hazardous substance is directly related to groundwater velocity 
+near a disposal facility, then groundwater velocity could be used as a criterion to demonstrate 
+post-closure safety to complement a more complete safety assessment that uses impact on the 
+environment, such as environmental concentration, as end points. 
+Identification of human and environmental receptors  
+The licensee or applicant shall develop scenarios to include the identification of human and 
+environmental receptors that may be exposed to radioactive and hazardous substances. The 
+exposures of persons and the various receptor organisms can occur by different pathways and will 
+be judged by different acceptance criteria even when all receptors are present in the same 
+environment at the same time. 
+Human and environmental receptors should be identified based on the guidance of CSA N288.1, 
+Guidelines for Calculating Derived Release Limits for Radioactive Material in Airborne and 
+Liquid Effluents for Normal Operations [18], and CSA N288.6, Environmental Risk Assessment 
+for Class I Facilities and Uranium Mines and Mills [19]. 
+IAEA-TECDOC-1077, Critical Groups and Biospheres in the Context of Radioactive Waste 
+Disposal [20], provides guidance for assessing exposures to critical groups throughout the time 
+frame of the normal evolution scenario. For long time frames, the proponent may elect to use a 
+reference biosphere for the critical group. Additional guidance on the use of reference biospheres 
+can be found in the 2003 IAEA’s BIOMASS-6, Reference Biospheres for Solid Radioactive 
+Waste Disposal [21].  
+8.1.2 
+Disposal system description 
+The licensee shall include the disposal system description, a component of the overall safety case, 
+which should be reiterated to show that the features are relevant to the safety assessment. The 
+disposal system description should present both the characteristics of the site and the design of 
+the SSCs important to safety, as well as a description of the waste to be managed. 
+As licensing progresses through the facility’s lifecycle, as-built information and operational data 
+are acquired. Both of these sources of information will enhance the understanding of the site 
+characteristics. It is expected that safety assessments that are made later in the facility’s lifecycle 
+will be based on updated and refined models and data. There should be less reliance on default, 
+generic or assumed information, resulting in more reliable model results.  
+8.1.2.1 Site characterization 
+The licensee or applicant shall include site characterization data in the safety assessment.  
+The licensee or applicant should ensure that the site characteristics are sufficiently defined to 
+support an accurate description of the current site conditions and a credible projection of their 
+future evolution.  
+Guidance on the site characterization of a deep geological repository is found in REGDOC-1.2.1, 
+Guidance on Deep Geological Repository Site Characterization [6]. 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+21 
+ 
+8.1.3 
+Post-closure safety assessment scenarios and time frames 
+The licensee shall develop and use scenarios to describe possible evolutions of the disposal 
+system and its environment as well as the potential impact of identified FEPs on safety.  
+The licensee or applicant shall ensure that assessment scenarios are sufficiently comprehensive to 
+account for all of the present and potential future states of the site and the biosphere.  
+The safety assessment shall include a base case scenario of the normal, expected or anticipated 
+evolution of the site and the disposal system over time, and additional scenarios that examine the 
+potential impact of disruptive events with a low probability of occurrence. 
+Each scenario presented in a safety assessment shall include specific information about: 
+ 
+the time frame on which the assessment is based 
+ 
+the length of time (start to finish) that institutional controls are relied upon as a safety feature 
+ 
+the identity and characteristics of the assumed receptors and critical groups 
+A safety assessment should present and justify the techniques and criteria used to develop the 
+scenarios that are analyzed. Scenarios should be developed in a systematic, transparent, and 
+traceable manner through a structured analysis of relevant FEPs that are based on current and 
+predicted future conditions of site characteristics, waste properties, and receptor characteristics 
+and their lifestyles. The approach to scenario development should be consistent with the rigour of 
+the safety assessment, taking into consideration the purpose of the assessment, the hazards of the 
+waste, and the nature of the decision for which the assessment is being undertaken.  
+For the demonstration of the robustness of a disposal system, the assessment should consider 
+disruptive event scenarios in which the total or partial failure of one or several barriers or safety 
+functions is assumed. These disruptive event scenarios should show that the safety of the overall 
+disposal system is still valid. 
+“What if” scenarios should be used to exhibit the robustness and performance of various natural 
+and engineered barriers under extreme conditions. It can be instructive to assign parameter values 
+or other properties to parts of the barrier system such that the barrier under consideration is 
+influenced in an exaggerated way. This may show that such exaggerated conditions are 
+impractical, do not negatively impact safety or that they can be avoided by design.  
+Stylized scenarios are generic representations of a group of scenarios, where part of the disposal 
+system is treated in a standardized or simplified way. The application of stylized scenarios may 
+be useful where site-specific information is lacking, or where the purpose of the safety 
+assessment does not require detailed site-specific information.  
+The safety assessment should demonstrate that the set of scenarios developed is credible and 
+comprehensive. Some FEPs or scenarios may be excluded from the assessment if these are 
+extremely unlikely or would have trivial impact.  
+An alternative method for developing scenarios is based on an analysis of how the safety 
+functions are influenced by possible FEPs. This may be followed by a process of auditing the 
+scenarios developed against an appropriate list of the FEPs. 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+22 
+ 
+The approach and screening criteria used to exclude or include scenarios should be justified and 
+well documented. 
+8.1.3.1 Normal evolution scenario 
+The licensee or applicant shall present a normal evolution scenario in the post-closure safety 
+assessment. The normal evolution scenario should be based on reasonable extrapolation of 
+current site features and receptor lifestyles. It should include the expected evolution of the site 
+and the degradation of the disposal system (gradual or total loss of barrier function) as it ages. 
+Evolution scenarios are not expected to include biological evolution of individual receptor 
+species, which can be assumed to be static for the purposes of the post-closure safety assessment. 
+Depending on site-specific conditions and the time frame for the safety assessment, a normal 
+evolution scenario should include expected conditions or events such as, earthquakes, climate 
+shifts or the onset of glaciation. Similarly, periodic natural events such as floods or forest fires, if 
+they are expected to occur during the time frame, should be part of the normal evolution scenario. 
+Their effects on barrier performance should be considered. These scenarios may be analyzed 
+separately as variants of the normal evolution scenario. 
+The decision about which natural events should be included is based on the assessment of FEPs 
+and the probability of their occurrence within the time frame of the safety assessment. 
+Normal evolution scenarios should also take into account the failure modes of the containment 
+and isolation systems. These failures can result not only from natural degradation of barriers, but 
+from events that might be expected to occur once or more during the assessment time frame, 
+including penetration of the barriers by intrusion.  
+The safety assessment should model the biosphere, which will be the receiving environment for 
+the contaminants, based as much as possible on the site specific information in the system 
+description. Alternatively, when-site specific information is not adequate to make reasonable or 
+conservative extrapolations from the characteristics of the current biosphere, a stylized approach 
+to defining the biosphere may meet the purpose of the safety assessment. 
+8.1.3.2 Disruptive event scenarios, including human intrusion 
+The licensee or applicant shall postulate disruptive event scenarios leading to possible penetration 
+of barriers and abnormal loss of containment. The occurrence of events such as fire, flood, 
+seismic activity, volcanism and human intrusion cannot be predicted accurately, even in cases 
+where they can be associated with an annual probability of occurrence or a return period. 
+Disruptive events – that are more severe than the events considered in normal evolution scenarios 
+to which barriers are designed and assumed to resist – should be considered. The inclusion of 
+disruptive event scenarios will demonstrate the principle of defence in depth and the robustness of 
+the overall disposal system. 
+Intrusion not only breaches containment barriers, but also may result in waste being redistributed 
+outside the barriers, potentially exposing the public and the environment. Assessment of human 
+intrusion therefore needs to estimate the exposure of persons and the environment that would 
+result from waste redistribution. Scenarios of inadvertent intrusion, where the intruder is not 
+aware of the hazards of the waste, should estimate the exposure of the intruder. However, 
+intentional human intrusion, where the intruder is assumed to be aware of the hazard of the waste, 
+need not be considered. 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+23 
+ 
+Scenarios for inadvertent intrusion should be case-specific, based on the class of waste and the 
+design of the disposal system, and should consider both the probability of intrusion and its 
+associated consequences. Surface and near-surface disposal facilities (e.g., tailings sites) are more 
+likely to experience intrusion than deep geological repositories. Acceptance criteria for human 
+intrusion should be defined. In case the criteria cannot be met, even after optimization of the 
+design and siting, management of the waste at greater depths should be considered.  
+Reasonable efforts should be made to limit the dose from a high-consequence intrusion scenario 
+and to reduce the probability of the intrusion. The consequences of intrusion could be reduced by 
+controlling the form and properties of the waste accepted. Design modifications to reduce the 
+likelihood of inadvertent intrusion should be undertaken. This may include the choice of site 
+(where site selection options are feasible), siting the disposal facility at a depth that discourages 
+intrusion, incorporating robust design features that make intrusion more difficult, and 
+implementing active or passive institutional controls, as appropriate.  
+For near-surface disposal, in addition to design and optimization, assessment of human intrusion 
+scenarios also contributes to the development of waste acceptance criteria, to the development of 
+the time frames necessary for institutional controls, and to the determination of whether specific 
+waste streams require deeper disposal. 
+For deep geological repositories – where the site characteristics, and the depth and the design of 
+the facility have already been optimized to reduce the likelihood of the intrusion – the assessment 
+results of human intrusion scenarios should be used for illustrative purposes. Scenarios 
+concerning inadvertent human intrusion into such repositories could estimate doses that are 
+greater than the regulatory limit. Such results should be interpreted in light of the degree of 
+uncertainty associated with the assessment, the conservatism in the dose limit, and the likelihood 
+of the intrusion. Both the likelihood and the consequences from the intrusion should therefore be 
+reported. 
+8.1.3.3 Assessment time frames  
+The licensee or applicant shall ensure that future impact that may arise from the radioactive waste 
+includes the period of time during which the maximum impact is predicted to occur.  
+A rationale for the time frame associated with the safety assessment shall be given. The approach 
+taken to determine respective periods of time used in the safety assessment should take into 
+account the following elements: 
+ 
+hazardous lifetime of the contaminants associated with the waste 
+ 
+duration of the operational period (before the disposal facility reaches its end state) 
+ 
+design life of engineered barriers 
+ 
+duration of both active and passive institutional controls 
+ 
+frequency of natural events and human-induced environmental changes (e.g., seismic 
+occurrence, flood, drought, glaciation, climate change) 
+ 
+the degree of protection and isolation required against inadvertent intrusion over the long 
+term 
+The licensee or applicant should document and justify the assumed performance time frames of 
+engineered barriers and the evolution of their safety functions over time. Depending on the 
+purpose of the assessment, it might be convenient to divide the overall time frame into several 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+24 
+ 
+shorter time windows for modelling or presentational reasons. Different end points can also be 
+used for different time windows.  
+With long time frames, more severe events (associated with lower annual probability of 
+exceedance) should be considered in the design of the disposal system and its components. For 
+example, the design earthquake to be chosen for a system or its component depends on the 
+likelihood and consequences of failure should a more severe earthquake occur during the time 
+frame. If the consequences are high, the design earthquake should be chosen such as its 
+probability of exceedance during the time frame would be smaller. A design earthquake is often 
+associated with a return period (in years), which is the inverse of its annual probability of 
+exceedance. For example an earthquake with a return period of 10,000 years has an annual 
+probability of exceedance of 1/10,000. Therefore, for any given year, there is a probability of 
+1/10000 (0.01%) that a more severe earthquake might occur. For a time frame of 10,000 years, 
+that probability increases to 63% and for a time frame of 100,000 years, this probability is near 
+100%.  
+8.1.4 
+Development and use of assessment models 
+In developing assessment models, the licensee or applicant should employ a variety of 
+computational tools (conceptual and mathematical models) to predict future conditions for 
+comparison to acceptance criteria.  
+The licensee or applicant should develop a conceptual model, which is a representation of the 
+behaviour of the disposal system that includes the description of the components of the system 
+and the interactions between these components. It should also include a set of assumptions 
+concerning the geometry of the system and the chemical, physical, biological, mechanical and 
+geological behavior of the facility or activity, consistent with the information and knowledge 
+available.   
+The conceptual models of the site and the disposal system often need to be simplified to 
+correspond to the limitations of the mathematical equations and the capabilities of computer 
+models. A mathematical model is a representation of the features and processes included in the 
+conceptual model in the form of mathematical equations. 
+The level of accuracy needed in the post-closure safety assessment models, and the degree of 
+conservatism desired in the results, are determined by:  
+ 
+the purpose of the safety assessment 
+ 
+the importance of the model results with respect to indicating expected performance and 
+safety 
+8.1.4.1 Confidence in safety assessment models 
+The licensee or applicant should ensure that safety assessment models are fit for purpose. The 
+input parameters, the scenarios analyzed, and the results should be shown to be consistent with 
+the assumptions and limitations of the model.  
+The licensee or applicant should keep records of how site-specific and system-specific 
+characterization data have been used to derive input parameters. 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+25 
+ 
+The safety assessment model evaluation process should concentrate on identifying and 
+understanding the key radiological, physical, chemical and biological processes that are important 
+to safety at the various spatial and temporal scales of concern in the safety assessment. 
+Sophisticated detailed models of processes can be used to determine if those processes are 
+sufficiently influential to include them in the post-closure safety assessment model, or if they can 
+be simplified or ignored with no detriment to the reliability of the predictions. 
+Model evaluation should include sensitivity analyses to show whether the model output responds 
+as expected to variations in the model input parameter. Model evaluation should also include 
+uncertainty and importance analyses to show which parameters control the variability in model 
+output. These analyses should demonstrate how well the model replicates what is known and 
+understood about the processes being simulated. The results obtained from these analyses should 
+be shown to conform to the limitations and restrictions of the assumptions in the safety 
+assessment model. 
+The need to evaluate the uncertainty in the safety assessment models is determined by the level of 
+confidence needed in the modelling results. The acceptable level of confidence is governed by the 
+purpose of the safety assessment, the safety factor built into the acceptance criteria for safety 
+indicators, and the importance of the safety assessment model results to the safety case. 
+Neither sensitivity studies nor uncertainty analyses of deterministic or probabilistic models can 
+inherently account for uncertainties in the underlying conceptual model, or for uncertainties 
+resulting from limitations of the mathematical model used to describe the processes. Investigation 
+of such uncertainties would require the use of different mathematical and computer models based 
+on alternate conceptual models. 
+Confidence in the safety assessment model can be enhanced through a number of activities, 
+including (without being limited to): 
+ 
+performance of independent predictions using entirely different safety assessment strategies 
+and computing tools 
+ 
+demonstration of consistency between the results of the post-closure safety assessment model 
+and complementary scoping and bounding safety assessment 
+ 
+application of the safety assessment model to an analog of the disposal system 
+ 
+performance of model comparison studies of benchmark problems 
+ 
+scientific peer review by publication in open literature 
+ 
+other practices in widespread use by the scientific and technical community 
+ 
+demonstration of consistency between the model results and site-specific field studies 
+8.1.4.2 Confidence in computing tools 
+The licensee or applicant should ensure that computer programs are suitable for the given 
+assessment; these may include commercially available software packages or software specifically 
+developed for the assessment in question.  
+The computer software used for assessment calculations should be qualified in accordance with 
+applicable standards.   
+Calibration of computer models and verification and validation of software are the main 
+processes involved in software quality assurance. Calibration involves setting adjustable 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+26 
+ 
+parameters within the mathematical equations to minimize the differences between the calculated 
+and measured responses of the system, with the prior knowledge of the latter. 
+The licensee or applicant should verify and validate all computer software used for the safety 
+assessment or provide reference to existing validation. Verification ensures that the program 
+functions as designed and intended (i.e., that the mathematical equations in the computer model 
+are solved correctly). This can be tested using benchmark problems specific for the type of model 
+being assessed. Validation is meant to ensure that the mathematical equations in the computer 
+model simulate, with reasonable accuracy, the processes and conditions they are supposed to 
+represent. 
+8.1.5 
+Interpretation of results 
+When interpreting the safety assessment results, the applicant should demonstrate a thorough 
+understanding of the underlying science and engineering principles that are controlling the safety 
+assessment results. Interpretation should include evaluation of compliance with the acceptance 
+criteria and analysis of the uncertainties associated with the safety assessment. 
+The results of the safety assessment should also be analyzed to show consistency with system 
+performance expectations and with the complete set of assumptions and simplifications used in 
+developing the models and scenarios. Any unexpected results or discrepancies should be 
+documented, investigated and explained. 
+8.1.5.1 Comparing safety assessment results with acceptance criteria 
+One of the aims of the safety assessment is to compare the safety assessment end points with 
+acceptance criteria. Comparison of the safety assessment results with acceptance criteria should 
+include discussion of the conservatism of the model results, and of the conservatism built into the 
+acceptance criteria for the assessment end points. 
+If the safety assessment results do not demonstrate compliance with the acceptance criteria, the 
+safety assessment shall be revised. Sufficient detail should be provided to enable the CNSC to 
+verify the results. 
+However, compliance with the acceptance criteria, in itself, is not sufficient for acceptance of a 
+safety case since additional safety requirements must also be shown to be met. 
+8.1.5.2 Analyzing uncertainties 
+An uncertainty analysis of the assessment results should be performed to identify the sources and 
+significance of uncertainty. This analysis should distinguish between uncertainties arising from: 
+ 
+input data or parameters 
+ 
+scenario assumptions 
+ 
+the imprecision in the mathematical model 
+ 
+the conceptual models 
+Sensitivity analysis is used to identify the relative importance of the uncertainty of each input 
+parameter to the results of the safety assessment. 
+While acceptance criteria are usually expressed as single values, both deterministic and 
+probabilistic safety assessment results have an associated uncertainty. It is expected that the 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+27 
+ 
+comparison between the safety assessment end points and the acceptance criteria will explicitly 
+take the uncertainty in the safety assessment into account, as follows: 
+ 
+for deterministic safety assessments, the range of uncertainty in the calculated result as 
+determined by a sensitivity analysis (or importance analysis) is expected to be explicitly 
+included in the comparison 
+ 
+for probabilistic safety assessments, the likelihood of exceeding the acceptance criteria 
+should be determined from the calculated results distribution; if the range of safety 
+assessment results from deterministic uncertainty analysis or from the probabilistic results 
+distribution shows that part of the results may exceed the acceptance criteria, the applicant 
+should demonstrate that these results will not represent unreasonable risk to the environment 
+or to the health and safety of persons, taking into account the conservatism built into the 
+safety assessment calculations and the likelihood of the circumstances leading to these results 
+ 
+ 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+28 
+ 
+Glossary 
+For definitions of terms used in this document, see REGDOC-3.6, Glossary of CNSC Terminology, which 
+includes terms and definitions used in the Nuclear Safety and Control Act and the regulations made under 
+it, and in CNSC regulatory documents and other publications. REGDOC-3.6 is provided for reference and 
+information. 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+29 
+ 
+References 
+1. CNSC. REGDOC-2.9.1, Environmental Protection: Environmental Principles, Assessments and 
+Protection Measures. Ottawa, 2020. 
+2. CNSC. REGDOC-2.11.1, Waste Management, Volume II: Management of Uranium Mine Waste 
+Rock and Mill Tailings. Ottawa, 2018. 
+3. CNSC. REGDOC-3.5.3, Regulatory Fundamentals. Ottawa, 2021. 
+4. CNSC. REGDOC-2.1.1, Management System. Ottawa, 2019. 
+5. CNSC. REGDOC-2.4.3, Nuclear Criticality Safety. Ottawa, 2020. 
+6. CNSC. REGDOC-1.2.1, Guidance on Deep Geological Repository Site Characterization. 
+Ottawa, 2021. 
+7. CNSC. REGDOC 2.11.1, Waste Management, Volume I: Management of Radioactive Waste. 
+Ottawa, 2021. 
+8. International Commission on Radiological Protection (ICRP). ICRP Publication 103, The 2007 
+Recommendations of the International Commission on Radiological Protection. United Kingdom 
+2007.  
+9. IAEA. IAEA Specific Safety Requirements SSR-5, Disposal of Radioactive Waste. Vienna, 2011.  
+10. Canadian Council of Ministers of the Environment (CCME). Canadian Environmental Quality 
+Guidelines. Ottawa, 2014. 
+11. United Nations Scientific Committee on the Effects of Atomic Radiation. 1996 Report to the 
+General Assembly: Sources and Effects of Ionizing Radiation. New York, 1996. 
+12. Larsson, C.-M. “An overview of the ERICA integrated approach to the assessment and 
+management of environmental risks from ionizing contaminants,” Journal of Environmental 
+Radioactivity, 99: 1364–1370. Stockholm, 2008. 
+13. Brown et al. “The ERICA Tool,” Journal of Environmental Radioactivity, 99: 1371–1383. 2008, 
+Stockholm, 2008. 
+14. National Council on Radiation Protection and Measurements (NCRP). NCRP Reports Vol. XXII 
+No. 112–114. Bethesda, 1991. 
+15. International Atomic Energy Agency (IAEA). IAEA Technical Reports Series No. 332, Effects of 
+Ionizing Radiation on Plants and Animals at Levels Implied by Current Radiation Protection 
+Standards. Vienna, 1992. 
+16. Environment and Climate Change Canada. Priority Substances List Assessment Report: Releases 
+of Radionuclides From Nuclear Facilities (Impact on Non-Human Biota). Ottawa, 2003. 
+17. ICRP. ICRP Publication 108, Environmental Protection – the Concept and Use of Reference 
+Animals and Plants, United Kingdom, 2008. 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+30 
+ 
+18. CSA Group. CSA N288.1, Guidelines for Calculating Derived Release Limits for radioactive 
+Material in Airborne and Liquid Effluents for Normal Operations. Mississauga, 2014. 
+19. CSA Group. CSA N288.6, Environmental Risk Assessments at Class I Nuclear Facilities and 
+Uranium Mines and Mills. Mississauga, 2012. 
+20. IAEA. IAEA TECDOC No. 1077, Critical Groups and Biospheres in the Context of Radioactive 
+Waste Disposal. Vienna, 1999. 
+21. IAEA. IAEA BIOMASS-6, “Reference Biospheres” for Solid Radioactive Waste Disposal. 
+Vienna, 2003. 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+31 
+ 
+Additional Information 
+The CNSC may recommend additional information on best practices and standards such as those 
+published by CSA Group. With permission of the publisher, CSA Group, all nuclear-related CSA 
+standards may be viewed at no cost through the CNSC Webpage on its “How to gain free access to all 
+nuclear-related CSA standards” Web page. 
+The following documents are not referenced in this regulatory document but contain information that may 
+be useful to the reader: 
+ 
+CNSC. REGDOC-2.11, Framework for Radioactive Waste Management and Decommissioning 
+in Canada. Ottawa, 2018. 
+ 
+CNSC. REGDOC-2.11.2, Decommissioning. Ottawa, 2021. 
+ 
+CSA Group. CSA N286, Management System Requirements for Nuclear Facilities. Mississauga, 
+2012. 
+ 
+CSA Group. CSA N288.4, Environmental Monitoring Programs at Class I Nuclear Facilities and 
+Uranium Mines and Mills. Mississauga, 2019. 
+ 
+CSA Group. CSA N288.5, Effluent Monitoring programs at Class I Nuclear Facilities and 
+Uranium Mines and Mills. Mississauga, 2011. 
+ 
+CSA Group. CSA N288.7, Groundwater Protection Programs at Class I Nuclear Facilities and 
+Uranium Mines and Mills. Mississauga, 2015. 
+ 
+CSA Group. CSA N292.0, General Principles for the Management of Radioactive Waste and 
+Irradiated Fuel. Mississauga, 2014. 
+ 
+CSA Group. CSA N292.1, Wet Storage of Irradiated Fuel and Other Radioactive Materials. 
+Mississauga, 2016. 
+ 
+CSA Group. CSA N292.2, Interim Dry Storage of Irradiated Fuel. Mississauga, 2013. 
+ 
+CSA Group. CSA N292.3, Management of Low- and Intermediate-Level Radioactive Waste. 
+Mississauga, 2014. 
+ 
+CSA Group. CSA N292.5, Guideline for the Exemption or Clearance From Regulatory Control 
+of Materials that Contain, or Potentially Contain, Nuclear Substances. Mississauga, 2011. 
+ 
+CSA Group. CSA N292.6, Long-term Management of Radioactive Waste and Irradiated Fuel. 
+Mississauga, 2018. 
+ 
+CSA Group. CSA N294, Decommissioning of Facilities Containing Nuclear Substances. 
+Mississauga, 2019. 
+ 
+International Atomic Energy Agency (IAEA). IAEA General Safety Guide GSG-1, Classification 
+of Radioactive Waste. Vienna, 2009. 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+32 
+ 
+ 
+IAEA. IAEA Safety Guide SSG-23, The Safety Case and Safety Assessment for the Disposal of 
+Radioactive Waste. Vienna, 2012. 
+ 
+IAEA. IAEA Safety Guide SSG-31, Monitoring and Surveillance of Radioactive Waste Disposal 
+Facilities. Vienna, 2014.  
+ 
+IAEA. IAEA Technical Reports Series No. 389, Radiological Characterization of Shut Down 
+Nuclear Reactors for Decommissioning Purposes. Vienna, 1998.  
+ 
+International Organization for Standardization. ISO 21238: 2007, Nuclear Energy – Nuclear fuel 
+Technology – Scaling Factor Method to Determine the Radioactivity of Low- and Intermediate-
+Level Radioactive Waste Packages Generated at Nuclear Power Plants. Geneva, 2007. 
+ 
+ 
+January 2021 
+REGDOC-2.11.1, Waste Management, Volume III:  
+ 
+Safety Case for the Disposal of Radioactive Waste, Version 2 
+ 
+ 
+33 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the CNSC. In addition to the 
+Nuclear Safety and Control Act and associated regulations, these facilities and activities may also be 
+required to comply with other regulatory instruments such as regulatory documents or standards. 
+CNSC regulatory documents are classified under the following categories and series: 
+1.0 
+Regulated facilities and activities 
+Series 1.1 
+Reactor facilities 
+1.2 
+Class IB facilities 
+1.3 
+Uranium mines and mills 
+1.4 
+Class II facilities 
+1.5 
+Certification of prescribed equipment 
+1.6 
+Nuclear substances and radiation devices 
+2.0 
+Safety and control areas 
+Series 2.1 
+Management system 
+2.2 
+Human performance management 
+2.3 
+Operating performance 
+2.4 
+Safety analysis 
+2.5 
+Physical design 
+2.6 
+Fitness for service 
+2.7 
+Radiation protection 
+2.8 
+Conventional health and safety 
+2.9 
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0 
+Other regulatory areas  
+Series 3.1 
+Reporting requirements 
+3.2 
+Public and Aboriginal engagement 
+3.3 
+Financial guarantees 
+3.4 
+Commission proceedings 
+3.5 
+CNSC processes and practices 
+3.6 
+Glossary of CNSC terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. Visit the CNSC’s website for 
+the latest list of regulatory documents. 
+ 

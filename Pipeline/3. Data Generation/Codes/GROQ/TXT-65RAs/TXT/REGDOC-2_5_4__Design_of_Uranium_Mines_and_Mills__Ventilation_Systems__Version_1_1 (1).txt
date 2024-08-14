@@ -1,0 +1,1014 @@
+ 
+ 
+ 
+ 
+Physical Design 
+Design of Uranium Mines and Mills: 
+Ventilation Systems  
+REGDOC-2.5.4, Version 1.1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+February 2022 
+ 
+ 
+Design of Uranium Mines and Mills: Ventilation Systems  
+Regulatory document REGDOC-2.5.4, Version 1.1 
+  
+© Canadian Nuclear Safety Commission (CNSC) 2018 
+PWGSC catalogue number CC172-191/2022E-PDF 
+ISBN 978-0-660-41605-2 
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+Également publié en français sous le titre : Conception des mines et des usines de concentration 
+d’uranium : Systèmes de ventilation, version 1.1 
+Document availability 
+This document can be viewed on the CNSC website. To request a copy of the document in English or 
+French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, Ontario K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Fax: 613-995-5086 
+Email: consultation@cnsc-ccsn.gc.ca 
+Website: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+LinkedIn: linkedin.com/company/cnsc-ccsn 
+Publishing history 
+March 2018 
+ 
+Version 1.0 
+February 2022  
+Version 1.1 
+ 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+i 
+ 
+Preface 
+This regulatory document is part of the CNSC’s Physical design series of regulatory documents, which 
+also covers design for reactor facilities, laboratories and medical facilities. The full list of regulatory 
+document series is included at the end of this document and can also be found on the CNSC’s website.  
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems, is a guide to help persons 
+meet the requirements for submitting ventilation-related information when applying for a CNSC licence 
+to prepare a site for and construct, operate or decommission a uranium mine or mill. 
+This document supersedes regulatory document G-221, A Guide to Ventilation Requirements for Uranium 
+Mines and Mills, published in June 2003. 
+REGDOC-2.5.4 is intended to form part of the safety and control measures to be described in a licence 
+application and the documents needed to support that application. 
+Guidance contained in this document exists to inform the applicant, to elaborate further on requirements 
+or to provide direction to licensees and applicants on how to meet requirements. It also provides more 
+information about how CNSC staff evaluate specific problems or data during their review of licence 
+applications. Licensees are expected to review and consider guidance; should they choose not to follow it, 
+they should explain how their chosen alternate approach meets regulatory requirements.  
+A graded approach, commensurate with risk, may be defined and used when applying the requirements 
+and guidance contained in this regulatory document. The use of a graded approach is not a relaxation of 
+requirements. With a graded approach, the application of requirements is commensurate with the risks 
+and particular characteristics of the facility or activity. 
+An applicant or licensee may put forward a case to demonstrate that the intent of a requirement is 
+addressed by other means and demonstrated with supportable evidence. 
+The requirements and guidance in this document are consistent with modern national and international 
+practices addressing issues and elements that control and enhance nuclear safety. In particular, they 
+establish a modern, risk-informed approach to the categorization of accidents – one that considers a full 
+spectrum of possible events, including events of greatest consequence to the public. 
+Version 1.1 includes administrative updates to references to the Secretariat. As of January 1, 2022, the 
+Commission Secretariat was renamed the Commission Registry and the Commission Secretary became 
+the Commission Registrar. 
+Important note: Where referenced in a licence either directly or indirectly (such as through licensee-
+referenced documents), this document is part of the licensing basis for a regulated facility or activity.  
+The licensing basis sets the boundary conditions for acceptable performance at a regulated facility or 
+activity, and establishes the basis for the CNSC’s compliance program for that regulated facility or 
+activity.  
+Where this document is part of the licensing basis, the word “shall” is used to express a requirement to 
+be satisfied by the licensee or licence applicant. “Should” is used to express guidance or that which is 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+ii 
+ 
+advised. “May” is used to express an option or that which is advised or permissible within the limits of 
+this regulatory document. “Can” is used to express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+ 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+.................................................................................................................................... 1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant legislation 
+............................................................................................................. 1 
+2. 
+Environmental Assessment and Licensing Processes ................................................................. 6 
+2.1 
+Environmental assessment process ..................................................................................... 7 
+2.2 
+Licensing process 
+................................................................................................................ 7 
+2.3 
+CNSC point of contact 
+........................................................................................................ 7 
+2.4 
+Submission of licence application ...................................................................................... 8 
+3. 
+Overview of Ventilation Requirements in Legislation 
+................................................................ 8 
+4. 
+Information Requirements at Prescribed Licensing Stages 
+....................................................... 9 
+4.1 
+All classes of licences except a licence to abandon .......................................................... 10 
+4.2 
+Licence to prepare a site for and construct ....................................................................... 10 
+4.3 
+Licence to operate 
+............................................................................................................. 11 
+4.4 
+Licence to decommission 
+.................................................................................................. 12 
+5. 
+Operational and Maintenance-Related Requirements ............................................................. 13 
+Glossary ..................................................................................................................................................... 15 
+References 
+.................................................................................................................................................. 16 
+ 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+1 
+ 
+Design of Uranium Mines and Mills: Ventilation Systems 
+1. Introduction 
+1.1 Purpose 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Requirements, aims to help persons 
+address the requirements for submitting ventilation-related information when applying for a CNSC 
+licence to prepare a site for and construct, operate or decommission a uranium mine or mill.  
+Provincial and territorial mining regulations for ventilation apply, unless exceeded by the 
+requirements for nuclear safety noted in this document.  
+This regulatory document is also intended to help applicants for a uranium mine or mill licence 
+understand their operational and maintenance obligations for ventilation systems.  
+1.2 Scope 
+REGDOC-2.5.4 is relevant to any application for a CNSC licence to prepare a site for and construct, 
+operate or decommission a uranium mine or mill. This guide summarizes the ventilation-related 
+obligations of uranium mine and mill licensees, and also describes and discusses the ventilation-
+related information that licence applicants should typically submit to meet regulatory requirements.  
+The regulatory document pertains to any ventilation of uranium mines and mills for the purpose of 
+assuring the radiation safety of workers and onsite personnel. This ventilation may be associated with 
+any underground or surface area or premise that is licensable by the CNSC as part of a uranium mine 
+or mill. These areas and premises typically include mine workings, mill buildings, and other areas or 
+premises involving or potentially affected by radiation or radioactive materials. Examples of the latter 
+include offices, effluent treatment plants, cafeterias, lunchrooms and personnel change rooms. 
+This document may also assist in the design ventilation systems for deep geologic repositories. 
+1.3 Relevant legislation 
+The provisions of the Nuclear Safety and Control Act (NSCA) and regulations that are relevant to this 
+regulatory document include:  
+ 
+Section 26 of the NSCA states that “no person shall, except in accordance with a licence, 
+(a) possess, transfer, import, export, use or abandon a nuclear substance, prescribed equipment or 
+prescribed information;  
+(b) mine, produce, refine, convert, enrich, process, reprocess, package, transport, manage, store or 
+dispose of a nuclear substance; 
+(c) produce or service prescribed equipment; 
+(d) operate a dosimetry service for the purposes of this Act; 
+(e) prepare a site for, construct, operate, modify, decommission or abandon a nuclear facility; or 
+(f) construct, operate, decommission or abandon a nuclear-powered vehicle or bring a nuclear 
+powered vehicle into Canada.” 
+ 
+ 
+Section 7 of the General Nuclear Safety and Control Regulations states that “An application for a 
+licence or for the renewal, suspension in whole or in part, amendment, revocation or replacement 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+2 
+ 
+of a licence may incorporate by reference any information that is included in a valid, expired or 
+revoked licence.” 
+ 
+Section 15 of the General Nuclear Safety and Control Regulations states that “Every applicant for 
+a licence and every licensee shall notify the Commission of 
+ 
+(a) the persons who have authority to act for them in their dealings with the Commission; 
+(b) the names and position titles of the persons who are responsible for the management and 
+control of the licensed activity and the nuclear substance, nuclear facility, prescribed equipment 
+or prescribed information encompassed by the licence; and 
+(c) any change in the information referred to in paragraphs (a) and (b), within 15 days after the 
+change occurs.” 
+ 
+Section 3 of the Uranium Mines and Mills Regulations (UMMR) states that “An application for a 
+licence in respect of a uranium mine or mill, other than a licence to abandon, shall contain the 
+following information in addition to the information required by section 3 of the General Nuclear 
+Safety and Control Regulations:  
+(a) in relation to the plan and description of the mine or mill, 
+(i) a description of the site evaluation process and of the investigations and preparatory 
+work to be done at the site and in the surrounding area, 
+(ii) a surface plan indicating the boundaries of the mine or mill and the area where the 
+activity to be licensed is proposed to be carried on, 
+(iii) a plan showing the existing and planned structures, excavations and underground 
+development 
+(iv) a description of the mine or mill, including the installations, their purpose and 
+capacity, and any excavations and underground development, 
+(v) a description of the site geology and mineralogy, 
+(vi) a description of any activity that may have an impact on the development of the mine 
+or mill, including any mining-related activity that was carried on at the site before the 
+date of submission of the application to the Commission, 
+(vii) a description of the design of and the maintenance program for every eating area, 
+(viii) the proposed plan for the decommissioning of the mine or mill, and 
+(ix) a description of the proposed emergency power systems and their capacities; 
+(b) in relation to the activity to be licensed, 
+(i) a description of and the schedule for the planned activity, 
+(ii) a description of the proposed methods for carrying on the activity, 
+(iii) a list of the categories of material proposed to be mined and a description of the 
+criteria used to determine those categories, 
+(iv) the anticipated duration of the activity, and 
+(v) the proposed quality assurance program for the activity; 
+(c) in relation to the environment and waste management, 
+(i) the program to inform persons living in the vicinity of the mine or mill of the general 
+nature and characteristics of the anticipated effects of the activity to be licensed on the 
+environment and the health and safety of persons, 
+(ii) the program to determine the environmental baseline characteristics of the site and the 
+surrounding area, 
+(iii) the effects on the environment that may result from the activity to be licensed, and 
+the measures that will be taken to prevent or mitigate those effects, 
+(iv) the proposed positions for and qualifications and responsibilities of environmental 
+protection workers, 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+3 
+ 
+(v) the proposed environmental protection policies and programs, 
+(vi) the proposed effluent and environmental monitoring programs, 
+(vii) the proposed location, the proposed maximum quantities and concentrations, and the 
+anticipated volume and flow rate of releases of nuclear substances and hazardous 
+substances into the environment, including their physical, chemical and radiological 
+characteristics, 
+(viii) the proposed measures to control releases of nuclear substances and hazardous 
+substances into the environment, 
+(ix) a description of the anticipated liquid and solid waste streams within the mine or 
+mill, including the ingress of fresh water and any diversion or control of the flow of 
+uncontaminated surface and ground water, 
+(x) the proposed measures to prevent or mitigate the effects of accidental releases of 
+nuclear substances and hazardous substances on the environment, the health and safety of 
+persons and the maintenance of security, including measures to 
+(A) assist off-site authorities in planning and preparing to limit the adverse effects of 
+an accidental release, 
+(B) notify off-site authorities of an accidental release or the imminence of an 
+accidental release, 
+(C) report information to off-site authorities during and after an accidental release, 
+(D) assist off-site authorities in dealing with the adverse effects of an accidental 
+release, and 
+(E) test the implementation of the measures to control the adverse effects of an 
+accidental release, 
+(xi) the anticipated quantities, composition and characteristics of backfill, and 
+(xii) a description of the proposed waste management system; 
+(d) in relation to health and safety, 
+(i) the effects on the health and safety of persons that may result from the activity to be 
+licensed, and the measures that will be taken to prevent or mitigate those effects, 
+(ii) the proposed program for selecting, using and maintaining personal protective 
+equipment, 
+(iii) the proposed worker health and safety policies and programs, 
+(iv) the proposed positions for and qualifications and responsibilities of radiation 
+protection workers, 
+(v) the proposed training program for workers, 
+(vi) the proposed measures to control the spread of any radioactive contamination, 
+(vii) the proposed ventilation and dust control methods and equipment for controlling air 
+quality, and 
+(viii) the proposed level of effectiveness of and inspection schedule for the ventilation 
+and dust control systems; and 
+(e) in relation to security, the proposed measures to alert the licensee to acts of sabotage or 
+attempted sabotage at the mine or mill.” 
+ 
+Section 4 of the UMMR states that: 
+“(1) In this section, action level means a specific dose of radiation or other parameter that, if 
+reached, may indicate a loss of control of part of a licensee’s radiation protection program or 
+environmental protection program, and triggers a requirement for specific action to be taken.  
+(2) An application for a licence in respect of a uranium mine or mill, other than a licence to 
+abandon, shall contain a proposed code of practice that includes 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+4 
+ 
+(a) any action level that the applicant considers appropriate for the purpose of this subsection; 
+(b) a description of any action that the applicant will take if an action level is reached; and 
+(c) the reporting procedures that will be followed if an action level is reached.” 
+ 
+ 
+Section 5 of the UMMR states that: 
+“(1) An application for a licence to prepare a site for and construct a uranium mine shall contain 
+the following information in addition to the information required by section 3 and subsection 
+4(2): 
+(a) a description of the proposed design of the mine; 
+(b) the proposed construction program, including its schedule; 
+(c) a description of the components, systems and equipment proposed to be installed at the 
+mine, including their design operating conditions; 
+(d) the proposed quality assurance program for the design of the mine; 
+(e) the results of a process-hazard analysis and a description of how those results have been 
+taken into account; 
+(f) a description of the proposed design, construction and operation of the waste management 
+system, including the measures to monitor its construction and operation, the construction 
+schedule, the contingency plans for construction and the measures to control the movement of 
+water in existing waterways; 
+(g) a description of the proposed disposition of the ore; 
+(h) the anticipated quantities and grade of ore and waste rock that will be removed, their 
+proposed storage location, and the proposed method, program and schedule, for their removal 
+and disposal; 
+(i) the proposed mining methods and programs; and 
+(j) the proposed commissioning plan for the components, systems and equipment to be 
+installed at the mine. 
+(2) An application for a licence to prepare a site for and construct a uranium mill shall contain the 
+following information in addition to the information required by section 3 and subsection 4(2): 
+(a) a description of the proposed design of the mill; 
+(b) the proposed construction program, including its schedule; 
+(c) a description of the components, systems and equipment proposed to be installed at the 
+mill, including their design operating conditions; 
+(d) the proposed quality assurance program for the design of the mill; 
+(e) the results of a process-hazard analysis and a description of how those results have been 
+taken into account; 
+(f) a description of the proposed design, construction and operation of the waste management 
+system, including the measures to monitor its construction and operation, the construction 
+schedule, the contingency plans for construction and the measures to control the movement of 
+water in existing waterways; 
+(g) the proposed milling methods and programs; 
+(h) a description of all proposed laboratory facilities and programs; and 
+(i) the proposed commissioning plan for the components, systems and equipment to be 
+installed at the mill.” 
+ 
+ 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+5 
+ 
+ 
+Section 6 of the UMMR states that:  
+“(1)An application for a licence to operate a uranium mine shall contain the following 
+information in addition to the information required by section 3 and subsection 4(2): 
+(a) the results of any commissioning work; 
+(b) a description of the structures, components, systems and equipment at the mine, including 
+any changes to their design and their design operating conditions as a result of the 
+commissioning; 
+(c) the proposed policies, methods and programs for operating and maintaining the mine; and 
+(d) the proposed methods for handling, storing, loading and transporting nuclear substances 
+and hazardous substances. 
+(2) An application for a licence to operate a uranium mill shall contain the following information 
+in addition to the information required by section 3 and subsection 4(2): 
+(a) the results of any commissioning work; 
+(b) a description of the structures, components, systems and equipment at the mill, including 
+any changes to their design and their design operating conditions as a result of the 
+commissioning; 
+(c) the proposed policies, methods and programs for operating and maintaining the mill; 
+(d) the proposed methods for handling, storing and loading concentrates and uranium-bearing 
+material, both solid and liquid; 
+(e) the proposed operating schedule; 
+(f) the daily and annual design capacity of the mill, and the expected recovery and 
+composition of mill feed, concentrates and tailings; and 
+(g) a description of the proposed operation of the waste management system.” 
+ 
+Section 7 of the UMMR states that “An application for a licence to decommission a uranium 
+mine or mill shall contain the following information in addition to the information required 
+by section 3 and subsection 4(2): 
+ (a) a description of and the proposed schedule for the decommissioning work, including the 
+proposed starting date and the expected completion date of the decommissioning work and 
+the rationale for the schedule; 
+(b) the land, buildings, structures, components, systems, equipment, nuclear substances and 
+hazardous substances that will be affected by the decommissioning; 
+(c) the proposed measures, methods and programs for carrying on the decommissioning; and 
+(d) a description of the planned state of the site upon completion of the decommissioning 
+work.” 
+ 
+Section 10 of the UMMR states that “Every licensee shall 
+(a) establish, implement and maintain written operating procedures for the licensed activity; 
+(b) train its workers to perform their work in accordance with the operating procedures; and 
+(c) audit its workers for the purpose of verifying compliance with the operating procedures.” 
+ 
+Section 11 of the UMMR states that“Every licensee shall, with respect to the ventilation 
+systems established in accordance with the licence, 
+(a) ensure that each main fan is equipped with a device that provides a warning signal when 
+the main fan is not functioning properly; 
+(b) ensure that a person is designated to receive and respond to a warning signal provided by 
+a device referred to in paragraph (a); and 
+(c) implement measures to prevent any person or activity from interfering with the proper 
+operation of the ventilation systems.” 
+ 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+6 
+ 
+ 
+Section 12 of the UMMR states that: 
+“(1) Where a ventilation system in a work place is not functioning in accordance with a 
+licence, the licensee shall 
+(a) implement alternative measures to protect the health and safety of its workers; and 
+(b) ensure that only the work necessary to restore that system is performed in the work place. 
+(2) Before a worker performs any work that is necessary to restore a ventilation system, the 
+licensee shall inform the worker of the protective measures that have been taken and are 
+to be taken in connection with the work.” 
+ 
+Section 16 of the UMMR states that: 
+“(1) Every licensee shall keep a record of 
+(a) its operating and maintenance procedures; 
+(b) its mine plans showing the actual and planned mine workings; 
+(c) the schedules for all of its planned mining operations; 
+(d) the plans of every tailings-containment structure and area and every diversion structure 
+and system associated with the waste management system; 
+(e) the design of the uranium mine or mill and of the components and systems installed at the 
+mine or mill; 
+(f) the method and relevant data used to ascertain the doses of radiation received by the 
+workers at the uranium mine or mill and the intake of radioactive nuclear substances by those 
+workers; 
+(g) any measurement made in accordance with the licence or the regulations made under the 
+Act; 
+(h) the inspections and maintenance carried out in accordance with the licence or the 
+regulations made under the Act; 
+(i) the quantity of air delivered by each main fan; 
+(j) the performance of each dust control system; and 
+(k) the training received by each worker. 
+(2) Every licensee shall make the records referred to in subsection (1) available at the 
+uranium mine or mill to the workers and a workers’ representative. 
+(3) Every licensee shall retain a record of the training referred to in paragraph (1)(k) for the 
+period that the worker is employed at the uranium mine or mill. 
+(4) Every licensee shall post, at a location within the uranium mine or mill that is accessible 
+to all workers and where it is most likely to come to their attention, a record of the 
+measurements made in respect of every work place in accordance with the licence and 
+these Regulations.” 
+2. Environmental Assessment and Licensing Processes 
+The Nuclear Safety and Control Act obliges the CNSC to determine, before issuing a licence, whether 
+the applicant for the licence is qualified and will make adequate provision for the health and safety of 
+persons, national security and protection of the environment and measures required to implement 
+Canada’s international obligations. To make these determinations, the CNSC needs credible and 
+relevant information from applicants. 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+7 
+ 
+2.1 Environmental assessment process 
+Upon receipt of a licence application to prepare a site for and construct an uranium mine and/or mill 
+facility and a complete project description, the CNSC determines whether the activity in the 
+application requires an environmental assessment (EA) pursuant to the Canadian Environmental 
+Assessment Act, 2012 (CEAA 2012). The CEAA 2012 sets out the federal EA process in Canada; 
+EAs under the CEAA 2012 identify if a specific project is likely to cause significant environmental 
+effects, and determine whether those effects can be mitigated. By considering environmental effects 
+and mitigation early in project planning, potential delays and unnecessary costs can be avoided or 
+reduced.  
+The CNSC is the sole federal responsible authority for conducting an EA for designated projects 
+identified in the Regulations Designating Physical Activities. For additional information on EAs 
+under the CEAA 2012 and the CNSC licensing process, refer to REGDOC-3.5.1, Licensing Process 
+for Class I Facilities and Uranium Mines and Mills. For additional information on the EA process 
+under the CEAA 2012, refer to REGDOC-2.9.1, Environmental Protection: Environmental 
+Principles, Assessments and Protection Measures. 
+2.2 Licensing process 
+The CNSC’s licensing process for uranium mines and mills follows the stages laid out in the Uranium 
+Mines and Mills Regulations, proceeding progressively through site preparation and construction, 
+operating, decommissioning and abandonment phases. At each licensing stage, the CNSC determines 
+if the licence applicant is qualified and has made adequate provision for the protection of the 
+environment, the health and safety of persons, and the maintenance of national security and measures 
+required to implement international obligations to which Canada has agreed. If satisfied, the CNSC 
+may issue a licence that contains appropriate conditions.  
+Typically, a CNSC licence incorporates the applicant’s commitments and any other conditions that 
+the CNSC considers necessary in the interests of health and safety of persons, national security and 
+protection of the environment.  
+The information required by the CNSC at each licence application stage is influenced by case-specific 
+circumstances. Typically, the information supplied at one stage serves as a building block for the 
+next. An application for a CNSC licence may include new information or, in accordance with 
+section 7 of the General Nuclear Safety and Control Regulations, it may incorporate by reference any 
+information that is contained in another CNSC-issued licence. For additional information on EAs 
+under the CEAA 2012 and the CNSC licensing process, refer to REGDOC-3.5.1, Licensing Process 
+for Class I Facilities and Uranium Mines and Mills.  
+2.3 CNSC point of contact 
+The CNSC assigns every applicant or licensee a single point of contact, who can clarify or explain the 
+information in this document if necessary.  
+The applicant should contact the CNSC early on to request the name and contact information of the 
+person assigned to their application. 
+To contact the CNSC: 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Fax: 613-995-5086 
+Email: info@cnsc-ccsn.gc.ca 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+8 
+ 
+2.4 Submission of licence application 
+The applicant should ensure that the application is complete, dated and signed by the appropriate 
+authority (the licence applicant), and that all supporting documents are clearly identified and cross-
+referenced. 
+If the licence application is subject to the Canadian Nuclear Safety Commission Cost Recovery Fees 
+Regulations, payment must be enclosed. For further details, contact the CNSC Cost Recovery Group 
+at (613) 995-5894 or toll-free at 1-888-229-2672. 
+The applicant should send two printed copies of the signed and dated application to the Commission 
+at the following address: 
+Commission Registrar 
+Canadian Nuclear Safety Commission 
+P.O. Box 1046, Station B 
+280 Slater Street 
+Ottawa, ON  K1P 5S9 
+As required by section 27 of the General Nuclear Safety and Control Regulations, the applicant must 
+keep a complete copy of the application for their records. 
+Applicants are strongly encouraged to submit the documents in electronic format (for example, on 
+secure memory devices).  
+All information submitted is subject to the provisions of the Access to Information Act and the 
+Privacy Act. It is the responsibility of the applicant to identify and justify any material that is not 
+suitable for disclosure in accordance with those acts. 
+3. Overview of Ventilation Requirements in Legislation  
+The Uranium Mines and Mills Regulations contain both direct and indirect references to the 
+ventilation of uranium mines or mills. Section 3 is a comprehensive summary of the general 
+information to be included in an application for a uranium mine or mill licence, except for a licence to 
+abandon. The section includes requirements that pertain exclusively to the ventilation of uranium 
+mines or mills, as well as others that encompass, but are not limited to, ventilation-related matters.  
+Sections 4, 5, 6 and 7 of the Uranium Mines and Mills Regulations address ventilation systems and 
+related matters, among other topics. These subjects include:  
+ codes of practice 
+ 
+design of the mine or mill 
+ 
+results of commissioning work 
+ 
+design of equipment, systems and components 
+ 
+quality assurance 
+ 
+commissioning plans  
+ 
+operating, maintenance and decommissioning policies, methods and procedures 
+Section 10 pertains to both ventilation-related and non-ventilation-related matters. It requires uranium 
+mine and mill licensees to:  
+ 
+establish, implement and maintain written operating procedures for their licensed activities 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+9 
+ 
+ 
+train their workers to perform work in accordance with operating procedures  
+ 
+audit their workers for the purpose of verifying compliance with operating procedures  
+Sections 11 and 12 specify the actions to be taken by CNSC licensees with respect to the operation or 
+malfunction of ventilation systems.  
+Section 16 requires licensees to keep certain records, including those for ventilation systems and 
+activities, and to make these records available to workers and workers’ representatives.  
+4. Information Requirements at Prescribed Licensing Stages 
+Radiation safety in uranium mines and mills depends partly on the provision of adequate ventilation 
+in the workplace, and the ventilation-related requirements discussed in this guide appear in the 
+Uranium Mines and Mills Regulations (UMMR). Historically, uranium mines and mills have used 
+active or passive ventilation measures to limit concentrations of airborne radioactivity in workplaces. 
+When properly designed, constructed, monitored and maintained, such systems have proven to be 
+practical and effective in reducing radiation hazards.  
+Under the UMMR, applicants for all classes of uranium mine and mill licences, except a licence to 
+abandon, are responsible for submitting prescribed information pertaining to any proposed ventilation 
+systems or activities. These information requirements will vary with the licensing stage. For example, 
+an application for a uranium mine or mill operating licence should typically include a description of 
+the finalized proposal (i.e., the “policies, methods and procedures”) for operating and maintaining any 
+proposed ventilation system and “as-built” design details, whereas more preliminary information on 
+operating and maintenance policies, methods and procedures might suffice at the siting and 
+construction stage. Conversely, proponents who plan to use unproven or novel technologies or 
+methods might need to provide more rigorous substantiations at an earlier licensing stage than 
+proponents of more conventional, proven approaches.  
+For uranium mines and mills, the ventilation-related measures and activities proposed will depend 
+partly on unique combinations of legislated requirements and case-specific factors, at all stages of the 
+licensing process. These factors will reflect the options open to applicants or proponents and their 
+respective preferences, and include site, environmental and technological constraints, such as ore-
+body characteristics, mining and processing technologies, facility designs and operating methods.  
+In addition to fulfilling regulatory requirements, proponents of uranium mine or mill projects may be 
+assigned additional undertakings to complete. Supplemental work, or undertakings, can be identified 
+through either the environmental assessment review process or licensing hearings, or both. 
+Undertakings and conditions can be assigned by the CNSC or other government bodies from which 
+approvals are required. 
+At all licensing stages, the CNSC will review any proposed ventilation systems or activities against 
+regulatory requirements, and will consider relevant information that pertains directly or indirectly to 
+the systems or activities. The NSCA and regulations do not prescribe the form of applications for 
+uranium mine or mill licences, but state only the type of information that is to be included. However, 
+to aid regulatory review, the information contained in licence applications should be organized and 
+presented clearly and logically.  
+The following sections summarize and discuss information requirements for uranium mine and mill 
+ventilation systems. 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+10 
+ 
+4.1 All classes of licences except a licence to abandon 
+Requirements 
+Subparagraphs 3(d)(vii) and 3(d)(viii) of the UMMR require an application for any CNSC licence in 
+respect of a uranium mine or mill, other than a licence to abandon, to contain descriptions of:  
+ 
+the proposed ventilation and dust control methods  
+ 
+the proposed equipment for controlling air quality  
+ 
+the proposed level of effectiveness of and inspection schedule for the ventilation and dust control 
+systems 
+Guidance 
+The description of the proposed level of effectiveness of the ventilation and dust control systems 
+should explain how the system will be or has been optimized in accordance with the ALARA (as low 
+as reasonably achievable) principle of dose limitation.  
+If alternative radiation protection measures are to be substituted for engineered ventilation measures, 
+these measures should be described and justified in the context of the applicant’s radiation protection 
+program.  
+The licence application should demonstrate that the proposed ventilation designs are appropriate and 
+that the related performance predictions are valid. This documentation could include descriptions of 
+supporting assumptions, criteria, calculations, research, modelling results, drawings, plans, or 
+diagrams. 
+4.2 Licence to prepare a site for and construct 
+Requirements 
+In addition to the information required by subparagraphs 3(d)(vii) and 3(d)(viii) of the UMMR, an 
+application for a licence to prepare a site for and construct a uranium mine or mill shall contain the 
+following information, where it is relevant to the ventilation of the mine or mill:  
+ 
+a proposed code of practice that includes:  
+a) any action level that the applicant considers necessary for purposes of subsection 4(2) of the 
+UMMR 
+b) a description of any action that the applicant will take if an action level is reached, and  
+c) the reporting procedures that will be followed if an action level is reached (subsection 4(2))  
+ 
+a description of the proposed design of the mine or mill (paragraphs 5(1)(a), 5(2)(a)) 
+ 
+a description of the components, systems and equipment proposed to be installed at the mine or 
+mill, including their design operating conditions (paragraphs 5(1)(c), 5(2)(c))  
+ 
+the proposed quality assurance program for the mine or mill (paragraphs 5(1)(d), 5(2)(d))  
+ 
+the results of a process-hazard analysis and a description of how those results have been taken 
+into account (paragraphs 5(1)(e), 5(2)(e))  
+ 
+the proposed commissioning plan for the ventilation components, systems, and equipment to be 
+installed at the mine or mill (paragraphs 5(1)(j), 5(2)(i)) 
+ 
+ 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+11 
+ 
+Guidance 
+The information that is submitted to meet the information requirements listed above for a licence to 
+prepare a site for and construct a uranium mine or mill should typically include such supporting 
+details as:  
+ 
+a description of any alarm system or component, including a main fan warning device, that will 
+be installed to ensure that the ventilation system operates safely (subsection 11(a))  
+ 
+a description of any design provisions to ensure effective separation of primary air intakes and 
+exhausts  
+ 
+a description of any proposed auxiliary ventilation systems  
+ 
+the preliminary programs for monitoring air quality and quantity  
+ 
+a description of the quantity and quality of air that is to be supplied to each workplace area;  
+ 
+a description of the expected rate of air exchange in the workplace after installation of any 
+proposed ventilation systems  
+ 
+a description of the expected air quality in the workplace after installation of any proposed 
+ventilation systems  
+ 
+a description of any administrative provisions to ensure effective operation of the ventilation 
+system 
+ 
+proposed operating parameters for winter and summer; and  
+ 
+any proposed measures to control the movement of radiation from unventilated to ventilated areas 
+of underground mines 
+4.3 Licence to operate 
+Requirements 
+In addition to the information required by subparagraphs 3(d)(vii) and 3(d)(viii) of the UMMR, an 
+application for a licence to operate a uranium mine or mill shall contain the following information, 
+where it is relevant to the ventilation of the mine or mill:  
+ a proposed code of practice that includes:  
+(a) any action level that the applicant considers necessary for purposes of subsection 4(2) of the 
+UMMR  
+(b) a description of any action that the applicant will take if an action level is reached, and  
+(c) the reporting procedures that will be followed if an action level is reached (subsection 4(2))  
+ 
+the proposed policies, methods and programs for operating and maintaining the ventilation 
+systems (paragraphs 6(1)(c), 6(2)(c))  
+ 
+a description of the structures, components, systems and equipment that have been constructed or 
+installed at the mine or mill, and their design operating conditions as a result of commissioning 
+(paragraphs 6(1)(b), 6(2)(b))  
+ 
+the results of any commissioning work (paragraph 6(1)(a)) 
+ 
+the measures to ensure that a person is designated to receive and respond to a warning signal 
+provided by a main-fan warning device (subsection 11(b))  
+ 
+the measures that are to be implemented to prevent any person or activity from interfering with 
+the proper operation of the ventilation system (subsection 11(c) the measures that the applicant 
+proposes to implement to protect the health and safety of workers if the ventilation system in the 
+licensed workplace fails to function in accordance with the licence (paragraph 12(1)(a))  
+ 
+the measures that the licence applicant proposes to implement to ensure, in the event of a 
+ventilation system not functioning in accordance with a licence, that only the work that is 
+immediately necessary to restore the system is performed in the affected workplace (paragraph 
+12(1)(b))  
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+12 
+ 
+ 
+how the licensee will inform a worker of the protective measures that have been taken and are to 
+be taken in connection with any work necessary to restore a ventilation system (subsection 12(2))  
+Guidance 
+To meet the above requirements as they pertain to ventilation systems or related measures, an application 
+for a licence to operate a uranium mine or mill should include or incorporate the relevant information, 
+whether new or previously submitted.  
+Accordingly, an application to the CNSC for a uranium mine or mill operating licence should demonstrate 
+that any engineered ventilation system will be operated, monitored and maintained in accordance with 
+regulatory requirements. Typically, the application should describe:  
+ 
+the dimensions, location and layout of ventilation ducts  
+ 
+the location, type and use of all ventilation system controls and regulators  
+ 
+the design, location and operation of any equipment or devices to measure air quality or air 
+quantity  
+ 
+the location of system air intakes and exhausts  
+ 
+how the ventilation system has been constructed to meet any relevant conditions of the associated 
+CNSC licence to prepare a site for and construct the facility  
+ 
+any available results from the monitoring of the performance of the ventilation system during 
+commissioning  
+ 
+any planned changes with respect to the design, operation, monitoring, maintenance or 
+performance of the engineered ventilation system  
+ 
+any proposed code of practice with respect to the ventilation system 
+ 
+the policies, methods and procedures for operating, maintaining and controlling the ventilation 
+system 
+4.4 Licence to decommission 
+Requirements 
+In addition to the information required by subparagraphs 3(d)(vii) and 3(d)(viii) of the UMMR, the 
+regulations stipulate that an application for a licence to decommission a uranium mine or mill shall 
+contain the following information where it is relevant to the ventilation of the mine or mill.  
+ 
+a proposed code of practice that includes:  
+(a) any action level that the applicant considers necessary for purposes of subsection 4(2) of the 
+UMMR  
+(b) a description of any action that the applicant will take if an action level is reached, and  
+(c) the reporting procedures that will be followed if an action level is reached (subsection 4(2))  
+ 
+the proposed schedule for the decommissioning work, including the proposed starting date and 
+the expected completion date of the decommissioning work and the rationale for the schedule 
+(subsection 7(a))  
+ 
+a description of the land, buildings, structures, components, systems, equipment, nuclear 
+substances and hazardous substances that will be affected by the decommissioning (subsection 
+7(b))  
+ 
+the proposed measures, methods and programs for carrying on the decommissioning (subsection 
+7(c)) 
+ 
+a description of the planned state of the site upon completion of the decommissioning work 
+(subsection 7(d)) 
+ 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+13 
+ 
+Guidance 
+The information submitted in support of an application for a licence to decommission should address 
+the requirements listed above to a level of detail and accuracy that demonstrates that the applicant has 
+made adequate allowance for the health and safety of persons, national security and protection of the 
+environment during decommissioning.  
+One example of making adequate allowance might be to provide enhanced ventilation during some or 
+all decommissioning activities. This could involve the continued use, with or without modifications, 
+of a ventilation system that was used during the operating phase, or the use of new measures. 
+Accordingly, a licence applicant’s preferred measures will typically be influenced by case-specific 
+circumstances, such as whether previously installed ventilation systems have become radioactively 
+contaminated during use, or whether the proposed ventilation systems are likely to become similarly 
+contaminated upon use. To expedite regulatory review and licensing, the application for a 
+decommissioning licence should address any such possibilities.  
+CNSC staff need to know the details of an applicant’s proposed decommissioning plans, so that it can 
+evaluate the adequacy of any proposed use or decommissioning of ventilation systems and 
+equipment.  
+To help control radiation doses to workers and the public during decommissioning activities, action 
+levels that involve ventilation activities or results can be incorporated into codes of practice at 
+uranium mines or mill. 
+5. Operational and Maintenance-Related Requirements 
+Requirements 
+If a code of practice is referred to in a uranium mine or mill licence, the licensee is  
+required by section 9 of the Uranium Mines and Mills Regulations (UMMR) to post a copy of the  
+code of practice at a location within the uranium mine or mill that is accessible to all  
+workers and where it is most likely to come to their attention. 
+Paragraph 10(a) of the UMMR obliges every CNSC licensee to establish, implement and maintain 
+written procedures for the conduct of licensed activities. Accordingly, uranium mine and mill 
+licensees that use ventilation systems to help protect their workers and the public must establish, 
+implement and maintain written procedures to ensure that these systems operate effectively. These 
+operating procedures should include provisions, such as inspection, surveillance or sampling 
+programs, for purposes of evaluating, controlling and demonstrating the effectiveness of the 
+associated systems.  
+Paragraph 10(b) of the UMMR further obliges licensees to train their workers to perform work in 
+accordance with operating procedures. To meet this obligation as it relates to a ventilation system at a 
+uranium mine or mill, the licensee must ensure that the workers who are responsible for following the 
+ventilation-related operating procedures receive training to perform their work.  
+Paragraph 10(c) of the UMMR also obliges licensees to audit their workers for the purpose of 
+verifying compliance with the relevant operating procedures for the conduct of licensed activities, 
+including those for ventilation systems at uranium mines and mills. 
+ 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+14 
+ 
+Section 11 of the UMMR requires every licensee to:  
+ 
+ensure that each main fan of the ventilation systems established in accordance with the licence is 
+equipped with a device that provides a warning signal when the main fan is not functioning 
+properly (paragraph 11(a))  
+ 
+ensure that a person is designated to receive and respond to any warning signal provided by the 
+main-fan warning device (paragraph 11(b))  
+ 
+implement measures to prevent any person or activity from interfering with the proper operation 
+of the ventilation systems (paragraph 11(c)) 
+Where a ventilation system in a uranium mine or mill workplace is not functioning in accordance 
+with the licence, section 12 of the UMMR requires the licensee to:  
+ 
+implement alternative measure to protect the health and safety of the workers (paragraph 
+12(1)(a))  
+ 
+ensure that only the work necessary to restore the ventilation system is performed in the 
+workplace (paragraph 12(1)(b)) 
+Subsection 12(2) of the UMMR stipulates that before a worker performs any work that is necessary to 
+restore a ventilation system at a uranium mine or mill, the uranium mine or mill licensee shall inform 
+the worker of the protective measures that have been taken, and are to be taken in connection with the 
+work. 
+Section 16 of the UMMR requires every uranium mine or mill licensee to keep the following records 
+that pertain to, or could pertain to, mine or mill ventilation systems: 
+ 
+operating and maintenance procedures (paragraph 16(1)(a)) 
+ 
+the design of the components and systems installed at the mine or mill (paragraph 16(1)(e)) 
+ 
+the method and relevant data used to ascertain the doses of radiation received by workers at the 
+uranium mine or mill and the intake of radioactive nuclear substances by those workers 
+(paragraph 16(1)(f))  
+ 
+any measurement made in accordance with the licence or the regulations made under the Act 
+(paragraph 16(1)(g))  
+ 
+the inspections and maintenance carried out in accordance with the licence or the regulations 
+made under the Nuclear Safety and Control Act (paragraph 16(1)(h))  
+ 
+the quantity of air delivered by each main fan identified in the licence (paragraph 16(1)(i));  
+ 
+the performance of each dust control system (paragraph 16(1)(j)) and  
+ 
+the training received by each worker (paragraph 16(1)(k)) 
+Section 16 of the UMMR requires uranium mine or mill licensees to:  
+ 
+make the records referred to in subsection (1) available at the uranium mine or mill to the workers 
+and a workers’ representative (subsection 16(2))  
+ 
+retain a record of the training received by workers employed at the uranium mine and mill 
+(subsection 16(3))  
+ 
+post at a location within the uranium mine or mill that is accessible to all workers, and where it is 
+most likely to come to their attention, a record of the measurements made in respect of every 
+workplace in accordance with the licence and the UMMR (subsection 16(4)) 
+ 
+ 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+15 
+ 
+Glossary 
+For definitions of terms used in this document, see REGDOC-3.6, Glossary of CNSC 
+Terminology, which includes terms and definitions used in the Nuclear Safety and Control Act 
+and the regulations made under it, as well as in CNSC regulatory documents and other 
+publications. REGDOC-3.6 is provided for reference and information. 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+16 
+ 
+References 
+CNSC, REGDOC-3.5.1, Licensing Process for Class I Facilities and Uranium Mines and Mills, Ottawa, 
+Canada, 2015. 
+CNSC, REGDOC-2.9.1, Environmental Protection: Environmental Principles, Assessments and 
+Protection Measures, Ottawa, Canada, 2016. 
+CNSC, G-129, Revision 1, Keeping Radiation Exposures and Doses “As Low as Reasonably Achievable 
+(ALARA)”, Ottawa, Canada, 2004. 
+CNSC, G-4, Measuring Airborne Radon Progeny at Uranium Mines and Mills, Ottawa, Canada, 2003. 
+CNSC,  
+G-228, Developing and Using Action Levels, Ottawa, Canada, 2001. 
+ 
+ 
+February 2022 
+REGDOC-2.5.4, Design of Uranium Mines and Mills: Ventilation Systems 
+ 
+17 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the Canadian Nuclear Safety 
+Commission (CNSC). In addition to the Nuclear Safety and Control Act and associated regulations, these 
+facilities and activities may also be required to comply with other regulatory instruments such as 
+regulatory documents or standards. 
+Effective April 2013, the CNSC’s catalogue of existing and planned regulatory documents has been 
+organized under three key categories and twenty-five series, as set out below. Regulatory documents 
+produced by the CNSC fall under one of the following series: 
+1.0 
+Regulated facilities and activities 
+Series 
+1.1 
+Reactor facilities 
+1.2 
+Class IB facilities 
+1.3 
+Uranium mines and mills 
+1.4 
+Class II facilities 
+1.5 
+Certification of prescribed equipment 
+1.6 
+Nuclear substances and radiation devices 
+2.0 
+Safety and control areas 
+Series 
+2.1 
+Management system 
+2.2 
+Human performance management 
+2.3 
+Operating performance 
+2.4 
+Safety analysis 
+2.5 
+Physical design 
+2.6 
+Fitness for service 
+2.7 
+Radiation protection 
+2.8 
+Conventional health and safety 
+2.9 
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0 
+Other regulatory areas  
+Series 
+3.1 
+Reporting requirements 
+3.2 
+Public and Aboriginal engagement 
+3.3 
+Financial guarantees 
+3.4 
+Commission proceedings 
+3.5 
+CNSC processes and practices 
+3.6 
+Glossary of CNSC terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. For the latest list of regulatory 
+documents, visit the CNSC’s website. 

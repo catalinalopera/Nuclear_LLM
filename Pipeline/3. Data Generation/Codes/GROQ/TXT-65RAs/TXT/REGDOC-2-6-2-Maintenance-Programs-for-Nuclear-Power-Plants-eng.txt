@@ -1,0 +1,1931 @@
+ 
+Fitness for Service 
+Maintenance Programs for Nuclear 
+Power Plants 
+ 
+ 
+REGDOC-2.6.2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+August 2017 
+ 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+ 
+ 
+ 
+ 
+Maintenance Programs for Nuclear Power Plants 
+Regulatory Document REGDOC-2.6.2 
+© Canadian Nuclear Safety Commission (CNSC) 2017 
+Catalogue number CC172-92/2017E-PDF 
+ISBN 978-0-660-07565-5 
+Extracts from this document may be reproduced for individual use without permission provided the 
+source is fully acknowledged. However, reproduction in whole or in part for purposes of resale or 
+redistribution requires prior written permission from the Canadian Nuclear Safety Commission. 
+Également publié en français sous le titre : Programmes d’entretien des centrales nucléaires  
+Document availability 
+This document can be viewed on the CNSC website. To request a copy of the document in English or 
+French, please contact: 
+Canadian Nuclear Safety Commission 
+280 Slater Street 
+P.O. Box 1046, Station B 
+Ottawa, Ontario K1P 5S9 
+CANADA 
+Tel.: 613-995-5894 or 1-800-668-5284 (in Canada only) 
+Facsimile: 613-995-5086 
+Email: cnsc.information.ccsn@canada.ca 
+Web site: nuclearsafety.gc.ca 
+Facebook: facebook.com/CanadianNuclearSafetyCommission 
+YouTube: youtube.com/cnscccsn 
+Twitter: @CNSC_CCSN 
+ 
+Publishing history: 
+December 2012 
+RD/GD-210, Maintenance Programs for Nuclear Power Plants 
+July 2007 
+S-210, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+ 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+ 
+ 
+i 
+Preface 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants, sets out the requirements of the 
+Canadian Nuclear Safety Commission (CNSC) with regard to maintenance programs for nuclear power 
+plants (NPPs). An NPP maintenance program consists of policies, processes and procedures that provide 
+direction for maintaining structures, systems and components (SSCs) of the plant. 
+REGDOC-2.6.2 replaces regulatory standard RD/GD-210, Maintenance Programs for Nuclear Power 
+Plants (published in 2012). It reaffirms the existing requirements found in RD/GD-210. 
+Effective maintenance is essential for the safe operation of a nuclear power plant. The range of 
+maintenance activities includes monitoring, surveillance, inspection, testing, assessment, calibration, 
+service, overhaul, repair and replacement of parts. The scope of the maintenance program covers all 
+structures, systems or components (SSCs) within the bounds of the nuclear power plant. The type and 
+frequency of maintenance activity applied to each SSC are understood to be commensurate with the 
+SSC’s importance to safety, design function and required performance. 
+The majority of maintenance activities are traditionally allocated to the concept of preventive 
+maintenance. These maintenance activities can be derived, for example, from design or reliability 
+requirements, codes and standards, and operating experience and are performed on the basis of service 
+time, actual condition or predicted condition. Where the performance or condition of an SSC does not 
+allow it to function as per design, corrective action must be taken. 
+The results of all maintenance activities are fed back through an optimization process that enables 
+continuous improvement of the program. 
+The requirements outlined in this regulatory document are consistent with international guidelines, 
+including Safety Related Maintenance in the Framework of the Reliability Centered Maintenance 
+Concept, TECDOC-658, and Maintenance, Surveillance and In-service Inspection in Nuclear Power 
+Plants, Safety Standards Series, No. NS-G-2.6, both from the International Atomic Energy Agency 
+(IAEA). 
+Where referenced in a licence either directly or indirectly (such as through licensee-referenced 
+documents), this document is part of the licensing basis for a regulated facility or activity.  
+The licensing basis sets the boundary conditions for acceptable performance at a regulated facility or 
+activity and thus establishes the basis for the CNSC’s compliance program in respect of that regulated 
+facility or activity.  
+Where this document is part of the licensing basis, the word “shall” is used to express a requirement to 
+be satisfied by the licensee or licence applicant. “Should” is used to express guidance or that which is 
+advised. “May” is used to express an option or that which is advised or permissible within the limits of 
+this regulatory document. “Can” is used to express possibility or capability. 
+Nothing contained in this document is to be construed as relieving any licensee from any other 
+pertinent requirements. It is the licensee’s responsibility to identify and comply with all applicable 
+regulations and licence conditions. 
+ 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+ 
+ 
+Table of Contents 
+1. 
+Introduction 
+........................................................................................................................1 
+1.1 
+Purpose................................................................................................................................ 1 
+1.2 
+Scope 
+................................................................................................................................... 1 
+1.3 
+Relevant legislation and regulations ................................................................................... 1 
+1.4 
+National and international standards 
+................................................................................... 2 
+2. 
+Background ........................................................................................................................3 
+3. 
+Maintenance Program .......................................................................................................4 
+3.1 
+Program basis 
+...................................................................................................................... 4 
+3.2 
+Maintenance organization 
+................................................................................................... 6 
+3.2.1 
+Policies, processes and procedures ........................................................................ 6 
+3.2.2 
+Organizational structure 
+......................................................................................... 7 
+3.2.3 
+Training and qualification of workers.................................................................... 8 
+3.2.4 
+Contract workers 
+.................................................................................................. 10 
+3.2.5 
+Maintenance facilities .......................................................................................... 11 
+3.3 
+Maintenance activities ...................................................................................................... 12 
+3.3.1 
+Preventive maintenance ....................................................................................... 12 
+3.3.2 
+Corrective maintenance ....................................................................................... 13 
+3.3.3 
+Aging management .............................................................................................. 14 
+3.3.4 
+Activity optimization ........................................................................................... 14 
+3.4 
+SSC monitoring 
+................................................................................................................. 15 
+3.4.1 
+Condition monitoring 
+........................................................................................... 16 
+3.4.2 
+Surveillance ......................................................................................................... 18 
+3.4.3 
+Testing ................................................................................................................. 18 
+3.5 
+Maintenance work 
+............................................................................................................. 19 
+3.5.1 
+Work assessment.................................................................................................. 20 
+3.5.2 
+Work planning, scheduling and execution 
+........................................................... 21 
+3.5.3 
+Outage activities .................................................................................................. 23 
+3.5.4 
+Maintenance procedures ...................................................................................... 24 
+3.5.5 
+Post-maintenance verification and testing ........................................................... 26 
+3.6 
+Spare parts and procurement 
+............................................................................................. 27 
+3.7 
+Management assessment and program review 
+.................................................................. 28 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+ 
+ 
+3.8 
+Record keeping ................................................................................................................. 30 
+Glossary ........................................................................................................................................32 
+References 
+.....................................................................................................................................36 
+Additional Information ...............................................................................................................37 
+ 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+1 
+ 
+Maintenance Programs for Nuclear Power Plants 
+1. 
+Introduction 
+1.1 
+Purpose 
+This regulatory document sets out the requirements of the Canadian Nuclear Safety Commission 
+(CNSC) with regard to maintenance programs for nuclear power plants (NPPs). This document 
+also provides information and guidance on how the requirements may be met. 
+When incorporated into a licence or other legally enforceable instrument, this regulatory 
+document becomes a legal requirement. 
+1.2 
+Scope 
+An NPP maintenance program consists of policies, processes and procedures that provide 
+direction for maintaining structures, systems or components (SSCs) of the plant. 
+Effective maintenance is essential for the safe operation of a nuclear power plant. The range of 
+maintenance activities includes monitoring, surveillance, inspection, testing, assessment, 
+calibration, service, overhaul, repair and replacement of parts. The scope of the maintenance 
+program covers all structures, systems or components (SSCs) within the bounds of the nuclear 
+power plant. 
+It is not the intent of this regulatory document to override requirements provided by other codes 
+and standards but rather to provide the framework within which such codes and standards are 
+applied to ensure that SSCs function as per design. 
+In this document, “shall” is used to express a requirement, i.e., a provision that a licensee or 
+licence applicant is obliged to satisfy in order to comply with the requirements of this regulatory 
+document. “Should” is used to express guidance or that which is advised. “May” is used to 
+express an option or that which is permissible within the limits of this regulatory document. 
+“Can” is used to express possibility or capability. 
+Information on maintenance programs is submitted as part of the application for a construction 
+licence or an operating licence. As such, throughout this document, “licensee” refers to both 
+licensees and licence applicants. 
+1.3 
+Relevant legislation and regulations 
+The following provisions of the Nuclear Safety and Control Act (NSCA, the Act) and regulations 
+made under the NSCA are relevant to this regulatory document: 
+• 
+subsection 24(4) of the NSCA states that “no licence may be issued, renewed, amended or 
+replaced unless, in the opinion of the Commission, the applicant 
+(a) is qualified to carry on the activity that the licence will authorize the licensee to carry on 
+(b) will, in carrying on that activity, make adequate provision for the protection of the 
+environment, the health and safety of persons and the maintenance of national security and 
+measures required to implement international obligations to which Canada has agreed” 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+2 
+ 
+• 
+subsection 24(5) of the NSCA states that “a licence may contain any term or condition that 
+the Commission considers necessary for the purposes of the Act” 
+• 
+subsection 12(1) of the General Nuclear Safety and Control Regulations states that “every 
+licensee shall  
+(a) ensure the presence of a sufficient number of qualified workers to carry on the licensed 
+activity safely and in accordance with the Act, the regulations made under the Act and the 
+licence 
+(b) train the workers to carry on the licensed activity in accordance with the Act, the 
+regulations made under the Act and the licence 
+(c) take all reasonable precautions to protect the environment and the health and safety of 
+persons and to maintain the security of nuclear facilities and of nuclear substances 
+(d) provide the devices required by the Act, the regulations made under the Act and the 
+licence and maintain them within the manufacturer’s specifications 
+(e) require that every person at the site of the licensed activity use equipment, devices, 
+clothing and procedures in accordance with the Act, the regulations made under the Act and 
+the licence” 
+• 
+paragraphs 6(d), (m), and (n) of the Class I Nuclear Facilities Regulations state that “an 
+application for a licence to operate a Class I nuclear facility shall contain […] 
+(d) the proposed measures, policies, methods and procedures for operating and maintaining 
+the nuclear facility […] 
+(m) the proposed responsibilities of and qualification requirements and training program for 
+workers, including the procedures for the requalification of workers 
+(n) the results that have been achieved in implementing the program for recruiting, training 
+and qualifying workers in respect of the operation and maintenance of the nuclear facility” 
+• 
+subsection 14(2) of the Class I Nuclear Facilities Regulations states that “every licensee who 
+operates a Class I facility shall keep a record of 
+(a) operating and maintenance procedures […] 
+(c) the results of the inspection and maintenance programs referred to in the licence” 
+• 
+subsection 14(4) of the Class I Nuclear Facilities Regulations states that “every person who 
+is required by [section 14(2) of those regulations] to keep a record of [the operating and 
+maintenance procedures] and [the results of the inspection and maintenance programs] shall 
+retain the record for 10 years after the expiry date of the licence to abandon issued in respect 
+of the Class I facility” 
+1.4 
+National and international standards 
+This regulatory document is consistent with modern national and international guides and 
+standards for maintenance programs for NPPs. In particular, this regulatory document is based in 
+part on the following national and international publications: 
+• 
+CNSC, REGDOC-2.6.1, Reliability Programs for Nuclear Power Plants, 2017[1] 
+• 
+CNSC, REGDOC-2.5.2, Design of Reactor Facilities: Nuclear Power Plants, 2014 
+• 
+CNSC, RD/GD-369, Licence Application Guide: Licence to Construct a Nuclear Power 
+Plant, 2011 
+• 
+International Atomic Energy Agency (IAEA), TECDOC-658, Safety Related Maintenance in 
+the Framework of the Reliability Centered Maintenance Concept, Vienna, 1992 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+3 
+ 
+• 
+IAEA Safety Standards Series, No. NS-G-2.6, Maintenance, Surveillance and In-service 
+Inspection in Nuclear Power Plants, Vienna, 2002 
+• 
+CAN/CSA N286-12, Management system requirements for nuclear facilities, 2012 
+2. 
+Background 
+Effective maintenance is essential for the safe operation of a nuclear power plant. The facility 
+must be monitored, inspected, tested, assessed and maintained to ensure that SSCs function as per 
+design. Various maintenance concepts can be used to form a maintenance strategy. 
+Figure 1 illustrates an example of the relationship of maintenance concepts and associated 
+maintenance activities that provide the basis of a good maintenance strategy. This strategy would 
+be supported by the maintenance program. 
+The majority of maintenance activities are traditionally allocated to the concept of preventive 
+maintenance. These maintenance activities can be derived, for example, from the safety analysis 
+assumptions, design or reliability requirements, codes and standards, and operating experience 
+and are performed on the basis of service time, actual condition or predicted condition. Where the 
+performance or condition of an SSC does not allow it to function as per design, corrective action 
+must be taken. 
+The results of all maintenance activities are fed back through an optimization process which 
+enables the continuous improvement of the program. 
+ 
+Figure 1: Relationship of maintenance concepts and activities 
+Maintenance strategy 
+Preventive maintenance 
+Corrective maintenance 
+Periodic 
+Predictive 
+Planned 
+ 
+Time-based 
+servicing, parts 
+replacement or 
+overhaul. Includes 
+periodic inspection 
+and lifetime 
+replacement 
+ 
+ 
+Surveillance, 
+monitoring, 
+testing, 
+in-service 
+inspection 
+ 
+Condition-based 
+servicing, parts 
+replacement, 
+overhaul, 
+refurbishment, 
+modification 
+Run-to-failure 
+Unplanned failure 
+ 
+ 
+Temporary repair, 
+repair, overhaul, 
+refurbishment, 
+replacement or 
+modification 
+ 
+ 
+ 
+Inspection and 
+failure diagnosis 
+Optimization process for program and activities 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+4 
+ 
+3. 
+Maintenance Program 
+To ensure that the overall maintenance strategy is effective, the maintenance program must 
+include mutually supporting elements. These elements cover program basis, maintenance 
+organization, maintenance activities, system health monitoring, maintenance work, spare parts 
+and procurement, management assessment and program review, and record keeping. 
+Each program element requires sufficient resources governed by the licensee’s approved policies, 
+processes and procedures. These elements, when integrated, will form a comprehensive 
+maintenance program. For each program element, a number of criteria have been established. The 
+elements and associated criteria are described in sections 3.1 to 3.8. 
+3.1 
+Program basis 
+The licensee shall define and follow a systematic approach to identify which maintenance 
+activities are to be performed, on which SSCs, and at what intervals. The type and frequency of 
+maintenance activity applied to each SSC is understood to be commensurate with the SSC’s 
+importance to safety, design function and required performance. 
+The identification, selection and frequency of maintenance activities shall take the following into 
+account: 
+1. the relative SSC importance of the risks to national security, the health and safety of persons 
+and the environment 
+2. the technical basis for demonstrating that safety goals and performance criteria are met as 
+described in the licence and supporting documentation 
+3. the requirements of all applicable industry codes and standards 
+4. the radiation protection principle As Low As Reasonably Achievable (ALARA) 
+5. design requirements and operating conditions 
+6. vendor recommendations 
+7. operating experience 
+8. aging management requirements 
+9. reliability program requirements [1] 
+The purpose of the maintenance program is to ensure that SSCs can function as per design, and it 
+therefore follows that a maintenance strategy shall be based on the approved plant design and 
+safety analysis. Strategy development, therefore, requires a close liaison between the operating 
+and design organizations to ensure that the strategy is based on a clear understanding of design 
+philosophy and plant details. 
+The results of maintenance activities shall be used to provide feedback for program changes or 
+design modifications. Program changes and design modifications shall be controlled in 
+accordance with the licensee’s approved procedures and the maintenance program updated 
+accordingly. 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+5 
+ 
+Guidance 
+SSC identification and activity selection 
+To ensure that a systematic approach is taken to identify which maintenance activities are to be 
+performed, on which SSCs, and at what intervals, licensees should demonstrate that the following 
+have been taken into account: 
+1. SSCs are systematically identified, resulting in a master equipment list 
+2. the master equipment list is kept current, as equipment gets replaced, or new equipment is 
+added 
+3. maintenance activities and their frequency are identified based on: 
+• 
+regulatory requirements and applicable codes and standards 
+• 
+design and operating conditions 
+• 
+vendor’s recommendations 
+• 
+operating experience 
+• 
+operating performance 
+4. maintenance activities are prioritized according to the importance of the SSC 
+5. the safety classification of the SSCs 
+6. a process is in place for assessing the role that the SSC plays in meeting the safety goals and 
+performance criteria as described in the licence, safety analysis, severe accident management 
+guidelines and supporting documentation 
+7. radiation protection principles, including ALARA, operating experience and lessons learned 
+from past maintenance activities are considered in the planning and execution of maintenance 
+activities 
+8. maintenance activities are periodically reviewed for adequacy, optimization and improvement 
+9. issues related to the aging of the SSCs are identified and managed 
+10. reliability targets of SSCs important to safety [1] 
+Maintenance strategy 
+To demonstrate that the maintenance strategy has its basis in the approved plant design and safety 
+analysis, and that all SSCs function as per design, licensees should demonstrate that the following 
+criteria have been taken into account: 
+1. a process is in place to ensure that relevant design information is identified and used in 
+developing the maintenance program 
+2. the design authority is clearly defined to maintenance personnel and has responsibility for the 
+design philosophy, plant safety and design basis, and safety margins 
+3. documents regarding plant design details and operational configuration status are accurate 
+and accessible to maintenance personnel 
+4. communication interfaces are defined among groups responsible for design, engineering, 
+operations and maintenance 
+5. operational requirements and restrictions imposed by the plant design are documented in 
+specifications and incorporated into maintenance procedures or work instructions 
+6. engineering personnel use technical information, such as design analyses, operating 
+experience information, severe accident management guidelines and safety analyses, to 
+provide recommendations on maintenance activities 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+6 
+ 
+Feedback from maintenance activities 
+When using the results of maintenance activities to provide feedback for program changes or 
+design modifications, licensees should demonstrate that the following criteria have been taken 
+into account: 
+1. a process is in place to capture lessons learned and operating experience 
+2. the feedback data collected are managed such that it can be used when doing future 
+maintenance of a similar type, analyzed for failure mechanisms, activity optimization or 
+when considering program changes or design modifications 
+3. a process is in place for capturing program/procedure changes, design modifications, 
+operating condition changes, equipment performance changes, and existence of degradation. 
+This process includes the verification of the maintenance activities that could be affected by 
+the change, and updating them 
+4. a process is in place for capturing radiological hazards encountered during the maintenance 
+activity 
+5. a process is in place for feeding back the results of maintenance activities to engineering 
+6. changes to the maintenance program are controlled 
+3.2 
+Maintenance organization 
+The licensee shall establish a maintenance organization to effectively implement the maintenance 
+program. 
+3.2.1 
+Policies, processes and procedures 
+The licensee shall set out policies, processes and procedures that govern how the maintenance 
+program is to be implemented. 
+The licensee shall ensure that the maintenance policies, processes and procedures are controlled, 
+adhered to, and revised as necessary to reflect the current plant configuration. 
+The licensee shall have a process for ensuring that program documents are up-to-date. 
+Guidance 
+Program governance 
+When setting out policies, processes and procedures that govern how the maintenance program is 
+to be implemented, licensees should demonstrate that the following criteria have been taken into 
+account: 
+1. the licensee has a clear high-level maintenance policy statement 
+2. strategic direction for maintaining and improving equipment performance is established 
+3. priorities are clearly communicated to maintenance personnel 
+4. maintenance program and its objectives have been documented 
+5. maintenance management direction, such as goals, initiatives, expectations and priorities, are 
+provided to assist personnel in making decisions and taking actions that contribute to safe and 
+reliable plant operation 
+6. the licensee has procedures that govern how the maintenance program is implemented in 
+respect of the objectives and changing priorities 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+7 
+ 
+Control and adherence 
+To ensure that the maintenance policies, processes and procedures are controlled, adhered to, and 
+revised as necessary to reflect the current plant configuration, licensees should demonstrate that 
+the following criteria have been taken into account: 
+1. maintenance policies, processes and procedures: 
+• 
+are approved for use 
+• 
+are subject to revision control 
+• 
+reflect the current plant configuration 
+2. plant modifications trigger maintenance procedure review and revisions, if necessary 
+3. administrative controls are implemented for the conduct of maintenance activities that affect 
+plant operations 
+Program status 
+When developing the process to ensure that program documents are up-to-date, licensees should 
+demonstrate that the following criteria have been taken into account: 
+1. maintenance policies, processes and procedures reflect the current plant configuration 
+2. obsolete documents are removed from service 
+3. a process is in place to ensure workers are using the latest revision of the documents 
+4. changes to plant equipment, procedures and processes are planned and implemented 
+systematically to improve safe and reliable plant operation 
+3.2.2 
+Organizational structure 
+Senior plant management shall be responsible for establishing and implementing the maintenance 
+program. They shall establish clear lines of authority and define the responsibilities of the various 
+managerial and supervisory positions. 
+Functions necessary to meet program element requirements may not traditionally be performed 
+by groups within the maintenance department. In such cases, the interfaces between such groups 
+shall be identified. 
+Interfaces between trades groups and other work groups such as operations or radiation protection 
+who interact with the maintenance organization shall be described. 
+Engineering and technical support, with competence in all disciplines important for safety, shall 
+be available throughout the lifetime of the plant. 
+Guidance 
+Maintenance structure 
+When establishing and implementing the structure of the maintenance program, licensees should 
+demonstrate that the following criteria have been taken into account: 
+1. senior plant management demonstrates an understanding of its responsibility for establishing 
+and implementing the maintenance program 
+2. an organizational structure is established with clear lines of authority and defined 
+responsibilities 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+8 
+ 
+3. job descriptions for maintenance personnel are documented and match daily activities 
+Interfacing statements 
+When establishing interfacing statements, licensees should demonstrate that the following criteria 
+have been taken into account: 
+1. interfaces with other groups (e.g., engineering, operation, radiation protection) are defined 
+where maintenance activities involve supporting work groups 
+2. maintenance personnel are aware of each group’s areas of responsibility 
+Interfaces with trades groups 
+When establishing interfaces between trades groups and other work groups who interact with the 
+maintenance organization, licensees should demonstrate that the following criteria have been 
+taken into account: 
+1. for multi-disciplinary jobs, a lead person is identified 
+2. roles and responsibilities are defined for each work group 
+3. work packages include designation of work group responsibilities 
+4. the interfaces of different disciplines or work groups are clearly defined 
+Engineering and technical support 
+When managing engineering and technical support, licensees should demonstrate that the 
+following criteria have been taken into account: 
+1. engineering and technical support is available to maintenance personnel 
+2. guidance is available to maintenance personnel for determining if engineering and technical 
+support is needed 
+3. a process is in place that provides direction to maintenance personnel when engineering and 
+technical support is needed 
+4. a process is in place to communicate technical information and recommendations to 
+maintenance staff 
+3.2.3 
+Training and qualification of workers 
+The maintenance program shall be supported by sufficient numbers of trained and qualified 
+personnel. The adequacy of these resources shall be determined based on maintenance program 
+objectives. 
+The details and results of the training program and personnel qualifications shall be documented. 
+Personnel training and qualifications shall be kept up-to-date. 
+All maintenance personnel shall be given facility specific training in plant systems, work control, 
+radiation protection, safety rules, access control, security and emergency procedures 
+commensurate with their responsibilities. 
+Where applicable to their duties, maintenance personnel shall be trained and qualified with 
+respect to other plant programs such as configuration management and quality assurance. 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+9 
+ 
+Prior to performing tasks with higher risk to plant and personnel safety, maintenance personnel 
+shall receive a pre-job briefing commensurate with the activity or additional training up to a full-
+scale mock-up. 
+Guidance 
+Sufficient numbers of qualified personnel 
+When determining the sufficient numbers of trained and qualified personnel to support the 
+maintenance program, licensees should demonstrate that the following criteria have been taken 
+into account: 
+1. the licensee has a systematic process for determining the level of maintenance personnel 
+resources that are required 
+2. the process includes an evaluation of the organization’s ability to meet maintenance program 
+objectives 
+3. the maintenance staffing levels (including contractors) are consistent with the resource level 
+requirements, and succession planning is in place 
+4. maintenance personnel training and qualification requirements are specified 
+5. maintenance line management is accountable for the training, qualification, and performance 
+of maintenance personnel 
+6. maintenance work is only performed by qualified personnel 
+7. facilities, equipment, and tools are provided and maintained to effectively support training 
+activities 
+Training and qualifications 
+When documenting training and qualifications for personnel (including contractors), licensees 
+should demonstrate that the following criteria have been taken into account: 
+1. maintenance personnel training and qualification requirements are identified and documented 
+2. the details and results of the training program and personnel qualifications are documented 
+and available for verification 
+3. maintenance personnel qualifications meet established criteria for their assigned positions 
+4. personnel training and qualifications are kept up-to-date 
+5. personnel training and qualification records are retained 
+6. continuing training is implemented to maintain and enhance knowledge and skills and to 
+address areas such as plant equipment and procedure changes 
+Facility-specific training 
+For facility-specific training of maintenance personnel, licensees should demonstrate that the 
+following criteria have been taken into account: 
+1. personnel exhibit competence in performing assigned tasks that consistently result in quality 
+workmanship 
+2. personnel are trained on changes prior to maintaining modified equipment, as required 
+3. affected procedures, operational drawings, and work documents are available for training on 
+modified equipment 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+10 
+ 
+Training on other plant programs and tasks with high risk 
+For training of maintenance personnel on other plant programs and tasks with high risk, licensees 
+should demonstrate that the following criteria have been taken into account: 
+1. a process is in place to ensure that all maintenance personnel are given facility-specific 
+training in plant systems, work control, radiation protection, safety rules, access control, 
+security and emergency procedures as commensurate with their responsibilities 
+2. where applicable to their duties, maintenance personnel are trained and qualified with respect 
+to other plant programs such as configuration management and quality assurance 
+3. provision is made for permanent maintenance personnel to be involved with infrequent but 
+major maintenance activities to obtain the experience and skills necessary to support future 
+plant operations 
+4. facilities, equipment and tools are provided and maintained to effectively support training 
+activities 
+5. for tasks with high risk, additional training is identified and implemented effectively prior to 
+execution of the job 
+6. environmental awareness should be included in the facility-specific training 
+3.2.4 
+Contract workers 
+The licensee shall ensure that contractors comply with work procedures and standards that are 
+higher than or equal to those applicable to plant staff, particularly in the areas of professional 
+competence, adherence to procedures and evaluation of performance. Suitable steps shall be taken 
+to ensure that contract workers conform to equivalent technical standards of the operating 
+organization. 
+The licensee shall be responsible for assuring the quality of contractor work. Processes shall be in 
+place to control and verify activities performed by contract workers. 
+Guidance 
+Contractor work practices 
+For contractor work, licensees should demonstrate that the following criteria have been taken into 
+account: 
+1. direction and control are maintained over vendor and contractor maintenance activities 
+2. suitable steps are taken to ensure that contract workers conform to equivalent technical 
+standards of the operating organization 
+3. tasks, responsibilities, authorities, expectations for performance and interfaces are clearly 
+defined and are understood by contractors 
+Contractor quality assurance 
+For assuring the quality of contractor work, licensees should demonstrate that the following 
+criteria have been taken into account: 
+1. processes are in place to control and verify activities performed by contract workers 
+2. contractors working in the maintenance area use the same (or equivalent) station-approved 
+policies, procedures and controls and the same quality standards as station maintenance 
+personnel 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+11 
+ 
+3. contractors possess experience, knowledge and skills equivalent to those of station 
+maintenance personnel for their assigned functions and are task-qualified prior to independent 
+work assignment 
+4. a process is in place for assuring the quality of contractor work 
+5. the interface between the contractor’s staff and the licensee’s staff is defined 
+6. a process is in place that provides direction to the contractor’s staff when technical support is 
+required 
+3.2.5 
+Maintenance facilities 
+Maintenance facilities and work areas shall be provided including housing for the shipping, 
+receiving, handling and storing of spare parts, tools and equipment. Where necessary, the 
+facilities shall be access controlled and operated in a manner that preserves the correct 
+environmental conditions and guards against hazards such as fire and chemical spills. 
+Guidance 
+When preparing maintenance facilities and work areas, licensees should demonstrate that the 
+following criteria have been taken into account: 
+1. maintenance facility size and arrangement promote safe and effective work and training 
+activities 
+2. appropriate facilities are provided for work on radioactive components and hazardous 
+materials 
+3. work area lighting and other environmental conditions promote safe and effective working 
+conditions 
+4. work areas are maintained in a clean and orderly condition 
+5. tools, equipment, and consumable supplies are available to support work, and appropriate 
+equipment is available for loading, lifting and transporting equipment 
+6. rigging equipment and scaffolding are identified, tested and properly stored 
+7. facilities, equipment and tools are maintained in good repair 
+8. equipment is accessible for maintenance activities; fixed local area hoists and work platforms 
+are provided, as needed, to facilitate maintenance access to plant equipment 
+9. communications equipment is provided and is available to support maintenance activities 
+10. all tools, jigs, fixtures, equipment and transient materials have suitable storage provided 
+11. where appropriate, the facilities are access-controlled and operated in a manner that preserves 
+the correct environmental conditions and guards against hazards such as fire and chemical 
+spills 
+12. suitable storage is provided for tools, supplies and equipment, and special tools are identified 
+and stored to permit ready retrieval 
+13. a process is in place to deal with contaminated tools 
+14. maintenance facilities and work areas include appropriate monitoring equipment and personal 
+protective equipment (PPE) 
+15. facilities where measuring and test equipment is located and calibrated have a controlled 
+environment condition to facilitate the precise repair and calibration of the equipment 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+12 
+ 
+3.3 
+Maintenance activities 
+The licensee shall include activities aimed at avoiding, detecting and repairing failures of SSCs. 
+Guidance 
+As illustrated in figure 1, maintenance activities aimed at avoiding and detecting incipient failures 
+are considered preventive maintenance activities. Activities aimed at repairing failed SSCs are 
+considered corrective maintenance activities. These activities can be combined at various levels 
+to form a maintenance strategy to meet the program objectives. 
+3.3.1 
+Preventive maintenance 
+A preventive maintenance program that follows accepted industry standards and practices shall be 
+established. Preventive maintenance activities are categorized as periodic (time-based), planned 
+or predictive. Results from periodic or predictive activities may result in additional planned 
+activities. 
+Time-based preventive maintenance shall not typically be scheduled just prior to performance or 
+functional testing that is conducted to determine as-found condition, as this may mask equipment 
+degradation and change the as-found condition. 
+Guidance 
+Preventive maintenance activities 
+For preventive maintenance activities, licensees should demonstrate that the following criteria 
+have been taken into account: 
+1. preventive maintenance activities have a technical basis to support equipment performance 
+analysis and changes to the activities 
+2. preventive activities include accepted industry standards such as Canadian Standards 
+Association (CSA) and ASME requirements for inspections, assessments, calibrations, and 
+function and performance testing 
+3. processes and procedures for preventive maintenance activities are clearly documented 
+4. a process is in place to control and document any change in scope of the maintenance 
+activities 
+5. failure mode analyses are used to help determine preventive activities 
+6. preventive maintenance is performed on equipment, including spare parts where appropriate, 
+to maintain the equipment performance 
+7. the frequency and type of preventive maintenance have a technical basis and are adjusted 
+based on operating experience, results of reliability analyses, changes in operating conditions 
+and environment, and vendor recommendations 
+8. results from periodic or predictive activities are analyzed for additional planned activities 
+9. instruments and controls are calibrated entirely and within established criteria 
+10. model templates are used for different types of equipment 
+11. preventive maintenance activities are coordinated within blocks of equipment 
+12. equipment remains protected as necessary against the effects of environmental conditions, 
+such as humidity, temperature, irradiation, dust and seismic shock 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+13 
+ 
+Scheduling preventive maintenance activities 
+When scheduling preventive maintenance activities, licensees should demonstrate that the 
+following criteria have been taken into account: 
+1. a process is in place for cross-checking preventive maintenance activities with testing 
+activities to look for conflicts 
+2. as-found conditions are recorded 
+3. certain maintenance activities could be done before the functional testing, but only for the 
+purpose of personnel protection or equipment preservation; this arrangement should follow a 
+controlled process to evaluate the possibility and its potential impact of changing as-found 
+conditions 
+3.3.2 
+Corrective maintenance 
+The licensee shall have processes in place for initiating corrective maintenance and performing 
+failure diagnosis of equipment. The processes shall include evaluating the impact of failed 
+equipment and prioritizing the repair work with respect to ongoing maintenance activities. 
+The licensee shall have a process in place for controlling and performing temporary repairs 
+including proper approvals, equivalency assessments and time period until the permanent repair 
+can be implemented or an approved modification made. 
+Guidance 
+Failure response 
+For corrective maintenance activities, while keeping in mind that the processes include evaluating 
+the impact of failed equipment and prioritizing the repair work with respect to ongoing 
+maintenance activities, licensees should demonstrate that the following criteria have been taken 
+into account: 
+1. conditions adverse to safety have been identified, and corrective actions for plant deficiencies 
+have been pursued with incorporation of human performance tools 
+2. lessons learned are incorporated into surveillance and engineering procedures 
+3. maintenance is performed in a timely manner, considering the safety significance of the SSC 
+4. the causes of equipment problems are determined, and corrective actions are implemented 
+and verified for effectiveness 
+5. in-depth analysis of equipment failure is commensurate with the importance to plant safety 
+and reliable performance and the likelihood for recurrence 
+6. repetitive equipment failures are promptly identified and pursued to resolution, consistent 
+with the safety significance of the equipment; preventive maintenance intervals are adjusted 
+as appropriate; other susceptible components, which are identical to the ones found with 
+repetitive anomalies, are assessed and corrected as necessary to preclude repetition 
+7. engineering and technical support is available to maintenance staff to assist in diagnosing the 
+cause of the equipment failure 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+14 
+ 
+Temporary repairs 
+When controlling and performing temporary repairs, licensees should demonstrate that the 
+following criteria have been taken into account: 
+1. the licensee employs a process for controlling and performing temporary repairs, including 
+proper approvals, equivalency assessments and definition of the time period until the 
+permanent repair can be implemented or an approved modification made 
+2. temporary repairs are evaluated, controlled and tracked; the use of temporary repairs is 
+minimized, and permanent repairs are made at the earliest reasonable opportunity 
+3. procedures are implemented to control the placement, removal and periodic review of 
+temporary modifications for equipment, such as electrical jumpers, lifted leads, mechanical 
+jumpers, hoses, pipe blanks and spool pieces 
+4. the limit of duration of a temporary repair for an existing system or component is specified 
+and minimized, and a management action is generated to track removal of a temporary repair 
+3.3.3 
+Aging management 
+The licensee shall have a process to detect, assess, and manage deterioration of SSCs as a result 
+of aging effects such as irradiation, corrosion, erosion, fatigue, and other material degradation. 
+The type and frequency of maintenance activities shall be modified to accommodate such effects. 
+For more information on aging management programs (AMPs), refer to REGDOC-2.6.3, Aging 
+Management [2]. 
+3.3.4 
+Activity optimization 
+A process shall be in place to optimize the maintenance activities based on results from items 
+such as (but not limited to) the following: 
+1. failures in operation 
+2. the as-found condition 
+3. failures discovered during maintenance activities 
+4. frequency of faults and related information 
+5. maintainability improvements 
+6. operating experience in other plants 
+Guidance 
+When optimizing maintenance activities, licensees should demonstrate that the following criteria 
+have been taken into account: 
+1. a process is in place to optimize future maintenance activities 
+2. experience from plant operation and maintenance is used to improve equipment performance 
+and overall plant safety and reliability 
+3. industry advancements in maintenance are used to improve overall performance of nuclear 
+power plants 
+4. industry operating and maintenance experience is used to improve equipment performance 
+and overall plant safety and reliability 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+15 
+ 
+3.4 
+SSC monitoring 
+The licensee shall establish baseline criteria against which the function and performance of SSCs 
+can be measured. These criteria shall include reliability, availability, function and performance 
+requirements and assumptions used in the plant design and safety analysis. The degree of SSC 
+monitoring shall be commensurate with the safety significance of the SSC. 
+The licensee shall include processes and procedures for evaluating whether or not SSCs continue 
+to perform within the baseline criteria and for initiating corrective actions. These processes and 
+procedures shall include condition monitoring, surveillance and testing. 
+Guidance 
+Baseline criteria 
+When establishing baseline criteria for measuring the function and performance of SSCs (such as 
+flow, pressure, temperature, amperage, etc.), licensees should demonstrate that the following 
+factors have been taken into account: 
+1. the data required for proper monitoring is defined 
+2. acceptance criteria with appropriate margins are established 
+3. reliability targets of SSCs important to safety are established [1] 
+4. baseline criteria are established against which the function and performance of SSCs can be 
+measured; these criteria include reliability, availability, function and performance and 
+assumptions used in the plant safety design, reliability analysis and/or probabilistic safety 
+assessment (PSA) 
+5. plans are implemented for collecting data during commissioning, including start-up testing 
+and initial power operation for use in defining baselines, verifying design parameters and 
+validating models 
+Evaluation processes and procedures 
+As part of the processes and procedures for evaluating whether or not SSCs continue to perform 
+within the baseline criteria and for initiating corrective actions, licensees should demonstrate that 
+the following criteria have been taken into account: 
+1. SSC performance goals are established and the basis for monitoring documented 
+2. responsibility for monitoring SSC parameters is established 
+3. both direct and indirect monitoring of process parameters to identify and evaluate SSC 
+degradation is performed 
+4. the staff responsible for monitoring has an understanding of the SSC degradation mechanisms 
+and can relate those mechanisms to monitoring parameters 
+5. data collected for SSC monitoring is analyzed and compared with the acceptance criteria 
+6. a process for reviewing the SSC monitoring program is in place to assess its effectiveness 
+7. program level indicator conditions are trended as an indicator of plant performance 
+8. equipment performance monitoring is used to detect problems and degrading performance 
+9. equipment performance and system performance are monitored and evaluated by examining 
+and trending the results of condition-monitoring activities, reviewing equipment failure 
+history, analyzing availability/reliability information and performing system walk-downs; 
+follow-up actions, based on identified problems, trends and root cause determinations, are 
+timely and effective 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+16 
+ 
+10. the extent and frequency of monitoring may vary but should reflect the ability for early 
+detection and correction of negative trends 
+3.4.1 
+Condition monitoring 
+The licensee shall have processes and procedures for carrying out condition monitoring. These 
+consist of such things as periodic and in-service inspections, measurements or trending of SSC 
+performance or physical characteristics to indicate current condition and future potential for 
+failure. This monitoring is usually conducted on a non-intrusive basis and includes the use of 
+specialized equipment. Vibration analysis, tribology and thermography are all examples of 
+condition monitoring techniques. 
+SSCs performing standby functions shall have condition monitoring requirements that indicate 
+operational readiness. 
+A process shall be in place to ensure that equipment qualification is maintained. Note that 
+equipment qualification includes both environmental qualification and seismic qualification. 
+A process shall be in place to ensure that all instrumentation remains within the calibration 
+tolerances as required for it to perform as per design. 
+Guidance 
+Monitoring process and method 
+When establishing SSC condition monitoring requirements, licensees should demonstrate that the 
+following criteria have been taken into account: 
+1. appropriate condition monitoring activities are assigned 
+2. the extent and frequency of the monitoring activities are defined and may be adjusted based 
+on operational experience, but should reflect the ability for early detection and correction of 
+negative trends 
+3. standby SSCs have been identified and have condition monitoring requirements that indicate 
+operational readiness 
+4. the monitoring equipment is properly maintained 
+5. collection and analysis of performance data and predictive monitoring information (such as 
+thermal, hydraulic, chemical, electrical, acoustical, vibration and mechanical parameters) are 
+used 
+6. input data is identified and includes such things as the results of periodic and in-service 
+inspections, measurements or trending of SSC performance, or physical characteristics to 
+indicate current condition and future potential for failure 
+7. monitoring is conducted on a non-intrusive basis and includes the use of specialized 
+equipment (vibration analysis, tribology, non-destructive examination and thermography are 
+all examples of condition monitoring techniques) 
+8. reviews and analyses of performance data are conducted to predict equipment operability and 
+availability 
+9. corrective maintenance/equipment failures are analyzed to determine if monitoring needs to 
+be adjusted 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+17 
+ 
+Equipment qualification 
+As part of the process to ensure that equipment qualification (which includes environmental 
+qualification and seismic qualification) is maintained, licensees should demonstrate that the 
+following criteria have been taken into account: 
+1. for environmental qualification: 
+• 
+environmental qualification equipment list is identified 
+• 
+maintenance activities do not invalidate the environmental qualification status of the 
+equipment 
+• 
+preventive maintenance activities with appropriate intervals are established to maintain 
+the equipment's qualified life 
+• 
+maintenance documentation capturing the environmental qualification requirements is 
+controlled 
+• 
+maintenance on the qualified equipment is documented and the documentation is readily 
+accessible 
+• 
+failure of qualified equipment is reviewed to assess its impact on the qualification status 
+of the equipment 
+2. for seismic qualification: 
+• 
+seismically qualified equipment list is identified 
+• 
+maintenance activities do not invalidate the seismic qualification of the equipment and 
+the functional requirements of a seismic category B equipment 
+• 
+replaced equipment should be procured to maintain seismic design basis or upgrade it if 
+seismic hazard was increased 
+• 
+documentation regarding equipment seismic qualification design basis is readily available 
+and records are kept 
+• 
+supports of seismically qualified equipment should be maintained within the design basis 
+• 
+maintenance activities do not lead to excessive SSC vibrations arising from fluid flow or 
+from the functioning of rotating equipment 
+• 
+maintenance activities do not allow the seismic qualification of equipment to be 
+challenged by interaction from adjacent SSCs during a seismic event 
+• 
+maintenance activities should compensate for degradation of equipment due to aging 
+Instrumentation calibration 
+As part of the process to ensure that instrumentation calibration is maintained, licensees should 
+demonstrate that the following criteria have been taken into account: 
+1. equipment requiring calibration is defined 
+2. a process is in place to ensure that instrumentation remains within specified limits for it to 
+perform as designed 
+3. measuring and test equipment is calibrated and controlled to provide accuracy and 
+traceability 
+4. test equipment that is out of tolerance or overdue for calibration is removed from service, and 
+the effect is evaluated to determine whether corrective action needs to be taken 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+18 
+ 
+3.4.2 
+Surveillance 
+The licensee shall have processes and procedures for carrying out SSC surveillance. Results shall 
+be documented. 
+Guidance 
+Examples of surveillance are process system configuration checks, system walkdowns, trending, 
+sampling, operator rounds and routine readings. 
+As part of the processes and procedures for carrying out SSC surveillance, licensees should 
+demonstrate that the following criteria have been taken into account: 
+1. parameter expectations should be provided to allow verification of correct operational states 
+and to detect any abnormal conditions 
+2. surveillance procedures use specific acceptance criteria 
+3. appropriate frequencies for routine inspections and walk-downs are established and adhered 
+to 
+4. surveillance includes SSC configuration checks, system walk-downs, trending, sampling, 
+operator rounds and routine readings 
+5. procedures are in place for capturing deficiencies and reporting them to maintenance 
+personnel 
+6. adequate means are available to verify that proper conditions are established for each mode of 
+plant operation and for mode changes 
+3.4.3 
+Testing 
+The licensee shall have processes and procedures for performance and function testing to verify 
+that SSCs are in good working order and are in a state of readiness to perform their functions. The 
+licensee shall prepare test plans and such plans shall include the test frequency and acceptance 
+criteria. 
+Instrumentation and test equipment used in performing the test program shall have the range and 
+accuracy required to demonstrate that acceptance criteria have been met. All such test equipment 
+shall be properly calibrated in accordance with a recognized national standard. 
+Where appropriate, the test program results shall be provided to the reliability program [1]. 
+Guidance 
+Testing processes and procedures 
+As part of the processes and procedures for performance and function testing, licensees should 
+demonstrate that the following criteria have been taken into account: 
+1. testing processes and procedures are readily accessible and subject to document control 
+2. the licensee has defined the test frequency and acceptance criteria 
+3. testing is done under as-found conditions that simulate, as nearly as practical, actual expected 
+operating conditions 
+4. procedures are in place for reporting test results to maintenance personnel 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+19 
+ 
+The testing program should include a description of scope and responsibilities, scheduling 
+mechanisms, test procedures, and methods for program updates. 
+Test equipment 
+For instrumentation and test equipment, licensees should demonstrate that the following criteria 
+have been taken into account: 
+1. control procedures are in place for test equipment 
+2. the appropriate test equipment and instruments, and their necessary range and accuracy, are 
+identified in the test procedure 
+3. a process is in place for confirming test equipment is calibrated in accordance with a 
+recognized national standard 
+Test results 
+For test program results, licensees should demonstrate that the following criteria have been taken 
+into account: 
+1. test results are analyzed and documented, taking into account available history and trending 
+2. test results are provided to the reliability program [1] 
+3. deficiencies are identified and appropriately dispositioned 
+3.5 
+Maintenance work 
+The licensee shall have processes and procedures for initiating, managing, assessing, prioritizing, 
+planning and scheduling maintenance work. The resulting maintenance activity schedules shall be 
+reviewed routinely and revised to account for changing conditions, operating experiences, and 
+modifications. 
+The licensee shall undertake and accomplish maintenance activities in a manner that is 
+commensurate with the safety significance of the SSC and with effective allocation of resources. 
+Unit and equipment identification shall be clear in work procedures and in the field to ensure that 
+the proper equipment is isolated, maintained, and returned to service. Appropriate personal 
+protection procedures shall be implemented before carrying out maintenance activities. 
+A process for foreign material exclusion (FME) shall be in place as appropriate for all 
+maintenance work. This is particularly important when opening up closed systems such as 
+process piping and mechanical equipment. 
+Guidance 
+Work management process 
+For the work management process, licensees should demonstrate that the following criteria have 
+been taken into account: 
+1. administrative controls are implemented for maintenance activities that affect safe and 
+reliable plant operations; examples of activities that are controlled include job turnovers, use 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+20 
+ 
+of procedures, use of special tools and lifting equipment, and use and traceability of 
+measuring and test equipment 
+2. the licensee has processes and procedures for initiating, managing, assessing, prioritizing, 
+planning and scheduling maintenance work 
+3. regular review meetings are specified (with frequency) 
+4. lessons learned from previous planning and scheduling results are incorporated 
+5. documents affected by plant modifications such as drawings, procedures, and equipment 
+indexes commonly used for maintenance are current and up-to-date 
+6. procedures for FME are implemented 
+Prioritization of maintenance activities 
+To prioritize the maintenance activities, licensees should demonstrate that the following criteria 
+have been taken into account: 
+1. the licensee undertakes and accomplishes maintenance activities in a manner that is 
+commensurate with the safety significance of the SSC and with effective allocation of 
+resources 
+2. equipment problems receive appropriate attention and timely resolution, based on priorities 
+established through the work management process 
+3. technical support is available to resolve equipment priority conflicts 
+4. the licensee has a prioritization criteria and methodology, which are applied to work 
+management; these should take into account the following licensing basis requirements: 
+• 
+safety analysis 
+• 
+regulatory requirements 
+• 
+ALARA 
+• 
+codes and standards 
+5. leaks and fire protection are considered based on the safety significance of the SSC 
+Personnel safety 
+To protect the safety of personnel, licensees should demonstrate that the following criteria have 
+been taken into account: 
+1. maintenance work is properly controlled, and is documented 
+2. operations personnel control activities that affect the status of installed systems and 
+equipment 
+3. appropriate personal protection procedures are implemented before carrying out maintenance 
+activities 
+4. there is a procedure for properly identifying SSCs 
+5. equipment in the field is readily identified 
+3.5.1 
+Work assessment 
+The licensee shall implement a process for assessing maintenance activities. In addition to job 
+tasks, the process shall assess the impact of maintenance activities on safety including such things 
+as regulatory requirements, safe operating envelope (SOE), and potential industrial and 
+radiological hazards to site personnel, the public and the environment. 
+The assessment shall also take into account the cumulative effect of all plant equipment that is out 
+of service on performance of safety functions. 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+21 
+ 
+Guidance 
+Assessment of maintenance activities 
+As part of the process for assessing maintenance activities, licensees should demonstrate that the 
+following criteria have been taken into account: 
+1. assessment work is done by qualified individuals 
+2. the assessment includes a review of requirements for tradespersons, bills of materials, and 
+tools 
+3. the assessment includes the requirements for special qualifications 
+4. in addition to job tasks, the process assesses the impact of maintenance activities on safety 
+5. the process assesses the impact of maintenance activities on regulatory requirements and 
+approvals 
+6. the assessment includes the impact on the SOE 
+7. potential industrial and radiological hazards to site personnel are considered 
+8. supporting tasks such as accessibility provisions, insulation removal, and scaffolding are 
+identified 
+9. the assessment includes review of past maintenance activity results 
+10. the need for special procedures or work instructions is included 
+Assessment of safety impact of out-of-service plant equipment 
+As part of the process for assessing the cumulative effect of out-of-service plant equipment on the 
+performance of safety functions, licensees should demonstrate that the following criteria have 
+been taken into account: 
+1. the assessment includes review of the risk that may result from the proposed maintenance 
+activities and how this risk should be assessed and managed; one of the accepted options is to 
+use a risk monitor supported by plant-specific PSA, if possible 
+2. a process is in place that assures maintenance activities are reviewed by nuclear safety staff, 
+as required 
+3.5.2 
+Work planning, scheduling and execution 
+The licensee shall implement processes and procedures for planning, scheduling and executing all 
+maintenance activities. Work planning shall take place at the overall plant level and at the 
+individual job level. Procedures to deal with any deferral or omission of a scheduled maintenance 
+activity shall be included. 
+All maintenance personnel shall be made aware of the importance to safety of the tasks they are 
+performing and of the potential safety consequences of technical or procedural errors. Clear 
+equipment identification procedures shall be used. 
+Coordination of work groups shall be incorporated into work planning and scheduling. 
+Where appropriate, job briefing documentation shall be prepared during work planning and 
+scheduling. 
+For work execution, where appropriate, pre- and post-job briefings shall be conducted. 
+Maintenance work shall be executed in accordance with the approved work package. 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+22 
+ 
+Guidance 
+Planning, scheduling and executing maintenance activities 
+As part of the processes and procedures for planning, scheduling and executing maintenance 
+activities, licensees should demonstrate that the following criteria have been taken into account: 
+1. planning is done on several levels – daily maintenance planning, planning for next scheduled 
+outage, and planning for future outages 
+2. at the individual job level, planning is done and involves ensuring that the tools, equipment 
+and parts are available before the job is scheduled 
+3. when appropriate, grouping of maintenance activities is done to minimize equipment 
+unavailability 
+4. coordination of work groups is incorporated into work planning and scheduling 
+5. long-range planning is effectively used for maintenance activities, such as performance of 
+major overhauls, modifications or the implementation of engineering changes 
+6. a process is in place for scheduling maintenance activities in accordance with their 
+importance to safety 
+7. the schedules are reviewed routinely and revised to account for changing conditions, 
+operating experiences, and schedule delays or required changes 
+8. procedures are in place to deal with any deferral or omission of a scheduled maintenance 
+activity 
+9. deviations from scheduled preventive maintenance outside of grace period are justified and 
+authorized by qualified personnel 
+10. schedule deviations are minimized and tracked to provide feedback 
+11. maintenance activities are executed according to the approved procedures and instructions 
+Human performance tools 
+To address the potential safety consequences of technical or procedural errors, licensees should 
+demonstrate that the following human performance tools have been taken into account: 
+1. pre-job and post-job briefings 
+2. pre-job briefings include discussion of the following, as appropriate: potential nuclear safety 
+impact, personnel safety hazards and protective equipment, special job rules, acceptance 
+criteria, hold points and contingencies 
+3. where appropriate, post-job briefings include the following: lessons learned, procedure 
+adequacy, maintenance practices, as-found condition and emergent work 
+4. planning of maintenance activities considers ALARA and conventional safety practices 
+5. communications to workers clearly and consistently identify the equipment to be worked on 
+and the field nomenclature 
+6. other event-free tools, as necessary 
+Coordination of work groups 
+When coordinating work groups, licensees should demonstrate that the following criteria have 
+been taken into account: 
+1. pre-job briefings include coordination requirements 
+2. effective communication is used between work groups 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+23 
+ 
+3. job briefings for turnover of work to subsequent work groups are conducted to provide as-left 
+conditions and job-site hazards 
+3.5.3 
+Outage activities 
+The licensee shall have a process in place to appropriately manage the increased maintenance 
+activities during plant outages. Effective work group coordination shall be established. 
+The plan to take equipment out of service for maintenance during an outage shall include 
+measures to deal with all possible consequences of an event occurring while the equipment is out 
+of service. This is particularly important when the equipment in question has a specific safety 
+function or heat sink implication. 
+When planning and scheduling outage work, an assessment of the cumulative effect of all plant 
+equipment that is out of service shall be undertaken to ensure no adverse effects on the 
+performance of safety functions. 
+Guidance 
+Outage activity management 
+When managing outage activities, licensees should demonstrate that the following criteria have 
+been taken into account, in addition to those in section 3.5.2: 
+1. the licensee implements specific procedures for planning outage maintenance activities 
+2. the station has a forced outage plan that is current 
+Outage safety planning 
+When planning and performing maintenance on out-of-service equipment during plant outages, 
+licensees should demonstrate that the following criteria have been taken into account: 
+1. the decision to take equipment out of service for maintenance during an outage takes into 
+consideration the likelihood and possible consequences of an event occurring while the 
+equipment is out of service 
+2. outage plans are reviewed for nuclear safety 
+3. all work groups review outage plans in their area of responsibility 
+4. controls are applied during infrequently performed tests and evolutions to maintain the plant 
+within the design basis 
+5. contingency plans are written for managing recall times and alternate measures to maintain 
+safe shutdown 
+6. safety planning includes impacts on operating units or systems 
+Outage work scheduling 
+When planning and scheduling outage work, licensees should demonstrate that the following 
+criteria have been taken into account: 
+1. clear statements are made that identify when safety-related equipment is being taken out of 
+service, the duration and the impact of taking that equipment out of service 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+24 
+ 
+2. when scheduling outage work, an assessment takes into account the total plant equipment that 
+is planned to be out of service to determine the overall effect on the performance of safety 
+functions 
+3. reviews are routinely done to capture changes from the original plan and assess the impact 
+3.5.4 
+Maintenance procedures 
+Maintenance shall be performed in accordance with approved written procedures, instructions or 
+drawings as appropriate to the situation. 
+The licensee shall have a process in place for controlling procedure preparation, review, 
+validation, issue, modification and revision. Where appropriate, acceptance criteria shall be 
+defined and actions clearly specified in case acceptance criteria cannot be met. 
+When a procedure for carrying out a maintenance activity is found to be inadequate, there shall be 
+measures to ensure that the activity is halted or safely managed until such time as the inadequacy 
+in the procedure is corrected. If the inadequacy is not unique to the situation, a means of 
+permanently correcting the procedure shall be provided. 
+Procedures shall include specific provisions when particular hazards are envisaged. 
+Temporary changes to procedures shall be properly controlled, be subject to review and licensee 
+approval and specify the period over which the change is to apply. 
+Procedures shall be in place for the turnover of maintenance activities to relieving work crews. 
+Guidance 
+Procedure quality 
+Written procedures, instructions or drawings should demonstrate that the following criteria have 
+been taken into account: 
+1. maintenance procedures, instructions and drawings are formally approved 
+2. mark-up on documentation is verified by independent personnel and subject to appropriate 
+approval 
+3. maintenance procedures, instructions and drawings are prepared in such quality that take into 
+account the following factors: 
+• 
+maintenance procedures and documents are clear and technically accurate, provide 
+appropriate direction, and contain sufficient information for users to understand and 
+perform activities effectively 
+• 
+human factors considerations, such as the sequence of procedure steps and the placement 
+of notes and caution statements, are incorporated into procedures to reduce the likelihood 
+of error 
+• 
+procedures include lessons learned from operating experience 
+• 
+acceptance criteria are defined and actions clearly specified; for example, technical 
+details – such as set points, tolerances, control logic and equipment numbers – are correct 
+and consistent among procedures, drawings, valve line-up sheets and system descriptions; 
+similarly, hold points – such as quality assurance and radiological protection checks – are 
+included in procedures as needed 
+• 
+the level of detail in procedures is consistent with the training and qualification of the 
+users 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+25 
+ 
+• 
+equipment identification is clear in the work package to ensure that the proper equipment 
+is isolated, maintained and returned to service 
+• 
+requirements for documentation of an action or recording of data are specified, when 
+appropriate, in the procedure; the recording of information is done while the task is being 
+performed 
+Procedure control 
+As part of the process for procedure control, licensees should demonstrate that the following 
+criteria have been taken into account: 
+1. the licensee has a process in place for controlling procedure preparation, review, validation, 
+issuance, modification and revision 
+2. procedures are reviewed for technical accuracy, verified and validated for correctness and 
+usability prior to initial use 
+3. documents, including procedures, drawings and other work-related references, are readily 
+accessible and up-to-date 
+4. acceptance criteria are defined and actions clearly specified in case acceptance criteria cannot 
+be met. Acceptance criteria should not be changed without adequate justification and 
+approval 
+5. a policy governing the use of procedures is in place and includes the following: 
+• 
+directions for when procedures are to be used as general guidance, followed step-by-step, 
+or signed off for each step 
+• 
+directions for when a procedure must be physically at the job site 
+• 
+actions to be taken when procedures conflict or are inadequate for the intended task or 
+when unexpected results occur 
+• 
+actions to be taken when a procedure activity is interrupted 
+Procedure adequacy 
+When a procedure is found to be inadequate, licensees should demonstrate that the following 
+criteria have been taken into account: 
+1. a process is in place for users to provide feedback to procedure writers to identify such items 
+as inaccuracies, difficulties in use, and suggestions for improvement 
+2. a process is in place for ensuring a procedure inadequacy is formally corrected, unless the 
+change is one-off 
+3. when a procedure is found to be invalid: 
+• 
+work is stopped in a safe manner, until an approved mark-up procedure or a revised 
+procedure is issued 
+• 
+the procedure deficiency is timely and proactively reported through a formal process and, 
+if possible, with recommendation for modification 
+• 
+a risk assessment is conducted to determine the effects of its previous uses, and if 
+necessary, appropriate corrective actions are taken 
+Identifying hazards 
+When particular hazards are envisaged, licensees should demonstrate that the following criteria 
+have been taken into account: 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+26 
+ 
+1. when appropriate, procedures include cautions, warnings, hazard information to identify 
+safety issues regarding maintenance personnel, plant equipment and maintainer actions 
+2. the procedure ensures that users are made aware of: 
+• 
+the potential plant safety consequences of technical or procedural errors 
+• 
+the safety impact of the tasks they are performing on other plant personnel 
+3. if the work is high hazard or complex, prior training and/or rehearsal of the procedure are 
+done, to familiarize users and to verify the controls and appropriate contingency actions 
+Temporary changes to procedures 
+When applying temporary changes to procedures, licensees should demonstrate that the following 
+criteria have been taken into account: 
+1. a process is in place for controlling temporary changes to procedures 
+2. the period of the temporary change is specified 
+3. temporary procedure changes are properly controlled, reviewed and approved for release by 
+authorized personnel 
+4. administrative control for temporary changes to procedures includes a method to ensure user 
+awareness of applicable temporary changes, and timely incorporation into a permanent 
+procedure (or made obsolete) 
+ 
+Procedure turnover 
+When turning over a procedure to another working group, licensees should demonstrate that the 
+following criteria have been taken into account: 
+1. required procedures are in place for the turnover of maintenance activities 
+2. completed steps are clearly indicated in the procedure 
+3. pertinent maintenance status information is recorded prior to turnover 
+4. temporary procedure changes are briefed between “in” and “out” teams 
+3.5.5 
+Post-maintenance verification and testing 
+Before returning equipment to an operational state, the licensee shall ensure that post-
+maintenance verification has been completed, the affected configuration is verified, all relevant 
+records are reviewed for completeness and any unexpected findings have been assessed and 
+dispositioned. Where appropriate, post-maintenance testing shall be conducted and a fitness for 
+service assessment shall be completed. 
+A process shall be in place to periodically assess that maintenance activities have been carried out 
+within licensee expectations. This work shall be done by appropriately qualified individuals who 
+do not have direct responsibility for performing the work. Assessment shall include direct 
+observation of the specific maintenance activity as well as examination of the documentation. 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+27 
+ 
+Guidance 
+Returning equipment to operational state 
+Before returning equipment to an operational state, licensees should demonstrate that the 
+following criteria have been taken into account: 
+1. the maintenance process specifies that a task is included to verify that equipment can perform 
+its intended function after the maintenance activities are complete 
+2. the affected SSC configuration is verified before it is returned to service 
+3. any unexpected findings during post-maintenance verification and testing have been assessed 
+and dispositioned 
+4. before returning equipment to an operational state, the licensee has ensured that post-
+maintenance verification has been completed 
+Maintenance activity evaluation 
+As part of the process to periodically evaluate maintenance activities, licensees should 
+demonstrate that the following criteria have been taken into account: 
+1. relevant records for the maintenance activity are reviewed for completeness 
+2. work sites are clean and in orderly condition 
+3. evaluation work is done by appropriately qualified individuals 
+4. evaluation includes direct observation of the specific maintenance activity 
+3.6 
+Spare parts and procurement 
+The licensee shall establish processes and procedures to procure, receive, store, secure and issue 
+spare parts, tools and materials. 
+Authority for specifying technical and quality requirements shall be clearly defined when 
+procuring spare parts. The spares shall meet the same technical standards and quality 
+requirements as the installed plant items. The licensee shall have a change control process in 
+place to deal with non-identical replacement parts and deviations from the original specifications. 
+Procurement processes shall include requirements for qualified suppliers. The receipt and 
+acceptance procedures shall include a requirement to label, tag and quarantine items that are non-
+conforming. 
+Parts which have a limited lifetime shall be replaced accordingly. This is to ensure suitability for 
+the expected service when needed. Defective parts which are not suitable for reuse shall be 
+disposed of following a documented process to prevent reuse. 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+28 
+ 
+Guidance 
+Spare parts and tools management 
+As part of the processes and procedures to procure, receive, store, secure and issue spare parts, 
+tools and materials, licensees should demonstrate that the following criteria have been taken into 
+account: 
+1. procurement programs conform to applicable safety standards 
+2. issuing of materials, tools and spare parts is controlled 
+3. materials and tools are controlled to prevent misuse, abuse or damage 
+4. spare parts and tools are stored in the facilities: 
+• 
+with appropriate environmental conditions, such as temperature, humidity, etc. 
+• 
+taking foreign material exclusion (FME) into account 
+5. a process exists for controlling unused parts 
+6. parts that are not suitable for use are controlled and dispositioned, following a documented 
+process 
+7. a tool maintenance program exists 
+8. defective tools that are not suitable for use are disposed of following a documented process to 
+prevent reuse 
+Technical requirements for spare parts 
+When procuring spare parts, licensees should demonstrate that the following criteria have been 
+taken into account: 
+1. spare part technical requirements conform to applicable safety standards 
+2. a process is in place for maintenance personnel to deal with non-identical replacement parts 
+and deviations from the original specifications 
+Qualified suppliers for spare parts 
+The licensee should ensure that qualified suppliers are identified according to applicable safety 
+standards. 
+When replacing parts that have a limited lifetime, licensees should demonstrate that the following 
+criteria have been taken into account: 
+1. parts which have a limited lifetime are controlled 
+2. a process exists for ensuring preventive maintenance is performed as required on materials 
+and equipment in storage; these activities are documented and made available to the plant 
+personnel 
+3.7 
+Management assessment and program review 
+The licensee shall establish a continuous process for assessment, review and improvement of the 
+maintenance program to ensure that the maintenance strategy is effective, meets its objectives and 
+has been implemented in accordance with applicable industry codes and standards. 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+29 
+ 
+Whenever a maintenance program deficiency is identified, its significance shall be assessed and 
+where appropriate a cause determination shall be conducted and corrective actions taken. All 
+reviews and assessments shall be properly documented and recorded. 
+Feedback from the improvement process shall be incorporated into the maintenance training 
+program. 
+Guidance 
+Assessment process 
+When establishing a continuous process for assessment, review and improvement of the 
+maintenance program, licensees should demonstrate that the following criteria have been taken 
+into account: 
+1. goals are established for continuous improvement, and a strategic direction for improving 
+performance is established 
+2. the priorities for performance are clearly identified for maintenance personnel 
+3. managers are committed to improve station performance and to achieve station goals and 
+objectives 
+4. meaningful indicators are established and used to monitor and improve maintenance 
+performance; the results are measurable and are periodically evaluated, to determine 
+effectiveness 
+5. management expectations and station processes and performance are compared with industry 
+benchmarks, to improve performance and identify opportunities to achieve best practices 
+6. future resource needs, such as maintenance personnel, equipment, tools, spare parts and 
+information are identified and integrated into business plans 
+7. self-assessment and peer audits are used to determine the effectiveness of processes and work 
+activities and to identify improvement actions, and any follow-up action items are tracked to 
+completion and periodically reviewed for timeliness and effectiveness 
+8. maintenance managers routinely monitor, observe, and assess maintenance work activities 
+and plant conditions to maintain and reinforce high standards of performance 
+Deficiency assessment 
+Licensees are required to have a process in place for dispositioning maintenance program 
+deficiencies. Whenever a maintenance program deficiency is identified, licensees should 
+demonstrate that the following criteria have been taken into account: 
+1. for program improvement purposes, findings from such things as events, rework, material 
+defects and other symptoms of maintenance ineffectiveness are identified, assessed, 
+documented, and trended 
+2. corrective actions are prioritized, assigned, tracked and completed in a timely fashion, so as 
+to prevent recurrence 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+30 
+ 
+Feedback 
+When incorporating feedback from the improvement process, licensees should demonstrate that 
+the following criteria have been taken into account: 
+1. changes in objectives, responsibilities, practices and processes are clearly communicated to 
+affected personnel, and appropriate training is provided 
+2. maintenance managers motivate personnel to improve performance by encouraging feedback 
+for the training program 
+3. all program reviews and assessments are evaluated for inclusion in the training program 
+3.8 
+Record keeping 
+In addition to complying with the NSCA, regulations, and any other reporting and record-keeping 
+requirements (such as CNSC document REGDOC-3.1.1, Reporting Requirements for Nuclear 
+Power Plants [3]), the records and reports shall include sufficient information to provide 
+objective evidence that the maintenance program is being fully implemented and in accordance 
+with the quality assurance program. 
+The licensee shall document a description of repairs carried out, identifying the component that 
+failed, the cause of failure, the remedial action taken, and the state of the system after repairs. The 
+licensee shall periodically review the maintenance results for evidence of incipient or recurring 
+failures. 
+Guidance 
+Compliance 
+To comply with reporting and record-keeping requirements, licensees should clearly define which 
+records have to be kept, and these records should provide objective evidence that the maintenance 
+program is being effectively implemented and the applicable standards are met. The records 
+should include the following: 
+1. maintenance work records 
+2. maintenance program and procedure revision records 
+3. staff training and qualification records 
+4. instrument and equipment qualification records 
+5. maintenance performance evaluation reports 
+6. system health reports 
+7. performance indicators report 
+8. maintenance-related events report 
+9. maintenance-related inspection and audit reports 
+10. performance demonstration records 
+For more information on reporting and record-keeping, refer to REGDOC-3.1.1, Reporting 
+Requirements for Nuclear Power Plants [3]. 
+Repair records 
+To comply with reporting and record-keeping requirements for repairs, licensees should 
+demonstrate that the following criteria have been taken into account: 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+31 
+ 
+1. maintenance results are periodically reviewed for seeking evidence of incipient or recurring 
+failures 
+2. as-found and as-left conditions of the equipment and work performed are accurately 
+documented 
+3. maintenance records are kept and maintained to facilitate reviews and collection of evidence 
+of incipient or recurring failures 
+4. records from lessons learned, user feedback, maintenance history and operating experience 
+are retrievable, and stored in a format useful for maintenance reviews 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+32 
+ 
+Glossary 
+aging management 
+Engineering, operations, inspection, and maintenance actions to control, within acceptable limits, the 
+effects of physical aging and obsolescence of structures, systems or components. 
+as-found condition 
+The condition in which a system or a portion of system is found after a period of operation and before 
+maintenance (if necessary). 
+baseline criteria  
+A set of measurements (or metrics) representing the starting level of performance for a SSC. Baseline 
+criteria are derived from design requirements and are usually established during commissioning and after 
+replacement, overhaul or refurbishment. 
+calibration  
+The process to verify that with a known precision input, an instrument or channel gives the required 
+output. 
+condition monitoring  
+Continuous or periodic inspections, measurements or trending of the performance or physical 
+characteristics of SSCs to indicate current or future performance and the potential for failure. 
+corrective maintenance 
+Actions that, by means of repair, overhaul or replacement, restore the capability of a failed SSC to 
+perform its defined function within acceptance criteria. 
+failure  
+The inability or interruption of ability of an SSC to function within acceptance criteria. 
+function testing  
+Testing done to verify that a SSC is capable of performing its design function. 
+in-service inspection  
+A periodic non-destructive examination of nuclear power plant SSCs in order to provide information 
+about their current condition and damage, defect or degradation that might occur. 
+inspection  
+An examination, observation, measurement or test undertaken to assess an SSC’s condition. 
+licensing basis  
+Sets the boundary conditions for acceptable performance at a regulated facility or activity, and thus 
+establishes the basis for the CNSC’s compliance program in respect of that regulated facility or activity. 
+For a regulated facility or activity, the set of requirements and documents comprise: 
+(i) the regulatory requirements set out in the applicable laws and regulations 
+(ii) the conditions and safety and control measures described in the facility’s or activity’s licence and the 
+documents directly referenced in that licence 
+(iii) the safety and control measures described in the licence application and the documents needed to 
+support that licence application 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+33 
+ 
+maintenance  
+The organized activities, both administrative and technical, of keeping SSCs in good operating condition, 
+including both preventive and corrective (or repair) aspects. 
+modification 
+Any alteration or addition that is temporary or permanent, to an SSC’s physical configuration or design 
+requirements. 
+monitoring  
+See condition monitoring 
+nuclear power plant (NPP)  
+Any nuclear fission reactor installation that has been constructed to generate electricity on a commercial 
+scale and is a Class IA nuclear facility, as defined in the Class I Nuclear Facilities Regulations. 
+overhaul  
+The comprehensive inspection and restoration of a SSC in order to maintain it in good operating 
+condition or to restore its ability to function as per design. Includes such things as disassembly, cleaning, 
+lubricating, adjusting, parts inspection or replacement and testing. 
+parameter expectations  
+Measures of criteria against which the performance of a SSC can be judged. 
+performance testing  
+Testing done to determine whether a system meets specified acceptance criteria. 
+periodic maintenance  
+Form of preventive maintenance consisting of servicing, parts replacement, surveillance, or testing at 
+predetermined intervals of calendar time, operating time or number of cycles. Also known as time-based 
+maintenance. 
+permanent repair  
+Any activity that restores a failed or degraded SSC to function within its original design. 
+personnel qualification  
+A formal statement that an individual or team possesses the education, training and experience required to 
+meet specified job performance requirements. A formal statement of competence. 
+planned maintenance  
+Form of preventive maintenance consisting of refurbishment or replacement that is scheduled and 
+performed prior to unacceptable degradation of a SSC. 
+predictive maintenance  
+Form of preventive maintenance performed continuously or at intervals governed by observed condition 
+to monitor, diagnose or trend an SSC’s condition indicators. Results indicate current and future functional 
+ability or the nature of and schedule for planned maintenance. Also known as condition-based 
+maintenance. 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+34 
+ 
+preventive maintenance  
+Actions that detect, preclude or mitigate degradation of a functional SSC to sustain or extend its useful 
+life by controlling degradation and failures to an acceptable level. Preventive maintenance may be 
+periodic, planned or predictive. 
+repair  
+Any activity that allows a failed or degraded SSC to function as per original design. May be permanent or 
+temporary. 
+replacement  
+The substitution of an SSC with an identical SSC or an SSC that has been approved as equivalent through 
+an equivalency process. 
+safe operating envelope (SOE) 
+The set of limits and conditions within which the nuclear power plant must be operated to ensure 
+compliance with the safety analysis upon which the reactor operation is licensed and that can be 
+monitored by or on behalf of the operator and can be controlled by the operator. 
+SSCs important to safety 
+Structures, systems and components of the NPP associated with the initiation, prevention, detection or 
+mitigation of any failure sequence that have the most significant impact in reducing the possibility of 
+damage to fuel, associated release of radionuclide, or both structures, systems or components (SSCs) 
+structures, systems or components (SSCs) 
+A general term encompassing all of the elements (items) of a facility or activity that contribute to 
+protection and safety. Structures are the passive elements: buildings, vessels, shielding, etc. A system 
+comprises several components, assembled in such a way as to perform a specific (active) function. A 
+component is a discrete element of a system. Examples are wires, transistors, integrated circuits, motors, 
+relays, solenoids, pipes, fittings, pumps, tanks, and valves. 
+surveillance 
+Activities carried out to confirm compliance with the safe operating envelope (SOE), to verify correct 
+operational states and to detect any abnormal condition before it can impair the SSC’s ability to meet its 
+design intent. 
+temporary repair  
+A repair that temporarily enables a failed or degraded SSC to function within its original design until a 
+permanent repair or a replacement can be completed. 
+testing 
+The observation or measurement of condition or functional indicators under controlled conditions to 
+verify that the current performance of an SSC conforms to acceptance criteria. 
+thermography  
+A diagnostic technique, which uses a thermograph to record the heat produced by different components. 
+time-based preventive maintenance  
+Maintenance performed on equipment in accordance with a set time period (predefined) or given amount 
+of operation. 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+35 
+ 
+trained and qualified  
+An individual who has achieved the specified level of knowledge, skills, attitudes and experience required 
+to meet job performance requirements. 
+training  
+A combination of activities with the purpose of providing the knowledge, skills and attitudes to 
+individuals or teams in order to allow performance of activities in an effective and efficient manner and to 
+identified standards. 
+tribology 
+The systematic study of friction and its effects. 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+36 
+ 
+References 
+1. Canadian Nuclear Safety Commission (CNSC), REGDOC-2.6.1, Reliability Programs for 
+Nuclear Power Plants, Ottawa, Canada, 2017 
+2. CNSC, REGDOC-2.6.3, Aging Management, Ottawa, Canada, 2014 
+3. CNSC, REGDOC-3.1.1, Reporting Requirements for Nuclear Power Plants, version 2, 
+Ottawa, Canada, 2016 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+37 
+ 
+Additional Information 
+The following documents contain additional information that may be of interest to persons 
+involved in maintenance programs for nuclear power plants. 
+• 
+Canadian Standards Association (CSA), N286-12, Management system requirements for 
+nuclear facilities, 2012 
+• 
+International Atomic Energy Agency (IAEA), TECDOC-658, Safety Related Maintenance in 
+the Framework of the Reliability Centered Maintenance Concept, Vienna, 1992 
+• 
+IAEA, TECDOC-928, Good Practices for Cost Effective Maintenance of Nuclear Power 
+Plants, Vienna, 1997 
+• 
+IAEA, TECDOC-960, Regulatory Surveillance of Safety Related Maintenance at Nuclear 
+Power Plants, Vienna, 1997 
+• 
+IAEA, TECDOC-1383, Guidance for Optimizing Nuclear Power Plant Maintenance 
+Programmes, Vienna, 2003 
+• 
+IAEA, Safety Standards Series, No. NS-G-2.6, Maintenance, Surveillance and In-service 
+Inspection in Nuclear Power Plants, Vienna, 2002 
+• 
+IAEA, Safety Standards Series, No. NS-R-2, Safety of Nuclear Power Plants: Operation, 
+Vienna, 2000 
+• 
+IAEA, Safety Standards Series, No. 42, Safety Culture in the Maintenance of Nuclear Power 
+Plants, Vienna, 2005 
+• 
+IAEA, Safety Series, No. 110, Fundamental Safety Principles, Vienna, 2006 
+August 2017 
+REGDOC-2.6.2, Maintenance Programs for Nuclear Power Plants 
+ 
+ 
+38 
+ 
+CNSC Regulatory Document Series 
+Facilities and activities within the nuclear sector in Canada are regulated by the Canadian Nuclear Safety 
+Commission (CNSC). In addition to the Nuclear Safety and Control Act and associated regulations, these 
+facilities and activities may also be required to comply with other regulatory instruments such as 
+regulatory documents or standards. 
+Effective April 2013, the CNSC’s catalogue of existing and planned regulatory documents has been 
+organized under three key categories and twenty-five series, as set out below. Regulatory documents 
+produced by the CNSC fall under one of the following series: 
+1.0  
+Regulated facilities and activities 
+Series 1.1  
+Reactor facilities 
+1.2  
+Class IB facilities 
+1.3  
+Uranium mines and mills 
+1.4  
+Class II facilities 
+1.5  
+Certification of prescribed equipment 
+1.6  
+Nuclear substances and radiation devices 
+2.0  
+Safety and control areas 
+Series 2.1  
+Management system 
+2.2  
+Human performance management 
+2.3  
+Operating performance 
+2.4  
+Safety analysis 
+2.5  
+Physical design 
+2.6  
+Fitness for service 
+2.7  
+Radiation protection 
+2.8  
+Conventional health and safety 
+2.9  
+Environmental protection 
+2.10 
+Emergency management and fire protection 
+2.11 
+Waste management 
+2.12 
+Security 
+2.13 
+Safeguards and non-proliferation 
+2.14 
+Packaging and transport 
+3.0  
+Other regulatory areas  
+Series 3.1  
+Reporting requirements 
+3.2  
+Public and Aboriginal engagement 
+3.3  
+Financial guarantees 
+3.4  
+Commission proceedings 
+3.5  
+CNSC processes and practices 
+3.6  
+Glossary of CNSC terminology 
+Note: The regulatory document series may be adjusted periodically by the CNSC. Each regulatory 
+document series listed above may contain multiple regulatory documents. For the latest list of regulatory 
+documents, visit the CNSC’s website. 
+ 
