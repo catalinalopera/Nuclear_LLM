@@ -1,0 +1,1 @@
+tensorboard --logdir=C:\Users\engba\Desktop\logs
